@@ -1,33 +1,37 @@
 ﻿# V430 BUFF-first Roadmap
 
-Timestamp: 20260513_193734
+Date: 20260513_195630
 
-This folder is the visible GitHub milestone folder for the V430 BUFF-first roadmap.
+## Why BUFF-first
 
-Current PYCSON status:
+BUFF is highly relevant to CS2 skin-market research, but PYCSON should not start live BUFF scraping immediately.
 
-- V429 big-loop / refined UI closure completed.
-- V430 readonly local / multi-source price pipeline started.
-- V430A2 fixed inventory passed.
-- Next technical stage: V430B_BUFF_FIRST_LOCAL_SOURCE_SCHEMA_REVIEW_OR_HOLD.
+The first step is local and readonly:
 
-Meaning:
+- existing local files
+- BUFF-related source filtering
+- schema review
+- limited sample review
+- source role classification
+- raw cache / clean price pool candidate decision
 
-PYCSON is not starting live BUFF scraping yet. The next step is local BUFF-related source schema review:
+## V430B should do
 
-1. Read V430A2 local inventory.
-2. Filter BUFF / price / cache / clean source candidates.
-3. Inspect headers and limited sample rows.
-4. Classify raw cache / clean price pool / mapping / report-only / reject roles.
-5. Keep all trading gates closed.
+- read V430A2 inventory, strong shortlist, and known clean local price hints
+- filter BUFF / price / market / clean / raw / cache related files
+- inspect file headers
+- inspect limited sample rows
+- classify source roles
+- keep all trading gates closed
 
-Still forbidden:
+## V430B must not do
 
-- No market fetch
-- No Steam fetch
-- No BUFF fetch
-- No DATA_BRIDGE write
-- No active payload write
-- No UI patch
-- No BUY_NOW
-- No TRADEUP_NOW
+- no BUFF fetch
+- no Steam fetch
+- no market fetch
+- no DATA_BRIDGE write
+- no active payload write
+- no UI patch
+- no official EV
+- no BUY_NOW
+- no TRADEUP_NOW

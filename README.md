@@ -1,34 +1,34 @@
-# PYCSON Footprints
+﻿# PYCSON Footprints
 
-Private development footprints and architecture notes for the PYCSON project.
+Private engineering footprints and architecture notes for the PYCSON project.
+
+PYCSON is an AI-assisted CS2 / CSGO skin market research and decision-support system.
 
 ## Current Stage
 
-PYCSON is currently in a major system-closure phase focused on:
+PYCSON has completed its first major internal big-loop closure: V429.
 
-- readonly architecture verification
-- pipeline stabilization
-- risk-control structure
-- audit-chain validation
-- modular UI integration
-- EV/risk research workflow
+The project has now entered the V430 readonly multi-source / local price pipeline stage.
 
-## Development Principles
+Current direction:
 
-- NO AUTO TRADE
-- NO AUTO ORDER
-- HUMAN-IN-THE-LOOP
-- AUDITABLE SYSTEM DESIGN
-- READONLY SAFETY FIRST
+- V430B_BUFF_FIRST_LOCAL_SOURCE_SCHEMA_REVIEW_OR_HOLD
 
 ## Repository Purpose
 
-This repository is used as a long-term engineering footprint archive for:
+This repository records selected non-sensitive engineering footprints for PYCSON.
 
-- architecture evolution
-- development milestones
-- system notes
-- non-core public-safe records
-- staged engineering progress
+It is not the full source-code repository, not a raw market-data repository, and not a trading-execution repository.
 
-Core proprietary logic and sensitive internal systems are intentionally excluded.
+## Safety Policy
+
+- NO AUTO TRADE
+- NO AUTO ORDER
+- NO BUY_NOW
+- NO TRADEUP_NOW
+- NO REAL EXECUTION
+- NO MARKET FETCH unless explicitly authorized
+- NO DATA_BRIDGE write unless gated
+- NO UI patch unless staged, reviewed, authorized, accepted, and frozen
+
+Core principle: Paper EV is not executable profit. WATCH / REVIEW is not BUY_NOW.
