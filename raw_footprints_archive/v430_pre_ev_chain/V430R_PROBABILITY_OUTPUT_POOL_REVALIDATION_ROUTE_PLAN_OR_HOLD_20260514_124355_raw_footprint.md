@@ -1,0 +1,33 @@
+﻿# V430R_PROBABILITY_OUTPUT_POOL_REVALIDATION_ROUTE_PLAN_OR_HOLD Raw Footprint
+
+STATUS: PASS_V430R_PROBABILITY_OUTPUT_POOL_REVALIDATION_ROUTE_PLAN_READY_NO_EV
+DECISION: READY_FOR_V430S_PRIOR_PROBABILITY_OUTPUT_POOL_SOURCE_REVIEW_OR_HOLD
+
+Local out dir:
+C:\Users\sunpu\Desktop\pycson\611_V430R_PROBABILITY_OUTPUT_POOL_REVALIDATION_ROUTE_PLAN_OR_HOLD\V430R_PROBABILITY_OUTPUT_POOL_REVALIDATION_ROUTE_PLAN_OR_HOLD_20260514_124355
+
+Local latest JSON:
+C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\v430r_probability_output_pool_revalidation_route_plan_or_hold_latest.json
+
+Local report:
+C:\Users\sunpu\Desktop\pycson\611_V430R_PROBABILITY_OUTPUT_POOL_REVALIDATION_ROUTE_PLAN_OR_HOLD\V430R_PROBABILITY_OUTPUT_POOL_REVALIDATION_ROUTE_PLAN_OR_HOLD_20260514_124355\09_REPORT\v430r_probability_output_pool_revalidation_route_plan_report.json
+
+Route plan:
+C:\Users\sunpu\Desktop\pycson\611_V430R_PROBABILITY_OUTPUT_POOL_REVALIDATION_ROUTE_PLAN_OR_HOLD\V430R_PROBABILITY_OUTPUT_POOL_REVALIDATION_ROUTE_PLAN_OR_HOLD_20260514_124355\03_PROBABILITY_OUTPUT_POOL_ROUTE_PLAN\v430r_probability_output_pool_revalidation_route_plan_rows.csv
+
+Prior source index candidate scan:
+C:\Users\sunpu\Desktop\pycson\611_V430R_PROBABILITY_OUTPUT_POOL_REVALIDATION_ROUTE_PLAN_OR_HOLD\V430R_PROBABILITY_OUTPUT_POOL_REVALIDATION_ROUTE_PLAN_OR_HOLD_20260514_124355\02_PRIOR_SOURCE_INDEX_SCAN\v430r_prior_source_index_candidate_rows.csv
+
+Safety:
+- no official EV
+- no DATA_BRIDGE write
+- no active payload write
+- no UI patch
+- no fetch
+- no BUY_NOW / TRADEUP_NOW
+
+Counts:
+- blueprint_rows: 4
+- prior_source_candidate_rows: 80
+- route_plan_rows: 4
+- can_proceed_v430s_prior_source_review: True
