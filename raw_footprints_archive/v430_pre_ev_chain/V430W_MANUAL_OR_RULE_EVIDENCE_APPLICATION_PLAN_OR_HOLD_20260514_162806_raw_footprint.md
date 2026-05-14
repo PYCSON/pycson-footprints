@@ -1,0 +1,59 @@
+﻿# V430W_MANUAL_OR_RULE_EVIDENCE_APPLICATION_PLAN_OR_HOLD Raw Footprint
+
+STATUS: PASS_HOLD_V430W_MANUAL_OR_RULE_EVIDENCE_APPLICATION_PLAN_READY_NO_EV
+DECISION: READY_FOR_V430X_MANUAL_OR_RULE_EVIDENCE_APPLICATION_REVIEW_OR_HOLD
+
+Anchor:
+V430V_MANUAL_PROBABILITY_OUTPUT_POOL_EVIDENCE_FILL_OR_RULE_REPAIR_OR_HOLD
+
+Anchor latest:
+C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\v430v_manual_probability_output_pool_evidence_fill_or_rule_repair_or_hold_latest.json
+
+Local out dir:
+C:\Users\sunpu\Desktop\pycson\616_V430W_MANUAL_OR_RULE_EVIDENCE_APPLICATION_PLAN_OR_HOLD\V430W_MANUAL_OR_RULE_EVIDENCE_APPLICATION_PLAN_OR_HOLD_20260514_162806
+
+Manual fill application plan:
+C:\Users\sunpu\Desktop\pycson\616_V430W_MANUAL_OR_RULE_EVIDENCE_APPLICATION_PLAN_OR_HOLD\V430W_MANUAL_OR_RULE_EVIDENCE_APPLICATION_PLAN_OR_HOLD_20260514_162806\01_MANUAL_FILL_APPLICATION_PLAN\v430w_manual_fill_application_plan_rows.csv
+
+Rule repair application plan:
+C:\Users\sunpu\Desktop\pycson\616_V430W_MANUAL_OR_RULE_EVIDENCE_APPLICATION_PLAN_OR_HOLD\V430W_MANUAL_OR_RULE_EVIDENCE_APPLICATION_PLAN_OR_HOLD_20260514_162806\02_RULE_REPAIR_APPLICATION_PLAN\v430w_rule_repair_application_plan_rows.csv
+
+Unified application plan:
+C:\Users\sunpu\Desktop\pycson\616_V430W_MANUAL_OR_RULE_EVIDENCE_APPLICATION_PLAN_OR_HOLD\V430W_MANUAL_OR_RULE_EVIDENCE_APPLICATION_PLAN_OR_HOLD_20260514_162806\03_UNIFIED_APPLICATION_PLAN\v430w_unified_evidence_application_plan_rows.csv
+
+Forbidden actions:
+C:\Users\sunpu\Desktop\pycson\616_V430W_MANUAL_OR_RULE_EVIDENCE_APPLICATION_PLAN_OR_HOLD\V430W_MANUAL_OR_RULE_EVIDENCE_APPLICATION_PLAN_OR_HOLD_20260514_162806\04_FORBIDDEN_ACTIONS\v430w_forbidden_actions_rows.csv
+
+Decision gate:
+C:\Users\sunpu\Desktop\pycson\616_V430W_MANUAL_OR_RULE_EVIDENCE_APPLICATION_PLAN_OR_HOLD\V430W_MANUAL_OR_RULE_EVIDENCE_APPLICATION_PLAN_OR_HOLD_20260514_162806\05_READY_OR_HOLD\v430w_decision_gate_summary.csv
+
+Report:
+C:\Users\sunpu\Desktop\pycson\616_V430W_MANUAL_OR_RULE_EVIDENCE_APPLICATION_PLAN_OR_HOLD\V430W_MANUAL_OR_RULE_EVIDENCE_APPLICATION_PLAN_OR_HOLD_20260514_162806\09_REPORT\v430w_manual_or_rule_evidence_application_plan_report.json
+
+Latest JSON:
+C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\v430w_manual_or_rule_evidence_application_plan_or_hold_latest.json
+
+Manual fill application plan rows:
+80
+
+Rule repair application plan rows:
+80
+
+Unified application plan rows:
+80
+
+Still missing evidence rows:
+80
+
+Safety:
+- no official EV
+- no DATA_BRIDGE write
+- no active payload write
+- no UI patch
+- no fetch
+- no BUY_NOW / TRADEUP_NOW
+- no trade
+- no real evidence application
+
+Next safe step:
+V430X_MANUAL_OR_RULE_EVIDENCE_APPLICATION_REVIEW_OR_HOLD
