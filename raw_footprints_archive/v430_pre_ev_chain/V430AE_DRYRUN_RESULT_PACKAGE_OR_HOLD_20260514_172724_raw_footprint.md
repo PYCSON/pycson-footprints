@@ -1,0 +1,17 @@
+﻿# V430AE_DRYRUN_RESULT_PACKAGE_OR_HOLD Raw Footprint
+
+STATUS: PASS_HOLD_V430AE_DRYRUN_RESULT_PACKAGE_READY_NO_APPLICATION_NO_EV
+DECISION: READY_FOR_V430AF_DRYRUN_RESULT_PACKAGE_REVIEW_OR_HOLD
+Anchor: V430AD_DRYRUN_EXECUTION_REVIEW_OR_HOLD
+Anchor latest: C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\v430ad_dryrun_execution_review_or_hold_latest.json
+Local out dir: C:\Users\sunpu\Desktop\pycson\625_V430AE_DRYRUN_RESULT_PACKAGE_OR_HOLD\V430AE_DRYRUN_RESULT_PACKAGE_OR_HOLD_20260514_172724
+Dryrun result package: C:\Users\sunpu\Desktop\pycson\625_V430AE_DRYRUN_RESULT_PACKAGE_OR_HOLD\V430AE_DRYRUN_RESULT_PACKAGE_OR_HOLD_20260514_172724\01_DRYRUN_RESULT_PACKAGE\v430ae_dryrun_result_package_rows.csv
+Dryrun result index: C:\Users\sunpu\Desktop\pycson\625_V430AE_DRYRUN_RESULT_PACKAGE_OR_HOLD\V430AE_DRYRUN_RESULT_PACKAGE_OR_HOLD_20260514_172724\02_DRYRUN_RESULT_INDEX\v430ae_dryrun_result_index_rows.csv
+Application blocker package: C:\Users\sunpu\Desktop\pycson\625_V430AE_DRYRUN_RESULT_PACKAGE_OR_HOLD\V430AE_DRYRUN_RESULT_PACKAGE_OR_HOLD_20260514_172724\03_APPLICATION_BLOCKER_PACKAGE\v430ae_application_blocker_package_rows.csv
+Report: C:\Users\sunpu\Desktop\pycson\625_V430AE_DRYRUN_RESULT_PACKAGE_OR_HOLD\V430AE_DRYRUN_RESULT_PACKAGE_OR_HOLD_20260514_172724\09_REPORT\v430ae_dryrun_result_package_report.json
+Latest JSON: C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\v430ae_dryrun_result_package_or_hold_latest.json
+Dryrun result package rows: 80
+Dryrun result index rows: 80
+Application blocker package rows: 80
+Safety: no EV; no DATA_BRIDGE write; no active payload write; no UI patch; no fetch; no BUY_NOW / TRADEUP_NOW; no trade; no real evidence application; no core system write
+Next safe step: V430AF_DRYRUN_RESULT_PACKAGE_REVIEW_OR_HOLD
