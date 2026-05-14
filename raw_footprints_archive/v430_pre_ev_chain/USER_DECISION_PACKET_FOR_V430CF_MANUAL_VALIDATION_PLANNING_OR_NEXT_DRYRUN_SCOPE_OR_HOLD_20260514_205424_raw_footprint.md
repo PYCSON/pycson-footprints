@@ -1,0 +1,16 @@
+﻿# Raw Footprint: USER_DECISION_PACKET_FOR_V430CF_MANUAL_VALIDATION_PLANNING_OR_NEXT_DRYRUN_SCOPE_OR_HOLD
+
+- Status: PASS_HOLD_USER_DECISION_PACKET_READY_MANUAL_VALIDATION_PLANNING_SCOPE_REQUIRED_NO_EV
+- Decision: STOP_USER_APPROVAL_REQUIRED_FOR_MANUAL_VALIDATION_PLANNING_OR_NEXT_DRYRUN_SCOPE
+- Latest JSON: C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\user_decision_packet_for_v430cf_manual_validation_planning_or_next_dryrun_scope_or_hold_latest.json
+- Next safe step: USER_APPROVAL_REQUIRED_FOR_MANUAL_VALIDATION_PLANNING_OR_NEXT_DRYRUN_SCOPE
+- Executed script path: C:\Users\sunpu\Desktop\pycson\688_USER_DECISION_PACKET_FOR_V430CF_MANUAL_VALIDATION_PLANNING_OR_NEXT_DRYRUN_SCOPE_OR_HOLD\USER_DECISION_PACKET_FOR_V430CF_MANUAL_VALIDATION_PLANNING_OR_NEXT_DRYRUN_SCOPE_OR_HOLD_20260514_205424\00_EXECUTED_SCRIPT\RUN_USER_DECISION_PACKET_FOR_V430CF_MANUAL_VALIDATION_PLANNING_OR_NEXT_DRYRUN_SCOPE_OR_HOLD_20260514_205424.ps1
+- Executed script sha256: 6021506CEC70042A6CE1897815C0061A00526BE7080C2530B671D912FEA0C330
+
+Boundary principles:
+- candidate signal != accepted evidence
+- accepted evidence != validated evidence
+- validated evidence != official EV
+- dryrun mapping != evidence application
+
+Safety: no fake evidence, no accepted evidence, no validated evidence, no real application, no EV, no bridge, no active payload, no UI, no fetch, no trade, no core write, no full project recursive scan.
