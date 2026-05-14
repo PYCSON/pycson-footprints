@@ -1,0 +1,59 @@
+﻿# V430X_MANUAL_OR_RULE_EVIDENCE_APPLICATION_REVIEW_OR_HOLD Raw Footprint
+
+STATUS: PASS_HOLD_V430X_APPLICATION_REVIEW_STRUCTURED_STILL_MISSING_EVIDENCE_NO_EV
+DECISION: READY_FOR_V430Y_PRE_APPLICATION_EVIDENCE_PACKAGE_OR_HOLD
+
+Anchor:
+V430W_MANUAL_OR_RULE_EVIDENCE_APPLICATION_PLAN_OR_HOLD
+
+Anchor latest:
+C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\v430w_manual_or_rule_evidence_application_plan_or_hold_latest.json
+
+Local out dir:
+C:\Users\sunpu\Desktop\pycson\617_V430X_MANUAL_OR_RULE_EVIDENCE_APPLICATION_REVIEW_OR_HOLD\V430X_MANUAL_OR_RULE_EVIDENCE_APPLICATION_REVIEW_OR_HOLD_20260514_163649
+
+Application plan review:
+C:\Users\sunpu\Desktop\pycson\617_V430X_MANUAL_OR_RULE_EVIDENCE_APPLICATION_REVIEW_OR_HOLD\V430X_MANUAL_OR_RULE_EVIDENCE_APPLICATION_REVIEW_OR_HOLD_20260514_163649\01_APPLICATION_PLAN_REVIEW\v430x_application_plan_review_rows.csv
+
+Manual fill application review:
+C:\Users\sunpu\Desktop\pycson\617_V430X_MANUAL_OR_RULE_EVIDENCE_APPLICATION_REVIEW_OR_HOLD\V430X_MANUAL_OR_RULE_EVIDENCE_APPLICATION_REVIEW_OR_HOLD_20260514_163649\02_MANUAL_FILL_APPLICATION_REVIEW\v430x_manual_fill_application_review_rows.csv
+
+Rule repair application review:
+C:\Users\sunpu\Desktop\pycson\617_V430X_MANUAL_OR_RULE_EVIDENCE_APPLICATION_REVIEW_OR_HOLD\V430X_MANUAL_OR_RULE_EVIDENCE_APPLICATION_REVIEW_OR_HOLD_20260514_163649\03_RULE_REPAIR_APPLICATION_REVIEW\v430x_rule_repair_application_review_rows.csv
+
+Still missing evidence review:
+C:\Users\sunpu\Desktop\pycson\617_V430X_MANUAL_OR_RULE_EVIDENCE_APPLICATION_REVIEW_OR_HOLD\V430X_MANUAL_OR_RULE_EVIDENCE_APPLICATION_REVIEW_OR_HOLD_20260514_163649\04_STILL_MISSING_EVIDENCE_REVIEW\v430x_still_missing_evidence_review_rows.csv
+
+Decision gate:
+C:\Users\sunpu\Desktop\pycson\617_V430X_MANUAL_OR_RULE_EVIDENCE_APPLICATION_REVIEW_OR_HOLD\V430X_MANUAL_OR_RULE_EVIDENCE_APPLICATION_REVIEW_OR_HOLD_20260514_163649\05_READY_OR_HOLD\v430x_decision_gate_summary.csv
+
+Report:
+C:\Users\sunpu\Desktop\pycson\617_V430X_MANUAL_OR_RULE_EVIDENCE_APPLICATION_REVIEW_OR_HOLD\V430X_MANUAL_OR_RULE_EVIDENCE_APPLICATION_REVIEW_OR_HOLD_20260514_163649\09_REPORT\v430x_manual_or_rule_evidence_application_review_report.json
+
+Latest JSON:
+C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\v430x_manual_or_rule_evidence_application_review_or_hold_latest.json
+
+Application review rows:
+80
+
+Manual fill review rows:
+80
+
+Rule repair review rows:
+80
+
+Still missing evidence rows:
+80
+
+Safety:
+- no official EV
+- no DATA_BRIDGE write
+- no active payload write
+- no UI patch
+- no fetch
+- no BUY_NOW / TRADEUP_NOW
+- no trade
+- no real evidence application
+
+Next safe step:
+V430Y_PRE_APPLICATION_EVIDENCE_PACKAGE_OR_HOLD
