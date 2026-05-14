@@ -1,0 +1,16 @@
+﻿# USER DECISION PACKET V430AF Git Summary
+
+- Generated USER_DECISION_PACKET because V430AF latest triggers STOP RULES
+- stop reason: USER_APPROVAL_REQUIRED_FOR_REAL_EVIDENCE_APPLICATION_OR_NEXT_DRYRUN_PLAN
+- stages completed after updated mode: 0
+- executed_script_path: C:\Users\sunpu\Desktop\pycson\627_USER_DECISION_PACKET_FOR_V430AF_STOP_RULES_OR_HOLD\USER_DECISION_PACKET_FOR_V430AF_STOP_RULES_OR_HOLD_20260514_175159\00_EXECUTED_SCRIPT\RUN_USER_DECISION_PACKET_FOR_V430AF_STOP_RULES_OR_HOLD_20260514_175159.ps1
+- executed_script_sha256: DF8575A2D07ACCB4AEDDEF515C8832363F107186B31F8D7A276CEB0073398766
+- no real evidence application
+- no core system write
+- no EV
+- no DATA_BRIDGE write
+- no active payload write
+- no UI patch
+- no fetch
+- no BUY_NOW / TRADEUP_NOW
+- no trade
