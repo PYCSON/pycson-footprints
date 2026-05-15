@@ -1,0 +1,10 @@
+# V430FJ Raw Footprint
+
+Stage: V430FJ_EXPLICIT_ACCEPTANCE_GATE_OR_HOLD
+Status: PASS_HOLD_V430FJ_ACCEPTANCE_GATE_HELD_PROOF_INCOMPLETE_NO_EV
+Decision: HOLD_FOR_QUOTE_LEVEL_PROOF_BEFORE_ACCEPTED_EVIDENCE
+Latest: C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\v430fj_explicit_acceptance_gate_or_hold_latest.json
+Report: C:\Users\sunpu\Desktop\pycson\785_V430FJ_EXPLICIT_ACCEPTANCE_GATE_OR_HOLD\V430FJ_EXPLICIT_ACCEPTANCE_GATE_OR_HOLD_20260515_204942\09_REPORT\v430fj_explicit_acceptance_gate_or_hold_report.json
+No-write proof: C:\Users\sunpu\Desktop\pycson\785_V430FJ_EXPLICIT_ACCEPTANCE_GATE_OR_HOLD\V430FJ_EXPLICIT_ACCEPTANCE_GATE_OR_HOLD_20260515_204942\08_NO_WRITE_PROOF\v430fj_no_write_proof.txt
+
+Safety: accepted evidence False.ToLower(); validated evidence false; fetch false; official EV false; DATA_BRIDGE write false; active payload write false; UI patch false.
