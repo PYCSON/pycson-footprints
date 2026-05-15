@@ -1,0 +1,10 @@
+# V430FK Raw Footprint
+
+Stage: V430FK_QUOTE_LEVEL_PROOF_PACKAGE_OR_HOLD
+Status: PASS_HOLD_V430FK_QUOTE_LEVEL_PROOF_PACKAGE_READY_NO_EV
+Decision: READY_FOR_V430FL_QUOTE_LEVEL_PROOF_PACKAGE_REVIEW_OR_HOLD
+Latest: C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\v430fk_quote_level_proof_package_or_hold_latest.json
+Report: C:\Users\sunpu\Desktop\pycson\786_V430FK_QUOTE_LEVEL_PROOF_PACKAGE_OR_HOLD\V430FK_QUOTE_LEVEL_PROOF_PACKAGE_OR_HOLD_20260516_071259\10_REPORT\v430fk_quote_level_proof_package_or_hold_report.json
+No-write proof: C:\Users\sunpu\Desktop\pycson\786_V430FK_QUOTE_LEVEL_PROOF_PACKAGE_OR_HOLD\V430FK_QUOTE_LEVEL_PROOF_PACKAGE_OR_HOLD_20260516_071259\09_NO_WRITE_PROOF\v430fk_no_write_proof.txt
+
+Safety: accepted evidence false; validated evidence false; fetch false; official EV false; DATA_BRIDGE write false; active payload write false; UI patch false.
