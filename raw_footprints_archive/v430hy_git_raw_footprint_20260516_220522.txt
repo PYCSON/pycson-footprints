@@ -1,0 +1,6 @@
+﻿V430HY git raw footprint
+Timestamp: 20260516_220522
+Git repo: C:\Users\sunpu\Desktop\pycson\00_GITHUB_FOOTPRINTS\pycson-footprints
+Intended commit message: V430HY EV precheck risk repair user confirmation packet no EV
+Force push executed: false
+Git clean executed: false
