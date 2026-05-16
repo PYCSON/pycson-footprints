@@ -48,10 +48,11 @@
     "git_raw_footprint":  "C:\\Users\\sunpu\\Desktop\\pycson\\863_V430IG_REQUIRED_EV_FIELD_SOURCE_REPAIR_PLAN_REVIEW_OR_HOLD\\V430IG_REQUIRED_EV_FIELD_SOURCE_REPAIR_PLAN_REVIEW_OR_HOLD_20260517_072823\\08_GIT_FOOTPRINT\\v430ig_git_raw_footprint.txt",
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\863_V430IG_REQUIRED_EV_FIELD_SOURCE_REPAIR_PLAN_REVIEW_OR_HOLD\\V430IG_REQUIRED_EV_FIELD_SOURCE_REPAIR_PLAN_REVIEW_OR_HOLD_20260517_072823\\08_GIT_FOOTPRINT\\v430ig_git_summary.md",
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\863_V430IG_REQUIRED_EV_FIELD_SOURCE_REPAIR_PLAN_REVIEW_OR_HOLD\\V430IG_REQUIRED_EV_FIELD_SOURCE_REPAIR_PLAN_REVIEW_OR_HOLD_20260517_072823\\00_EXECUTED_SCRIPT\\RUN_V430IG_REQUIRED_EV_FIELD_SOURCE_REPAIR_PLAN_REVIEW_OR_HOLD_20260517_072823.ps1",
     "executed_script_sha256":  "7505E227FF76C88CDEF61538D1C845B317737E0A3B2FB97B411B3AB0BFECF980",
-    "next_safe_step":  "V430IH_LOCAL_REPAIR_DRYRUN_AND_USER_SOURCE_INPUT_PACKET_OR_HOLD"
+    "next_safe_step":  "V430IH_LOCAL_REPAIR_DRYRUN_AND_USER_SOURCE_INPUT_PACKET_OR_HOLD",
+    "git_commit_hash":  "e88a1ef"
 }
