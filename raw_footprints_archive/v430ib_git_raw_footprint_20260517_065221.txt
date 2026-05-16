@@ -1,0 +1,6 @@
+﻿V430IB git raw footprint
+Timestamp: 20260517_065221
+Git repo: C:\Users\sunpu\Desktop\pycson\00_GITHUB_FOOTPRINTS\pycson-footprints
+Intended commit message: V430IB Route B official EV authorization packet decision no EV
+Force push executed: false
+Git clean executed: false
