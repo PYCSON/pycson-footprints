@@ -50,10 +50,11 @@
     "git_raw_footprint":  "C:\\Users\\sunpu\\Desktop\\pycson\\867_V430IK_LOCAL_REPAIR_APPLY_OR_HOLD\\V430IK_LOCAL_REPAIR_APPLY_OR_HOLD_20260517_075821\\08_GIT_FOOTPRINT\\v430ik_git_raw_footprint.txt",
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\867_V430IK_LOCAL_REPAIR_APPLY_OR_HOLD\\V430IK_LOCAL_REPAIR_APPLY_OR_HOLD_20260517_075821\\08_GIT_FOOTPRINT\\v430ik_git_summary.md",
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\867_V430IK_LOCAL_REPAIR_APPLY_OR_HOLD\\V430IK_LOCAL_REPAIR_APPLY_OR_HOLD_20260517_075821\\00_EXECUTED_SCRIPT\\RUN_V430IK_LOCAL_REPAIR_APPLY_OR_HOLD_20260517_075821.ps1",
     "executed_script_sha256":  "6CE7291BA7F0D1714E5BB9517300DCC55135DCE2F94AD58F1DF509991E99EBAA",
-    "next_safe_step":  "V430IL_LOCAL_REPAIR_APPLY_REVIEW_AND_USER_SOURCE_INPUT_WAIT_OR_HOLD"
+    "next_safe_step":  "V430IL_LOCAL_REPAIR_APPLY_REVIEW_AND_USER_SOURCE_INPUT_WAIT_OR_HOLD",
+    "git_commit_hash":  "b876f18"
 }
