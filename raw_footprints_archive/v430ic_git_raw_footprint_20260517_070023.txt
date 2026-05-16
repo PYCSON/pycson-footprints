@@ -1,0 +1,8 @@
+﻿V430IC git raw footprint
+Timestamp: 20260517_070023
+Git repo: C:\Users\sunpu\Desktop\pycson\00_GITHUB_FOOTPRINTS\pycson-footprints
+Intended commit message: V430IC Route B official EV authorization packet no EV
+Git push attempted: false
+Git push failure note: not_attempted_due_previous_safety_review_external_export_risk
+Force push executed: false
+Git clean executed: false
