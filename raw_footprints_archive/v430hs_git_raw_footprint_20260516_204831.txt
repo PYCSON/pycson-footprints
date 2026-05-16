@@ -1,0 +1,6 @@
+﻿V430HS git raw footprint
+Timestamp: 20260516_204831
+Git repo: C:\Users\sunpu\Desktop\pycson\00_GITHUB_FOOTPRINTS\pycson-footprints
+Intended commit message: V430HS Route B final EV input fill authorization packet no fetch no EV no final fill
+Force push executed: false
+Git clean executed: false
