@@ -47,10 +47,11 @@
     "git_raw_footprint":  "C:\\Users\\sunpu\\Desktop\\pycson\\864_V430IH_LOCAL_REPAIR_DRYRUN_AND_USER_SOURCE_INPUT_PACKET_OR_HOLD\\V430IH_LOCAL_REPAIR_DRYRUN_AND_USER_SOURCE_INPUT_PACKET_OR_HOLD_20260517_073701\\08_GIT_FOOTPRINT\\v430ih_git_raw_footprint.txt",
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\864_V430IH_LOCAL_REPAIR_DRYRUN_AND_USER_SOURCE_INPUT_PACKET_OR_HOLD\\V430IH_LOCAL_REPAIR_DRYRUN_AND_USER_SOURCE_INPUT_PACKET_OR_HOLD_20260517_073701\\08_GIT_FOOTPRINT\\v430ih_git_summary.md",
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\864_V430IH_LOCAL_REPAIR_DRYRUN_AND_USER_SOURCE_INPUT_PACKET_OR_HOLD\\V430IH_LOCAL_REPAIR_DRYRUN_AND_USER_SOURCE_INPUT_PACKET_OR_HOLD_20260517_073701\\00_EXECUTED_SCRIPT\\RUN_V430IH_LOCAL_REPAIR_DRYRUN_AND_USER_SOURCE_INPUT_PACKET_OR_HOLD_20260517_073701.ps1",
     "executed_script_sha256":  "A3A44BCDAADC6A35F5352BDD1EE488726BAF5A5AF4A652184162C9BCA09B9EA3",
-    "next_safe_step":  "V430II_LOCAL_REPAIR_DRYRUN_REVIEW_AND_USER_SOURCE_INPUT_WAIT_OR_HOLD"
+    "next_safe_step":  "V430II_LOCAL_REPAIR_DRYRUN_REVIEW_AND_USER_SOURCE_INPUT_WAIT_OR_HOLD",
+    "git_commit_hash":  "b9814dd"
 }
