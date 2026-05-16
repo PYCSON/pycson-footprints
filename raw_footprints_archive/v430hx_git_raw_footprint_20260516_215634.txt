@@ -1,0 +1,6 @@
+﻿V430HX git raw footprint
+Timestamp: 20260516_215634
+Git repo: C:\Users\sunpu\Desktop\pycson\00_GITHUB_FOOTPRINTS\pycson-footprints
+Intended commit message: V430HX Route B EV precheck blocker risk review no official EV
+Force push executed: false
+Git clean executed: false
