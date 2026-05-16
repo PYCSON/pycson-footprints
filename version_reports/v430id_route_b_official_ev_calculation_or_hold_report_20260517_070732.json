@@ -55,7 +55,10 @@
     "git_raw_footprint":  "C:\\Users\\sunpu\\Desktop\\pycson\\860_V430ID_ROUTE_B_OFFICIAL_EV_CALCULATION_OR_HOLD\\V430ID_ROUTE_B_OFFICIAL_EV_CALCULATION_OR_HOLD_20260517_070732\\09_GIT_FOOTPRINT\\v430id_git_raw_footprint.txt",
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\860_V430ID_ROUTE_B_OFFICIAL_EV_CALCULATION_OR_HOLD\\V430ID_ROUTE_B_OFFICIAL_EV_CALCULATION_OR_HOLD_20260517_070732\\09_GIT_FOOTPRINT\\v430id_git_summary.md",
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
-    "next_safe_step":  "HOLD_FOR_OFFICIAL_EV_INPUT_OR_FORMULA_REPAIR"
+    "next_safe_step":  "HOLD_FOR_OFFICIAL_EV_INPUT_OR_FORMULA_REPAIR",
+    "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\860_V430ID_ROUTE_B_OFFICIAL_EV_CALCULATION_OR_HOLD\\V430ID_ROUTE_B_OFFICIAL_EV_CALCULATION_OR_HOLD_20260517_070732\\00_EXECUTED_SCRIPT\\RUN_V430ID_ROUTE_B_OFFICIAL_EV_CALCULATION_OR_HOLD_20260517_070732.ps1",
+    "executed_script_sha256":  "86001398C42909BE3AD8627B6E67A08020380990C0486B5A7044A907E1BC6DA5",
+    "git_commit_hash":  "33c65f7"
 }

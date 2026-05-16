@@ -1,8 +1,12 @@
-﻿V430ID git raw footprint
+﻿V430ID Git Raw Footprint
+Stage: V430ID_ROUTE_B_OFFICIAL_EV_CALCULATION_OR_HOLD
 Timestamp: 20260517_070732
-Git repo: C:\Users\sunpu\Desktop\pycson\00_GITHUB_FOOTPRINTS\pycson-footprints
-Intended commit message: V430ID Official EV calculation hold missing price fields no trusted EV
-Git push attempted: false
-Git push failure note: not_attempted_due_previous_safety_review_external_export_risk
-Force push executed: false
-Git clean executed: false
+Local commit succeeded: true
+Local commit hash: 33c65f7
+Remote push attempted: false
+Remote push succeeded: false
+Remote push failure note: not_attempted_due_previous_safety_review_external_export_risk
+Executed script: C:\Users\sunpu\Desktop\pycson\860_V430ID_ROUTE_B_OFFICIAL_EV_CALCULATION_OR_HOLD\V430ID_ROUTE_B_OFFICIAL_EV_CALCULATION_OR_HOLD_20260517_070732\00_EXECUTED_SCRIPT\RUN_V430ID_ROUTE_B_OFFICIAL_EV_CALCULATION_OR_HOLD_20260517_070732.ps1
+Executed script SHA256: 86001398C42909BE3AD8627B6E67A08020380990C0486B5A7044A907E1BC6DA5
+Safety: no fetch, no trusted EV, no DATA_BRIDGE, no active payload, no UI patch, no BUY_NOW, no TRADEUP_NOW, no trade/order.
+Business outcome: HOLD because official EV calculation input rows lacked numeric price fields; no official EV result was calculated.
