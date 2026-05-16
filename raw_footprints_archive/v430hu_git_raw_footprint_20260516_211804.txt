@@ -1,0 +1,6 @@
+﻿V430HU git raw footprint
+Timestamp: 20260516_211804
+Git repo: C:\Users\sunpu\Desktop\pycson\00_GITHUB_FOOTPRINTS\pycson-footprints
+Intended commit message: V430HU Route B final EV input fill review no fetch no EV
+Force push executed: false
+Git clean executed: false
