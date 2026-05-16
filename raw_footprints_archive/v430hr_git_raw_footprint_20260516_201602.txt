@@ -1,0 +1,7 @@
+﻿V430HR git raw footprint
+Timestamp: 20260516_201602
+Git repo: C:\Users\sunpu\Desktop\pycson\00_GITHUB_FOOTPRINTS\pycson-footprints
+Intended commit message: V430HR Route B candidate price source promotion apply review no fetch no EV no final fill
+Status before git recorded separately during git step.
+Force push executed: false
+Git clean executed: false
