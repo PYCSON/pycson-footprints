@@ -1,0 +1,10 @@
+﻿stage=V430JE_REMAINING_9_SOURCE_EVIDENCE_HOLD_AND_RULE_SOURCE_ACQUISITION_PLAN_OR_HOLD
+status=PASS_HOLD_ROUTE_B_STEAM_CHAIN_HELD_WAITING_FOR_REMAINING_9_SOURCE_EVIDENCE
+decision=PASS_HOLD_ROUTE_B_STEAM_CHAIN_HELD_WAITING_FOR_REMAINING_9_SOURCE_EVIDENCE
+git_status_before_commit=
+
+git_remote=
+origin	https://github.com/PYCSON/pycson-footprints.git (fetch)
+origin	https://github.com/PYCSON/pycson-footprints.git (push)
+push_attempted=false
+push_failure_note=not_attempted_due_previous_safety_review_external_export_risk
