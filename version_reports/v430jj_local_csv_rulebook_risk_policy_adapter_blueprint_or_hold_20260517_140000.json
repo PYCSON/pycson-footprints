@@ -28,7 +28,7 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\892_V430JJ_LOCAL_CSV_RULEBOOK_RISK_POLICY_ADAPTER_BLUEPRINT_OR_HOLD\\V430JJ_LOCAL_CSV_RULEBOOK_RISK_POLICY_ADAPTER_BLUEPRINT_OR_HOLD_20260517_140000\\08_REPORT\\v430jj_local_csv_rulebook_risk_policy_adapter_blueprint_or_hold_report.json",
@@ -39,5 +39,6 @@
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\892_V430JJ_LOCAL_CSV_RULEBOOK_RISK_POLICY_ADAPTER_BLUEPRINT_OR_HOLD\\V430JJ_LOCAL_CSV_RULEBOOK_RISK_POLICY_ADAPTER_BLUEPRINT_OR_HOLD_20260517_140000\\05_GIT_FOOTPRINT\\v430jj_local_csv_rulebook_risk_policy_adapter_blueprint_or_hold_git_summary.md",
     "next_safe_step":  "V430JK_LOCAL_SOURCE_ADAPTER_WORKSPACE_SCAFFOLD_OR_HOLD",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\892_V430JJ_LOCAL_CSV_RULEBOOK_RISK_POLICY_ADAPTER_BLUEPRINT_OR_HOLD\\V430JJ_LOCAL_CSV_RULEBOOK_RISK_POLICY_ADAPTER_BLUEPRINT_OR_HOLD_20260517_140000\\00_EXECUTED_SCRIPT\\RUN_V430JJ_LOCAL_CSV_RULEBOOK_RISK_POLICY_ADAPTER_BLUEPRINT_OR_HOLD_20260517_140000.ps1",
-    "executed_script_sha256":  "B7E45AC9CF0EC80A9A24A00B2621F6F3A7381B387875302EB2BE7B82369DE538"
+    "executed_script_sha256":  "B7E45AC9CF0EC80A9A24A00B2621F6F3A7381B387875302EB2BE7B82369DE538",
+    "git_commit_hash":  "9ef5f74"
 }
