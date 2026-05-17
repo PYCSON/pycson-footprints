@@ -1,0 +1,10 @@
+﻿stage=V430JK_LOCAL_SOURCE_ADAPTER_WORKSPACE_SCAFFOLD_OR_HOLD
+status=READY_FOR_USER_TO_DROP_LOCAL_SOURCE_ADAPTER_FILES_OR_V430JL_TEMPLATE_REVIEW_OR_HOLD
+decision=READY_FOR_USER_TO_DROP_LOCAL_SOURCE_ADAPTER_FILES_OR_V430JL_TEMPLATE_REVIEW_OR_HOLD
+git_status_before_commit=
+
+git_remote=
+origin	https://github.com/PYCSON/pycson-footprints.git (fetch)
+origin	https://github.com/PYCSON/pycson-footprints.git (push)
+push_attempted=false
+push_failure_note=not_attempted_due_previous_safety_review_external_export_risk
