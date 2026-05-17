@@ -1,0 +1,10 @@
+﻿stage=V430JG_REMAINING_9_SOURCE_MATERIAL_INTAKE_AUTOPARSER_OR_HOLD
+status=READY_FOR_USER_TO_DROP_REMAINING_9_SOURCE_MATERIALS_OR_HOLD
+decision=READY_FOR_USER_TO_DROP_REMAINING_9_SOURCE_MATERIALS_OR_HOLD
+git_status_before_commit=
+
+git_remote=
+origin	https://github.com/PYCSON/pycson-footprints.git (fetch)
+origin	https://github.com/PYCSON/pycson-footprints.git (push)
+push_attempted=false
+push_failure_note=not_attempted_due_previous_safety_review_external_export_risk
