@@ -31,7 +31,7 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\878_V430IV_LOCAL_VALUE_PREFILL_APPLY_REVIEW_AND_REMAINING_INPUT_WAIT_OR_HOLD\\V430IV_LOCAL_VALUE_PREFILL_APPLY_REVIEW_AND_REMAINING_INPUT_WAIT_OR_HOLD_20260517_104401\\09_REPORT\\v430iv_local_value_prefill_apply_review_and_remaining_input_wait_or_hold_report.json",
@@ -46,5 +46,6 @@
     "source_anchor":  "V430IU_LOCAL_VALUE_PREFILL_APPLY_OR_HOLD",
     "isolated_repair_workspace":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_LOCAL_SOURCE_INTAKE\\EV_INPUTS\\V430GA\\LOCAL_REPAIR_APPLY_WORKSPACE",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\878_V430IV_LOCAL_VALUE_PREFILL_APPLY_REVIEW_AND_REMAINING_INPUT_WAIT_OR_HOLD\\V430IV_LOCAL_VALUE_PREFILL_APPLY_REVIEW_AND_REMAINING_INPUT_WAIT_OR_HOLD_20260517_104401\\00_EXECUTED_SCRIPT\\RUN_V430IV_LOCAL_VALUE_PREFILL_APPLY_REVIEW_AND_REMAINING_INPUT_WAIT_OR_HOLD_20260517_104401.ps1",
-    "executed_script_sha256":  "13698724AC2F2A386D28A05F1A5A223EF0438F94E17DCA32F69E2835C6C454EB"
+    "executed_script_sha256":  "13698724AC2F2A386D28A05F1A5A223EF0438F94E17DCA32F69E2835C6C454EB",
+    "git_commit_hash":  "0bb385b949b860fd9a40ec443237ed18291f21ac"
 }
