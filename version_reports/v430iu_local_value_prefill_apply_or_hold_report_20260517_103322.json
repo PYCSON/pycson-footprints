@@ -33,7 +33,7 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\877_V430IU_LOCAL_VALUE_PREFILL_APPLY_OR_HOLD\\V430IU_LOCAL_VALUE_PREFILL_APPLY_OR_HOLD_20260517_103322\\09_REPORT\\v430iu_local_value_prefill_apply_or_hold_report.json",
@@ -52,5 +52,6 @@
     "local_numeric_price_prefill_applied_rows":  "C:\\Users\\sunpu\\Desktop\\pycson\\877_V430IU_LOCAL_VALUE_PREFILL_APPLY_OR_HOLD\\V430IU_LOCAL_VALUE_PREFILL_APPLY_OR_HOLD_20260517_103322\\01_LOCAL_VALUE_PREFILL_APPLY_OUTPUTS\\local_numeric_price_prefill_applied_rows.csv",
     "local_value_prefill_apply_backup_manifest":  "C:\\Users\\sunpu\\Desktop\\pycson\\877_V430IU_LOCAL_VALUE_PREFILL_APPLY_OR_HOLD\\V430IU_LOCAL_VALUE_PREFILL_APPLY_OR_HOLD_20260517_103322\\01_LOCAL_VALUE_PREFILL_APPLY_OUTPUTS\\local_value_prefill_apply_backup_manifest.csv",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\877_V430IU_LOCAL_VALUE_PREFILL_APPLY_OR_HOLD\\V430IU_LOCAL_VALUE_PREFILL_APPLY_OR_HOLD_20260517_103322\\00_EXECUTED_SCRIPT\\RUN_V430IU_LOCAL_VALUE_PREFILL_APPLY_OR_HOLD_20260517_103322.ps1",
-    "executed_script_sha256":  "975A98B8E6418AAB2AC48970FB6960A163113CF2A13C87AECB2C79045087942C"
+    "executed_script_sha256":  "975A98B8E6418AAB2AC48970FB6960A163113CF2A13C87AECB2C79045087942C",
+    "git_commit_hash":  "df04c0eb092fc1cacea433ba4a594157c3172ca3"
 }
