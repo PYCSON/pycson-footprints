@@ -33,7 +33,7 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\891_V430JI_SOURCE_ADAPTER_PRIORITY_SELECTION_OR_HOLD\\V430JI_SOURCE_ADAPTER_PRIORITY_SELECTION_OR_HOLD_20260517_134500\\08_REPORT\\v430ji_source_adapter_priority_selection_or_hold_report.json",
@@ -44,5 +44,6 @@
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\891_V430JI_SOURCE_ADAPTER_PRIORITY_SELECTION_OR_HOLD\\V430JI_SOURCE_ADAPTER_PRIORITY_SELECTION_OR_HOLD_20260517_134500\\05_GIT_FOOTPRINT\\v430ji_source_adapter_priority_selection_or_hold_git_summary.md",
     "next_safe_step":  "V430JJ_LOCAL_CSV_RULEBOOK_RISK_POLICY_ADAPTER_BLUEPRINT_OR_HOLD",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\891_V430JI_SOURCE_ADAPTER_PRIORITY_SELECTION_OR_HOLD\\V430JI_SOURCE_ADAPTER_PRIORITY_SELECTION_OR_HOLD_20260517_134500\\00_EXECUTED_SCRIPT\\RUN_V430JI_SOURCE_ADAPTER_PRIORITY_SELECTION_OR_HOLD_20260517_134500.ps1",
-    "executed_script_sha256":  "9B13BDD289A197D975E61052C5DD227D4CC9D0EB3E791407F80D72A3EDFF2C21"
+    "executed_script_sha256":  "9B13BDD289A197D975E61052C5DD227D4CC9D0EB3E791407F80D72A3EDFF2C21",
+    "git_commit_hash":  "ba32fbb"
 }
