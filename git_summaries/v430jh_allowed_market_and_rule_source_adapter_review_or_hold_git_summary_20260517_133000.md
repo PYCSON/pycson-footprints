@@ -8,6 +8,7 @@ Report JSON: C:\Users\sunpu\Desktop\pycson\890_V430JH_ALLOWED_MARKET_AND_RULE_SO
 Executed script: C:\Users\sunpu\Desktop\pycson\890_V430JH_ALLOWED_MARKET_AND_RULE_SOURCE_ADAPTER_REVIEW_OR_HOLD\V430JH_ALLOWED_MARKET_AND_RULE_SOURCE_ADAPTER_REVIEW_OR_HOLD_20260517_133000\00_EXECUTED_SCRIPT\RUN_V430JH_ALLOWED_MARKET_AND_RULE_SOURCE_ADAPTER_REVIEW_OR_HOLD_20260517_133000.ps1
 Executed script SHA256: 715273E0066EF37860C9E0028DC607A95FDF2161F34B769934E2B1FE9343D7CE
 Safety: no fetch, no CAPTCHA/anti-bot bypass, no login/cookies, no official/trusted EV, no DATA_BRIDGE/UI, no BUY/TRADE.
-Git commit succeeded: false
+Git commit succeeded: true
+Git commit hash: f5176bd
 Git push succeeded: false
 Git push failure note: not_attempted_due_previous_safety_review_external_export_risk

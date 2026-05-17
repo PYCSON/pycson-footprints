@@ -27,7 +27,7 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\890_V430JH_ALLOWED_MARKET_AND_RULE_SOURCE_ADAPTER_REVIEW_OR_HOLD\\V430JH_ALLOWED_MARKET_AND_RULE_SOURCE_ADAPTER_REVIEW_OR_HOLD_20260517_133000\\08_REPORT\\v430jh_allowed_market_and_rule_source_adapter_review_or_hold_report.json",
@@ -38,5 +38,6 @@
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\890_V430JH_ALLOWED_MARKET_AND_RULE_SOURCE_ADAPTER_REVIEW_OR_HOLD\\V430JH_ALLOWED_MARKET_AND_RULE_SOURCE_ADAPTER_REVIEW_OR_HOLD_20260517_133000\\05_GIT_FOOTPRINT\\v430jh_allowed_market_and_rule_source_adapter_review_or_hold_git_summary.md",
     "next_safe_step":  "V430JI_SOURCE_ADAPTER_PRIORITY_SELECTION_OR_HOLD",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\890_V430JH_ALLOWED_MARKET_AND_RULE_SOURCE_ADAPTER_REVIEW_OR_HOLD\\V430JH_ALLOWED_MARKET_AND_RULE_SOURCE_ADAPTER_REVIEW_OR_HOLD_20260517_133000\\00_EXECUTED_SCRIPT\\RUN_V430JH_ALLOWED_MARKET_AND_RULE_SOURCE_ADAPTER_REVIEW_OR_HOLD_20260517_133000.ps1",
-    "executed_script_sha256":  "715273E0066EF37860C9E0028DC607A95FDF2161F34B769934E2B1FE9343D7CE"
+    "executed_script_sha256":  "715273E0066EF37860C9E0028DC607A95FDF2161F34B769934E2B1FE9343D7CE",
+    "git_commit_hash":  "f5176bd"
 }
