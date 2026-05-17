@@ -1,0 +1,10 @@
+﻿stage=V430JH_ALLOWED_MARKET_AND_RULE_SOURCE_ADAPTER_REVIEW_OR_HOLD
+status=READY_FOR_V430JI_SOURCE_ADAPTER_PRIORITY_SELECTION_OR_HOLD
+decision=READY_FOR_V430JI_SOURCE_ADAPTER_PRIORITY_SELECTION_OR_HOLD
+git_status_before_commit=
+
+git_remote=
+origin	https://github.com/PYCSON/pycson-footprints.git (fetch)
+origin	https://github.com/PYCSON/pycson-footprints.git (push)
+push_attempted=false
+push_failure_note=not_attempted_due_previous_safety_review_external_export_risk
