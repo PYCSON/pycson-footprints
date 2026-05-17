@@ -32,7 +32,7 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\868_V430IL_LOCAL_REPAIR_APPLY_REVIEW_AND_USER_SOURCE_INPUT_WAIT_OR_HOLD\\V430IL_LOCAL_REPAIR_APPLY_REVIEW_AND_USER_SOURCE_INPUT_WAIT_OR_HOLD_20260517_080754\\09_REPORT\\v430il_local_repair_apply_review_and_user_source_input_wait_or_hold_report.json",
@@ -73,5 +73,6 @@
                           "probability_output_pool_input_needed_rows":  8,
                           "fee_slippage_liquidity_input_needed_rows":  7,
                           "source_reference_observed_at_currency_input_needed_rows":  7
-                      }
+                      },
+    "git_commit_hash":  "271cb29"
 }
