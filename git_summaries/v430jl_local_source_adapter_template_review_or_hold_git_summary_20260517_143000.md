@@ -1,0 +1,11 @@
+﻿# V430JL Git Summary
+Stage: V430JL_LOCAL_SOURCE_ADAPTER_TEMPLATE_REVIEW_OR_HOLD
+Status: READY_FOR_V430JM_LOCAL_SOURCE_ADAPTER_TEMPLATE_REPAIR_OR_HOLD
+Latest JSON: C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\v430jl_local_source_adapter_template_review_or_hold_latest.json
+Report JSON: C:\Users\sunpu\Desktop\pycson\894_V430JL_LOCAL_SOURCE_ADAPTER_TEMPLATE_REVIEW_OR_HOLD\V430JL_LOCAL_SOURCE_ADAPTER_TEMPLATE_REVIEW_OR_HOLD_20260517_143000\08_REPORT\v430jl_local_source_adapter_template_review_or_hold_report.json
+Executed script: C:\Users\sunpu\Desktop\pycson\894_V430JL_LOCAL_SOURCE_ADAPTER_TEMPLATE_REVIEW_OR_HOLD\V430JL_LOCAL_SOURCE_ADAPTER_TEMPLATE_REVIEW_OR_HOLD_20260517_143000\00_EXECUTED_SCRIPT\RUN_V430JL_LOCAL_SOURCE_ADAPTER_TEMPLATE_REVIEW_OR_HOLD_20260517_143000.ps1
+Executed script SHA256: C670EDBECC9A088FB698CC138725E0C3103DB81F8FE38EA0D32809D082540D21
+Safety: no fetch, no adapter/source parsing, no value filling, no EV, no DATA_BRIDGE/UI.
+Git commit succeeded: false
+Git push succeeded: false
+Git push failure note: not_attempted_due_previous_safety_review_external_export_risk
