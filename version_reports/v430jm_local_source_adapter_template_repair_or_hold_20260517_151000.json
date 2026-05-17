@@ -29,7 +29,7 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\895_V430JM_LOCAL_SOURCE_ADAPTER_TEMPLATE_REPAIR_OR_HOLD\\V430JM_LOCAL_SOURCE_ADAPTER_TEMPLATE_REPAIR_OR_HOLD_20260517_151000\\08_REPORT\\v430jm_local_source_adapter_template_repair_or_hold_report.json",
@@ -40,5 +40,6 @@
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\895_V430JM_LOCAL_SOURCE_ADAPTER_TEMPLATE_REPAIR_OR_HOLD\\V430JM_LOCAL_SOURCE_ADAPTER_TEMPLATE_REPAIR_OR_HOLD_20260517_151000\\05_GIT_FOOTPRINT\\v430jm_local_source_adapter_template_repair_or_hold_git_summary.md",
     "next_safe_step":  "V430JN_LOCAL_SOURCE_ADAPTER_DROP_VALIDATION_DRYRUN_OR_HOLD",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\895_V430JM_LOCAL_SOURCE_ADAPTER_TEMPLATE_REPAIR_OR_HOLD\\V430JM_LOCAL_SOURCE_ADAPTER_TEMPLATE_REPAIR_OR_HOLD_20260517_151000\\00_EXECUTED_SCRIPT\\RUN_V430JM_LOCAL_SOURCE_ADAPTER_TEMPLATE_REPAIR_OR_HOLD_20260517_151000.ps1",
-    "executed_script_sha256":  "28F169130D3EDE9B4380FF6C4EF2CB9E8B620C867ED451FFB3F792CF033F0C74"
+    "executed_script_sha256":  "28F169130D3EDE9B4380FF6C4EF2CB9E8B620C867ED451FFB3F792CF033F0C74",
+    "git_commit_hash":  "af6c819"
 }
