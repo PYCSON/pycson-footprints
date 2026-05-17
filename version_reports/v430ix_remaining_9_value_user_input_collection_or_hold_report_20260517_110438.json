@@ -29,5 +29,9 @@
     "created_at":  "20260517_110438",
     "source_anchor":  "V430IW_REMAINING_USER_SOURCE_INPUT_WAIT_OR_FILL_AUTHORIZATION_PACKET_OR_HOLD",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\880_V430IX_REMAINING_9_VALUE_USER_INPUT_COLLECTION_OR_HOLD\\V430IX_REMAINING_9_VALUE_USER_INPUT_COLLECTION_OR_HOLD_20260517_110438\\00_EXECUTED_SCRIPT\\RUN_V430IX_REMAINING_9_VALUE_USER_INPUT_COLLECTION_OR_HOLD_20260517_110438.ps1",
-    "executed_script_sha256":  "C5F9B0216DD93F2A5831B9C6CC3047B8CA7331CDD87BB7DB46ABB2C33641CCD1"
+    "executed_script_sha256":  "C5F9B0216DD93F2A5831B9C6CC3047B8CA7331CDD87BB7DB46ABB2C33641CCD1",
+    "git_commit_succeeded":  true,
+    "git_push_succeeded":  false,
+    "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
+    "git_commit_hash":  "af07552793d3d77803a66d8c7fcbff3a47b93f2d"
 }
