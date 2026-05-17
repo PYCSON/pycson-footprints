@@ -33,7 +33,7 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\887_V430JE_REMAINING_9_SOURCE_EVIDENCE_HOLD_AND_RULE_SOURCE_ACQUISITION_PLAN_OR_HOLD\\V430JE_REMAINING_9_SOURCE_EVIDENCE_HOLD_AND_RULE_SOURCE_ACQUISITION_PLAN_OR_HOLD_20260517_124500\\08_REPORT\\v430je_remaining_9_source_evidence_hold_and_rule_source_acquisition_plan_or_hold_report.json",
@@ -44,5 +44,6 @@
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\887_V430JE_REMAINING_9_SOURCE_EVIDENCE_HOLD_AND_RULE_SOURCE_ACQUISITION_PLAN_OR_HOLD\\V430JE_REMAINING_9_SOURCE_EVIDENCE_HOLD_AND_RULE_SOURCE_ACQUISITION_PLAN_OR_HOLD_20260517_124500\\05_GIT_FOOTPRINT\\v430je_remaining_9_source_evidence_hold_and_rule_source_acquisition_plan_or_hold_git_summary.md",
     "next_safe_step":  "WAIT_FOR_USER_TO_FILL_REMAINING_9_SOURCE_EVIDENCE_OR_START_NEW_CHAT_WITH_HANDOFF",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\887_V430JE_REMAINING_9_SOURCE_EVIDENCE_HOLD_AND_RULE_SOURCE_ACQUISITION_PLAN_OR_HOLD\\V430JE_REMAINING_9_SOURCE_EVIDENCE_HOLD_AND_RULE_SOURCE_ACQUISITION_PLAN_OR_HOLD_20260517_124500\\00_EXECUTED_SCRIPT\\RUN_V430JE_REMAINING_9_SOURCE_EVIDENCE_HOLD_AND_RULE_SOURCE_ACQUISITION_PLAN_OR_HOLD_20260517_124500.ps1",
-    "executed_script_sha256":  "B076086A94B293A478734A21AE921565CC3EAB8AE2FA8BBDFC84D8C035077CC6"
+    "executed_script_sha256":  "B076086A94B293A478734A21AE921565CC3EAB8AE2FA8BBDFC84D8C035077CC6",
+    "git_commit_hash":  "01821b1"
 }
