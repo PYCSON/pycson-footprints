@@ -1,0 +1,10 @@
+﻿stage=V430JD_REMAINING_9_SOURCE_EVIDENCE_FILL_HELPER_OR_HOLD
+status=PASS_HOLD_V430JD_REMAINING_9_SOURCE_EVIDENCE_FILL_HELPER_CREATED_NO_VALUES_NO_EV
+decision=READY_FOR_USER_TO_FILL_REMAINING_9_SOURCE_EVIDENCE_OR_HOLD
+git_status_before_commit=
+
+git_remote=
+origin	https://github.com/PYCSON/pycson-footprints.git (fetch)
+origin	https://github.com/PYCSON/pycson-footprints.git (push)
+push_attempted=false
+push_failure_note=not_attempted_due_previous_safety_review_external_export_risk
