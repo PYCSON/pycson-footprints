@@ -33,7 +33,7 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\871_V430IO_USER_SOURCE_INPUT_REQUIREMENT_DETAIL_SURFACE_OR_HOLD\\V430IO_USER_SOURCE_INPUT_REQUIREMENT_DETAIL_SURFACE_OR_HOLD_20260517_084121\\09_REPORT\\v430io_user_source_input_requirement_detail_surface_or_hold_report.json",
@@ -57,5 +57,6 @@
                                "probability_output_pool":  8,
                                "fee_slippage_liquidity":  7,
                                "source_reference_observed_at_currency":  7
-                           }
+                           },
+    "git_commit_hash":  "eb4828d"
 }
