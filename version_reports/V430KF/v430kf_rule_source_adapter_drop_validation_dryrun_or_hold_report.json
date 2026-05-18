@@ -25,7 +25,7 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\914_V430KF_RULE_SOURCE_ADAPTER_DROP_VALIDATION_DRYRUN_OR_HOLD\\V430KF_RULE_SOURCE_ADAPTER_DROP_VALIDATION_DRYRUN_OR_HOLD_20260518_032000\\08_REPORT\\v430kf_rule_source_adapter_drop_validation_dryrun_or_hold_report.json",
@@ -36,5 +36,6 @@
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\914_V430KF_RULE_SOURCE_ADAPTER_DROP_VALIDATION_DRYRUN_OR_HOLD\\V430KF_RULE_SOURCE_ADAPTER_DROP_VALIDATION_DRYRUN_OR_HOLD_20260518_032000\\05_GIT_FOOTPRINT\\v430kf_rule_source_adapter_drop_validation_dryrun_or_hold_git_summary.md",
     "next_safe_step":  "WAIT_FOR_USER_TO_DROP_RULE_SOURCE_FILES",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\914_V430KF_RULE_SOURCE_ADAPTER_DROP_VALIDATION_DRYRUN_OR_HOLD\\V430KF_RULE_SOURCE_ADAPTER_DROP_VALIDATION_DRYRUN_OR_HOLD_20260518_032000\\00_EXECUTED_SCRIPT\\RUN_V430KF_RULE_SOURCE_ADAPTER_DROP_VALIDATION_DRYRUN_OR_HOLD_20260518_032000.ps1",
-    "executed_script_sha256":  "EF13FF02DD6AC2C949212AC9B28237CC45FF292E179D9690376EBFDCD56A88D9"
+    "executed_script_sha256":  "EF13FF02DD6AC2C949212AC9B28237CC45FF292E179D9690376EBFDCD56A88D9",
+    "git_commit_hash":  "0c6f4b3fd212f4900fb1182dac93b1c6e90f6fd1"
 }
