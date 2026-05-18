@@ -34,7 +34,7 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "steam_refresh_candidate_promotion_packet":  "C:\\Users\\sunpu\\Desktop\\pycson\\923_V430KM_STEAM_REFRESH_CANDIDATE_ISOLATED_PROMOTION_PACKET_OR_HOLD\\V430KM_STEAM_REFRESH_CANDIDATE_ISOLATED_PROMOTION_PACKET_OR_HOLD_20260518_052500\\01_PROMOTION_PACKET\\steam_refresh_candidate_isolated_promotion_packet.md",
@@ -47,5 +47,6 @@
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\923_V430KM_STEAM_REFRESH_CANDIDATE_ISOLATED_PROMOTION_PACKET_OR_HOLD\\V430KM_STEAM_REFRESH_CANDIDATE_ISOLATED_PROMOTION_PACKET_OR_HOLD_20260518_052500\\05_GIT_FOOTPRINT\\v430km_steam_refresh_candidate_isolated_promotion_packet_or_hold_git_summary.md",
     "next_safe_step":  "WAIT_FOR_USER_APPROVAL_OF_V430KN_STEAM_REFRESH_CANDIDATE_ISOLATED_PROMOTION_APPLY_OR_HOLD",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\923_V430KM_STEAM_REFRESH_CANDIDATE_ISOLATED_PROMOTION_PACKET_OR_HOLD\\V430KM_STEAM_REFRESH_CANDIDATE_ISOLATED_PROMOTION_PACKET_OR_HOLD_20260518_052500\\00_EXECUTED_SCRIPT\\RUN_V430KM_STEAM_REFRESH_CANDIDATE_ISOLATED_PROMOTION_PACKET_OR_HOLD_20260518_052500.ps1",
-    "executed_script_sha256":  "565FCCC0C399863EBB046B7CAE8C9597BFA90E4BA3585F06354813BAF5988C93"
+    "executed_script_sha256":  "565FCCC0C399863EBB046B7CAE8C9597BFA90E4BA3585F06354813BAF5988C93",
+    "git_commit_hash":  "7d104d8d4c18a3b9698b1e00e0b4cea88193a299"
 }
