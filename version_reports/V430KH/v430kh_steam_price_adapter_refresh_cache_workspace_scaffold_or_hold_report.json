@@ -29,7 +29,7 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\916_V430KH_STEAM_PRICE_ADAPTER_REFRESH_CACHE_WORKSPACE_SCAFFOLD_OR_HOLD\\V430KH_STEAM_PRICE_ADAPTER_REFRESH_CACHE_WORKSPACE_SCAFFOLD_OR_HOLD_20260518_034500\\08_REPORT\\v430kh_steam_price_adapter_refresh_cache_workspace_scaffold_or_hold_report.json",
@@ -40,5 +40,6 @@
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\916_V430KH_STEAM_PRICE_ADAPTER_REFRESH_CACHE_WORKSPACE_SCAFFOLD_OR_HOLD\\V430KH_STEAM_PRICE_ADAPTER_REFRESH_CACHE_WORKSPACE_SCAFFOLD_OR_HOLD_20260518_034500\\05_GIT_FOOTPRINT\\v430kh_steam_price_adapter_refresh_cache_workspace_scaffold_or_hold_git_summary.md",
     "next_safe_step":  "V430KI_STEAM_PRICE_ADAPTER_REFRESH_CACHE_DROP_VALIDATION_DRYRUN_OR_HOLD",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\916_V430KH_STEAM_PRICE_ADAPTER_REFRESH_CACHE_WORKSPACE_SCAFFOLD_OR_HOLD\\V430KH_STEAM_PRICE_ADAPTER_REFRESH_CACHE_WORKSPACE_SCAFFOLD_OR_HOLD_20260518_034500\\00_EXECUTED_SCRIPT\\RUN_V430KH_STEAM_PRICE_ADAPTER_REFRESH_CACHE_WORKSPACE_SCAFFOLD_OR_HOLD_20260518_034500.ps1",
-    "executed_script_sha256":  "04E981BCB9555DFB119F872A7CF2E573BCB3AB42152522129193F1C3B4EEFADF"
+    "executed_script_sha256":  "04E981BCB9555DFB119F872A7CF2E573BCB3AB42152522129193F1C3B4EEFADF",
+    "git_commit_hash":  "23fb054a515ecf2d41272dff2908698fd7b6e547"
 }
