@@ -25,7 +25,7 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\910_V430KB_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_FREEZE_OR_NEXT_GATE_OR_HOLD\\V430KB_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_FREEZE_OR_NEXT_GATE_OR_HOLD_20260518_022000\\08_REPORT\\v430kb_steam_price_adapter_isolated_promotion_freeze_or_next_gate_or_hold_report.json",
@@ -36,5 +36,6 @@
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\910_V430KB_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_FREEZE_OR_NEXT_GATE_OR_HOLD\\V430KB_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_FREEZE_OR_NEXT_GATE_OR_HOLD_20260518_022000\\05_GIT_FOOTPRINT\\v430kb_steam_price_adapter_isolated_promotion_freeze_or_next_gate_or_hold_git_summary.md",
     "next_safe_step":  "V430KC_NEXT_SOURCE_ACQUISITION_GATE_SELECTION_OR_HOLD",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\910_V430KB_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_FREEZE_OR_NEXT_GATE_OR_HOLD\\V430KB_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_FREEZE_OR_NEXT_GATE_OR_HOLD_20260518_022000\\00_EXECUTED_SCRIPT\\RUN_V430KB_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_FREEZE_OR_NEXT_GATE_OR_HOLD_20260518_022000.ps1",
-    "executed_script_sha256":  "74E8F2E2A2F92BFA5B96376CD1794C465CEFAF24870942AA42352FEFE405D974"
+    "executed_script_sha256":  "74E8F2E2A2F92BFA5B96376CD1794C465CEFAF24870942AA42352FEFE405D974",
+    "git_commit_hash":  "583ad86"
 }
