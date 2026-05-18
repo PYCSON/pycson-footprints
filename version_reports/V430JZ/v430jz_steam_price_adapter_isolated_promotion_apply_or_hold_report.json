@@ -26,7 +26,7 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\908_V430JZ_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_APPLY_OR_HOLD\\V430JZ_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_APPLY_OR_HOLD_20260518_015000\\08_REPORT\\v430jz_steam_price_adapter_isolated_promotion_apply_or_hold_report.json",
@@ -38,5 +38,6 @@
     "next_safe_step":  "V430KA_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_REVIEW_OR_HOLD",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\908_V430JZ_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_APPLY_OR_HOLD\\V430JZ_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_APPLY_OR_HOLD_20260518_015000\\00_EXECUTED_SCRIPT\\RUN_V430JZ_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_APPLY_OR_HOLD_20260518_015000.ps1",
     "executed_script_sha256":  "0490432501A2AEBEA4F333237F2F2EB8D50CA19B42FF1C20F597522E3B53A271",
-    "isolated_promotion_workspace":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_LOCAL_SOURCE_INTAKE\\EV_INPUTS\\V430GA\\STEAM_PRICE_SOURCE_ADAPTER_ISOLATED_PROMOTION_WORKSPACE"
+    "isolated_promotion_workspace":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_LOCAL_SOURCE_INTAKE\\EV_INPUTS\\V430GA\\STEAM_PRICE_SOURCE_ADAPTER_ISOLATED_PROMOTION_WORKSPACE",
+    "git_commit_hash":  "8582712"
 }

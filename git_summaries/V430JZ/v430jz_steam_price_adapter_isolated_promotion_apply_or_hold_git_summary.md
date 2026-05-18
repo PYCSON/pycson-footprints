@@ -8,3 +8,8 @@
 - Executed script: C:\Users\sunpu\Desktop\pycson\908_V430JZ_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_APPLY_OR_HOLD\V430JZ_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_APPLY_OR_HOLD_20260518_015000\00_EXECUTED_SCRIPT\RUN_V430JZ_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_APPLY_OR_HOLD_20260518_015000.ps1
 - Executed script SHA256: 0490432501A2AEBEA4F333237F2F2EB8D50CA19B42FF1C20F597522E3B53A271
 - Safety: isolated promotion apply only; no EV, no DATA_BRIDGE, no UI, no BUY/TRADE, no live fetch.
+
+- Git commit succeeded: true
+- Git commit hash: 8582712
+- Git push succeeded: false
+- Git push failure note: not_attempted_due_previous_safety_review_external_export_risk
