@@ -32,7 +32,7 @@
     "steam_expanded_batch_refresh_authorization_packet":  "C:\\Users\\sunpu\\Desktop\\pycson\\929_V430KS_STEAM_EXPANDED_BATCH_REFRESH_AUTHORIZATION_PACKET_OR_HOLD\\V430KS_STEAM_EXPANDED_BATCH_REFRESH_AUTHORIZATION_PACKET_OR_HOLD_20260518_070000\\01_AUTHORIZATION_PACKET\\steam_expanded_batch_refresh_authorization_packet.md",
     "steam_expanded_batch_refresh_approval_phrase":  "C:\\Users\\sunpu\\Desktop\\pycson\\929_V430KS_STEAM_EXPANDED_BATCH_REFRESH_AUTHORIZATION_PACKET_OR_HOLD\\V430KS_STEAM_EXPANDED_BATCH_REFRESH_AUTHORIZATION_PACKET_OR_HOLD_20260518_070000\\01_AUTHORIZATION_PACKET\\steam_expanded_batch_refresh_draft_user_approval_phrase.txt",
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\929_V430KS_STEAM_EXPANDED_BATCH_REFRESH_AUTHORIZATION_PACKET_OR_HOLD\\V430KS_STEAM_EXPANDED_BATCH_REFRESH_AUTHORIZATION_PACKET_OR_HOLD_20260518_070000\\08_REPORT\\v430ks_steam_expanded_batch_refresh_authorization_packet_or_hold_report.json",
@@ -43,5 +43,6 @@
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\929_V430KS_STEAM_EXPANDED_BATCH_REFRESH_AUTHORIZATION_PACKET_OR_HOLD\\V430KS_STEAM_EXPANDED_BATCH_REFRESH_AUTHORIZATION_PACKET_OR_HOLD_20260518_070000\\05_GIT_FOOTPRINT\\v430ks_steam_expanded_batch_refresh_authorization_packet_or_hold_git_summary.md",
     "next_safe_step":  "WAIT_FOR_USER_APPROVAL_OF_V430KT_STEAM_EXPANDED_BATCH_REFRESH_EXECUTION_OR_HOLD",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\929_V430KS_STEAM_EXPANDED_BATCH_REFRESH_AUTHORIZATION_PACKET_OR_HOLD\\V430KS_STEAM_EXPANDED_BATCH_REFRESH_AUTHORIZATION_PACKET_OR_HOLD_20260518_070000\\00_EXECUTED_SCRIPT\\RUN_V430KS_STEAM_EXPANDED_BATCH_REFRESH_AUTHORIZATION_PACKET_OR_HOLD_20260518_070000.ps1",
-    "executed_script_sha256":  "EAF729800D74A884DE405195AC5F8C5ADCABC6B949161CF8716D90FAD7E02269"
+    "executed_script_sha256":  "EAF729800D74A884DE405195AC5F8C5ADCABC6B949161CF8716D90FAD7E02269",
+    "git_commit_hash":  "3348f49d7a7e948df06de5c2b6cf3053927bc245"
 }
