@@ -8,3 +8,8 @@
 - Executed script: C:\Users\sunpu\Desktop\pycson\907_V430JY_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_PACKET_OR_HOLD\V430JY_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_PACKET_OR_HOLD_20260518_013500\00_EXECUTED_SCRIPT\RUN_V430JY_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_PACKET_OR_HOLD_20260518_013500.ps1
 - Executed script SHA256: ECFA55504C3C5506376CBED3A63CAC0AE36D201D6F7E2DF4ED7BA494BA03349F
 - Safety: isolated promotion packet only; no promotion apply, no EV, no DATA_BRIDGE, no UI, no BUY/TRADE.
+
+- Git commit succeeded: true
+- Git commit hash: 8674dae
+- Git push succeeded: false
+- Git push failure note: not_attempted_due_previous_safety_review_external_export_risk
