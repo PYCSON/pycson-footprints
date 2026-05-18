@@ -32,5 +32,10 @@
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\913_V430KE_RULE_SOURCE_ADAPTER_WORKSPACE_AND_TEMPLATE_FINALIZATION_OR_HOLD\\V430KE_RULE_SOURCE_ADAPTER_WORKSPACE_AND_TEMPLATE_FINALIZATION_OR_HOLD_20260518_030500\\05_GIT_FOOTPRINT\\v430ke_rule_source_adapter_workspace_and_template_finalization_or_hold_git_summary.md",
     "next_safe_step":  "V430KF_RULE_SOURCE_ADAPTER_DROP_VALIDATION_DRYRUN_OR_HOLD",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\913_V430KE_RULE_SOURCE_ADAPTER_WORKSPACE_AND_TEMPLATE_FINALIZATION_OR_HOLD\\V430KE_RULE_SOURCE_ADAPTER_WORKSPACE_AND_TEMPLATE_FINALIZATION_OR_HOLD_20260518_030500\\00_EXECUTED_SCRIPT\\RUN_V430KE_RULE_SOURCE_ADAPTER_WORKSPACE_AND_TEMPLATE_FINALIZATION_OR_HOLD_20260518_030500.ps1",
-    "executed_script_sha256":  "179885640C0C72F6E88890C239B0687D215D044D970ED2A08C0D263ECA6114FD"
+    "executed_script_sha256":  "179885640C0C72F6E88890C239B0687D215D044D970ED2A08C0D263ECA6114FD",
+    "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
+    "git_commit_succeeded":  true,
+    "git_commit_hash":  "06a3a8359e7228900d19b0b442f23f91c15a1fc0",
+    "git_push_succeeded":  false,
+    "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk"
 }
