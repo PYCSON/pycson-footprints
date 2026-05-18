@@ -30,7 +30,7 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\906_V430JX_STEAM_PRICE_ADAPTER_OUTPUT_REVIEW_OR_HOLD\\V430JX_STEAM_PRICE_ADAPTER_OUTPUT_REVIEW_OR_HOLD_20260518_012000\\08_REPORT\\v430jx_steam_price_adapter_output_review_or_hold_report.json",
@@ -41,5 +41,6 @@
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\906_V430JX_STEAM_PRICE_ADAPTER_OUTPUT_REVIEW_OR_HOLD\\V430JX_STEAM_PRICE_ADAPTER_OUTPUT_REVIEW_OR_HOLD_20260518_012000\\05_GIT_FOOTPRINT\\v430jx_steam_price_adapter_output_review_or_hold_git_summary.md",
     "next_safe_step":  "V430JY_STEAM_PRICE_ADAPTER_ISOLATED_PROMOTION_PACKET_OR_HOLD",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\906_V430JX_STEAM_PRICE_ADAPTER_OUTPUT_REVIEW_OR_HOLD\\V430JX_STEAM_PRICE_ADAPTER_OUTPUT_REVIEW_OR_HOLD_20260518_012000\\00_EXECUTED_SCRIPT\\RUN_V430JX_STEAM_PRICE_ADAPTER_OUTPUT_REVIEW_OR_HOLD_20260518_012000.ps1",
-    "executed_script_sha256":  "B5D0A1D8FDB07CFA7B1BDC0FC6E4A7F9FE47C02D596ABD7110734688B112AFFB"
+    "executed_script_sha256":  "B5D0A1D8FDB07CFA7B1BDC0FC6E4A7F9FE47C02D596ABD7110734688B112AFFB",
+    "git_commit_hash":  "f181193"
 }
