@@ -25,7 +25,7 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\905_V430JW_STEAM_PRICE_ADAPTER_CACHE_READER_CONTINUATION_OR_HOLD\\V430JW_STEAM_PRICE_ADAPTER_CACHE_READER_CONTINUATION_OR_HOLD_20260518_010500\\08_REPORT\\v430jw_steam_price_adapter_cache_reader_continuation_or_hold_report.json",
@@ -43,5 +43,6 @@
                               "C:\\Users\\sunpu\\Desktop\\pycson\\838_V430HH_ROUTE_B_BASE_QUERY_PRICE_SOURCE_CANDIDATE_REVIEW_OR_HOLD\\V430HH_ROUTE_B_BASE_QUERY_PRICE_SOURCE_CANDIDATE_REVIEW_OR_HOLD_20260516_172023\\01_CANDIDATE_REVIEW_OUTPUTS\\route_b_steam_candidate_review.csv",
                               "C:\\Users\\sunpu\\Desktop\\pycson\\877_V430IU_LOCAL_VALUE_PREFILL_APPLY_OR_HOLD\\V430IU_LOCAL_VALUE_PREFILL_APPLY_OR_HOLD_20260517_103322\\01_LOCAL_VALUE_PREFILL_APPLY_OUTPUTS\\local_numeric_price_prefill_applied_rows.csv",
                               "C:\\Users\\sunpu\\Desktop\\pycson\\00_LOCAL_SOURCE_INTAKE\\EV_INPUTS\\V430GA\\LOCAL_REPAIR_APPLY_WORKSPACE\\local_value_prefill_applied_workspace_rows.csv"
-                          ]
+                          ],
+    "git_commit_hash":  "41d0018"
 }
