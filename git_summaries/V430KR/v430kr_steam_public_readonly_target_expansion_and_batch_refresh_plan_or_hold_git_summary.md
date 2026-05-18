@@ -6,6 +6,7 @@
 - Expansion candidate extra rows: 0
 - Deduped target rows: 6
 - Safety: no fetch, no EV, no DATA_BRIDGE, no UI, no BUY/TRADE.
-- Git commit succeeded: false
+- Git commit succeeded: true
+- Git commit hash: 62430031aa630e5e5e04a662db7a67fd3406271c
 - Git push succeeded: false
 - Git push failure note: not_attempted_due_previous_safety_review_external_export_risk
