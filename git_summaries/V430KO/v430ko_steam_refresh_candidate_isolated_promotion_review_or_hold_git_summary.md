@@ -1,0 +1,12 @@
+﻿# V430KO Git Summary
+
+- Status: READY_FOR_V430KP_STEAM_REFRESH_CANDIDATE_ISOLATED_PROMOTION_FREEZE_OR_NEXT_GATE_OR_HOLD
+- Promoted rows reviewed: 7
+- Field review pass rows: 7
+- Boundary review pass: True
+- Executed script: C:\Users\sunpu\Desktop\pycson\925_V430KO_STEAM_REFRESH_CANDIDATE_ISOLATED_PROMOTION_REVIEW_OR_HOLD\V430KO_STEAM_REFRESH_CANDIDATE_ISOLATED_PROMOTION_REVIEW_OR_HOLD_20260518_060000\00_EXECUTED_SCRIPT\RUN_V430KO_STEAM_REFRESH_CANDIDATE_ISOLATED_PROMOTION_REVIEW_OR_HOLD_20260518_060000.ps1
+- Executed script SHA256: 762D177C131F946B690BCBD4FE7966341449C17D954049B210AEF6BAE8F9F562
+- Safety: no fetch, no EV, no DATA_BRIDGE, no UI, no BUY/TRADE.
+- Git commit succeeded: false
+- Git push succeeded: false
+- Git push failure note: not_attempted_due_previous_safety_review_external_export_risk
