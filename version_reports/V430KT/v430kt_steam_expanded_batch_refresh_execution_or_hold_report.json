@@ -34,7 +34,7 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\00_GITHUB_FOOTPRINTS\\pycson-footprints",
-    "git_commit_succeeded":  false,
+    "git_commit_succeeded":  true,
     "git_push_succeeded":  false,
     "git_push_failure_note":  "not_attempted_due_previous_safety_review_external_export_risk",
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\930_V430KT_STEAM_EXPANDED_BATCH_REFRESH_EXECUTION_OR_HOLD\\V430KT_STEAM_EXPANDED_BATCH_REFRESH_EXECUTION_OR_HOLD_20260518_071500\\08_REPORT\\v430kt_steam_expanded_batch_refresh_execution_or_hold_report.json",
@@ -45,5 +45,6 @@
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\930_V430KT_STEAM_EXPANDED_BATCH_REFRESH_EXECUTION_OR_HOLD\\V430KT_STEAM_EXPANDED_BATCH_REFRESH_EXECUTION_OR_HOLD_20260518_071500\\05_GIT_FOOTPRINT\\v430kt_steam_expanded_batch_refresh_execution_or_hold_git_summary.md",
     "next_safe_step":  "HOLD_FOR_STEAM_EXPANDED_BATCH_REFRESH_BLOCK_REVIEW_NO_BYPASS",
     "executed_script_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\930_V430KT_STEAM_EXPANDED_BATCH_REFRESH_EXECUTION_OR_HOLD\\V430KT_STEAM_EXPANDED_BATCH_REFRESH_EXECUTION_OR_HOLD_20260518_071500\\00_EXECUTED_SCRIPT\\FETCH_ONLY_V430KT_STEAM_EXPANDED_BATCH_REFRESH_20260518_071500.ps1",
-    "executed_script_sha256":  "7E9A6CC7650849880F80EBCA4D19F2B74F481AEA10D5CA742CB34E64D0BC82EB"
+    "executed_script_sha256":  "7E9A6CC7650849880F80EBCA4D19F2B74F481AEA10D5CA742CB34E64D0BC82EB",
+    "git_commit_hash":  "adcb3b738d773b1a5f9bf5592970530d2d37b9e8"
 }
