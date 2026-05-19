@@ -1,10 +1,16 @@
-﻿V430LZ Git raw footprint before sync
---- git branch --show-current ---
-main
---- git status --short ---
---- git log --oneline -5 ---
+V430LZ Git raw footprint after auto-sync policy repair
+Branch: main
+Remote: origin https://github.com/PYCSON/pycson-footprints.git
+Final HEAD: 9685290
+Final origin/main: 9685290
+HEAD matches origin/main: True
+Worktree clean: True
+
+Git log:
+9685290 V430LZ git footprint autosync policy repair
 284e2f1 V430LY rule source evidence fill guide footprint
 f6b71ab V430LX rule source evidence wait footprint
 0ef915e V430LW rule source acquisition packet footprint
 2c54d93 V430LV rule source local discovery footprint
-b93d592 V430LU rule source package wait review footprint
+
+Git status final:
