@@ -1,0 +1,17 @@
+﻿# V430ME_RULE_SOURCE_OUTPUT_TASK_PROVENANCE_TRACE_OR_HOLD 20260519_074500
+
+Status: HOLD_RULE_SOURCE_TASKS_ARE_VALID_PLACEHOLDERS_BUT_REQUIRE_EXTERNAL_OR_USER_RULE_EVIDENCE
+Decision: HOLD_RULE_SOURCE_TASKS_ARE_VALID_PLACEHOLDERS_BUT_REQUIRE_EXTERNAL_OR_USER_RULE_EVIDENCE
+
+Task rows traced: 8
+Output item rows traced: 4
+Local rule source evidence found rows: 0
+Missing evidence placeholder rows: 8
+Price candidate only rows: 4
+
+Conclusion: The 4 output items first appeared as V430HB output candidates. V430IP generated 8 missing rule source evidence tasks for output_probability and output_pool. V430LV found no local usable rule source evidence. No values were applied.
+
+Report: C:\Users\sunpu\Desktop\pycson\977_V430ME_RULE_SOURCE_OUTPUT_TASK_PROVENANCE_TRACE_OR_HOLD\V430ME_RULE_SOURCE_OUTPUT_TASK_PROVENANCE_TRACE_OR_HOLD_20260519_074500\09_REPORT\v430me_rule_source_output_task_provenance_trace_or_hold_report.json
+Latest: C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\v430me_rule_source_output_task_provenance_trace_or_hold_latest.json
+Executed script: C:\Users\sunpu\Desktop\pycson\977_V430ME_RULE_SOURCE_OUTPUT_TASK_PROVENANCE_TRACE_OR_HOLD\V430ME_RULE_SOURCE_OUTPUT_TASK_PROVENANCE_TRACE_OR_HOLD_20260519_074500\00_EXECUTED_SCRIPT\RUN_V430ME_RULE_SOURCE_OUTPUT_TASK_PROVENANCE_TRACE_OR_HOLD_20260519_074500.ps1
+Executed script SHA256: B931F064F2FBF2361E281A940A039F49B4ABDC2382CA29AF37CA784BDBCBCC16
