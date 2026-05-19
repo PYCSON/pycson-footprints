@@ -1,0 +1,10 @@
+﻿# V430LX Footprint
+
+Status: HOLD_WAITING_FOR_USER_TO_FILL_OR_DROP_RULE_SOURCE_EVIDENCE_PACKAGE
+Decision: HOLD_WAITING_FOR_USER_TO_FILL_OR_DROP_RULE_SOURCE_EVIDENCE_PACKAGE
+Evidence package rows: 8
+Filled rows: 0
+Dropped files: 0
+Blank/HOLD rows: 8
+Report: C:\Users\sunpu\Desktop\pycson\967_V430LX_RULE_SOURCE_EXTERNAL_OR_USER_EVIDENCE_FILL_WAIT_OR_HOLD\V430LX_RULE_SOURCE_EXTERNAL_OR_USER_EVIDENCE_FILL_WAIT_OR_HOLD_20260519_051500\07_REPORT\v430lx_rule_source_external_or_user_evidence_fill_wait_or_hold_report.json
+Latest: C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\v430lx_rule_source_external_or_user_evidence_fill_wait_or_hold_latest.json
