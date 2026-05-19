@@ -1,0 +1,10 @@
+﻿V430LZ Git raw footprint before sync
+--- git branch --show-current ---
+main
+--- git status --short ---
+--- git log --oneline -5 ---
+284e2f1 V430LY rule source evidence fill guide footprint
+f6b71ab V430LX rule source evidence wait footprint
+0ef915e V430LW rule source acquisition packet footprint
+2c54d93 V430LV rule source local discovery footprint
+b93d592 V430LU rule source package wait review footprint
