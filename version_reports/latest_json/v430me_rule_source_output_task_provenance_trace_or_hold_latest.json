@@ -25,12 +25,12 @@
     "buy_now":  false,
     "tradeup_now":  false,
     "trade_or_order":  false,
-    "git_repo_used":  false,
-    "git_commit_succeeded":  false,
-    "git_push_succeeded":  false,
-    "git_push_failure_note":  "pending_controlled_git_autosync",
-    "head_matches_origin":  false,
-    "worktree_clean":  false,
+    "git_repo_used":  true,
+    "git_commit_succeeded":  true,
+    "git_push_succeeded":  true,
+    "git_push_failure_note":  "none",
+    "head_matches_origin":  true,
+    "worktree_clean":  true,
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\977_V430ME_RULE_SOURCE_OUTPUT_TASK_PROVENANCE_TRACE_OR_HOLD\\V430ME_RULE_SOURCE_OUTPUT_TASK_PROVENANCE_TRACE_OR_HOLD_20260519_074500\\09_REPORT\\v430me_rule_source_output_task_provenance_trace_or_hold_report.json",
     "latest_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\11_SYSTEM_AUDIT_HANDOFF\\99_AI_GENERATED_SYSTEM_INDEX\\v430me_rule_source_output_task_provenance_trace_or_hold_latest.json",
     "proof":  "C:\\Users\\sunpu\\Desktop\\pycson\\977_V430ME_RULE_SOURCE_OUTPUT_TASK_PROVENANCE_TRACE_OR_HOLD\\V430ME_RULE_SOURCE_OUTPUT_TASK_PROVENANCE_TRACE_OR_HOLD_20260519_074500\\08_PROOF\\no_fetch_no_ev_no_databridge_no_ui_no_buy_trade_proof.txt",
@@ -46,5 +46,6 @@
     "v430hb_target_table":  "C:\\Users\\sunpu\\Desktop\\pycson\\832_V430HB_SURFACE_AUTO_DISCOVERED_ROUTE_B_TARGETS_FOR_USER_CONFIRMATION_OR_HOLD\\V430HB_SURFACE_AUTO_DISCOVERED_ROUTE_B_TARGETS_FOR_USER_CONFIRMATION_OR_HOLD_20260516_160839\\01_USER_CONFIRMATION_PACKET\\route_b_user_confirmation_target_table.md",
     "v430ip_consolidated_task_table":  "C:\\Users\\sunpu\\Desktop\\pycson\\872_V430IP_USER_SOURCE_INPUT_REQUIREMENT_CONSOLIDATION_OR_HOLD\\V430IP_USER_SOURCE_INPUT_REQUIREMENT_CONSOLIDATION_OR_HOLD_20260517_085639\\01_CONSOLIDATED_TASK_SET\\consolidated_user_source_input_task_set.md",
     "evidence_package":  "C:\\Users\\sunpu\\Desktop\\pycson\\965_V430LW_RULE_SOURCE_EXTERNAL_OR_USER_SOURCE_ACQUISITION_PACKET_OR_HOLD\\V430LW_RULE_SOURCE_EXTERNAL_OR_USER_SOURCE_ACQUISITION_PACKET_OR_HOLD_20260519_044500\\07_FILLABLE_PACKAGE\\FILL_THIS_rule_source_external_or_user_evidence_package.csv",
-    "next_safe_step":  "WAIT_FOR_USER_OR_EXTERNAL_RULE_SOURCE_EVIDENCE_PACKAGE_OR_HOLD"
+    "next_safe_step":  "WAIT_FOR_USER_OR_EXTERNAL_RULE_SOURCE_EVIDENCE_PACKAGE_OR_HOLD",
+    "git_commit_hash":  "73f9e8f"
 }
