@@ -1,0 +1,6 @@
+﻿# V430MV Git Summary
+
+- Stage: V430MV_POLICY_VALUE_SELECTION_APPLY_RETRY_OR_HOLD
+- Status: READY_FOR_V430MW_POLICY_VALUE_SELECTION_APPLY_REVIEW_OR_HOLD
+- Decision: READY_FOR_V430MW_POLICY_VALUE_SELECTION_APPLY_REVIEW_OR_HOLD
+- Safety: isolated policy ready package apply only; no EV, DATA_BRIDGE, active payload, UI, fetch, or trade.
