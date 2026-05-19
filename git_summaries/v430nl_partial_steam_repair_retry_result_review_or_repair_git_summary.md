@@ -1,0 +1,13 @@
+﻿# V430NL Git Summary
+
+Stage: V430NL_PARTIAL_STEAM_REPAIR_RETRY_RESULT_REVIEW_OR_REPAIR
+Status: HOLD_STEAM_RETRY_RAW_PRICE_DATA_MISSING_SOURCE_REVIEW_REQUIRED
+Decision: HOLD_STEAM_RETRY_RAW_PRICE_DATA_MISSING_SOURCE_REVIEW_REQUIRED
+
+Latest JSON: C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\v430nl_partial_steam_repair_retry_result_review_or_repair_latest.json
+Report JSON: C:\Users\sunpu\Desktop\pycson\1011_V430NL_PARTIAL_STEAM_REPAIR_RETRY_RESULT_REVIEW_OR_REPAIR\V430NL_PARTIAL_STEAM_REPAIR_RETRY_RESULT_REVIEW_OR_REPAIR_20260519_161500\09_REPORT\v430nl_partial_steam_repair_retry_result_review_or_repair_report.json
+Executed script: C:\Users\sunpu\Desktop\pycson\1011_V430NL_PARTIAL_STEAM_REPAIR_RETRY_RESULT_REVIEW_OR_REPAIR\V430NL_PARTIAL_STEAM_REPAIR_RETRY_RESULT_REVIEW_OR_REPAIR_20260519_161500\00_EXECUTED_SCRIPT\RUN_V430NL_PARTIAL_STEAM_REPAIR_RETRY_RESULT_REVIEW_OR_REPAIR_20260519_161500.ps1
+Executed script SHA256: 25E7249A5E06FD0AEE060663C2AC856B804784D81B21D0F0047B6EA504DFEE05
+
+Row summary: success references 2; failed retry targets 5; schema diff rows 5; failed usable price data 0; failed no usable price data 5.
+Safety summary: local cache/schema review only; no fetch, no EV, no DATA_BRIDGE, no UI, no active payload, no BUY/TRADE; FAICTORY touched false.

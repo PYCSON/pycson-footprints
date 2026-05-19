@@ -1,0 +1,16 @@
+﻿V430NL git raw footprint prepared for controlled Git sync.
+
+Stage root: C:\Users\sunpu\Desktop\pycson\1011_V430NL_PARTIAL_STEAM_REPAIR_RETRY_RESULT_REVIEW_OR_REPAIR\V430NL_PARTIAL_STEAM_REPAIR_RETRY_RESULT_REVIEW_OR_REPAIR_20260519_161500
+Report: C:\Users\sunpu\Desktop\pycson\1011_V430NL_PARTIAL_STEAM_REPAIR_RETRY_RESULT_REVIEW_OR_REPAIR\V430NL_PARTIAL_STEAM_REPAIR_RETRY_RESULT_REVIEW_OR_REPAIR_20260519_161500\09_REPORT\v430nl_partial_steam_repair_retry_result_review_or_repair_report.json
+Latest: C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\v430nl_partial_steam_repair_retry_result_review_or_repair_latest.json
+Footprint: C:\Users\sunpu\Desktop\pycson\words.cossp\V430NL_PARTIAL_STEAM_REPAIR_RETRY_RESULT_REVIEW_OR_REPAIR_20260519_161500.md
+Executed script: C:\Users\sunpu\Desktop\pycson\1011_V430NL_PARTIAL_STEAM_REPAIR_RETRY_RESULT_REVIEW_OR_REPAIR\V430NL_PARTIAL_STEAM_REPAIR_RETRY_RESULT_REVIEW_OR_REPAIR_20260519_161500\00_EXECUTED_SCRIPT\RUN_V430NL_PARTIAL_STEAM_REPAIR_RETRY_RESULT_REVIEW_OR_REPAIR_20260519_161500.ps1
+Executed script SHA256: 25E7249A5E06FD0AEE060663C2AC856B804784D81B21D0F0047B6EA504DFEE05
+
+Success references: 2
+Failed retry targets: 5
+Schema diff rows: 5
+Failed target usable price data rows: 0
+Failed target no usable price data rows: 5
+Decision: HOLD_STEAM_RETRY_RAW_PRICE_DATA_MISSING_SOURCE_REVIEW_REQUIRED
+Safety: no fetch, no EV, no DATA_BRIDGE, no UI, no active payload, no BUY/TRADE, FAICTORY touched false.
