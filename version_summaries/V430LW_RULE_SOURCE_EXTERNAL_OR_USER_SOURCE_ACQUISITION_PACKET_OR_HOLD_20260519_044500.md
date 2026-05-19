@@ -1,0 +1,11 @@
+﻿# V430LW Footprint
+
+Status: READY_FOR_V430LX_RULE_SOURCE_EXTERNAL_OR_USER_EVIDENCE_FILL_WAIT_OR_HOLD
+Decision: READY_FOR_V430LX_RULE_SOURCE_EXTERNAL_OR_USER_EVIDENCE_FILL_WAIT_OR_HOLD
+Remaining probability tasks: 4
+Remaining output_pool tasks: 4
+Acquisition packet rows: 8
+Accepted source type rows: 5
+Rejected source type rows: 6
+Report: C:\Users\sunpu\Desktop\pycson\965_V430LW_RULE_SOURCE_EXTERNAL_OR_USER_SOURCE_ACQUISITION_PACKET_OR_HOLD\V430LW_RULE_SOURCE_EXTERNAL_OR_USER_SOURCE_ACQUISITION_PACKET_OR_HOLD_20260519_044500\11_REPORT\v430lw_rule_source_external_or_user_source_acquisition_packet_or_hold_report.json
+Latest: C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\v430lw_rule_source_external_or_user_source_acquisition_packet_or_hold_latest.json
