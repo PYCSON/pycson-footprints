@@ -1,0 +1,5 @@
+﻿GIT STATUS SHORT
+git_status_unavailable
+
+GIT STATUS BRANCH
+git_status_unavailable

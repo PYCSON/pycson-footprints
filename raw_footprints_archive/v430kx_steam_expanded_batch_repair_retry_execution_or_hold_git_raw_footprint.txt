@@ -1,0 +1,5 @@
+﻿GIT STATUS SHORT
+fatal: not a git repository (or any of the parent directories): .git
+
+GIT STATUS BRANCH
+fatal: not a git repository (or any of the parent directories): .git
