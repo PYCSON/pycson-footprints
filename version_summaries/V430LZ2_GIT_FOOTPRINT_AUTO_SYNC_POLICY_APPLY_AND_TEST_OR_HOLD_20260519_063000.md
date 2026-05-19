@@ -1,0 +1,9 @@
+﻿# V430LZ2 Footprint
+
+Status: PASS_PENDING_GIT_SYNC
+Decision: PENDING_GIT_SYNC
+Git autosync policy apply test performed: true
+Test artifact created: true
+Standing approval used: true
+Report: C:\Users\sunpu\Desktop\pycson\972_V430LZ2_GIT_FOOTPRINT_AUTO_SYNC_POLICY_APPLY_AND_TEST_OR_HOLD\V430LZ2_GIT_FOOTPRINT_AUTO_SYNC_POLICY_APPLY_AND_TEST_OR_HOLD_20260519_063000\04_REPORT\v430lz2_git_footprint_auto_sync_policy_apply_and_test_or_hold_report.json
+Latest: C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\v430lz2_git_footprint_auto_sync_policy_apply_and_test_or_hold_latest.json

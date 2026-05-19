@@ -1,0 +1,7 @@
+﻿V430LZ2 Git raw footprint before sync
+--- git branch --show-current ---
+main
+--- git remote -v ---
+origin	https://github.com/PYCSON/pycson-footprints.git (fetch)
+origin	https://github.com/PYCSON/pycson-footprints.git (push)
+--- git status --short before sync ---
