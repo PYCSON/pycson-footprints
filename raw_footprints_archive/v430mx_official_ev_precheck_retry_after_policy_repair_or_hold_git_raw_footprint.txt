@@ -1,0 +1,8 @@
+﻿Stage: V430MX_OFFICIAL_EV_PRECHECK_RETRY_AFTER_POLICY_REPAIR_OR_HOLD
+Status: READY_FOR_V430MY_OFFICIAL_EV_RETRY_AUTHORIZATION_PACKET_OR_HOLD
+Decision: READY_FOR_V430MY_OFFICIAL_EV_RETRY_AUTHORIZATION_PACKET_OR_HOLD
+Git repo used: false
+Git commit succeeded: false
+Git push succeeded: false
+Git push failure note: pending_controlled_git_autosync
+Safety summary: precheck retry only; no EV, no DATA_BRIDGE, no UI, no buy/trade.
