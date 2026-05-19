@@ -32,12 +32,12 @@
     "buy_now":  false,
     "tradeup_now":  false,
     "trade_or_order":  false,
-    "git_repo_used":  false,
-    "git_commit_succeeded":  false,
-    "git_push_succeeded":  false,
-    "git_push_failure_note":  "pending_controlled_git_autosync",
-    "head_matches_origin":  false,
-    "worktree_clean":  false,
+    "git_repo_used":  true,
+    "git_commit_succeeded":  true,
+    "git_push_succeeded":  true,
+    "git_push_failure_note":  "none",
+    "head_matches_origin":  true,
+    "worktree_clean":  true,
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\981_V430MI_RULE_SOURCE_PUBLIC_EVIDENCE_PARTIAL_REVIEW_OR_HOLD\\V430MI_RULE_SOURCE_PUBLIC_EVIDENCE_PARTIAL_REVIEW_OR_HOLD_20260519_084500\\08_REPORT\\v430mi_rule_source_public_evidence_partial_review_or_hold_report.json",
     "latest_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\11_SYSTEM_AUDIT_HANDOFF\\99_AI_GENERATED_SYSTEM_INDEX\\v430mi_rule_source_public_evidence_partial_review_or_hold_latest.json",
     "proof":  "C:\\Users\\sunpu\\Desktop\\pycson\\981_V430MI_RULE_SOURCE_PUBLIC_EVIDENCE_PARTIAL_REVIEW_OR_HOLD\\V430MI_RULE_SOURCE_PUBLIC_EVIDENCE_PARTIAL_REVIEW_OR_HOLD_20260519_084500\\07_PROOF\\no_value_application_no_ev_no_databridge_no_ui_proof.txt",
@@ -46,5 +46,6 @@
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\981_V430MI_RULE_SOURCE_PUBLIC_EVIDENCE_PARTIAL_REVIEW_OR_HOLD\\V430MI_RULE_SOURCE_PUBLIC_EVIDENCE_PARTIAL_REVIEW_OR_HOLD_20260519_084500\\09_GIT_FOOTPRINT\\v430mi_rule_source_public_evidence_partial_review_or_hold_git_summary.md",
     "executed_script":  "C:\\Users\\sunpu\\Desktop\\pycson\\981_V430MI_RULE_SOURCE_PUBLIC_EVIDENCE_PARTIAL_REVIEW_OR_HOLD\\V430MI_RULE_SOURCE_PUBLIC_EVIDENCE_PARTIAL_REVIEW_OR_HOLD_20260519_084500\\00_EXECUTED_SCRIPT\\RUN_V430MI_RULE_SOURCE_PUBLIC_EVIDENCE_PARTIAL_REVIEW_OR_HOLD_20260519_084500.ps1",
     "executed_script_sha256":  "3FB1E94C370699760730FEFF6C5F59D2F30144AE1DF424FFF4D3408C9326C60D",
-    "next_safe_step":  "V430MJ_TARGETED_OUTPUT_PROBABILITY_PUBLIC_EVIDENCE_SEARCH_AUTHORIZATION_OR_HOLD"
+    "next_safe_step":  "V430MJ_TARGETED_OUTPUT_PROBABILITY_PUBLIC_EVIDENCE_SEARCH_AUTHORIZATION_OR_HOLD",
+    "git_commit_hash":  "39d59e5"
 }
