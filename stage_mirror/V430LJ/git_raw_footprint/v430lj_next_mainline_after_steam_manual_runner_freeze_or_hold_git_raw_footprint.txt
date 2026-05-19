@@ -1,0 +1,5 @@
+﻿git status unavailable
+git commit not executed
+git push not executed
+error: fatal: not a git repository (or any of the parent directories): .git
+
