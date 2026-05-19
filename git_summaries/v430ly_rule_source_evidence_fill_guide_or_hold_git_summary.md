@@ -1,0 +1,13 @@
+﻿# V430LY Git Footprint Summary
+
+Stage: V430LY_RULE_SOURCE_EVIDENCE_FILL_GUIDE_OR_HOLD
+Status: READY_FOR_USER_TO_FILL_RULE_SOURCE_EVIDENCE_PACKAGE_USING_GUIDE_OR_HOLD
+Decision: READY_FOR_USER_TO_FILL_RULE_SOURCE_EVIDENCE_PACKAGE_USING_GUIDE_OR_HOLD
+Latest JSON: C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\v430ly_rule_source_evidence_fill_guide_or_hold_latest.json
+Report JSON: C:\Users\sunpu\Desktop\pycson\969_V430LY_RULE_SOURCE_EVIDENCE_FILL_GUIDE_OR_HOLD\V430LY_RULE_SOURCE_EVIDENCE_FILL_GUIDE_OR_HOLD_20260519_054500\10_REPORT\v430ly_rule_source_evidence_fill_guide_or_hold_report.json
+Executed script: C:\Users\sunpu\Desktop\pycson\969_V430LY_RULE_SOURCE_EVIDENCE_FILL_GUIDE_OR_HOLD\V430LY_RULE_SOURCE_EVIDENCE_FILL_GUIDE_OR_HOLD_20260519_054500\00_EXECUTED_SCRIPT\RUN_V430LY_RULE_SOURCE_EVIDENCE_FILL_GUIDE_OR_HOLD_20260519_054500.ps1
+Executed script SHA256: 51BBE22C1D20D02B2EF81FB093F9267FDF7FB92FD774AB90C9610A189E511BE0
+Git repo used: not_attempted_external_export_approval_required_for_v430ly_stage_footprint_push
+Git commit succeeded: false
+Git push succeeded: false
+Safety: no git add, commit, push, reset, clean, force push, or delete operation was executed.

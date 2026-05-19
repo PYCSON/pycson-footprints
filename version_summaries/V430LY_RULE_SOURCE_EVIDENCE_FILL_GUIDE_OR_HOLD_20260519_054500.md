@@ -1,0 +1,12 @@
+﻿# V430LY Footprint
+
+Status: READY_FOR_USER_TO_FILL_RULE_SOURCE_EVIDENCE_PACKAGE_USING_GUIDE_OR_HOLD
+Decision: READY_FOR_USER_TO_FILL_RULE_SOURCE_EVIDENCE_PACKAGE_USING_GUIDE_OR_HOLD
+Evidence package rows: 8
+Output probability guide rows: 4
+Output pool guide rows: 4
+Accepted source examples: 5
+Rejected source examples: 6
+Hold conditions: 8
+Report: C:\Users\sunpu\Desktop\pycson\969_V430LY_RULE_SOURCE_EVIDENCE_FILL_GUIDE_OR_HOLD\V430LY_RULE_SOURCE_EVIDENCE_FILL_GUIDE_OR_HOLD_20260519_054500\10_REPORT\v430ly_rule_source_evidence_fill_guide_or_hold_report.json
+Latest: C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\v430ly_rule_source_evidence_fill_guide_or_hold_latest.json
