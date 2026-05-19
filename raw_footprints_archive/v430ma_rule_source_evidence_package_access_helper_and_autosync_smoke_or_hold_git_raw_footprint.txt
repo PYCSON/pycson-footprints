@@ -1,0 +1,7 @@
+﻿V430MA Git raw footprint before autosync
+Branch: main
+Remote:
+origin	https://github.com/PYCSON/pycson-footprints.git (fetch)
+origin	https://github.com/PYCSON/pycson-footprints.git (push)
+Status before:
+
