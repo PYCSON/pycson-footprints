@@ -34,12 +34,12 @@
     "buy_now":  false,
     "tradeup_now":  false,
     "trade_or_order":  false,
-    "git_repo_used":  false,
-    "git_commit_succeeded":  false,
-    "git_push_succeeded":  false,
-    "git_push_failure_note":  "pending_controlled_git_autosync",
-    "head_matches_origin":  false,
-    "worktree_clean":  false,
+    "git_repo_used":  true,
+    "git_commit_succeeded":  true,
+    "git_push_succeeded":  true,
+    "git_push_failure_note":  "none",
+    "head_matches_origin":  true,
+    "worktree_clean":  true,
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\979_V430MG_RULE_SOURCE_EXTERNAL_PUBLIC_SOURCE_SEARCH_REVIEW_OR_HOLD\\V430MG_RULE_SOURCE_EXTERNAL_PUBLIC_SOURCE_SEARCH_REVIEW_OR_HOLD_20260519_081500\\10_REPORT\\v430mg_rule_source_external_public_source_search_review_or_hold_report.json",
     "latest_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\11_SYSTEM_AUDIT_HANDOFF\\99_AI_GENERATED_SYSTEM_INDEX\\v430mg_rule_source_external_public_source_search_review_or_hold_latest.json",
     "proof":  "C:\\Users\\sunpu\\Desktop\\pycson\\979_V430MG_RULE_SOURCE_EXTERNAL_PUBLIC_SOURCE_SEARCH_REVIEW_OR_HOLD\\V430MG_RULE_SOURCE_EXTERNAL_PUBLIC_SOURCE_SEARCH_REVIEW_OR_HOLD_20260519_081500\\09_PROOF\\no_value_application_no_ev_no_databridge_no_ui_proof.txt",
@@ -48,5 +48,6 @@
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\979_V430MG_RULE_SOURCE_EXTERNAL_PUBLIC_SOURCE_SEARCH_REVIEW_OR_HOLD\\V430MG_RULE_SOURCE_EXTERNAL_PUBLIC_SOURCE_SEARCH_REVIEW_OR_HOLD_20260519_081500\\11_GIT_FOOTPRINT\\v430mg_rule_source_external_public_source_search_review_or_hold_git_summary.md",
     "executed_script":  "C:\\Users\\sunpu\\Desktop\\pycson\\979_V430MG_RULE_SOURCE_EXTERNAL_PUBLIC_SOURCE_SEARCH_REVIEW_OR_HOLD\\V430MG_RULE_SOURCE_EXTERNAL_PUBLIC_SOURCE_SEARCH_REVIEW_OR_HOLD_20260519_081500\\00_EXECUTED_SCRIPT\\RUN_V430MG_RULE_SOURCE_EXTERNAL_PUBLIC_SOURCE_SEARCH_REVIEW_OR_HOLD_20260519_081500.ps1",
     "executed_script_sha256":  "F8F2414FC841507A3F5ED7387AE9E45891F7286D529500835F71FBE809403868",
-    "next_safe_step":  "V430MH_RULE_SOURCE_PUBLIC_EVIDENCE_VALIDATION_DRYRUN_OR_HOLD"
+    "next_safe_step":  "V430MH_RULE_SOURCE_PUBLIC_EVIDENCE_VALIDATION_DRYRUN_OR_HOLD",
+    "git_commit_hash":  "76505c8"
 }
