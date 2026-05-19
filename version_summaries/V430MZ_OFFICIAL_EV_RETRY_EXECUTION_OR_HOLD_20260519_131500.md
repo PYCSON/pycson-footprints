@@ -1,0 +1,20 @@
+﻿# V430MZ Footprint
+
+Stage: V430MZ_OFFICIAL_EV_RETRY_EXECUTION_OR_HOLD
+Stamp: 20260519_131500
+Status: READY_FOR_V430NA_OFFICIAL_EV_RETRY_REVIEW_OR_HOLD
+Decision: READY_FOR_V430NA_OFFICIAL_EV_RETRY_REVIEW_OR_HOLD
+
+Official EV retry executed: True
+Official EV row count: 1
+Official EV component row count: 20
+Steam price source used: true
+Rule source used: true
+Policy package used: true
+Trusted EV calculated: false
+DATA_BRIDGE write: false
+UI patch: false
+Buy/trade/order: false
+
+Executed script: C:\Users\sunpu\Desktop\pycson\999_V430MZ_OFFICIAL_EV_RETRY_EXECUTION_OR_HOLD\V430MZ_OFFICIAL_EV_RETRY_EXECUTION_OR_HOLD_20260519_131500\00_EXECUTED_SCRIPT\RUN_V430MZ_OFFICIAL_EV_RETRY_EXECUTION_OR_HOLD_20260519_131500.ps1
+Executed script SHA256: 3E1E1E735E228A8A00FF2DDFEC97AE62F2B3A9BF3299E20B1109FEA710B69277

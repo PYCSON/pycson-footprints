@@ -1,0 +1,8 @@
+﻿Stage: V430MZ_OFFICIAL_EV_RETRY_EXECUTION_OR_HOLD
+Status: READY_FOR_V430NA_OFFICIAL_EV_RETRY_REVIEW_OR_HOLD
+Decision: READY_FOR_V430NA_OFFICIAL_EV_RETRY_REVIEW_OR_HOLD
+Git repo used: false
+Git commit succeeded: false
+Git push succeeded: false
+Git push failure note: pending_controlled_git_autosync
+Safety summary: official EV retry output only; no trusted EV, no DATA_BRIDGE, no UI, no buy/trade.
