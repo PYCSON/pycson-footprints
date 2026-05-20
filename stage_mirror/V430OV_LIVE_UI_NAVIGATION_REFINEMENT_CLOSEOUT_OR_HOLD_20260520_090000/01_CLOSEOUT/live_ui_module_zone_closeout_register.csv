@@ -1,0 +1,7 @@
+"module_zone","closeout_status","placement_rule"
+"top navigation","closed_pass","major route families only"
+"route directory","closed_pass","secondary family list and quick focus links"
+"central cockpit","closed_pass","selected route status and readonly summaries"
+"right panel","closed_pass","risk, boundary, alerts, proof badges"
+"bottom safe actions","closed_pass","safe review/refresh/navigation only"
+"Steam module zone","closed_pass","preserve existing readonly module and focus button"

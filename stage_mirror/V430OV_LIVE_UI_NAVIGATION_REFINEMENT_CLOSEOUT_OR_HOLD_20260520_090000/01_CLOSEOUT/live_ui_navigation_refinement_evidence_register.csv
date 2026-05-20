@@ -1,0 +1,8 @@
+"evidence_item","source","status","note"
+"V430OU latest loaded","C:\Users\sunpu\Desktop\pycson\11_SYSTEM_AUDIT_HANDOFF\99_AI_GENERATED_SYSTEM_INDEX\v430ou_live_ui_navigation_structure_refinement_review_or_hold_latest.json","true","anchor loaded"
+"V430OU report loaded","C:\Users\sunpu\Desktop\pycson\1046_V430OU_LIVE_UI_NAVIGATION_STRUCTURE_REFINEMENT_REVIEW_OR_HOLD\V430OU_LIVE_UI_NAVIGATION_STRUCTURE_REFINEMENT_REVIEW_OR_HOLD_20260520_084500\03_REPORT\v430ou_live_ui_navigation_structure_refinement_review_or_hold_report.json","true","report loaded"
+"V430OU proof loaded","C:\Users\sunpu\Desktop\pycson\1046_V430OU_LIVE_UI_NAVIGATION_STRUCTURE_REFINEMENT_REVIEW_OR_HOLD\V430OU_LIVE_UI_NAVIGATION_STRUCTURE_REFINEMENT_REVIEW_OR_HOLD_20260520_084500\02_PROOF\no_databridge_no_ev_no_fetch_no_buy_trade_proof.txt","true","proof loaded"
+"mother UI unchanged","C:\Users\sunpu\Desktop\pycson\02_UI_SYSTEMS\PYCSON_MASTER_UI\V200_MASTER_UI.html","true","hash matches reviewed hash"
+"LIVE UI reviewed","C:\Users\sunpu\Desktop\pycson\02_UI_SYSTEMS\PYCSON_MASTER_UI\V200_MASTER_UI_LIVE.html","true","no patch in V430OV"
+"Steam Mature Loop module preserved","V430OU review","true","module preserved"
+"STEAM MATURE LOOP button preserved","V430OU review","true","button preserved"
