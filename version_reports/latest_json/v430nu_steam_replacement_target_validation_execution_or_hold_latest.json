@@ -1,4 +1,4 @@
-{
+﻿{
     "status":  "READY_FOR_V430NV_STEAM_COMBINED_RESULT_SCREENING_AND_EV_HANDOFF_PACKAGE_OR_HOLD",
     "decision":  "READY_FOR_V430NV_STEAM_COMBINED_RESULT_SCREENING_AND_EV_HANDOFF_PACKAGE_OR_HOLD",
     "project_root_confirmed":  true,
@@ -41,11 +41,11 @@
     "ready_for_partial_steam_result_screening_and_mature_loop_minimum":  false,
     "ready_for_replacement_target_review_or_replace":  false,
     "git_repo_used":  true,
-    "git_commit_succeeded":  false,
-    "git_push_succeeded":  false,
-    "git_push_failure_note":  "pending",
-    "head_matches_origin":  false,
-    "worktree_clean":  false,
+    "git_commit_succeeded":  true,
+    "git_push_succeeded":  true,
+    "git_push_failure_note":  "none",
+    "head_matches_origin":  true,
+    "worktree_clean":  true,
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\1020_V430NU_STEAM_REPLACEMENT_TARGET_VALIDATION_EXECUTION_OR_HOLD\\V430NU_STEAM_REPLACEMENT_TARGET_VALIDATION_EXECUTION_OR_HOLD_20260520_021500\\11_REPORT\\v430nu_steam_replacement_target_validation_execution_or_hold_report.json",
     "latest_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\11_SYSTEM_AUDIT_HANDOFF\\99_AI_GENERATED_SYSTEM_INDEX\\v430nu_steam_replacement_target_validation_execution_or_hold_latest.json",
     "no_fetch_beyond_steam_public_readonly_no_ev_no_databridge_no_ui_no_buy_trade_proof":  "C:\\Users\\sunpu\\Desktop\\pycson\\1020_V430NU_STEAM_REPLACEMENT_TARGET_VALIDATION_EXECUTION_OR_HOLD\\V430NU_STEAM_REPLACEMENT_TARGET_VALIDATION_EXECUTION_OR_HOLD_20260520_021500\\10_PROOF\\no_fetch_beyond_steam_public_readonly_no_ev_no_databridge_no_ui_no_buy_trade_proof.txt",
