@@ -1,4 +1,4 @@
-{
+﻿{
     "status":  "READY_FOR_V430NW_STEAM_TO_ISOLATED_EV_FEED_REVIEW_PACKAGE_OR_HOLD",
     "decision":  "READY_FOR_V430NW_STEAM_TO_ISOLATED_EV_FEED_REVIEW_PACKAGE_OR_HOLD",
     "project_root_confirmed":  true,
@@ -28,11 +28,11 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  true,
-    "git_commit_succeeded":  false,
-    "git_push_succeeded":  false,
-    "git_push_failure_note":  "pending",
-    "head_matches_origin":  false,
-    "worktree_clean":  false,
+    "git_commit_succeeded":  true,
+    "git_push_succeeded":  true,
+    "git_push_failure_note":  "none",
+    "head_matches_origin":  true,
+    "worktree_clean":  true,
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\1021_V430NV_STEAM_COMBINED_RESULT_SCREENING_AND_EV_HANDOFF_PACKAGE_OR_HOLD\\V430NV_STEAM_COMBINED_RESULT_SCREENING_AND_EV_HANDOFF_PACKAGE_OR_HOLD_20260520_023000\\12_REPORT\\v430nv_steam_combined_result_screening_and_ev_handoff_package_or_hold_report.json",
     "latest_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\11_SYSTEM_AUDIT_HANDOFF\\99_AI_GENERATED_SYSTEM_INDEX\\v430nv_steam_combined_result_screening_and_ev_handoff_package_or_hold_latest.json",
     "no_fetch_no_ev_no_databridge_no_ui_no_buy_trade_proof":  "C:\\Users\\sunpu\\Desktop\\pycson\\1021_V430NV_STEAM_COMBINED_RESULT_SCREENING_AND_EV_HANDOFF_PACKAGE_OR_HOLD\\V430NV_STEAM_COMBINED_RESULT_SCREENING_AND_EV_HANDOFF_PACKAGE_OR_HOLD_20260520_023000\\11_PROOF\\no_fetch_no_ev_no_databridge_no_ui_no_buy_trade_proof.txt",
