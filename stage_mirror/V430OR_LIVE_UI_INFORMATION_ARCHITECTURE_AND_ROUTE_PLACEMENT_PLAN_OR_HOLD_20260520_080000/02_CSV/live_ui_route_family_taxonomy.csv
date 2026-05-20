@@ -1,0 +1,11 @@
+row_id,route_family,purpose,primary_zone,boundary_notes
+1,Steam Mature Loop,Validated Steam source loop display and handoff status,Central cockpit + top nav,Readonly no fetch in display route
+2,Trade-up Route,Trade-up research/review/dryrun route,Central cockpit + left directory,No BUY_NOW or TRADEUP_NOW buttons
+3,EV Route,Official/trusted EV review and authorization,Central cockpit + right boundary,No EV calculation without explicit stage approval
+4,Risk Route,Risk gates warnings and safety state,Right panel + top nav,No trade trigger
+5,Records Replay Proof,Audit trail reports proof replay,Left directory + central detail,Readonly evidence only
+6,Params Config,Configuration visibility and review,Left directory + central detail,No hidden active payload write
+7,Radar Discovery,Discovery watchlists and readonly radar,Top nav + central detail,No market fetch without authorization
+8,File Report Footprint,Reports footprints latest JSONs,Left directory + file panel,Path/reference display only
+9,Scheduler Cadence,Cadence/scheduler planning and status,Right panel + route directory,No automation without explicit authorization
+10,DATA_BRIDGE UI Integration,Bridge/UI write authorization status,Right boundary + central plan,Deferred and explicit approval only

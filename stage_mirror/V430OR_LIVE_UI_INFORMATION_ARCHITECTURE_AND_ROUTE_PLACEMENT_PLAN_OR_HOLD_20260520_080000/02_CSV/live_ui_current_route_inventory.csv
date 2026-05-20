@@ -1,0 +1,13 @@
+row_id,current_route_or_module,current_location,observed_evidence,recommended_family,notes
+1,Global,top nav,module_global_arbitrage.html,Global,major family link exists
+2,Trade-up,top nav,module_tradeup_center.html,Trade-up,major family link exists but execution buttons forbidden
+3,Risk,top nav and floating card,module_risk_control.html / Risk Monitor,Risk,right-panel family candidate
+4,Records,top nav,module_trade_records.html,Records / Replay / Proof,proof and history family
+5,Params,top nav,module_params_center/module_parameters,Params / Config,configuration family
+6,File,top nav,module_file_center.html,File / Report / Footprint,report and footprint family
+7,Radar,top nav and radar link,module_radar_center.html,Radar / Discovery,discovery family
+8,Steam Mature Loop,top nav button plus readonly module,pycson-v430on entry and pycson-v430oi module,Steam Mature Loop,first completed visible+navigable route
+9,Alias Price EV pill,embedded pill,ALIAS PRICE EV,EV,needs family placement rather than floating scatter
+10,Status/dashboard JSON cards,embedded cards,local readonly fetches,Cockpit Status,central status area candidate
+11,Boundary warning text,embedded module warnings,no DATA_BRIDGE/no trade text,Risk / Boundary,right panel or per-route footer
+12,Legacy route arrays,script data arrays,module list arrays,Navigation Infrastructure,source for left route directory

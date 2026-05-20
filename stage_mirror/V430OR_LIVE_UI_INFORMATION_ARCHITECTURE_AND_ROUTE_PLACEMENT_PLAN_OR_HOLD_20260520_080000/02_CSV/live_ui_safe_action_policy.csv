@@ -1,0 +1,11 @@
+row_id,safe_action,allowed,notes
+1,Scroll to module,true,UI-only navigation
+2,Highlight module,true,Temporary visual focus
+3,Expand collapse readonly detail,true,No data writes
+4,Filter displayed rows,true,Client-side only
+5,Open local report or latest path,true,Readonly reference
+6,Copy path,true,Clipboard/user convenience only
+7,Refresh market data,false,Requires fetch authorization
+8,Calculate EV,false,Requires explicit EV stage
+9,Write DATA_BRIDGE,false,Requires explicit bridge authorization
+10,Trade order buy,true only as forbidden display,No executable control

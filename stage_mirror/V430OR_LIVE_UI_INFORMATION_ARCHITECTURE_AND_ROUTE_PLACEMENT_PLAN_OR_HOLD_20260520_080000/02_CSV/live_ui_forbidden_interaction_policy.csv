@@ -1,0 +1,11 @@
+row_id,forbidden_pattern,reason
+1,BUY_NOW button,Trading execution forbidden
+2,TRADEUP_NOW button,Trade-up execution forbidden
+3,Trade/order trigger,No auto-trading system
+4,Hidden DATA_BRIDGE write,Violates bridge authorization boundary
+5,Hidden active payload write,Violates payload boundary
+6,Duplicate standalone replacement page,Fragments cockpit identity
+7,Mother UI modification,V200_MASTER_UI.html protected
+8,Unreviewed fetch button,Network/fetch authorization required
+9,Unreviewed EV calculation button,EV authorization required
+10,Random card injection,Creates clutter and route drift

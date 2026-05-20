@@ -1,0 +1,12 @@
+row_id,future_route,family,primary_zone,secondary_zone,insertion_rule
+1,Steam Mature Loop,Steam Mature Loop,Top Navigation + Central Cockpit,Route Detail Drawer,Keep current button/module then refactor into family slot later
+2,Trade-up route,Trade-up Route,Top Navigation + Central Cockpit,Right Boundary Panel,Readonly review only no TRADEUP_NOW
+3,Official EV route,EV Route,Left Route Directory + Central Cockpit,Right Boundary Panel,Authorization gated before EV execution
+4,Trusted EV route,EV Route,Left Route Directory + Central Cockpit,Right Boundary Panel,Review gated no signal route by default
+5,Risk route,Risk Route,Right Boundary Panel,Top Navigation,Warnings and gates only
+6,Records/replay/proof,Records Replay Proof,Left Route Directory,Central Cockpit,Audit evidence viewer only
+7,Params/config,Params Config,Left Route Directory,Central Cockpit,No hidden write to active payload
+8,Radar/discovery,Radar Discovery,Top Navigation + Central Cockpit,Right Boundary Panel,No fetch without authorization
+9,File/report/footprint,File Report Footprint,Left Route Directory,Route Detail Drawer,Open/report path reference only
+10,Scheduler/cadence,Scheduler Cadence,Right Boundary Panel,Left Route Directory,Authorization packet before automation
+11,DATA_BRIDGE/UI integration,DATA_BRIDGE UI Integration,Right Boundary Panel,Central Cockpit,Plan/authorization only until approved

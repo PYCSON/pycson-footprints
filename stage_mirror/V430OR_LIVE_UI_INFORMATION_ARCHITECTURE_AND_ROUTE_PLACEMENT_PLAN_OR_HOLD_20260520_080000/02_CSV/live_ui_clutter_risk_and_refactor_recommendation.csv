@@ -1,0 +1,7 @@
+row_id,clutter_risk,severity,recommendation
+1,Top nav grows with individual stage buttons,medium,Limit top nav to route families
+2,Embedded cards accumulate in document order,high,Move route details into central selected-route cockpit
+3,Floating panels compete for attention,medium,Reserve right panel for boundary/risk only
+4,Duplicate module links and route arrays diverge,medium,Create single route registry source later
+5,Action buttons may look executable,high,Use safe action policy and forbid trade/bridge/fetch/EV controls
+6,Steam module sits low in page,medium,Keep button now and later place in central route zone

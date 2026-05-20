@@ -1,0 +1,7 @@
+row_id,zone_name,zone_role,allowed_content,disallowed_content
+1,Top Navigation,Major route families,Short stable family entries,Per-stage clutter or action triggers
+2,Left Route Directory,Detailed route list and anchors,Stage links grouped by family,Trading controls
+3,Central Cockpit,Selected route status and readonly cards,Summary counters proof paths review state,Random unrelated cards
+4,Right Boundary Panel,Risk and forbidden-action state,No trade no write alerts rollback status,Profit/action buttons
+5,Bottom Safe Actions,Local UI-only convenience,Scroll filter expand copy path open report,Fetch EV DATA_BRIDGE buy trade
+6,Route Detail Drawer,Expanded audit detail,Source trace latest/report/proof links,Active payload editing

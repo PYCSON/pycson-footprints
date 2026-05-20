@@ -1,0 +1,6 @@
+row_id,next_stage,stage_type,purpose,boundary
+1,V430OS_LIVE_UI_NAVIGATION_STRUCTURE_REFINEMENT_AUTHORIZATION_OR_HOLD,authorization,Approve a no-data-write navigation structure refinement packet,No patch until user approval
+2,V430OT_LIVE_UI_NAVIGATION_STRUCTURE_REFINEMENT_DRYRUN_OR_HOLD,dryrun,Create patch draft and placement diff without applying,No LIVE UI patch
+3,V430OU_LIVE_UI_NAVIGATION_STRUCTURE_PATCH_EXECUTION_OR_HOLD,patch execution,Apply controlled LIVE UI-only navigation structure after backup,No mother UI no DATA_BRIDGE no EV no fetch no trade
+4,V430OV_LIVE_UI_NAVIGATION_STRUCTURE_REVIEW_OR_HOLD,review,Review placement behavior and boundaries,No patch
+5,V430OW_UI_INFORMATION_ARCHITECTURE_MILESTONE_CLOSEOUT_OR_HOLD,closeout,Close out IA milestone,Documentation only

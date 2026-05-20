@@ -1,0 +1,6 @@
+row_id,policy,requirement
+1,Top nav contains major families only,No individual experiment cards in top nav
+2,Every nav entry maps to a stable anchor or route page,No dead links or hidden behavior
+3,Buttons may scroll highlight expand filter or open report,No fetch EV DATA_BRIDGE buy trade behavior
+4,Left directory handles detailed stage/route lists,Keep cockpit clean
+5,Current Steam Mature Loop entry remains reference pattern,Visible label plus stable module anchor

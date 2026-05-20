@@ -1,0 +1,18 @@
+V430OR no UI patch / no DATA_BRIDGE / no EV / no fetch / no buy trade proof
+
+Planning stage only: true
+LIVE UI patched: false
+Mother UI modified: false
+DATA_BRIDGE write: false
+Active payload write: false
+Official EV calculated: false
+Trusted EV calculated: false
+Steam fetch executed: false
+BUFF fetch executed: false
+BUY_NOW: false
+TRADEUP_NOW: false
+TRADE_OR_ORDER: false
+FAICTORY touched: false
+
+Mother UI hash observed before/after planning only: 9E51AF6236261B096D4EFD15DE6CAF97D23475E52BDB77B480B4614FFC250BA6
+LIVE UI hash observed before/after planning only: 2805E2EDCB04EAF6761549FD53C686B8210CC9E1E0AA8F21755579072BA5A083
