@@ -1,0 +1,8 @@
+"item","patch_plan"
+"Steam Mature Loop module","promote into selected center cockpit route panel"
+"readonly status","preserve"
+"final targets","preserve display value 7"
+"excluded failed","preserve display value 5"
+"handoff ready","preserve display value 7"
+"boundary warnings","preserve visible warning"
+"button behavior","preserve scroll/highlight"

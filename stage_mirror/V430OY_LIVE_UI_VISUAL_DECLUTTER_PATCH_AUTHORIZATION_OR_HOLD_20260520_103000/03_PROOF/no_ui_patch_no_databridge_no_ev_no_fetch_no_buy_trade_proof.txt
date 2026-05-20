@@ -1,0 +1,16 @@
+V430OY proof
+Authorization packet only.
+No LIVE UI patch.
+No mother UI modification.
+Mother UI hash: 9E51AF6236261B096D4EFD15DE6CAF97D23475E52BDB77B480B4614FFC250BA6
+LIVE UI hash: 5269EF688C9CE7629C73C8D409BA37AAD5BF317BBB5B5C043543D31521CA957B
+No DATA_BRIDGE write.
+No active payload write.
+No official EV calculation.
+No trusted EV calculation.
+No Steam fetch.
+No BUFF fetch.
+No BUY_NOW.
+No TRADEUP_NOW.
+No trade/order.
+FAICTORY not touched.
