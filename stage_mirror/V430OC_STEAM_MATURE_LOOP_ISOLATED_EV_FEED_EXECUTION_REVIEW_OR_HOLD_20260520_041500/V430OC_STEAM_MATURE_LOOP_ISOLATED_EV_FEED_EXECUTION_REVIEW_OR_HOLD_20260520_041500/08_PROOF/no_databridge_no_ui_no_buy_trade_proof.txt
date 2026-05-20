@@ -1,0 +1,21 @@
+﻿V430OC no-DATA_BRIDGE/no-UI/no-buy-trade proof.
+
+steam_mature_loop_isolated_ev_feed_review_performed=true
+feed_input_rows_reviewed=7
+feed_execution_rows_reviewed=7
+feed_input_trace_rows_reviewed=7
+feed_compatibility_audit_rows_reviewed=7
+feed_source_trace_review_pass=True
+feed_compatibility_review_pass=True
+feed_boundary_review_pass=True
+steam_fetch_executed=false
+buff_fetch_executed=false
+official_ev_calculated=false
+trusted_ev_calculated=false
+data_bridge_write=false
+active_payload_write=false
+ui_patch=false
+buy_now=false
+tradeup_now=false
+trade_or_order=false
+faictory_touched=false

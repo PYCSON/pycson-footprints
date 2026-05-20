@@ -1,0 +1,3 @@
+﻿"route","recommendation","reason","forbidden_next_without_authorization"
+"V430OD_STEAM_MATURE_LOOP_FINAL_CLOSEOUT_OR_HOLD","recommended","V430OC review passed 7 feed rows, traces, audits, and boundaries.","DATA_BRIDGE, UI, active payload, official EV, trusted EV, signal, trade"
+"FEED_REVIEW_REPAIR","not_needed","No row count, trace, compatibility, or boundary repair found.","retrying feed or calculating EV without packet"

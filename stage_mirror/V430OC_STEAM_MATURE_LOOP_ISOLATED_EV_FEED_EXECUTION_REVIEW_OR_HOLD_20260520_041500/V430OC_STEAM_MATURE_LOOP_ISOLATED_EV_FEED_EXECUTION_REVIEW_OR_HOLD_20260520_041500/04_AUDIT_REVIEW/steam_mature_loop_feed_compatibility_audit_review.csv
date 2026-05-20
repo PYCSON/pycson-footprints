@@ -1,0 +1,8 @@
+﻿"feed_compatibility_audit_id","ev_feed_ready_row_id","required_fields_present","positive_numeric_price","compatibility_status","audit_review_status","no_ev_calculated","no_databridge_ui_trade"
+"V430OB_AUDIT_001","V430OA_READY_001","true","true","pass","pass","true","true"
+"V430OB_AUDIT_002","V430OA_READY_002","true","true","pass","pass","true","true"
+"V430OB_AUDIT_003","V430OA_READY_003","true","true","pass","pass","true","true"
+"V430OB_AUDIT_004","V430OA_READY_004","true","true","pass","pass","true","true"
+"V430OB_AUDIT_005","V430OA_READY_005","true","true","pass","pass","true","true"
+"V430OB_AUDIT_006","V430OA_READY_006","true","true","pass","pass","true","true"
+"V430OB_AUDIT_007","V430OA_READY_007","true","true","pass","pass","true","true"
