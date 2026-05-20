@@ -1,0 +1,5 @@
+﻿"next_stage","purpose","allowed","forbidden"
+"V430OG_STEAM_MATURE_LOOP_UI_PAYLOAD_CANDIDATE_BUILD_OR_HOLD","Build isolated readonly UI payload candidate","read V430OD artifacts and create candidate JSON/fixtures","LIVE UI patch, mother UI edit, DATA_BRIDGE, active payload, EV, fetch, trade"
+"V430OH_STEAM_MATURE_LOOP_UI_PAYLOAD_CANDIDATE_REVIEW_OR_HOLD","Review payload candidate","schema/source/boundary review","UI patch or DATA_BRIDGE write"
+"V430OI_STEAM_MATURE_LOOP_LIVE_UI_PATCH_AUTHORIZATION_OR_HOLD","Create explicit user approval packet for LIVE UI patch","authorization packet only","patch execution"
+"V430OJ_STEAM_MATURE_LOOP_LIVE_UI_READONLY_PATCH_OR_HOLD","Patch existing LIVE UI only after approval","controlled reversible LIVE UI readonly patch","mother UI edit, DATA_BRIDGE, EV, fetch, trade"

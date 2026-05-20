@@ -1,0 +1,35 @@
+﻿{
+    "schema_name":  "steam_mature_loop_ui_payload_candidate_schema",
+    "stage":  "V430OF",
+    "mode":  "readonly_candidate_only",
+    "writes_to_data_bridge":  false,
+    "writes_to_active_payload":  false,
+    "patches_live_ui":  false,
+    "patches_mother_ui":  false,
+    "properties":  {
+                       "module_status":  "string",
+                       "final_target_pool_count":  "integer",
+                       "final_target_rows":  "array\u003cobject\u003e",
+                       "excluded_failed_target_count":  "integer",
+                       "excluded_failed_target_rows":  "array\u003cobject\u003e",
+                       "runner_policy":  "object",
+                       "screening_status":  "object",
+                       "isolated_ev_handoff":  "object",
+                       "feed_execution_review":  "object",
+                       "boundary_flags":  "object",
+                       "source_trace":  "object"
+                   },
+    "required":  [
+                     "module_status",
+                     "final_target_pool_count",
+                     "final_target_rows",
+                     "excluded_failed_target_count",
+                     "excluded_failed_target_rows",
+                     "runner_policy",
+                     "screening_status",
+                     "isolated_ev_handoff",
+                     "feed_execution_review",
+                     "boundary_flags",
+                     "source_trace"
+                 ]
+}
