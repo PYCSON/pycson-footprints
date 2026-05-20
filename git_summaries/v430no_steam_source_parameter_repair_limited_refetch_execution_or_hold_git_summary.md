@@ -13,3 +13,6 @@ Finalize script SHA256: 1AA377DB015E49E96337A22F42907BCE1A733C611FB99281B78F781C
 
 Row summary: refetch targets 5; success references 2; success 0; price candidates 0; blocked 0; errors 5.
 Safety summary: bounded Steam public readonly limited refetch only; no BUFF, login/cookies/credentials, bypass, EV, DATA_BRIDGE, active payload, UI, BUY/TRADE; FAICTORY touched false.
+
+Git sync status: initial commit/push succeeded; post-sync metadata update pending second commit. Current HEAD=e035be4 origin/main=e035be4 worktree_status_before_metadata_commit=''.
+
