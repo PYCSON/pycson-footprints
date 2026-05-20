@@ -1,0 +1,7 @@
+"safe_action","allowed_behavior","v430ot_result"
+"navigate","route family directory selection","allowed"
+"focus","Steam button focuses existing module","allowed"
+"highlight","directory/module visual highlight only","allowed"
+"review","display route placement and boundaries","allowed"
+"rollback","restore backed up LIVE UI file if needed","prepared"
+"post_patch_review","next V430OU display/behavior review","prepared"

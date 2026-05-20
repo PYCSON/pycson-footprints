@@ -1,0 +1,7 @@
+"zone","placement","v430ot_patch_action","status"
+"top_crosslink_nav","existing V307B nav","preserved existing links and Steam button","preserved"
+"route_family_directory","fixed lower-right readonly directory","added compact route family map","patched"
+"central_cockpit","main screen terminal","no structural change","preserved"
+"right_boundary_alerts","existing right-side overlays","no structural change","preserved"
+"bottom_safe_actions","safe action concept","documented no execution buttons","documented"
+"steam_readonly_module","existing V430OI module","preserved target anchor and focus behavior","preserved"
