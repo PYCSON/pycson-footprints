@@ -1,0 +1,6 @@
+scope_id,file,operation,allowed,notes
+1,V200_MASTER_UI_LIVE.html,later_patch_after_user_approval,true,Add readonly navigation/button entry only
+2,V200_MASTER_UI.html,modify,false,Mother UI protected
+3,DATA_BRIDGE,write,false,No data bridge action
+4,active_payload,write,false,No active payload action
+5,Steam Mature Loop readonly module,scroll_or_highlight,true,Existing module only

@@ -1,0 +1,3 @@
+behavior_id,button_label,target_anchor,action,allowed,forbidden_side_effects
+1,STEAM MATURE LOOP,pycson-v430oi-steam-mature-loop-readonly,scrollIntoView_and_temporary_highlight,true,fetch_or_ev_or_databridge_or_trade
+2,STEAM MATURE LOOP,pycson-v430oi-steam-mature-loop-readonly,expand_or_focus_existing_module,true,fetch_or_ev_or_databridge_or_trade

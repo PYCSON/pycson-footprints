@@ -1,0 +1,19 @@
+V430OM no UI patch / no DATA_BRIDGE / no EV / no fetch / no buy trade proof
+
+Authorization stage only: true
+LIVE UI patched in this stage: false
+Mother UI modified: false
+DATA_BRIDGE write: false
+Active payload write: false
+Official EV calculated: false
+Trusted EV calculated: false
+Steam fetch executed: false
+BUFF fetch executed: false
+BUY_NOW: false
+TRADEUP_NOW: false
+Trade/order: false
+FAICTORY touched: false
+
+Mother UI SHA256 observed only: 9E51AF6236261B096D4EFD15DE6CAF97D23475E52BDB77B480B4614FFC250BA6
+LIVE UI SHA256 observed only: C463D8B8335BFBB3476E4498A7FF391878B03DB81FFA08AB41652C3984D972B3
+Existing readonly module confirmed: true

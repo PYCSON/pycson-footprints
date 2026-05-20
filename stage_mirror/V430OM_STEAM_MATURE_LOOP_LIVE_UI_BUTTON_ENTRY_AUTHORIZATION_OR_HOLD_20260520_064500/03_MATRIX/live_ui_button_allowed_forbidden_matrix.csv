@@ -1,0 +1,13 @@
+item,allowed,notes
+Patch V200_MASTER_UI_LIVE.html later only after approval,true,V430ON only
+Modify V200_MASTER_UI.html,false,Mother UI protected
+Write DATA_BRIDGE,false,Forbidden
+Write active payload,false,Forbidden
+Calculate official EV,false,Forbidden
+Calculate trusted EV,false,Forbidden
+Fetch Steam,false,Forbidden
+Fetch BUFF,false,Forbidden
+BUY_NOW,false,Forbidden
+TRADEUP_NOW,false,Forbidden
+Trade or order,false,Forbidden
+Scroll/highlight existing readonly module,true,Readonly navigation affordance only

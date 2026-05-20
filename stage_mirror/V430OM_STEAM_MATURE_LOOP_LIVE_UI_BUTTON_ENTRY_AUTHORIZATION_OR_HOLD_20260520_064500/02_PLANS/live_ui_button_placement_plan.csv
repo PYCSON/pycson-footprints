@@ -1,0 +1,4 @@
+placement_id,placement_candidate,preferred,reason,boundary
+1,top_nav_near_existing_controls,true,Most findable and consistent with user request,no functional action beyond scroll/highlight
+2,bottom_button_zone,false,Safer if top navigation markup is fragile,no functional action beyond scroll/highlight
+3,module_header_local_action,false,Fallback if global placement is unsafe,no replacement page
