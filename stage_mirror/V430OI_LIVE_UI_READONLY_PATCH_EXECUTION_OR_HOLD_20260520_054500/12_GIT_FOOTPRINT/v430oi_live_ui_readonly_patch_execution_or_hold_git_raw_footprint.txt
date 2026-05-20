@@ -1,0 +1,5 @@
+﻿V430OI Git raw footprint.
+Stage: V430OI_LIVE_UI_READONLY_PATCH_EXECUTION_OR_HOLD
+Status: READY_FOR_V430OJ_LIVE_UI_READONLY_DISPLAY_REVIEW_OR_HOLD
+Decision: READY_FOR_V430OJ_LIVE_UI_READONLY_DISPLAY_REVIEW_OR_HOLD
+Safety: patched V200_MASTER_UI_LIVE.html only after backup; mother UI not modified; no DATA_BRIDGE, active payload, EV, fetch, buy/trade.

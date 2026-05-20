@@ -1,0 +1,7 @@
+﻿"module","marker","target_file","module_count","content"
+"steam_mature_loop_readonly_display","PYCSON_V430OI_STEAM_MATURE_LOOP_READONLY_DISPLAY","C:\Users\sunpu\Desktop\pycson\02_UI_SYSTEMS\PYCSON_MASTER_UI\V200_MASTER_UI_LIVE.html","1","completed frozen status"
+"target_pool_count","Final targets","C:\Users\sunpu\Desktop\pycson\02_UI_SYSTEMS\PYCSON_MASTER_UI\V200_MASTER_UI_LIVE.html","1","Final target pool count 7"
+"excluded_failed_count","Excluded failed","C:\Users\sunpu\Desktop\pycson\02_UI_SYSTEMS\PYCSON_MASTER_UI\V200_MASTER_UI_LIVE.html","1","Excluded failed target count 5"
+"runner_policy","Runner policy","C:\Users\sunpu\Desktop\pycson\02_UI_SYSTEMS\PYCSON_MASTER_UI\V200_MASTER_UI_LIVE.html","1","public readonly low-rate cache-only stop rules"
+"screening_feed","Screening and feed","C:\Users\sunpu\Desktop\pycson\02_UI_SYSTEMS\PYCSON_MASTER_UI\V200_MASTER_UI_LIVE.html","1","stale drift liquidity risk handoff feed"
+"boundary_warning","Boundary: no DATA_BRIDGE","C:\Users\sunpu\Desktop\pycson\02_UI_SYSTEMS\PYCSON_MASTER_UI\V200_MASTER_UI_LIVE.html","1","no DATA_BRIDGE no active payload no BUY_NOW no TRADEUP_NOW no trade/order"

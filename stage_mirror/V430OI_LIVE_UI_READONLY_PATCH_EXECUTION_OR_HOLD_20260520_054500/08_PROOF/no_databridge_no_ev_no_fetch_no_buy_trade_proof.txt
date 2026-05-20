@@ -1,0 +1,17 @@
+﻿V430OI no-DATA_BRIDGE/no-EV/no-fetch/no-buy-trade proof.
+
+user_approval_confirmed=true
+live_ui_backup_created=true
+live_ui_readonly_patch_executed=true
+live_ui_patch_module_count=1
+mother_ui_modified=false
+data_bridge_write=false
+active_payload_write=false
+official_ev_calculated=false
+trusted_ev_calculated=false
+steam_fetch_executed=false
+buff_fetch_executed=false
+buy_now=false
+tradeup_now=false
+trade_or_order=false
+faictory_touched=false
