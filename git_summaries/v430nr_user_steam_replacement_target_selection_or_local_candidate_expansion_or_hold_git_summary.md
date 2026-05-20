@@ -11,3 +11,6 @@ Executed script SHA256: FC41391E7E459F93FC3940E707FD2DDF780537DF70407DE95BAF0702
 
 Row summary: source reviews 4; expanded candidates 3; source traces 3; failed excluded 5; user selection needed 2.
 Safety summary: local expansion package only; no Steam fetch, BUFF, EV, DATA_BRIDGE, active payload, UI, BUY/TRADE; FAICTORY touched false.
+
+Git sync status: initial V430NR commit/push succeeded. Post-sync metadata update records HEAD=c063784 origin/main=c063784 before final metadata commit.
+
