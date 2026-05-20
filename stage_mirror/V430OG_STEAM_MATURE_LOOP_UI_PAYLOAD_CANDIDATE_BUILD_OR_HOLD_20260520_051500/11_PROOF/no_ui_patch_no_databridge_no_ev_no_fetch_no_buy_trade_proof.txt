@@ -1,0 +1,21 @@
+﻿V430OG no-UI-patch/no-DATA_BRIDGE/no-EV/no-fetch/no-buy-trade proof.
+
+ui_payload_candidate_built=true
+ui_payload_json_valid=true
+ui_payload_readonly=true
+ui_payload_patch_required=false
+final_target_pool_rows=7
+excluded_failed_target_rows=5
+payload_validation_pass=true
+mother_ui_modified=false
+live_ui_patched=false
+data_bridge_write=false
+active_payload_write=false
+official_ev_calculated=false
+trusted_ev_calculated=false
+steam_fetch_executed=false
+buff_fetch_executed=false
+buy_now=false
+tradeup_now=false
+trade_or_order=false
+faictory_touched=false

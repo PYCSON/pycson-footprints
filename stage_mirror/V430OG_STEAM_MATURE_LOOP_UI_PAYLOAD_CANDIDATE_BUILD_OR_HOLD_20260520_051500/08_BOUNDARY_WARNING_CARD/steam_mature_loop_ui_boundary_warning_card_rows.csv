@@ -1,0 +1,8 @@
+﻿"card_row","boundary","value","severity","display"
+"1","no_data_bridge_write","false","warning","No DATA_BRIDGE write"
+"2","no_active_payload_write","false","warning","No active payload write"
+"3","no_buy_now","false","warning","No BUY_NOW"
+"4","no_tradeup_now","false","warning","No TRADEUP_NOW"
+"5","no_trade_or_order","false","warning","No trade/order"
+"6","no_ev_calculation_in_ui_route","false","warning","No official/trusted EV calculation"
+"7","no_steam_or_buff_fetch_in_ui_route","false","warning","No Steam/BUFF fetch"

@@ -1,0 +1,3 @@
+﻿"next_stage","purpose","allowed","forbidden"
+"V430OH_STEAM_MATURE_LOOP_LIVE_UI_READONLY_PATCH_AUTHORIZATION_OR_HOLD","Create explicit authorization packet for patching existing LIVE UI with reviewed readonly payload route","read payload candidate and route plan","patch execution, mother UI modification, DATA_BRIDGE, active payload, EV, fetch, trade"
+"V430OI_STEAM_MATURE_LOOP_LIVE_UI_READONLY_PATCH_OR_HOLD","Only after approval, patch V200_MASTER_UI_LIVE.html with readonly display","controlled reversible LIVE UI patch","mother UI modification, DATA_BRIDGE, active payload, EV, fetch, trade"

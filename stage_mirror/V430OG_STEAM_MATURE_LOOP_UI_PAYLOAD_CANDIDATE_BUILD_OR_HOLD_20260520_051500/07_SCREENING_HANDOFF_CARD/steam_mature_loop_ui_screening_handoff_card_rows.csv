@@ -1,0 +1,6 @@
+﻿"card_row","metric","row_count","status","source_path"
+"1","stale_review","7","pass","C:\Users\sunpu\Desktop\pycson\1029_V430OD_STEAM_MATURE_LOOP_FINAL_CLOSEOUT_OR_HOLD\V430OD_STEAM_MATURE_LOOP_FINAL_CLOSEOUT_OR_HOLD_20260520_043000\06_SCREENING_HANDOFF_FEED\steam_mature_loop_screening_handoff_feed_register.csv"
+"2","drift_review","7","pass","C:\Users\sunpu\Desktop\pycson\1029_V430OD_STEAM_MATURE_LOOP_FINAL_CLOSEOUT_OR_HOLD\V430OD_STEAM_MATURE_LOOP_FINAL_CLOSEOUT_OR_HOLD_20260520_043000\06_SCREENING_HANDOFF_FEED\steam_mature_loop_screening_handoff_feed_register.csv"
+"3","liquidity_risk_screen","7","pass","C:\Users\sunpu\Desktop\pycson\1029_V430OD_STEAM_MATURE_LOOP_FINAL_CLOSEOUT_OR_HOLD\V430OD_STEAM_MATURE_LOOP_FINAL_CLOSEOUT_OR_HOLD_20260520_043000\06_SCREENING_HANDOFF_FEED\steam_mature_loop_screening_handoff_feed_register.csv"
+"4","isolated_ev_handoff_ready","7","ready","C:\Users\sunpu\Desktop\pycson\1029_V430OD_STEAM_MATURE_LOOP_FINAL_CLOSEOUT_OR_HOLD\V430OD_STEAM_MATURE_LOOP_FINAL_CLOSEOUT_OR_HOLD_20260520_043000\06_SCREENING_HANDOFF_FEED\steam_mature_loop_screening_handoff_feed_register.csv"
+"5","isolated_ev_feed_execution_review","7","review_passed","V430OB/V430OC lineage carried by V430OD"
