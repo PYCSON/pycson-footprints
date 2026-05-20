@@ -29,11 +29,11 @@
   "tradeup_now": false,
   "trade_or_order": false,
   "git_repo_used": true,
-  "git_commit_succeeded": false,
-  "git_push_succeeded": false,
-  "git_push_failure_note": "pending_git_sync",
-  "head_matches_origin": false,
-  "worktree_clean": false,
+  "git_commit_succeeded": true,
+  "git_push_succeeded": true,
+  "git_push_failure_note": "none",
+  "head_matches_origin": true,
+  "worktree_clean": true,
   "report_json": "C:\\Users\\sunpu\\Desktop\\pycson\\1041_V430OP_FIRST_USABLE_UI_NAVIGATION_COMPLETION_CLOSEOUT_OR_HOLD\\V430OP_FIRST_USABLE_UI_NAVIGATION_COMPLETION_CLOSEOUT_OR_HOLD_20260520_073000\\04_REPORT\\v430op_first_usable_ui_navigation_completion_closeout_or_hold_report.json",
   "latest_json": "C:\\Users\\sunpu\\Desktop\\pycson\\11_SYSTEM_AUDIT_HANDOFF\\99_AI_GENERATED_SYSTEM_INDEX\\v430op_first_usable_ui_navigation_completion_closeout_or_hold_latest.json",
   "no_databridge_no_ev_no_fetch_no_buy_trade_proof": "C:\\Users\\sunpu\\Desktop\\pycson\\1041_V430OP_FIRST_USABLE_UI_NAVIGATION_COMPLETION_CLOSEOUT_OR_HOLD\\V430OP_FIRST_USABLE_UI_NAVIGATION_COMPLETION_CLOSEOUT_OR_HOLD_20260520_073000\\03_PROOF\\no_databridge_no_ev_no_fetch_no_buy_trade_proof.txt",
@@ -42,5 +42,7 @@
   "git_summary": "C:\\Users\\sunpu\\Desktop\\pycson\\1041_V430OP_FIRST_USABLE_UI_NAVIGATION_COMPLETION_CLOSEOUT_OR_HOLD\\V430OP_FIRST_USABLE_UI_NAVIGATION_COMPLETION_CLOSEOUT_OR_HOLD_20260520_073000\\07_GIT_FOOTPRINT\\v430op_first_usable_ui_navigation_completion_closeout_or_hold_git_summary.md",
   "executed_script": "C:\\Users\\sunpu\\Desktop\\pycson\\1041_V430OP_FIRST_USABLE_UI_NAVIGATION_COMPLETION_CLOSEOUT_OR_HOLD\\V430OP_FIRST_USABLE_UI_NAVIGATION_COMPLETION_CLOSEOUT_OR_HOLD_20260520_073000\\00_EXECUTED_SCRIPT\\RUN_V430OP_FIRST_USABLE_UI_NAVIGATION_COMPLETION_CLOSEOUT_OR_HOLD_20260520_073000.ps1",
   "executed_script_sha256": "080D59D0202833184DAAFE7784B09DC8AB9AFED16E43FC80B5C597F3FE12A8D0",
-  "next_safe_step": "USER_SELECT_NEXT_ROUTE_AFTER_FIRST_USABLE_UI_NAVIGATION_COMPLETION_CLOSEOUT"
+  "next_safe_step": "USER_SELECT_NEXT_ROUTE_AFTER_FIRST_USABLE_UI_NAVIGATION_COMPLETION_CLOSEOUT",
+  "final_head": "2d79bc4a42ba8485e392ec7c76ada8bb5ff0f209",
+  "final_origin_main": "2d79bc4a42ba8485e392ec7c76ada8bb5ff0f209"
 }
