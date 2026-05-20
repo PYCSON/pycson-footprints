@@ -1,0 +1,6 @@
+row_id,behavior_check,result,notes
+1,Function exists,true,pycsonV430ONFocusSteamMatureLoop
+2,Targets existing module,true,No new module target
+3,Scroll behavior present,true,smooth centered scroll
+4,Highlight add/remove present,true,temporary highlight
+5,No fetch in button function,true,Button function has no fetch call

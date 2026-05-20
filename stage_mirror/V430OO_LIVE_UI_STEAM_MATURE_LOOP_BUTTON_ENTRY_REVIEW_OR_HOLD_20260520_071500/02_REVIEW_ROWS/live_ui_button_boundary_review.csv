@@ -1,0 +1,12 @@
+boundary_item,value,review_pass
+Mother UI modified,false,true
+DATA_BRIDGE write,false,true
+Active payload write,false,true
+Official EV calculated,false,true
+Trusted EV calculated,false,true
+Steam fetch executed,false,true
+BUFF fetch executed,false,true
+BUY_NOW,false,true
+TRADEUP_NOW,false,true
+TRADE_OR_ORDER,false,true
+Button triggers fetch,false,true

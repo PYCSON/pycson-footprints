@@ -1,0 +1,6 @@
+row_id,review_item,result,notes
+1,LIVE UI exists,true,V200_MASTER_UI_LIVE.html confirmed
+2,Mother UI unchanged,true,SHA256 9E51AF6236261B096D4EFD15DE6CAF97D23475E52BDB77B480B4614FFC250BA6
+3,Button found,true,STEAM MATURE LOOP entry present
+4,Existing readonly module confirmed,true,pycson-v430oi-steam-mature-loop-readonly present
+5,Visible module and button route confirmed,true,Button plus module both present
