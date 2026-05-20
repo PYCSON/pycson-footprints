@@ -1,0 +1,19 @@
+﻿V430OE no-fetch/no-EV/no-DATA_BRIDGE/no-UI/no-buy-trade proof.
+
+steam_mature_loop_milestone_footprint_created=true
+ordinary_local_footprint_created=true
+ordinary_local_footprint_char_count=111029
+milestone_completion_footprint_created=true
+milestone_completion_footprint_char_count=116285
+steam_fetch_executed=false
+buff_fetch_executed=false
+official_ev_calculated=false
+trusted_ev_calculated=false
+data_bridge_write=false
+active_payload_write=false
+ui_patch=false
+buy_now=false
+tradeup_now=false
+trade_or_order=false
+faictory_touched=false
+web_search_executed=false
