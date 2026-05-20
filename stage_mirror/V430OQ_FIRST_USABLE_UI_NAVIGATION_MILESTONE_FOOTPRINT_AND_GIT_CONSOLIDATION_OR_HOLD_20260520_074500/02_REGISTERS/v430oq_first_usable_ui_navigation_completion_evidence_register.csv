@@ -1,0 +1,12 @@
+row_id,evidence_item,value,source
+1,Readonly module confirmed,true,V430OP
+2,Button entry confirmed,true,V430OP
+3,Button label,STEAM MATURE LOOP,V430OP
+4,Button behavior confirmed,true,V430OP
+5,Visible module and button route confirmed,true,V430OP
+6,Mother UI unchanged,true,V430OP
+7,Backup rollback confirmed,true,V430OP
+8,Boundary final review pass,true,V430OP
+9,No DATA_BRIDGE write,true,V430OP
+10,No active payload write,true,V430OP
+11,No EV/fetch/trade,true,V430OP

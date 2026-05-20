@@ -1,0 +1,7 @@
+row_id,destination,folder_available,planned_file
+1,raw_footprints_archive,true,ordinary and milestone footprints
+2,version_summaries,true,V430OQ version summary
+3,milestone_summaries,true,first usable UI navigation milestone summary
+4,public_showcase,true,public-facing showcase summary
+5,git_summaries,true,V430OQ git summary
+6,stage_mirror,true,V430OQ stage mirror
