@@ -1,0 +1,16 @@
+V430OW no fetch / no EV / no DATA_BRIDGE / no UI patch / no buy trade proof
+
+Documentation and footprint consolidation only: true
+UI patch: false
+Mother UI modified: false
+DATA_BRIDGE write: false
+Active payload write: false
+Official EV calculated: false
+Trusted EV calculated: false
+Steam fetch executed: false
+BUFF fetch executed: false
+BUY_NOW: false
+TRADEUP_NOW: false
+TRADE_OR_ORDER: false
+FAICTORY touched: false
+Web search: false

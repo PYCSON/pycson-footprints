@@ -1,0 +1,5 @@
+V430OW GIT RAW FOOTPRINT
+stage=V430OW_NAVIGATION_REFINEMENT_MILESTONE_FOOTPRINT_AND_GIT_CONSOLIDATION_OR_HOLD
+commit=pending
+push=pending
+safety=footprint_only_no_ui_patch_no_databridge_no_ev_no_fetch_no_buy_trade
