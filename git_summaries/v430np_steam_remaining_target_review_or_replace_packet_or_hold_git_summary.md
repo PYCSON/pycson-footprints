@@ -11,3 +11,6 @@ Executed script SHA256: B19B3D059B3A62AE62F3DBD43F930B68C429F0927C7E2EAEF5CD1FDB
 
 Row summary: successful seeds 2; failed targets reviewed 5; replace required 5; future method required 5.
 Safety summary: review/replacement packet only; no Steam fetch, BUFF, EV, DATA_BRIDGE, active payload, UI, BUY/TRADE; FAICTORY touched false.
+
+Git sync status: initial V430NP commit/push succeeded. Post-sync metadata update records HEAD=954369b origin/main=954369b before final metadata commit.
+
