@@ -1,0 +1,7 @@
+﻿"route_id","route_name","status","allowed_now","note"
+"A","STEAM_MATURE_LOOP_CADENCE_SCHEDULER_AUTHORIZATION","future_authorization_required","false","Create an approval packet before any scheduler/cadence automation."
+"B","DATA_BRIDGE_AUTHORIZATION_PLAN","deferred","false","No DATA_BRIDGE write until explicit future authorization."
+"C","UI_DISPLAY_AUTHORIZATION_PLAN","deferred","false","No UI patch/display until explicit future authorization."
+"D","OFFICIAL_EV_OR_RESULT_PACKAGE_AUTHORIZATION","future_authorization_required","false","No official EV was calculated in the mature Steam loop closeout."
+"E","TRUSTED_EV_SIGNAL_ROUTE","deferred_later_only","false","Trusted EV/signal route remains separate and later only."
+"F","NEW_CHAT_HANDOFF_OR_MILESTONE_REPORT","ready","true","Use final handoff for clean continuation."

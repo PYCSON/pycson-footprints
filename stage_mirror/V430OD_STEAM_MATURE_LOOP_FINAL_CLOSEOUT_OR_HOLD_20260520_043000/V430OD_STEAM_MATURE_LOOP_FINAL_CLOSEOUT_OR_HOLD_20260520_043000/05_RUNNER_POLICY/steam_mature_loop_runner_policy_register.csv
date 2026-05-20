@@ -1,0 +1,7 @@
+﻿"runner_component","status","source_stage","note"
+"target_manager","ready","V430NG","7-target mature pool now frozen; failed old targets excluded."
+"runner_entrypoint_config","ready","V430NG","Manual/public-readonly runner package available; no scheduler authorized."
+"low_rate_policy","ready","V430NG/V430NU","Low-rate public readonly mode used."
+"cache_only_output_policy","ready","V430NG/V430NU","Outputs stay isolated/cache-only."
+"stop_rules","ready","V430NG/V430NU","Stop on CAPTCHA/login/cookies/credentials/anti-bot/proxy/IP rotation."
+"deduped_6_target_format","disabled","V430NG","Known bad format remains disabled."
