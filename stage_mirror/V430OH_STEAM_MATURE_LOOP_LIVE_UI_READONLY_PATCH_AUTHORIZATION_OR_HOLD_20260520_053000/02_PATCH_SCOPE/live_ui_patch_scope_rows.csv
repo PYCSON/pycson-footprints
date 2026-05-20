@@ -1,0 +1,8 @@
+﻿"scope_row","area","allowed","forbidden"
+"1","target_file","V200_MASTER_UI_LIVE.html only after backup and approval","V200_MASTER_UI.html"
+"2","display_mode","readonly Steam mature loop panel/cards","interactive trade/action controls"
+"3","payload","read isolated V430OG UI payload candidate","DATA_BRIDGE or active payload writes"
+"4","content","completed/frozen status, 7 target rows, 5 excluded rows","fake price availability or EV computation"
+"5","policy_cards","public readonly, low-rate, cache-only, stop rules","Steam fetch, BUFF fetch, login/cookies/proxy"
+"6","boundary_warnings","no DATA_BRIDGE, no active payload, no BUY/TRADE warnings","BUY_NOW, TRADEUP_NOW, trade/order"
+"7","rollback","restore backup if review fails","git reset, git clean, deleting files"
