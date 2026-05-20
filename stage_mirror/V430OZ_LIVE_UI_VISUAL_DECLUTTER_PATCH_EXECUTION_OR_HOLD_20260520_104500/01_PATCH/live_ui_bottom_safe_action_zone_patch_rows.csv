@@ -1,0 +1,6 @@
+"bottom_item","patch_result"
+"safe actions strip","created"
+"navigate/focus/highlight/inspect/review","allowed text only"
+"DATA_BRIDGE write","forbidden"
+"EV/fetch/trade actions","forbidden"
+"execution buttons","not created"
