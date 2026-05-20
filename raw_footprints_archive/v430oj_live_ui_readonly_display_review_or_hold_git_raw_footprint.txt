@@ -1,0 +1,5 @@
+﻿V430OJ Git raw footprint.
+Stage: V430OJ_LIVE_UI_READONLY_DISPLAY_REVIEW_OR_HOLD
+Status: READY_FOR_V430OK_FIRST_USABLE_UI_PROTOTYPE_MILESTONE_CLOSEOUT_OR_HOLD
+Decision: READY_FOR_V430OK_FIRST_USABLE_UI_PROTOTYPE_MILESTONE_CLOSEOUT_OR_HOLD
+Safety: display review only; no new UI patch; mother UI unchanged; no DATA_BRIDGE, active payload, EV, fetch, buy/trade.

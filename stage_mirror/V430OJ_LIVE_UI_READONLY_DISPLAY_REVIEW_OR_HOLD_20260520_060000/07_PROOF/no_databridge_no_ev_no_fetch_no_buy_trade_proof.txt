@@ -1,0 +1,21 @@
+﻿V430OJ no-DATA_BRIDGE/no-EV/no-fetch/no-buy-trade proof.
+
+live_ui_readonly_display_review_performed=true
+mother_ui_confirmed_unchanged=true
+live_ui_patch_confirmed=true
+live_ui_backup_confirmed=true
+live_ui_rollback_command_confirmed=true
+readonly_module_found=true
+readonly_module_count=1
+display_content_review_pass=true
+mother_ui_modified=false
+data_bridge_write=false
+active_payload_write=false
+official_ev_calculated=false
+trusted_ev_calculated=false
+steam_fetch_executed=false
+buff_fetch_executed=false
+buy_now=false
+tradeup_now=false
+trade_or_order=false
+faictory_touched=false
