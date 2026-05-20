@@ -1,0 +1,6 @@
+route_id,next_route,allowed_now,notes
+A,V430OQ_FIRST_USABLE_UI_NAVIGATION_MILESTONE_FOOTPRINT_AND_GIT_CONSOLIDATION,true,Milestone footprint and Git consolidation only
+B,UI_INFORMATION_ARCHITECTURE_MODULE_PLACEMENT_RULES_PACKAGE,true,Dryrun/plan/review route for future UI structure
+C,LIVE_UI_ADDITIONAL_READONLY_ROUTE_AUTHORIZATION,false,Requires explicit user selection and authorization
+D,DATA_BRIDGE_OR_ACTIVE_PAYLOAD,false,Deferred until explicit authorization
+E,BUY_TRADE_SIGNAL_ROUTE,false,Forbidden unless future separately authorized and reviewed

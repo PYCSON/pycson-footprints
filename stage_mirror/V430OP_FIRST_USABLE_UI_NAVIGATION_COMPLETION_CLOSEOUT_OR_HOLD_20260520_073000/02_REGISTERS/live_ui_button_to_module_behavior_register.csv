@@ -1,0 +1,2 @@
+row_id,button_label,behavior,target,confirmed,notes
+1,STEAM MATURE LOOP,scroll_and_highlight_existing_module,pycson-v430oi-steam-mature-loop-readonly,true,No fetch/EV/DATA_BRIDGE/trade behavior
