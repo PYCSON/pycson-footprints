@@ -1,0 +1,11 @@
+﻿# V430NS Local Footprint
+
+Stage: V430NS_USER_STEAM_REPLACEMENT_TARGET_SELECTION_WITH_PARTIAL_LOCAL_CANDIDATES_OR_HOLD
+Status: HOLD_WAITING_FOR_USER_TO_FILL_2_STEAM_REPLACEMENT_TARGETS
+Decision: HOLD_WAITING_FOR_USER_TO_FILL_2_STEAM_REPLACEMENT_TARGETS
+
+Seed targets: 2
+Local replacement candidates: 3
+Missing slots: 2
+Template rows filled: 0
+Safety: no fetch, no EV, no DATA_BRIDGE, no UI, no BUY/TRADE, FAICTORY touched false.
