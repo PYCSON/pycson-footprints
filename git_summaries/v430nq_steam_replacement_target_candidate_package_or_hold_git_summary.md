@@ -11,3 +11,6 @@ Executed script SHA256: 9CAB1D3F7AF8E9E8F759F81E3B2720AAF65CF5BA3521737D7941709A
 
 Row summary: seeds 2; failed replace-required 5; replacement candidates 0; source traces 0.
 Safety summary: candidate package only; no Steam fetch, BUFF, EV, DATA_BRIDGE, active payload, UI, BUY/TRADE; FAICTORY touched false.
+
+Git sync status: initial V430NQ commit/push succeeded. Post-sync metadata update records HEAD=e42a71a origin/main=e42a71a before final metadata commit.
+
