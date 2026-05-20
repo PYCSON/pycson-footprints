@@ -1,0 +1,4 @@
+"next_route","recommendation","reason"
+"FIRST_UI_PROTOTYPE_ACCEPTANCE_CLOSEOUT_OR_MILESTONE_FOOTPRINT","recommended","browser acceptance passed and should be closed out/consolidated"
+"CONTROLLED_UI_PLACEMENT_REFINEMENT_DRYRUN","optional later","only after acceptance closeout if user wants more layout polish"
+"DATA_BRIDGE_OR_EV_ROUTE_AUTHORIZATION","defer","requires explicit future approval and remains outside acceptance record"
