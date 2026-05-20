@@ -1,0 +1,7 @@
+"module_zone","review_result","evidence"
+"route_directory","pass","pycson-v430ot-route-directory present"
+"top_crosslink_nav","pass","V307B nav and V430ON button preserved"
+"steam_readonly_module","pass","V430OI Steam module anchor present"
+"central_cockpit","pass","not modified in V430OU review"
+"safe_action_boundary","pass","safe actions text present"
+"future_route_slots","pass","scheduler and DATA_BRIDGE/UI slots marked future authorization"

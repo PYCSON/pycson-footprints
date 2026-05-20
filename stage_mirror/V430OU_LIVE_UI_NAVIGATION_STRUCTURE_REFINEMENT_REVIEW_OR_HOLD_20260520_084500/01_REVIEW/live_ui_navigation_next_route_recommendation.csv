@@ -1,0 +1,4 @@
+"next_route","recommendation","reason"
+"V430OV_LIVE_UI_NAVIGATION_REFINEMENT_CLOSEOUT_OR_HOLD","recommended","review passes and boundary remains safe"
+"V430OW_INFORMATION_ARCHITECTURE_MILESTONE_FOOTPRINT_OR_HOLD","later","use after closeout if milestone consolidation is desired"
+"future_controlled_ui_refinement_authorization","defer","only after closeout and explicit user selection"

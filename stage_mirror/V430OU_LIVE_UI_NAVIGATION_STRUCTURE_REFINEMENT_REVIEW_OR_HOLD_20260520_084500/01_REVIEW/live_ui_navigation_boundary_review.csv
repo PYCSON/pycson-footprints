@@ -1,0 +1,8 @@
+"boundary","pass","note"
+"mother_ui_unchanged","true","hash matches V430OT observed mother hash"
+"backup_confirmed","true","V430OT backup exists"
+"rollback_confirmed","true","V430OT rollback command exists"
+"route_family_review","true","10 expected entries present"
+"module_zone_review","true","route directory and Steam module anchors present"
+"safe_action_review","true","safe action text present"
+"forbidden_review","true","no forbidden action pattern in V430OT block"
