@@ -1,0 +1,19 @@
+﻿V430OA no-fetch/no-EV/no-DATA_BRIDGE/no-UI/no-buy-trade proof.
+
+steam_mature_loop_isolated_ev_feed_authorization_packet_created=true
+final_target_pool_rows=7
+mature_source_rows_for_ev_feed=7
+isolated_ev_handoff_ready_rows=7
+feed_input_compatibility_review_pass=True
+feed_execution_performed=false
+steam_fetch_executed=false
+buff_fetch_executed=false
+official_ev_calculated=false
+trusted_ev_calculated=false
+data_bridge_write=false
+active_payload_write=false
+ui_patch=false
+buy_now=false
+tradeup_now=false
+trade_or_order=false
+faictory_touched=false
