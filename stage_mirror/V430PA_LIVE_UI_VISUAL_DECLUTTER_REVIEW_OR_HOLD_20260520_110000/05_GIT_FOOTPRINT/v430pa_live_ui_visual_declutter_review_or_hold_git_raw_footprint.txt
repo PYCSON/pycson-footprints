@@ -1,0 +1,6 @@
+stage=V430PA_LIVE_UI_VISUAL_DECLUTTER_REVIEW_OR_HOLD
+status=READY_FOR_V430PB_LIVE_UI_VISUAL_DECLUTTER_CLOSEOUT_OR_HOLD
+decision=READY_FOR_V430PB_LIVE_UI_VISUAL_DECLUTTER_CLOSEOUT_OR_HOLD
+git_commit_succeeded=pending
+git_push_succeeded=pending
+safety=review only; no UI patch; no DATA_BRIDGE; no EV; no fetch; no buy/trade
