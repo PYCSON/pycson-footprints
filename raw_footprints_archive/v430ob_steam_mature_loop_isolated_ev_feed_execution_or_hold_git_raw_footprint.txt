@@ -1,0 +1,2 @@
+﻿V430OB git raw footprint initialized before controlled sync.
+

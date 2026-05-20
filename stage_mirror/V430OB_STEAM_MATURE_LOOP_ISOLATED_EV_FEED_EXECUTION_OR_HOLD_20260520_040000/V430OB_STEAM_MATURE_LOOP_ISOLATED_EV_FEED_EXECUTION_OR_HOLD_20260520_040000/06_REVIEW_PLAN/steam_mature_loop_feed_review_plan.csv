@@ -1,0 +1,4 @@
+﻿"review_step","expected_rows","next_stage","boundary"
+"review_feed_execution_rows","7","V430OC_STEAM_MATURE_LOOP_ISOLATED_EV_FEED_EXECUTION_REVIEW_OR_HOLD","review only before further EV/result/signal route"
+"review_trace_preservation","7","V430OC","source_reference and observed_at must remain preserved"
+"review_no_write_boundaries","10","V430OC","no DATA_BRIDGE/UI/active payload/trade"
