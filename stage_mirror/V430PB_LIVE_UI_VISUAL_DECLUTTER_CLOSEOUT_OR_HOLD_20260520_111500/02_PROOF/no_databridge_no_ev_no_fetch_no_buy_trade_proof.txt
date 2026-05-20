@@ -1,0 +1,14 @@
+V430PB proof
+Closeout only.
+No LIVE UI patch again.
+No mother UI modification.
+No DATA_BRIDGE write.
+No active payload write.
+No official EV calculation.
+No trusted EV calculation.
+No Steam fetch.
+No BUFF fetch.
+No BUY_NOW.
+No TRADEUP_NOW.
+No trade/order.
+FAICTORY not touched.
