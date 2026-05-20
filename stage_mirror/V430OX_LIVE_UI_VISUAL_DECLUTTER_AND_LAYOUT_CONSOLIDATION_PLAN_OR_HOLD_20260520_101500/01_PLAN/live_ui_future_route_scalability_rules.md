@@ -1,0 +1,3 @@
+# Future route scalability rules
+
+Every future route must enter through a route family, not as another always-visible random card. New modules should declare: route family, selected-route center display, right-panel risk/boundary needs, left-directory entry, safe bottom actions, forbidden actions, rollback plan, and review plan. Trade-up, EV, trusted EV, DATA_BRIDGE, scheduler, and UI integration routes remain placeholders until explicitly authorized. No BUY_NOW, TRADEUP_NOW, trade/order, hidden DATA_BRIDGE write, hidden active payload write, hidden fetch, or hidden EV calculation is allowed. Legacy modules are preserved through containment and collapse, not deletion.

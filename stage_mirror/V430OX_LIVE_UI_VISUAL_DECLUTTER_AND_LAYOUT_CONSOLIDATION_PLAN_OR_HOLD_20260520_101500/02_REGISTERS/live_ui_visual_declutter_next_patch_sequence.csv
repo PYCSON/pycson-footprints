@@ -1,0 +1,7 @@
+"sequence","scope","authorization_required","boundary"
+"1","create LIVE UI declutter patch authorization packet","yes","no patch until approved"
+"2","backup V200_MASTER_UI_LIVE.html","yes","mother UI protected"
+"3","add route shell containers: top, left, center, right, bottom","yes","preserve existing modules"
+"4","wrap legacy panels in collapsible route-family groups","yes","do not delete legacy"
+"5","promote Steam Mature Loop into selected center route panel","yes","readonly only"
+"6","review browser layout and safety boundaries","yes","no DATA_BRIDGE, EV, fetch, trade"

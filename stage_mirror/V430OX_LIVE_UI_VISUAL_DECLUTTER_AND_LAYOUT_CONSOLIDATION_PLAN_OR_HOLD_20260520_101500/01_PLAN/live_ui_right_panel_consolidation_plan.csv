@@ -1,0 +1,7 @@
+"right_panel_item","future_state","default"
+"Risk Monitor","compact risk card","visible"
+"Boundary Warnings","compact boundary card","visible"
+"Alerts","compact alert list","visible"
+"Replay Package","move/collapse under Records","collapsed"
+"Route Directory","move to left rail","visible left not right"
+"DATA_BRIDGE status","future placeholder only","collapsed"
