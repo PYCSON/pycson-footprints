@@ -1,0 +1,11 @@
+row_id,safe_action,allowed_in_v430ot,guardrail
+1,Scroll to route/module,true,No business execution
+2,Highlight route/module,true,Temporary visual only
+3,Expand/collapse section,true,Readonly DOM state only
+4,Filter displayed route list,true,Client-side only
+5,Open readonly report/latest/proof reference,true,No write action
+6,Copy path text,true,User convenience only
+7,Trigger fetch,false,Separate authorization required
+8,Calculate EV,false,Separate authorization required
+9,Write bridge or payload,false,Separate authorization required
+10,Trade/order,false,Forbidden

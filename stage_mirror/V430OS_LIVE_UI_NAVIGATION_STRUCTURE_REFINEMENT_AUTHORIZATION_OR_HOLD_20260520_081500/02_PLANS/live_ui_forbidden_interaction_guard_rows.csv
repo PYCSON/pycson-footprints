@@ -1,0 +1,11 @@
+row_id,forbidden_interaction,guard_required
+1,BUY_NOW button,Must not exist
+2,TRADEUP_NOW button,Must not exist
+3,Trade/order trigger,Must not exist
+4,Hidden DATA_BRIDGE write,Must not exist
+5,Hidden active payload write,Must not exist
+6,Mother UI modification,Must not occur
+7,Standalone replacement page,Do not create duplicate UI
+8,Unreviewed Steam/BUFF fetch,Must not occur
+9,Unreviewed official/trusted EV calculation,Must not occur
+10,Random card injection,Must be replaced by route family/zone placement

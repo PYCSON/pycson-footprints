@@ -1,0 +1,13 @@
+row_id,scope_item,allowed,notes
+1,Patch V200_MASTER_UI_LIVE.html later after approval,true,V430OT only
+2,Modify V200_MASTER_UI.html,false,Mother UI protected
+3,Refine top nav route families,true,Major families only
+4,Create left route directory,true,Readonly navigation structure only
+5,Create/mark central cockpit route status zone,true,Selected route display only
+6,Create/mark right boundary panel,true,Risk and no-trade/no-write warnings
+7,Create/mark bottom safe action zone,true,Scroll/filter/expand/copy/open report only
+8,Write DATA_BRIDGE,false,Forbidden
+9,Write active payload,false,Forbidden
+10,Calculate EV,false,Forbidden
+11,Fetch Steam or BUFF,false,Forbidden
+12,BUY_NOW or TRADEUP_NOW or trade,false,Forbidden

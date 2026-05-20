@@ -1,0 +1,7 @@
+row_id,module_zone,refinement_goal,allowed_content
+1,Top Navigation,Major route family entries only,Stable family buttons/links
+2,Left Route Directory,Stage and route index grouped by family,Readonly route links and anchors
+3,Central Cockpit,Selected route status and summary,Readonly cards counters proof links
+4,Right Boundary Panel,Risk/no-write/no-trade alerts,Boundary warnings rollback status
+5,Bottom Safe Actions,Local UI-only controls,Scroll filter expand copy open report
+6,Route Detail Drawer,Source trace and evidence details,Latest/report/proof references

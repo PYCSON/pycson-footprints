@@ -1,0 +1,11 @@
+row_id,route_family,entry_label,placement_intent,boundary
+1,Steam Mature Loop,STEAM MATURE LOOP,Top nav family entry plus central cockpit module,Readonly no fetch/no trade
+2,Trade-up,TRADE-UP,Top nav family entry plus left route directory,No TRADEUP_NOW
+3,EV / Trusted EV,EV REVIEW,Left directory plus central cockpit,No EV calculation without authorization
+4,Risk,RISK,Top nav/right boundary panel,No trade trigger
+5,Records / Replay / Proof,RECORDS,Left directory/file detail,Readonly audit only
+6,Params / Config,PARAMS,Left directory/central detail,No active payload write
+7,Radar / Discovery,RADAR,Top nav/central detail,No fetch without authorization
+8,File / Footprint,FILES,Left directory/file panel,Readonly references only
+9,Scheduler / Cadence,SCHEDULER,Right boundary/left directory,No automation without approval
+10,DATA_BRIDGE / UI integration,INTEGRATION,Right boundary/central plan,Deferred explicit authorization only
