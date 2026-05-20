@@ -1,0 +1,7 @@
+﻿"step","route_node","result"
+"1","Steam mature source loop","frozen completed source loop"
+"2","isolated EV handoff/feed","handoff/feed executed and reviewed without EV calculation in UI route"
+"3","UI readonly payload candidate","validated readonly JSON candidate"
+"4","LIVE UI readonly patch","one reversible readonly display module"
+"5","display review","content and boundary review passed"
+"6","milestone closeout","first usable UI prototype ready"

@@ -1,0 +1,7 @@
+﻿"route","status","boundary"
+"LIVE_UI_VISUAL_POLISH_REVIEW","future_authorization_required","readonly only"
+"DYNAMIC_PAYLOAD_RENDERING_PLAN","future_authorization_required","no DATA_BRIDGE write by default"
+"DATA_BRIDGE_UI_AUTHORIZATION","deferred","explicit future authorization only"
+"SCHEDULER_CADENCE_STATUS_DISPLAY","deferred","no background task without authorization"
+"SIGNAL_ROUTE","deferred","no buy/trade"
+"NEW_CHAT_HANDOFF","available","summary only"
