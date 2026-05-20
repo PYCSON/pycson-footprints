@@ -1,0 +1,4 @@
+﻿"plan_step","next_stage","requirement","forbidden_now","status"
+"create_authorization_packet","V430OA_STEAM_MATURE_LOOP_ISOLATED_EV_FEED_EXECUTION_AUTHORIZATION_OR_HOLD","explicit authorization before isolated EV feed execution","EV calculation, DATA_BRIDGE, UI, active payload, trade","recommended_next_safe_step"
+"preserve_inputs","V430OA","use only 7 reviewed compatible handoff rows","new Steam fetch or BUFF fetch","ready"
+"review_before_any_signal","post_authorized_execution_review","any later EV output must be reviewed before trusted EV or signal route","BUY_NOW or TRADEUP_NOW","deferred"

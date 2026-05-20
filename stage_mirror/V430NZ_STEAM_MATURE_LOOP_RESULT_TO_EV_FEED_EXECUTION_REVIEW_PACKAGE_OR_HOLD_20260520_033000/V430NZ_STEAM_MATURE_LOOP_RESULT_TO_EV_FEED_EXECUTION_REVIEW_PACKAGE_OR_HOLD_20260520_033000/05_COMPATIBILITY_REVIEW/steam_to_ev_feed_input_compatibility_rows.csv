@@ -1,0 +1,8 @@
+﻿"ev_input_row_id","validation_target_id","item_name","market_hash_name_present","input_price_present","input_price_positive_numeric","currency_present","source_reference_present","observed_at_present","evidence_status","missing_required_fields","compatibility_status","no_ev_calculated"
+"V430NV_EV_INPUT_001","V430NT_SEED_001","Desert Eagle | Printstream","true","true","true","true","true","true","isolated_ev_input_handoff_ready","","pass","true"
+"V430NV_EV_INPUT_002","V430NT_SEED_002","AK-47 | Legion of Anubis","true","true","true","true","true","true","isolated_ev_input_handoff_ready","","pass","true"
+"V430NV_EV_INPUT_003","V430NT_LOCAL_001","AK-47 | Redline","true","true","true","true","true","true","isolated_ev_input_handoff_ready","","pass","true"
+"V430NV_EV_INPUT_004","V430NT_LOCAL_002","AWP | Asiimov","true","true","true","true","true","true","isolated_ev_input_handoff_ready","","pass","true"
+"V430NV_EV_INPUT_005","V430NT_LOCAL_003","M4A1-S | Chantico's Fire","true","true","true","true","true","true","isolated_ev_input_handoff_ready","","pass","true"
+"V430NV_EV_INPUT_006","V430NT_USER_001","USP-S | Kill Confirmed","true","true","true","true","true","true","isolated_ev_input_handoff_ready","","pass","true"
+"V430NV_EV_INPUT_007","V430NT_USER_002","Glock-18 | Water Elemental","true","true","true","true","true","true","isolated_ev_input_handoff_ready","","pass","true"

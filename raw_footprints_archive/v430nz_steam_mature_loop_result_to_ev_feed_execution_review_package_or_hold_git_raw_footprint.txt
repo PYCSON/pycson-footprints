@@ -1,0 +1,2 @@
+﻿V430NZ git raw footprint initialized before controlled sync.
+
