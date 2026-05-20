@@ -1,4 +1,4 @@
-{
+﻿{
     "status":  "PASS_V430NX_STEAM_MATURE_SOURCE_LOOP_FROZEN_READY_FOR_NEXT_ROUTE",
     "decision":  "PASS_V430NX_STEAM_MATURE_SOURCE_LOOP_FROZEN_READY_FOR_NEXT_ROUTE",
     "project_root_confirmed":  true,
@@ -26,11 +26,11 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  true,
-    "git_commit_succeeded":  false,
-    "git_push_succeeded":  false,
-    "git_push_failure_note":  "pending",
-    "head_matches_origin":  false,
-    "worktree_clean":  false,
+    "git_commit_succeeded":  true,
+    "git_push_succeeded":  true,
+    "git_push_failure_note":  "none",
+    "head_matches_origin":  true,
+    "worktree_clean":  true,
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\1023_V430NX_STEAM_MATURE_LOOP_FREEZE_OR_HOLD\\V430NX_STEAM_MATURE_LOOP_FREEZE_OR_HOLD_20260520_030000\\11_REPORT\\v430nx_steam_mature_loop_freeze_or_hold_report.json",
     "latest_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\11_SYSTEM_AUDIT_HANDOFF\\99_AI_GENERATED_SYSTEM_INDEX\\v430nx_steam_mature_loop_freeze_or_hold_latest.json",
     "no_fetch_no_ev_no_databridge_no_ui_no_buy_trade_proof":  "C:\\Users\\sunpu\\Desktop\\pycson\\1023_V430NX_STEAM_MATURE_LOOP_FREEZE_OR_HOLD\\V430NX_STEAM_MATURE_LOOP_FREEZE_OR_HOLD_20260520_030000\\10_PROOF\\no_fetch_no_ev_no_databridge_no_ui_no_buy_trade_proof.txt",
