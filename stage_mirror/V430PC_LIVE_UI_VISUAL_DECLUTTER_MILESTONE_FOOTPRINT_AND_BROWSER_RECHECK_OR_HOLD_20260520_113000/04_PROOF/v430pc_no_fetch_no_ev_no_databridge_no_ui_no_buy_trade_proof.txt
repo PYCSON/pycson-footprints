@@ -1,0 +1,14 @@
+V430PC proof
+Milestone footprint and browser recheck preparation only.
+No LIVE UI patch.
+No mother UI modification.
+No DATA_BRIDGE write.
+No active payload write.
+No official EV calculation.
+No trusted EV calculation.
+No Steam fetch.
+No BUFF fetch.
+No BUY_NOW.
+No TRADEUP_NOW.
+No trade/order.
+FAICTORY not touched.

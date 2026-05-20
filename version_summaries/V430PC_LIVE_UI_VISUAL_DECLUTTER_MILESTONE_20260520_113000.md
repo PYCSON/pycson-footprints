@@ -1,0 +1,5 @@
+# V430PC LIVE UI visual declutter milestone
+
+PASS_V430PC_LIVE_UI_VISUAL_DECLUTTER_MILESTONE_FOOTPRINT_COMPLETE_READY_FOR_USER_BROWSER_RECHECK
+
+Milestone footprint and browser recheck package created.
