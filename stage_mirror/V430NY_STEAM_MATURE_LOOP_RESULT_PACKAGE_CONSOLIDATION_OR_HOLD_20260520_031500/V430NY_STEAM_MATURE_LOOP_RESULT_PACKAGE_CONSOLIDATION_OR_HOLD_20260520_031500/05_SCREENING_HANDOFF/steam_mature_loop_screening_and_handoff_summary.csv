@@ -1,0 +1,7 @@
+﻿"component","row_count","status","source_stage","consolidation_note"
+"mature_source_normalized_rows","7","ready","V430NV","Carried forward from frozen mature Steam source loop; isolated only."
+"stale_price_review_rows","7","ready_fresh_under_24h","V430NV","Carried forward from frozen mature Steam source loop; isolated only."
+"drift_review_rows","7","ready_baseline_initialized","V430NV","Carried forward from frozen mature Steam source loop; isolated only."
+"liquidity_risk_screen_rows","7","ready_screen_pass","V430NV","Carried forward from frozen mature Steam source loop; isolated only."
+"ev_handoff_ready_rows","7","ready_reviewed","V430NV/V430NW","Carried forward from frozen mature Steam source loop; isolated only."
+"isolated_ev_handoff_package","7","ready_isolated_handoff_only","V430NV/V430NW/V430NX","Ready for later authorized feed/review package; no EV calculated here."

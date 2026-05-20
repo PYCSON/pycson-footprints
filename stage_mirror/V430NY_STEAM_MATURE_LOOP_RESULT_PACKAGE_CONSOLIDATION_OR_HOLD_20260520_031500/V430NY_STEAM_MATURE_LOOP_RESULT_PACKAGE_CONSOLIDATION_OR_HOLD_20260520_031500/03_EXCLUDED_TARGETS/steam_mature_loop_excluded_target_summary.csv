@@ -1,0 +1,6 @@
+﻿"exclusion_id","failed_target_id","item_context","exclusion_reason","future_method_required"
+"V430NR_EXCL_001","V430LF_MANUAL_TARGET_001","Glock-18 | Vogue","repeated_current_method_failure_do_not_retry_without_replacement_or_new_authorized_method","true"
+"V430NR_EXCL_002","V430LF_MANUAL_TARGET_002","M4A4 | Neo-Noir","repeated_current_method_failure_do_not_retry_without_replacement_or_new_authorized_method","true"
+"V430NR_EXCL_003","V430LF_MANUAL_TARGET_003","USP-S | Cortex","repeated_current_method_failure_do_not_retry_without_replacement_or_new_authorized_method","true"
+"V430NR_EXCL_004","V430LF_MANUAL_TARGET_006","M4A4 | Neo-Noir","repeated_current_method_failure_do_not_retry_without_replacement_or_new_authorized_method","true"
+"V430NR_EXCL_005","V430LF_MANUAL_TARGET_007","MP7 | Bloodsport","repeated_current_method_failure_do_not_retry_without_replacement_or_new_authorized_method","true"

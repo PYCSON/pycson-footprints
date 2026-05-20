@@ -1,0 +1,6 @@
+﻿"route_id","route_name","recommendation","route_status","boundary","note"
+"A","STEAM_MATURE_LOOP_CADENCE_SCHEDULER_AUTHORIZATION_PACKAGE","allowed_later","deferred_until_user_selects","authorization_package_only_before_any_scheduler","Creates approval packet for cadence/scheduler; no scheduler exists now."
+"B","STEAM_MATURE_LOOP_RESULT_TO_EV_FEED_EXECUTION_REVIEW_PACKAGE","recommended","ready_for_user_selected_next_route","isolated feed/review package before any EV calculation","Uses frozen 7-row handoff package to move toward isolated EV feed review without DATA_BRIDGE/UI/trade."
+"C","DATA_BRIDGE_UI_AUTHORIZATION_PLAN_LATER_ONLY","deferred","not_selected","authorization plan only if user explicitly selects later","No active payload, DATA_BRIDGE, or UI write is authorized by V430NY."
+"D","TRUSTED_EV_SIGNAL_ROUTE_LATER_ONLY","deferred","not_selected","must not start signal route from this closeout","No BUY_NOW, TRADEUP_NOW, or trade route is authorized."
+"E","NEW_CHAT_HANDOFF_MILESTONE_REPORT","available","ready_if_user_selects","handoff/report only","Provides concise restart context for a clean new thread."
