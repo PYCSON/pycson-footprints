@@ -1,0 +1,8 @@
+review_id,review_step,expected_result
+1,Confirm LIVE UI exists,V200_MASTER_UI_LIVE.html present
+2,Confirm backup exists,V200_MASTER_UI_LIVE_BACKUP_20260520_070000.html present
+3,Confirm button found,STEAM MATURE LOOP button present once in navigation
+4,Confirm behavior function found,pycsonV430ONFocusSteamMatureLoop present
+5,Confirm target anchor found,pycson-v430oi-steam-mature-loop-readonly present
+6,Confirm mother UI unchanged,V200_MASTER_UI.html hash unchanged
+7,Confirm boundary,no DATA_BRIDGE/EV/fetch/buy/trade side effects

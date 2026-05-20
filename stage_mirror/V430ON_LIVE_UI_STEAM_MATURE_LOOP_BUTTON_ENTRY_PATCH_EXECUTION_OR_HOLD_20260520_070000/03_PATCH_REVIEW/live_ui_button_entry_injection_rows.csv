@@ -1,0 +1,4 @@
+row_id,injection_type,target_file,anchor_or_location,created,notes
+1,button,V200_MASTER_UI_LIVE.html,V307B crosslink nav,true,Visible STEAM MATURE LOOP entry
+2,style,V200_MASTER_UI_LIVE.html,PYCSON_V430ON_STEAM_MATURE_LOOP_BUTTON_ENTRY,true,Readonly visual styling and highlight class
+3,script,V200_MASTER_UI_LIVE.html,pycsonV430ONFocusSteamMatureLoop,true,Scrolls/highlights existing module only
