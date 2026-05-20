@@ -1,3 +1,7 @@
-﻿V430NY git raw footprint initialized before controlled sync.
-status_before_sync=
-
+﻿V430NY git raw footprint.
+first_sync_commit=840b670
+final_first_sync_head=840b670
+final_first_sync_origin_main=840b670
+final_first_sync_head_matches_origin=True
+final_first_sync_worktree_clean=True
+status=metadata_update_pending_second_commit
