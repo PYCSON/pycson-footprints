@@ -1,0 +1,3 @@
+﻿"element","selector","expected","observed","result","note"
+"Risk Monitor","pycson-v373-risk-monitor-card","docked_compact_preserved","compact preserved marker present","PASS","Risk monitor is preserved."
+"Offline Replay","pycson-v371-offline-status-card","docked_compact_preserved","compact preserved marker present","PASS","Offline replay is preserved."

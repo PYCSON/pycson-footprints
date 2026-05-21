@@ -1,0 +1,2 @@
+﻿"element","selector","expected","observed","result","note"
+"V418 LOCAL SOURCE CANDIDATE","pycson-v422d-polished-existing-card-integration","docked_nonblocking","docked_nonblocking marker present","PASS","Review confirms non-blocking organization hook is present."

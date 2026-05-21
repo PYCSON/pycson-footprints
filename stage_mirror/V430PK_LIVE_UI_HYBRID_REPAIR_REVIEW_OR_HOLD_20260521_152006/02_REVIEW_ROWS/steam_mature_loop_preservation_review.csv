@@ -1,0 +1,3 @@
+﻿"element","selector","expected","observed","result","note"
+"Steam Mature Loop module","pycson-v430oi-steam-mature-loop-readonly","preserved","present and preservation marker present","PASS","Readonly module preserved for browser recheck."
+"STEAM MATURE LOOP button","pycson-v430on-steam-mature-loop-entry","preserved","present and preservation marker present","PASS","Navigation entry preserved for browser recheck."

@@ -1,0 +1,2 @@
+﻿"element","selector","expected","observed","result","note"
+"L2R2 refined display","pycson-l2r2-refined-display-preview","legacy_accessible_collapse","legacy collapse marker present","PASS","L2R2 remains accessible as legacy content rather than deleted."

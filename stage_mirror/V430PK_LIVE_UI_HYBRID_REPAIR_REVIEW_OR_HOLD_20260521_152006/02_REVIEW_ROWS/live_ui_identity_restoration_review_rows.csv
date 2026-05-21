@@ -1,0 +1,4 @@
+﻿"review_item","expected","observed","result","note"
+"hybrid_layer_marker","PYCSON_V430PJ_HYBRID_FLOAT_ORGANIZATION present","True","PASS","Review checks organization layer and absence of wrong-direction second-pass suppression marker."
+"mother_identity_hash","9e51af6236261b096d4efd15de6caf97d23475e52bdb77b480b4614ffc250ba6","9e51af6236261b096d4efd15de6caf97d23475e52bdb77b480b4614ffc250ba6","PASS","Mother UI remains protected."
+"cockpit_identity_policy","organize_not_cancel","targeted dock only","PASS","No broad hide/cancel review marker detected."
