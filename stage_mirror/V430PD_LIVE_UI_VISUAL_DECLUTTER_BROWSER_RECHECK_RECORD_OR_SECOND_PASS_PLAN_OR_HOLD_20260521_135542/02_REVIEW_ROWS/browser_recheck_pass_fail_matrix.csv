@@ -1,0 +1,11 @@
+﻿check_id,check_name,expected,observed,pass
+CHK001,live_ui_load,no white screen,no white screen observed,true
+CHK002,steam_mature_loop_button,visible,visible,true
+CHK003,steam_mature_loop_module,visible,visible,true
+CHK004,final_targets_display,7,7 visible,true
+CHK005,excluded_failed_display,5,5 visible,true
+CHK006,handoff_ready_display,7,7 visible,true
+CHK007,boundary_warning_display,visible,visible,true
+CHK008,no_trade_control_visible,no BUY_NOW TRADEUP_NOW trade/order control,no real trade execution control observed,true
+CHK009,declutter_improvement,less clutter than previous screenshot,clearly less cluttered,true
+CHK010,minor_second_pass_need,minor issues only,minor second pass recommended,true

@@ -1,0 +1,5 @@
+﻿clutter_id,area,remaining_issue,severity,recommended_action
+CL001,left_route_directory,V418 LOCAL SOURCE CANDIDATE floating card still blocks part of left route directory,minor,targeted collapse or relocation
+CL002,center_or_legacy_display,L2R2 refined display remains visually heavy,minor,collapse by default or move into legacy collapsed cockpit module
+CL003,right_panel,Risk Monitor and Offline Replay improved but still large,minor,compact card bodies while preserving information
+CL004,main_cockpit,main cockpit clearer but could benefit from second light pass,minor,keep route focus and avoid adding new functions

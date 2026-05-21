@@ -1,0 +1,7 @@
+﻿plan_id,target,action,expected_result,boundary
+SP001,V418 LOCAL SOURCE CANDIDATE,collapse or relocate so it no longer blocks left route directory,left route list remains readable,no deletion and no data write
+SP002,L2R2 refined display,collapse by default or move into legacy collapsed cockpit module,reduces visual weight while preserving access,no functional route change
+SP003,Right Risk Monitor and Offline Replay,compact card bodies and reduce always-visible footprint,right side remains risk boundary alerts focused,no hidden DATA_BRIDGE or active payload write
+SP004,Steam Mature Loop module,preserve module content and route placement,final targets excluded failed handoff ready and boundary remain visible,readonly only
+SP005,STEAM MATURE LOOP button,preserve button and scroll/highlight behavior,user can still find route quickly,button triggers no fetch EV DATA_BRIDGE trade
+SP006,Bottom safe action zone,preserve safe-only semantics,no BUY_NOW TRADEUP_NOW or trade/order control appears,no trade semantics

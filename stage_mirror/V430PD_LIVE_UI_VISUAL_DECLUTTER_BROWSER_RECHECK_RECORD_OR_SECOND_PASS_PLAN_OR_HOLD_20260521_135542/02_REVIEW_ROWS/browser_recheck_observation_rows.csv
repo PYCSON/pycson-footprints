@@ -1,0 +1,10 @@
+﻿observation_id,area,observed_result,pass,status_note
+OBS001,page_load,LIVE UI loads successfully with no white screen,true,accepted
+OBS002,top_navigation,STEAM MATURE LOOP button visible,true,accepted
+OBS003,steam_mature_loop_module,module visible and promoted into main route area,true,accepted
+OBS004,steam_mature_loop_counts,final targets equals 7 visible,true,accepted
+OBS005,steam_mature_loop_counts,excluded failed equals 5 visible,true,accepted
+OBS006,steam_mature_loop_counts,handoff ready equals 7 visible,true,accepted
+OBS007,steam_mature_loop_status,runner policy screening feed and boundary warning visible,true,accepted
+OBS008,boundary,no real BUY_NOW TRADEUP_NOW trade/order execution control visible in Steam Mature Loop area,true,accepted
+OBS009,declutter_result,UI clearly less cluttered than previous screenshot,true,pass_with_minor_second_pass_recommended
