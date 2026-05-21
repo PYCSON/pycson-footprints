@@ -1,0 +1,5 @@
+﻿plan_id,preserved_element,preservation_requirement,acceptance_check,forbidden_change
+SML001,Steam Mature Loop readonly module,keep module visible and readonly,final targets 7 excluded failed 5 handoff ready 7 remain visible,do not turn into active payload
+SML002,STEAM MATURE LOOP button,keep visible and keep scroll/highlight behavior,button still reaches module,do not trigger fetch EV DATA_BRIDGE trade
+SML003,boundary warning,keep no DATA_BRIDGE no trade warning visible,boundary remains readable,do not add BUY_NOW or TRADEUP_NOW
+SML004,module source context,preserve route meaning and proof references,first usable route remains auditable,do not modify mother UI

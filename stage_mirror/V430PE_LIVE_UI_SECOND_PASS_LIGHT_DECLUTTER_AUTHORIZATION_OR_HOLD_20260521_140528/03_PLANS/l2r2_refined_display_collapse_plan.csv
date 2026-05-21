@@ -1,0 +1,4 @@
+﻿plan_id,current_issue,planned_later_action,acceptance_check,forbidden_change
+L2R2001,L2R2 refined display remains visually heavy,collapse by default,main cockpit feels calmer,do not remove evidence
+L2R2002,L2R2 competes with selected route,move into legacy/collapsed cockpit module if needed,selected route remains dominant,do not create replacement page
+L2R2003,L2R2 should stay available for audit,keep expand affordance,legacy context remains recoverable,do not trigger EV/fetch/trade

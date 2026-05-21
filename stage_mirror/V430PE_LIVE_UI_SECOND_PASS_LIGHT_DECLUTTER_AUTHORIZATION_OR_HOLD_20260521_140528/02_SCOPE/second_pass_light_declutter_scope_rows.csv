@@ -1,0 +1,8 @@
+﻿scope_id,target,allowed_action,expected_result,stage_boundary
+SCOPE001,V418 LOCAL SOURCE CANDIDATE,collapse or relocate existing card,left route directory no longer blocked,authorization only in V430PE
+SCOPE002,L2R2 refined display,collapse by default or move into legacy collapsed cockpit module,center cockpit less visually heavy,authorization only in V430PE
+SCOPE003,Right Risk Monitor,compact visible card footprint,risk information preserved with less overload,authorization only in V430PE
+SCOPE004,Offline Replay,compact visible card footprint,replay information preserved with less overload,authorization only in V430PE
+SCOPE005,Steam Mature Loop module,preserve module and readonly content,route remains usable and visible,authorization only in V430PE
+SCOPE006,STEAM MATURE LOOP button,preserve button and scroll/highlight behavior,navigation remains intact,authorization only in V430PE
+SCOPE007,Boundary guards,preserve no write no EV no fetch no trade rules,no forbidden actions introduced,authorization only in V430PE

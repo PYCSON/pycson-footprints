@@ -1,0 +1,4 @@
+﻿plan_id,current_issue,planned_later_action,acceptance_check,forbidden_change
+RP001,Risk Monitor still large,compact body and keep key status visible,right side remains risk/boundary focused,do not hide critical warnings
+RP002,Offline Replay still large,compact body and move details behind expand,replay remains accessible without overload,do not add active replay execution
+RP003,right side can overload selected route,standardize card height and collapsed default for secondary content,center cockpit stays readable,do not write active payload

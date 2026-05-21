@@ -1,0 +1,4 @@
+﻿plan_id,current_issue,planned_later_action,acceptance_check,forbidden_change
+V418001,floating card blocks part of left route directory,collapse by default or relocate into source/legacy panel,left route directory is readable,do not delete legacy content
+V418002,card competes visually with route navigation,reduce always-visible footprint or move behind toggle,route directory remains primary left-side element,do not add fetch or write behavior
+V418003,card may still be useful for audit context,preserve access in collapsed form,user can inspect when needed,do not write DATA_BRIDGE or active payload

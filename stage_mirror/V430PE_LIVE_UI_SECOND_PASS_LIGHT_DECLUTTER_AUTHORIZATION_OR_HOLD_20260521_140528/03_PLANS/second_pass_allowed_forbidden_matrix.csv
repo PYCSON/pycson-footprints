@@ -1,0 +1,15 @@
+﻿item,category,allowed_in_v430pe,allowed_in_later_v430pf_after_approval,notes
+Create authorization packet,documentation,true,true,V430PE purpose
+Patch LIVE UI,ui_patch,false,true,only after explicit V430PF approval
+Modify mother UI,mother_ui,false,false,forbidden
+Write DATA_BRIDGE,data_write,false,false,forbidden
+Write active payload,payload_write,false,false,forbidden
+Calculate official EV,ev,false,false,forbidden
+Calculate trusted EV,ev,false,false,forbidden
+Fetch Steam,fetch,false,false,forbidden
+Fetch BUFF,fetch,false,false,forbidden
+BUY_NOW,buy_trade,false,false,forbidden
+TRADEUP_NOW,buy_trade,false,false,forbidden
+Trade/order,buy_trade,false,false,forbidden
+Preserve Steam Mature Loop module,preservation,true,true,required
+Preserve Steam Mature Loop button,preservation,true,true,required
