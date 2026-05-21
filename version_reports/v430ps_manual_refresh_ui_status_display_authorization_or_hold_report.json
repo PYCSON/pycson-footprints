@@ -25,11 +25,6 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  true,
-    "git_commit_succeeded":  false,
-    "git_push_succeeded":  false,
-    "git_push_failure_note":  "pending",
-    "head_matches_origin":  false,
-    "worktree_clean":  false,
     "authorization_packet":  "C:\\Users\\sunpu\\Desktop\\pycson\\1074_V430PS_MANUAL_REFRESH_UI_STATUS_DISPLAY_AUTHORIZATION_OR_HOLD\\V430PS_MANUAL_REFRESH_UI_STATUS_DISPLAY_AUTHORIZATION_OR_HOLD_20260521_201907\\01_AUTHORIZATION\\manual_refresh_ui_status_display_authorization_packet.md",
     "approval_phrase":  "C:\\Users\\sunpu\\Desktop\\pycson\\1074_V430PS_MANUAL_REFRESH_UI_STATUS_DISPLAY_AUTHORIZATION_OR_HOLD\\V430PS_MANUAL_REFRESH_UI_STATUS_DISPLAY_AUTHORIZATION_OR_HOLD_20260521_201907\\01_AUTHORIZATION\\manual_refresh_ui_status_display_draft_user_approval_phrase.txt",
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\1074_V430PS_MANUAL_REFRESH_UI_STATUS_DISPLAY_AUTHORIZATION_OR_HOLD\\V430PS_MANUAL_REFRESH_UI_STATUS_DISPLAY_AUTHORIZATION_OR_HOLD_20260521_201907\\06_REPORT\\v430ps_manual_refresh_ui_status_display_authorization_or_hold_report.json",
@@ -40,5 +35,12 @@
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\1074_V430PS_MANUAL_REFRESH_UI_STATUS_DISPLAY_AUTHORIZATION_OR_HOLD\\V430PS_MANUAL_REFRESH_UI_STATUS_DISPLAY_AUTHORIZATION_OR_HOLD_20260521_201907\\09_GIT_FOOTPRINT\\v430ps_manual_refresh_ui_status_display_authorization_or_hold_git_summary.md",
     "executed_script":  "C:\\Users\\sunpu\\Desktop\\pycson\\1074_V430PS_MANUAL_REFRESH_UI_STATUS_DISPLAY_AUTHORIZATION_OR_HOLD\\V430PS_MANUAL_REFRESH_UI_STATUS_DISPLAY_AUTHORIZATION_OR_HOLD_20260521_201907\\00_EXECUTED_SCRIPT\\RUN_V430PS_MANUAL_REFRESH_UI_STATUS_DISPLAY_AUTHORIZATION_OR_HOLD_20260521_201907.ps1",
     "executed_script_sha256":  "C9A5756097035ECA6C2C0AC2A91151F8FB2A8DC407A639DCC0700B374423EE17",
-    "next_safe_step":  "V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD"
+    "next_safe_step":  "V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD",
+    "git_commit_succeeded":  true,
+    "git_push_succeeded":  true,
+    "git_push_failure_note":  "none",
+    "head":  "85cba9d",
+    "origin_main":  "85cba9d",
+    "head_matches_origin":  true,
+    "worktree_clean":  true
 }
