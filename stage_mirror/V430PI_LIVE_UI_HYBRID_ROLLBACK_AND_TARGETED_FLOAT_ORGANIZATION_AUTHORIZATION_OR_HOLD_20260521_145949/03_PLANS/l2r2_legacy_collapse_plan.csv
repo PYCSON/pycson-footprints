@@ -1,0 +1,4 @@
+﻿plan_id,target,planned_action,acceptance
+L2R2001,L2R2 refined display,collapse into legacy module with visible label,user can see it exists
+L2R2002,L2R2 content,preserve dryrun evidence behind expand/access affordance,no content deletion
+L2R2003,L2R2 boundary,no EV/fetch/trade activation,legacy display remains read-only

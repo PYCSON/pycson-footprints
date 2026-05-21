@@ -1,0 +1,17 @@
+﻿V430PI NO PATCH / NO DATABRIDGE / NO EV / NO FETCH / NO BUY TRADE PROOF
+project_root=C:\Users\sunpu\Desktop\pycson
+stage=V430PI_LIVE_UI_HYBRID_ROLLBACK_AND_TARGETED_FLOAT_ORGANIZATION_AUTHORIZATION_OR_HOLD
+status=READY_FOR_USER_APPROVAL_OF_V430PJ_LIVE_UI_HYBRID_ROLLBACK_AND_TARGETED_FLOAT_ORGANIZATION_EXECUTION_OR_HOLD
+live_ui_patched=false
+rollback_executed=false
+mother_ui_modified=false
+data_bridge_write=false
+active_payload_write=false
+official_ev_calculated=false
+trusted_ev_calculated=false
+steam_fetch_executed=false
+buff_fetch_executed=false
+buy_now=false
+tradeup_now=false
+trade_or_order=false
+faictory_touched=false

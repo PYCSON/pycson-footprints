@@ -1,0 +1,4 @@
+﻿plan_id,target,planned_action,acceptance
+V418001,V418 floating card,move out of route directory path or convert to nonblocking docked summary,left route directory remains readable
+V418002,V418 content,preserve proof/status in collapsed or docked form,content remains accessible
+V418003,V418 interaction,read-only expand/focus only,no fetch/write/trade behavior

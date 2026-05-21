@@ -1,0 +1,4 @@
+﻿plan_id,target,planned_action,acceptance
+RR001,Risk Monitor,compact or dock into right boundary zone,risk status remains visible and accessible
+RR002,Offline Replay,compact or dock into replay/proof area,replay package remains present
+RR003,right-side panels,reduce floating/heavy feeling without hiding identity,no deletion or execution controls

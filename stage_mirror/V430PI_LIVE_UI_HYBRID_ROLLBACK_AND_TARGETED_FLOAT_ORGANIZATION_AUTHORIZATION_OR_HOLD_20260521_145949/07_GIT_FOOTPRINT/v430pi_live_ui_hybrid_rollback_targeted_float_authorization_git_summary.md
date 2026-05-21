@@ -1,0 +1,10 @@
+﻿# V430PI Git Summary
+
+- Stage: V430PI_LIVE_UI_HYBRID_ROLLBACK_AND_TARGETED_FLOAT_ORGANIZATION_AUTHORIZATION_OR_HOLD
+- Status: READY_FOR_USER_APPROVAL_OF_V430PJ_LIVE_UI_HYBRID_ROLLBACK_AND_TARGETED_FLOAT_ORGANIZATION_EXECUTION_OR_HOLD
+- Decision: READY_FOR_USER_APPROVAL_OF_V430PJ_LIVE_UI_HYBRID_ROLLBACK_AND_TARGETED_FLOAT_ORGANIZATION_EXECUTION_OR_HOLD
+- User principle: 整理，不是取消
+- Authorization only: true
+- Git commit: pending
+- Git push: pending
+- Safety: no rollback, no UI patch, no DATA_BRIDGE, no EV, no fetch, no BUY/TRADE. Rollback source represented by metadata only.

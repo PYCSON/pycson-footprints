@@ -1,0 +1,16 @@
+﻿item,allowed_in_v430pi,allowed_in_v430pj_after_approval,forbidden_notes
+Create authorization packet,true,true,documentation only
+Execute rollback,false,true,only after user approval
+Patch LIVE UI,false,true,only after user approval
+Modify mother UI,false,false,always forbidden
+Write DATA_BRIDGE,false,false,always forbidden
+Write active payload,false,false,always forbidden
+Calculate official EV,false,false,always forbidden
+Calculate trusted EV,false,false,always forbidden
+Fetch Steam,false,false,always forbidden
+Fetch BUFF,false,false,always forbidden
+Create BUY_NOW,false,false,always forbidden
+Create TRADEUP_NOW,false,false,always forbidden
+Create trade/order,false,false,always forbidden
+Delete legacy modules,false,false,always forbidden
+Create new standalone replacement page,false,false,always forbidden

@@ -1,0 +1,9 @@
+﻿scope_id,scope_item,allowed_later_after_approval,not_allowed_in_v430pi,acceptance_criteria
+SCOPE001,restore previous accepted LIVE UI state,true,true,V430PF wrong-direction suppression removed
+SCOPE002,preserve Steam Mature Loop module,true,true,module remains visible and readonly
+SCOPE003,preserve STEAM MATURE LOOP button,true,true,button remains visible and navigates/highlights module
+SCOPE004,restore cockpit identity,true,true,header/cockpit richness not suppressed
+SCOPE005,V418 nonblocking organization,true,true,V418 no longer blocks route directory
+SCOPE006,L2R2 accessible legacy collapse,true,true,L2R2 remains accessible without visual dominance
+SCOPE007,Risk/Replay compact preservation,true,true,panels remain present but contained
+SCOPE008,no new standalone page,false,true,existing LIVE UI only

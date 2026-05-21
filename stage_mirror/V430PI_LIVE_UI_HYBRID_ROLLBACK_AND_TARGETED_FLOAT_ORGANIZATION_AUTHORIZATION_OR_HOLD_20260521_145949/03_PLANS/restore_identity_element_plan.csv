@@ -1,0 +1,6 @@
+﻿plan_id,identity_element,restore_requirement,avoid
+IDPLAN001,master cockpit identity,restore visible richness from accepted first-declutter state,do not suppress broad UI areas
+IDPLAN002,top navigation,keep route buttons and STEAM MATURE LOOP entry visible,do not create tiny noisy duplicate nav
+IDPLAN003,Steam Mature Loop selected route,keep promoted and readable,do not bury route again
+IDPLAN004,legacy modules,keep available and visibly organized,do not erase or make user think modules are gone
+IDPLAN005,route directory,keep readable and unobstructed,do not allow floating card to cover it
