@@ -1,0 +1,17 @@
+﻿V430PG NO DATABRIDGE / NO EV / NO FETCH / NO BUY TRADE PROOF
+project_root=C:\Users\sunpu\Desktop\pycson
+stage=V430PG_LIVE_UI_SECOND_PASS_LIGHT_DECLUTTER_REVIEW_OR_HOLD
+status=READY_FOR_USER_BROWSER_RECHECK_OF_V430PG_SECOND_PASS_LIGHT_DECLUTTER
+live_ui_review_performed=true
+live_ui_patched=false
+mother_ui_modified=false
+data_bridge_write=false
+active_payload_write=false
+official_ev_calculated=false
+trusted_ev_calculated=false
+steam_fetch_executed=false
+buff_fetch_executed=false
+buy_now=false
+tradeup_now=false
+trade_or_order=false
+faictory_touched=false

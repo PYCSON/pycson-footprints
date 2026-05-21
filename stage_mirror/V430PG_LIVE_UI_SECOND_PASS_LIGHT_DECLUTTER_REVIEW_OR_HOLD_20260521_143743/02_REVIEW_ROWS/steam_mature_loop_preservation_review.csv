@@ -1,0 +1,5 @@
+﻿review_id,target,expected,observed,pass
+SMLR001,Steam Mature Loop module,preserved,module id pycson-v430oi-steam-mature-loop-readonly present,true
+SMLR002,STEAM MATURE LOOP button,preserved,button id pycson-v430on-steam-mature-loop-entry present,true
+SMLR003,Steam Mature Loop preservation marker,present,data-v430pf-preserved assignment present,true
+SMLR004,Steam route boundary,readonly route remains visible,no new trade or data write behavior added,true

@@ -1,0 +1,4 @@
+﻿review_id,target,expected,observed,pass
+RPR001,Risk Monitor,compact by default,V430PF data state compact_by_default present,true
+RPR002,Offline Replay,compact by default,V430PF data state compact_by_default present,true
+RPR003,right panel information,preserved while reducing visual weight,no deletion performed and open controls remain,true

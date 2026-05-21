@@ -1,0 +1,6 @@
+﻿stage=V430PG_LIVE_UI_SECOND_PASS_LIGHT_DECLUTTER_REVIEW_OR_HOLD
+status=READY_FOR_USER_BROWSER_RECHECK_OF_V430PG_SECOND_PASS_LIGHT_DECLUTTER
+decision=READY_FOR_USER_BROWSER_RECHECK_OF_V430PG_SECOND_PASS_LIGHT_DECLUTTER
+git_commit_succeeded=pending
+git_push_succeeded=pending
+safety=review only; no UI patch; no DATA_BRIDGE; no EV; no fetch; no buy/trade; no full UI backup in Git scope

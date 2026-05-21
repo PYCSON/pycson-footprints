@@ -1,0 +1,4 @@
+﻿review_id,target,expected,observed,pass
+L2R2R001,L2R2 refined display,collapsed by default,V430PF data state collapsed_legacy_preview present,true
+L2R2R002,L2R2 refined display,legacy display remains recoverable,original section remains in DOM,true
+L2R2R003,L2R2 refined display,no active execution added,V430PF layer adds display collapse only,true

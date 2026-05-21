@@ -1,0 +1,12 @@
+﻿review_id,boundary,expected,observed,pass
+BNDR001,mother UI,unchanged,hash matches V430PF patch report hash,true
+BNDR002,LIVE UI review,no patch in V430PG,review-only stage,true
+BNDR003,DATA_BRIDGE write,none,no write performed,true
+BNDR004,active payload write,none,no write performed,true
+BNDR005,official EV,not calculated,no EV calculation performed,true
+BNDR006,trusted EV,not calculated,no trusted EV calculation performed,true
+BNDR007,Steam fetch,not executed,no Steam fetch performed,true
+BNDR008,BUFF fetch,not executed,no BUFF fetch performed,true
+BNDR009,BUY_NOW,not created,no new BUY_NOW control added,true
+BNDR010,TRADEUP_NOW,not created,no new TRADEUP_NOW control added,true
+BNDR011,trade/order,not created,no new trade/order trigger added,true

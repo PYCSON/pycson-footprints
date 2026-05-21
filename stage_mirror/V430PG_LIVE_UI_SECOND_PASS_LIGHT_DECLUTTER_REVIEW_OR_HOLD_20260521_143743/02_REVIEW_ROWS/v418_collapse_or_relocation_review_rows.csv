@@ -1,0 +1,4 @@
+﻿review_id,target,expected,observed,pass
+V418R001,V418 LOCAL SOURCE CANDIDATE,collapsed or relocated so left route directory is not blocked,V430PF data state collapsed_relocated_left_bottom present,true
+V418R002,V418 LOCAL SOURCE CANDIDATE,details preserved but less visually dominant,V430PF CSS hides detail rows by default,true
+V418R003,left route directory,obstruction reduced,V418 moved away from upper-left directory area,true
