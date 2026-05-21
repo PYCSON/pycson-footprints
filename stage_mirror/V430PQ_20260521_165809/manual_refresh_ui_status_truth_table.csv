@@ -1,0 +1,8 @@
+﻿"field","value","required_display","prohibited_display"
+"refresh_success_count","7","7 of 7 refresh success","failed refresh"
+"price_candidate_count","7","7 price candidates captured","EV ready"
+"blocked_count","0","0 blocked","bypass allowed"
+"error_count","0","0 errors","ready signal"
+"screening_ready_count","0","0 rows ready for signal","ready for signal"
+"hold_or_review_count","7","7 hold or review","auto handoff"
+"status","REVIEW_REQUIRED / PARTIAL_SCREENING","review required partial screening","official or trusted EV"

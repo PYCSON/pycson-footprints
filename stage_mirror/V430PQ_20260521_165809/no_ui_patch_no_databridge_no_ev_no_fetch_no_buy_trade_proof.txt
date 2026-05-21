@@ -1,0 +1,13 @@
+﻿V430PQ proof
+authorization_only=true
+live_ui_patched=false
+data_bridge_write=false
+active_payload_write=false
+official_ev_calculated=false
+trusted_ev_calculated=false
+steam_fetch_executed=false
+buff_fetch_executed=false
+buy_now=false
+tradeup_now=false
+trade_or_order=false
+faictory_touched=false
