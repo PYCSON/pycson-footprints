@@ -1,0 +1,22 @@
+﻿V430PO NO FETCH BEYOND STEAM PUBLIC READONLY / NO EV / NO DATABRIDGE / NO UI / NO BUY TRADE PROOF
+project_root=C:\Users\sunpu\Desktop\pycson
+stage=V430PO_STEAM_MATURE_LOOP_MANUAL_REFRESH_EXECUTION_OR_HOLD
+steam_public_readonly_fetch_executed=true
+buff_fetch_executed=false
+login_used=false
+cookies_used=false
+credentials_used=false
+captcha_present=false
+captcha_bypass_attempted=false
+anti_bot_challenge_present=false
+anti_bot_bypass_attempted=false
+proxy_or_ip_rotation_used=false
+official_ev_calculated=false
+trusted_ev_calculated=false
+data_bridge_write=false
+active_payload_write=false
+ui_patch=false
+buy_now=false
+tradeup_now=false
+trade_or_order=false
+faictory_touched=false

@@ -1,0 +1,4 @@
+﻿"next_step","condition","action"
+"V430PP screening review","7 success rows and 7 price candidate rows","screen success_no_price_fields_returned condition plus stale/drift/liquidity/risk"
+"price_field_repair_plan","screening decides missing price fields are insufficient","plan safe repair without bypass"
+"boundary_stop","forbidden action observed","stop"
