@@ -1,0 +1,5 @@
+﻿row_id,target,execution_result,pass
+RREXEC001,Risk Monitor,moved into V430PJ floating panel dock,true
+RREXEC002,Offline Replay,moved into V430PJ floating panel dock,true
+RREXEC003,Risk/Replay,preserved rather than hidden or deleted,true
+RREXEC004,Risk/Replay,data-v430pj-state docked_compact_preserved marker added,true

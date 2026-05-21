@@ -1,0 +1,9 @@
+﻿plan_id,review_item,expected_result
+POST001,Open LIVE UI,page loads with no white screen
+POST002,Master cockpit identity,visible richness restored and not cancelled
+POST003,STEAM MATURE LOOP button,visible and behavior preserved
+POST004,Steam Mature Loop module,visible with final targets excluded failed handoff ready
+POST005,V418,organized in floating panel dock and not blocking route directory
+POST006,L2R2,accessible as legacy collapsed module
+POST007,Risk/Replay,compact preserved in organized dock
+POST008,Boundary,no BUY_NOW TRADEUP_NOW trade/order DATA_BRIDGE active payload indicators introduced

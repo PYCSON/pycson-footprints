@@ -1,0 +1,5 @@
+﻿review_id,item,expected,observed,pass
+SML001,Steam Mature Loop module,preserved,module id remains in LIVE UI,true
+SML002,STEAM MATURE LOOP button,preserved,button id remains in LIVE UI,true
+SML003,Steam preservation marker,present,data-v430pj-preserved marker assigned,true
+SML004,route behavior,no fetch/EV/DATA_BRIDGE/trade added,V430PJ only reorganizes DOM display,true

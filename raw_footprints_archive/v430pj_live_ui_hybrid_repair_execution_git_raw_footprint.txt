@@ -1,0 +1,6 @@
+﻿stage=V430PJ_LIVE_UI_HYBRID_ROLLBACK_AND_TARGETED_FLOAT_ORGANIZATION_EXECUTION_OR_HOLD
+status=READY_FOR_V430PK_LIVE_UI_HYBRID_REPAIR_REVIEW_OR_HOLD
+decision=READY_FOR_V430PK_LIVE_UI_HYBRID_REPAIR_REVIEW_OR_HOLD
+git_commit_succeeded=pending
+git_push_succeeded=pending
+safety=LIVE UI hybrid repair executed; no mother UI; no DATA_BRIDGE; no EV; no fetch; no BUY/TRADE; no full UI backups in Git scope

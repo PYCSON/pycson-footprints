@@ -1,0 +1,4 @@
+﻿row_id,target,execution_result,pass
+V418EXEC001,V418 LOCAL SOURCE CANDIDATE,moved into V430PJ floating panel dock,true
+V418EXEC002,V418 LOCAL SOURCE CANDIDATE,position reset to static/nonblocking inside dock,true
+V418EXEC003,V418 LOCAL SOURCE CANDIDATE,data-v430pj-state docked_nonblocking marker added,true

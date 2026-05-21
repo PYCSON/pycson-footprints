@@ -1,0 +1,11 @@
+﻿review_id,boundary,expected,observed,pass
+BND001,mother UI,not modified,hash unchanged,true
+BND002,DATA_BRIDGE write,none,no write performed,true
+BND003,active payload write,none,no write performed,true
+BND004,official EV,not calculated,no calculation performed,true
+BND005,trusted EV,not calculated,no calculation performed,true
+BND006,Steam fetch,not executed,no fetch performed,true
+BND007,BUFF fetch,not executed,no fetch performed,true
+BND008,BUY_NOW,not created,no BUY_NOW control added,true
+BND009,TRADEUP_NOW,not created,no TRADEUP_NOW control added,true
+BND010,trade/order,not created,no trade/order trigger added,true

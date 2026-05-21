@@ -1,0 +1,5 @@
+﻿row_id,identity_element,execution_result,pass
+IDEXEC001,master cockpit identity,restored by rollback to accepted first-declutter state,true
+IDEXEC002,wrong-direction V430PF suppression layer,removed by rollback,true
+IDEXEC003,top navigation and cockpit richness,preserved from accepted state,true
+IDEXEC004,Steam Mature Loop selected route,preserved and still present,true

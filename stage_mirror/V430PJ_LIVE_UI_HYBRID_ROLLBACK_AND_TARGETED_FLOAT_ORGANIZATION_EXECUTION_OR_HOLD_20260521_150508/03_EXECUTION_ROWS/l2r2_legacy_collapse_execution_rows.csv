@@ -1,0 +1,4 @@
+﻿row_id,target,execution_result,pass
+L2R2EXEC001,L2R2 refined display,moved into accessible details element,true
+L2R2EXEC002,L2R2 refined display,collapsed by default but visible as legacy module,true
+L2R2EXEC003,L2R2 refined display,data-v430pj-state legacy_accessible_collapse marker added,true
