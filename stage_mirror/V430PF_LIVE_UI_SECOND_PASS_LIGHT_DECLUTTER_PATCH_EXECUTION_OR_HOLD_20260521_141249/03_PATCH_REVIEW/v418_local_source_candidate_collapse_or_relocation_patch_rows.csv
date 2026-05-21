@@ -1,0 +1,4 @@
+﻿patch_id,target,patch_action,executed,verification
+V418PATCH001,V418 LOCAL SOURCE CANDIDATE,relocated to lower-left compact readonly badge,true,data-v430pf-state collapsed_relocated_left_bottom
+V418PATCH002,V418 LOCAL SOURCE CANDIDATE,hidden detail rows by default while preserving header,true,child rows hidden through V430PF CSS
+V418PATCH003,left route directory,reduced V418 obstruction,true,V418 moved away from upper-left directory area

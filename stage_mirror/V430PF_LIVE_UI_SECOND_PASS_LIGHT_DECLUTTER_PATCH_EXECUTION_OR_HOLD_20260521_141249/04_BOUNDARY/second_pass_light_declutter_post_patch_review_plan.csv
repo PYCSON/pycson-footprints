@@ -1,0 +1,9 @@
+﻿plan_id,review_item,expected_result
+POST001,Open LIVE UI locally,page loads without white screen
+POST002,STEAM MATURE LOOP button,button remains visible and scroll/highlight behavior remains usable
+POST003,Steam Mature Loop module,module remains visible with final targets 7 excluded failed 5 handoff ready 7
+POST004,V418 card,no longer blocks left route directory badly
+POST005,L2R2 display,collapsed by default or visibly lighter
+POST006,Risk and Offline Replay,right-side cards compact by default while information remains accessible
+POST007,boundary,no BUY_NOW TRADEUP_NOW trade/order execution controls introduced
+POST008,boundary,no DATA_BRIDGE or active payload write indicators introduced

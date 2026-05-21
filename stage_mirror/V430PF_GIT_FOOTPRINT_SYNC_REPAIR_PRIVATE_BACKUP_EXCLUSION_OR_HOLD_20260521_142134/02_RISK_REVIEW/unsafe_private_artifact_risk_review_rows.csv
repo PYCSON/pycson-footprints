@@ -1,0 +1,3 @@
+﻿risk_id,path,artifact_type,risk_found,reason,repair_action
+RISK001,stage_mirror/V430PF_LIVE_UI_SECOND_PASS_LIGHT_DECLUTTER_PATCH_EXECUTION_OR_HOLD_20260521_141249/02_BACKUP/V200_MASTER_UI_LIVE_before_V430PF.html,full_live_ui_backup,true,full private workspace UI backup was present in Git mirror scope,exclude from Git tracking and replace with metadata
+RISK002,C:\Users\sunpu\Desktop\pycson\1060_V430PF_LIVE_UI_SECOND_PASS_LIGHT_DECLUTTER_PATCH_EXECUTION_OR_HOLD\V430PF_LIVE_UI_SECOND_PASS_LIGHT_DECLUTTER_PATCH_EXECUTION_OR_HOLD_20260521_141249\02_BACKUP\V200_MASTER_UI_LIVE_before_V430PF.html,local_project_backup,false,local backup is required for rollback and remains local,preserve local backup

@@ -1,0 +1,4 @@
+﻿patch_id,target,patch_action,executed,verification
+RIGHTPATCH001,Risk Monitor,default compact/minimized state,true,v373-minimized class applied by V430PF script
+RIGHTPATCH002,Offline Replay,default compact/minimized state,true,pycson-v371-minimized class applied by V430PF script
+RIGHTPATCH003,right panel,information preserved while reducing always-visible footprint,true,no card deletion performed

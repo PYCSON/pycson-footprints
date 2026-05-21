@@ -1,0 +1,4 @@
+﻿patch_id,target,patch_action,executed,verification
+L2R2PATCH001,L2R2 refined display,collapsed legacy preview by default,true,data-v430pf-state collapsed_legacy_preview
+L2R2PATCH002,L2R2 refined display,hidden detailed dryrun rows by default,true,V430PF CSS hides child rows after header
+L2R2PATCH003,legacy cockpit,kept L2R2 recoverable as existing DOM element,true,no deletion performed

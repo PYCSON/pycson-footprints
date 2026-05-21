@@ -1,0 +1,6 @@
+﻿result_id,step,status,note
+PUSH001,inspect_status,complete,unpublished commit ahead of origin contained unsafe backup
+PUSH002,exclude_full_backup,pending,remove from Git scope only
+PUSH003,add_metadata,pending,safe metadata replacement
+PUSH004,amend_commit,pending,amend unpushed commit to remove unsafe backup from history
+PUSH005,push_origin_main,pending,attempt after repair

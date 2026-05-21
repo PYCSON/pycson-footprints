@@ -1,0 +1,5 @@
+﻿review_id,preserved_element,expected,observed,pass
+SMLP001,Steam Mature Loop readonly module,module remains in LIVE UI,module id still present,true
+SMLP002,STEAM MATURE LOOP button,button remains in LIVE UI,button id still present,true
+SMLP003,module behavior,readonly display preserved,V430PF only adds preservation attribute,true
+SMLP004,boundary,button does not add fetch EV DATA_BRIDGE trade behavior,no new executable action added,true

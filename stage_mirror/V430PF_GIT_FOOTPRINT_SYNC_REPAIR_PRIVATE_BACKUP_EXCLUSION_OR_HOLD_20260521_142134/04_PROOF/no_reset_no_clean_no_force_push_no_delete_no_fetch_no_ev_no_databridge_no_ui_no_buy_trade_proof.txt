@@ -1,0 +1,21 @@
+﻿V430PF GIT REPAIR BOUNDARY PROOF
+project_root=C:\Users\sunpu\Desktop\pycson
+stage=V430PF_GIT_FOOTPRINT_SYNC_REPAIR_PRIVATE_BACKUP_EXCLUSION_OR_HOLD
+git_reset_executed=false
+git_clean_executed=false
+force_push_executed=false
+delete_operation_executed=false
+local_backup_preserved=true
+live_ui_modified=false
+mother_ui_modified=false
+steam_fetch_executed=false
+buff_fetch_executed=false
+official_ev_calculated=false
+trusted_ev_calculated=false
+data_bridge_write=false
+active_payload_write=false
+ui_patch=false
+buy_now=false
+tradeup_now=false
+trade_or_order=false
+faictory_touched=false
