@@ -1,0 +1,7 @@
+﻿"output","required","purpose","boundary"
+"refresh_execution_rows","true","record each attempted target refresh","local result package only"
+"price_candidate_rows","true","candidate readonly observed price/status rows","not official EV"
+"screening_rows","true","stale/drift/liquidity/risk screening","review before handoff"
+"isolated_ev_feed_ready_rows","true","prepare feed-ready handoff without EV calculation","no official/trusted EV"
+"ui_status_payload_candidate","true","readonly UI status fields","no DATA_BRIDGE/active payload write"
+"boundary_proof","true","prove no forbidden action occurred","stage proof artifact"

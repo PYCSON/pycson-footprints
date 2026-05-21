@@ -1,0 +1,7 @@
+﻿V430PM GIT RAW FOOTPRINT
+stage=V430PM_STEAM_MATURE_LOOP_MANUAL_REFRESH_AND_UI_STATUS_ROUTE_PLAN_OR_HOLD
+status=READY_FOR_V430PN_STEAM_MATURE_LOOP_MANUAL_REFRESH_AUTHORIZATION_PACKET_OR_HOLD
+git_commit=pending
+git_push=pending
+safe_docs_only=true
+no_fetch_no_ev_no_databridge_no_ui_no_buy_trade=true

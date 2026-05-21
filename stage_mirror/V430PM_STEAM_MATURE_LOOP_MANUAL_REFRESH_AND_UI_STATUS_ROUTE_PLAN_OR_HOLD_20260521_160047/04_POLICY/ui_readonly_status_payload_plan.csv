@@ -1,0 +1,7 @@
+﻿"field","source","display","boundary"
+"last_refresh_time","refresh package metadata","timestamp only","readonly"
+"success_count","refresh execution rows","integer count","readonly"
+"error_count","refresh execution rows","integer count","readonly"
+"stale_drift_risk_summary","screening rows","compact risk summary","no trade decision"
+"handoff_ready_count","screening review","integer count","not active payload"
+"boundary_status","proof artifact","NO TRADE / READONLY","no BUY_NOW/TRADEUP_NOW/trade"

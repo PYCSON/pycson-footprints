@@ -1,0 +1,7 @@
+﻿"step","from","to","artifact","gate"
+"1","frozen target pool","manual refresh runner","target input rows","user authorization required"
+"2","manual refresh runner","refresh result package","refresh execution rows + price candidate rows","public readonly cache-only stop rules"
+"3","refresh result package","screening","stale/drift/liquidity/risk rows","minimum success and no block/challenge"
+"4","screening","isolated EV feed preparation","feed-ready rows","no official/trusted EV calculation"
+"5","feed-ready rows","UI readonly status payload candidate","status payload candidate","no DATA_BRIDGE/active payload write"
+"6","UI payload candidate","future display authorization","approval packet","no UI patch without explicit approval"

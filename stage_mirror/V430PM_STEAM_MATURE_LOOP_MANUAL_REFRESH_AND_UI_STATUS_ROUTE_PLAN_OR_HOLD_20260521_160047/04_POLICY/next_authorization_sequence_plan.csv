@@ -1,0 +1,6 @@
+﻿"sequence","next_stage","purpose"
+"1","V430PN_STEAM_MATURE_LOOP_MANUAL_REFRESH_AUTHORIZATION_PACKET_OR_HOLD","explicit approval packet for manual refresh only"
+"2","V430PO_STEAM_MATURE_LOOP_MANUAL_REFRESH_EXECUTION_OR_HOLD","execute only after approval"
+"3","V430PP_STEAM_MATURE_LOOP_REFRESH_SCREENING_REVIEW_OR_HOLD","review refresh output and screening"
+"4","V430PQ_STEAM_MATURE_LOOP_UI_STATUS_PAYLOAD_CANDIDATE_OR_HOLD","build readonly UI status payload candidate"
+"5","V430PR_STEAM_MATURE_LOOP_UI_STATUS_DISPLAY_AUTHORIZATION_OR_HOLD","authorize later readonly UI display only"

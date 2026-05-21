@@ -1,0 +1,15 @@
+﻿V430PM NO FETCH / NO EV / NO DATABRIDGE / NO UI / NO BUY TRADE PROOF
+project_root=C:\Users\sunpu\Desktop\pycson
+stage=V430PM_STEAM_MATURE_LOOP_MANUAL_REFRESH_AND_UI_STATUS_ROUTE_PLAN_OR_HOLD
+route_planning_only=true
+steam_fetch_executed=false
+buff_fetch_executed=false
+official_ev_calculated=false
+trusted_ev_calculated=false
+data_bridge_write=false
+active_payload_write=false
+ui_patch=false
+buy_now=false
+tradeup_now=false
+trade_or_order=false
+faictory_touched=false

@@ -1,0 +1,7 @@
+﻿"input","required","source","validation"
+"frozen_7_target_pool","true","Steam mature loop final pool","exact target count = 7"
+"runner_policy","true","public readonly / low-rate / cache-only","policy present before execution"
+"stop_rules","true","no login/cookies/credentials/CAPTCHA/anti-bot/proxy","all stop rules included"
+"cache_output_policy","true","local refresh result package only","no DATA_BRIDGE or active payload path"
+"minimum_success_rule","true","future authorization packet","hold if below threshold"
+"ui_status_contract","true","readonly status payload plan","readonly fields only"

@@ -1,0 +1,6 @@
+﻿"sequence","stage","name","action","boundary"
+"1","V430PN","manual_refresh_authorization_packet","prepare explicit user approval packet","no fetch/no EV/no DATA_BRIDGE/no UI patch/no trade"
+"2","V430PO","manual_refresh_execution","execute authorized manual readonly low-rate cache-only refresh","stop on login/captcha/challenge/credentials/proxy need"
+"3","V430PP","refresh_screening_review","screen stale/drift/liquidity/risk and row counts","no official/trusted EV promotion"
+"4","V430PQ","ui_status_payload_candidate","build isolated readonly UI status payload candidate","no DATA_BRIDGE or active payload write"
+"5","V430PR","ui_status_display_authorization","authorization packet for later readonly display","no UI patch until separately approved"
