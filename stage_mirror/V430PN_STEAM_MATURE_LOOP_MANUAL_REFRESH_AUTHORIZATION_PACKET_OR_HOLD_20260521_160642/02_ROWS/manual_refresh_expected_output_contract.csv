@@ -1,0 +1,7 @@
+﻿"output","required","contents"
+"refresh_execution_rows","true","target id, attempt status, timestamp, stop reason if any"
+"price_candidate_rows","true","readonly observed candidate fields, source timestamp, cache status"
+"blocked_error_rows","true","blocked/challenge/error target records"
+"cache_manifest","true","local cache files, hashes, created_at"
+"boundary_proof","true","no BUFF/no EV/no DATA_BRIDGE/no UI/no trade proof"
+"next_stage_handoff","true","ready or hold signal for V430PP screening review"

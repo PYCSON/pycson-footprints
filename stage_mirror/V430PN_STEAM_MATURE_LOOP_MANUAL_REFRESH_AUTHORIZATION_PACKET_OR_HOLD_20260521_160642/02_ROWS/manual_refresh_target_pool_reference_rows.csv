@@ -1,0 +1,4 @@
+﻿"reference","expected_count","source","use_in_v430po","boundary"
+"frozen_target_pool","7","existing Steam mature loop final pool","input only","do not expand target set in execution"
+"target_status","7","V430OG/V430OJ/V430OK route evidence","manual refresh candidates","public readonly only"
+"handoff_ready_count","7","LIVE UI accepted display","refresh readiness confirmation","no active payload write"

@@ -1,0 +1,7 @@
+﻿"scope_item","allowed","forbidden","note"
+"trigger","manual user-triggered only","unattended cadence","V430PO requires explicit user approval"
+"target_pool","existing frozen 7-target pool","adding targets during execution","fixed pool"
+"runner_mode","Steam public readonly low-rate cache-only","login/cookies/credentials","stop on challenge"
+"outputs","refresh rows, price candidate rows, blocked/error rows, cache manifest, proof","DATA_BRIDGE/active payload write","local outputs only"
+"post_execution","screening review in V430PP","official/trusted EV calculation","separate authorization required"
+"ui","no UI change in V430PO","UI patch","readonly status display is later sequence"

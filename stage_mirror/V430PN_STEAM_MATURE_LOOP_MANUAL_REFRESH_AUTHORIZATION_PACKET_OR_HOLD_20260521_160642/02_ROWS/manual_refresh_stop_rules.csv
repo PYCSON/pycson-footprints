@@ -1,0 +1,7 @@
+﻿"stop_rule","action"
+"no_login","stop if login required"
+"no_cookies","stop if cookies/session required"
+"no_credentials","stop if credentials required"
+"no_captcha_bypass","stop if CAPTCHA/challenge appears"
+"no_anti_bot_bypass","stop if anti-bot bypass would be needed"
+"no_proxy_ip_rotation","stop if proxy/IP rotation would be needed"
