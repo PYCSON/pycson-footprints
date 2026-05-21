@@ -1,0 +1,8 @@
+﻿"field","value","source"
+"last_refresh_time","2026-05-21T16:12:58.5330247+08:00","V430PO price candidate rows"
+"success_count","7","V430PO success rows"
+"error_count","0","V430PO report"
+"blocked_count","0","V430PO report"
+"price_candidate_count","7","V430PO candidate rows"
+"screening_status","partial_ready_needs_price_field_review","V430PP classification"
+"boundary_status","NO_FETCH_NO_EV_NO_DATABRIDGE_NO_UI_NO_BUY_TRADE","V430PP proof"

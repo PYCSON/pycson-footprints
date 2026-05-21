@@ -1,0 +1,10 @@
+﻿V430PP GIT RAW FOOTPRINT
+stage=V430PP_STEAM_MATURE_LOOP_MANUAL_REFRESH_SCREENING_REVIEW_OR_HOLD
+status=READY_FOR_V430PQ_PARTIAL_MANUAL_REFRESH_UI_STATUS_PAYLOAD_AUTHORIZATION_OR_HOLD
+git_commit=pending
+git_push=pending
+price_candidate_rows=7
+success_rows=7
+screening_ready_rows=0
+screening_hold_or_review_rows=7
+safe_docs_only=true

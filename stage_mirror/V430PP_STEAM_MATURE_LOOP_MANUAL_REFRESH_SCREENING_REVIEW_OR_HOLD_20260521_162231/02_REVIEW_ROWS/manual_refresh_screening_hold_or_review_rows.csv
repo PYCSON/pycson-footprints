@@ -1,0 +1,8 @@
+﻿"target_row","market_hash_name","status","reason","handoff"
+"1","Desert Eagle | Printstream","needs_review","steam_success_true_but_no_price_fields_returned","allow_ui_status_payload_but_mark_price_completeness_review"
+"2","AK-47 | Legion of Anubis","needs_review","steam_success_true_but_no_price_fields_returned","allow_ui_status_payload_but_mark_price_completeness_review"
+"3","AK-47 | Redline","needs_review","steam_success_true_but_no_price_fields_returned","allow_ui_status_payload_but_mark_price_completeness_review"
+"4","AWP | Asiimov","needs_review","steam_success_true_but_no_price_fields_returned","allow_ui_status_payload_but_mark_price_completeness_review"
+"5","M4A1-S | Chantico's Fire","needs_review","steam_success_true_but_no_price_fields_returned","allow_ui_status_payload_but_mark_price_completeness_review"
+"6","USP-S | Kill Confirmed","needs_review","steam_success_true_but_no_price_fields_returned","allow_ui_status_payload_but_mark_price_completeness_review"
+"7","Glock-18 | Water Elemental","needs_review","steam_success_true_but_no_price_fields_returned","allow_ui_status_payload_but_mark_price_completeness_review"

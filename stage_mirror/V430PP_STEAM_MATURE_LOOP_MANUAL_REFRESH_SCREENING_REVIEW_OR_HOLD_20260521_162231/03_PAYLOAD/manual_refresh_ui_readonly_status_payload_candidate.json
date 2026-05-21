@@ -1,0 +1,15 @@
+﻿{
+    "payload_version":  "V430PP_20260521_162000",
+    "readonly":  true,
+    "source_stage":  "V430PO",
+    "last_refresh_time":  "2026-05-21T16:12:58.5330247+08:00",
+    "success_count":  7,
+    "error_count":  0,
+    "blocked_count":  0,
+    "price_candidate_count":  7,
+    "screening_status":  "partial_ready_needs_price_field_review",
+    "screening_ready_count":  0,
+    "screening_hold_or_review_count":  7,
+    "boundary_status":  "NO_FETCH_NO_EV_NO_DATABRIDGE_NO_UI_NO_BUY_TRADE",
+    "notes":  "Steam returned success=true for all seven public readonly requests; price fields absent and flagged for review."
+}
