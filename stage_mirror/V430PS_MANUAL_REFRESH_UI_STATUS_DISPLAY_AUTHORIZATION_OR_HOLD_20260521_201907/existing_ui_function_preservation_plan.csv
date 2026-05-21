@@ -1,0 +1,7 @@
+﻿"ui_element","preserve","notes"
+"mother UI identity","true","do not modify mother UI"
+"theme/color controls","true","do not hide or remove"
+"Steam Mature Loop button","true","must remain visible/functional"
+"Steam Mature Loop module","true","status area should live inside/near it"
+"route directory","true","must remain visible/accessibile"
+"existing accessible modules","true","整理，不是取消"

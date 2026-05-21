@@ -1,0 +1,13 @@
+﻿V430PS proof
+No UI patch in this stage: true
+No mother UI modification: true
+No DATA_BRIDGE write: true
+No active payload write: true
+No official EV calculated: true
+No trusted EV calculated: true
+No Steam fetch executed: true
+No BUFF fetch executed: true
+No BUY_NOW: true
+No TRADEUP_NOW: true
+No trade/order: true
+Authorization only: true
