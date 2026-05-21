@@ -1,4 +1,5 @@
-﻿stage=V430PF_GIT_FOOTPRINT_SYNC_REPAIR_PRIVATE_BACKUP_EXCLUSION_OR_HOLD
+﻿V430PF GIT FOOTPRINT SYNC REPAIR RAW FOOTPRINT
+stage=V430PF_GIT_FOOTPRINT_SYNC_REPAIR_PRIVATE_BACKUP_EXCLUSION_OR_HOLD
 status=PASS_V430PF_GIT_FOOTPRINT_SYNC_REPAIR_COMPLETE_READY_FOR_V430PG_REVIEW
 decision=PASS_V430PF_GIT_FOOTPRINT_SYNC_REPAIR_COMPLETE_READY_FOR_V430PG_REVIEW
 private_artifact_risk_found=true
@@ -6,4 +7,17 @@ full_live_ui_backup_in_git_scope_found=true
 full_backup_removed_from_git_scope=true
 local_backup_preserved=true
 safe_metadata_manifest_created=true
-git_push_succeeded=pending
+git_add_executed=true
+git_commit_executed=true
+git_push_executed=true
+git_push_succeeded=true
+git_push_failure_note=none
+final_head=20e6f82423700342d1b10dcca31f1519546b041a
+final_origin_main=20e6f82423700342d1b10dcca31f1519546b041a
+head_matches_origin=true
+worktree_clean=true
+git_reset_executed=false
+git_clean_executed=false
+force_push_executed=false
+delete_operation_executed=false
+safety=no reset; no clean; no force push; no local delete; no fetch; no EV; no DATA_BRIDGE; no UI patch; no BUY/TRADE

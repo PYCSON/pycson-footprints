@@ -1,6 +1,7 @@
 ﻿result_id,step,status,note
 PUSH001,inspect_status,complete,unpublished commit ahead of origin contained unsafe backup
-PUSH002,exclude_full_backup,pending,remove from Git scope only
-PUSH003,add_metadata,pending,safe metadata replacement
-PUSH004,amend_commit,pending,amend unpushed commit to remove unsafe backup from history
-PUSH005,push_origin_main,pending,attempt after repair
+PUSH002,exclude_full_backup,complete,full backup removed from Git tracking scope only and local backup preserved
+PUSH003,add_metadata,complete,safe metadata replacement created and staged
+PUSH004,amend_commit,complete,unpushed commit amended so full backup is absent from pushed history
+PUSH005,push_origin_main,complete,repaired safe footprint commit pushed to origin main
+PUSH006,verify_head_origin,complete,HEAD matches origin/main
