@@ -33,11 +33,6 @@
     "tradeup_now":  false,
     "trade_or_order":  false,
     "git_repo_used":  true,
-    "git_commit_succeeded":  false,
-    "git_push_succeeded":  false,
-    "git_push_failure_note":  "pending",
-    "head_matches_origin":  false,
-    "worktree_clean":  false,
     "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\1073_V430PR_MANUAL_REFRESH_UI_READONLY_STATUS_PAYLOAD_BUILD_OR_HOLD\\V430PR_MANUAL_REFRESH_UI_READONLY_STATUS_PAYLOAD_BUILD_OR_HOLD_20260521_200546\\05_REPORT\\v430pr_manual_refresh_ui_readonly_status_payload_build_or_hold_report.json",
     "latest_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\11_SYSTEM_AUDIT_HANDOFF\\99_AI_GENERATED_SYSTEM_INDEX\\v430pr_manual_refresh_ui_readonly_status_payload_build_or_hold_latest.json",
     "proof":  "C:\\Users\\sunpu\\Desktop\\pycson\\1073_V430PR_MANUAL_REFRESH_UI_READONLY_STATUS_PAYLOAD_BUILD_OR_HOLD\\V430PR_MANUAL_REFRESH_UI_READONLY_STATUS_PAYLOAD_BUILD_OR_HOLD_20260521_200546\\04_BOUNDARY\\no_ui_patch_no_databridge_no_ev_no_fetch_no_buy_trade_proof.txt",
@@ -46,5 +41,12 @@
     "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\1073_V430PR_MANUAL_REFRESH_UI_READONLY_STATUS_PAYLOAD_BUILD_OR_HOLD\\V430PR_MANUAL_REFRESH_UI_READONLY_STATUS_PAYLOAD_BUILD_OR_HOLD_20260521_200546\\08_GIT_FOOTPRINT\\v430pr_manual_refresh_ui_readonly_status_payload_build_or_hold_git_summary.md",
     "executed_script":  "C:\\Users\\sunpu\\Desktop\\pycson\\1073_V430PR_MANUAL_REFRESH_UI_READONLY_STATUS_PAYLOAD_BUILD_OR_HOLD\\V430PR_MANUAL_REFRESH_UI_READONLY_STATUS_PAYLOAD_BUILD_OR_HOLD_20260521_200546\\00_EXECUTED_SCRIPT\\RUN_V430PR_MANUAL_REFRESH_UI_READONLY_STATUS_PAYLOAD_BUILD_OR_HOLD_20260521_200546.ps1",
     "executed_script_sha256":  "CF55BE10BCA4BE0EB942FE233267D5CFF900F25C67305BEC70E51750EDE72B1A",
-    "next_safe_step":  "V430PS_MANUAL_REFRESH_UI_STATUS_DISPLAY_AUTHORIZATION_OR_HOLD"
+    "next_safe_step":  "V430PS_MANUAL_REFRESH_UI_STATUS_DISPLAY_AUTHORIZATION_OR_HOLD",
+    "git_commit_succeeded":  true,
+    "git_push_succeeded":  true,
+    "git_push_failure_note":  "none",
+    "head":  "5f370e1",
+    "origin_main":  "5f370e1",
+    "head_matches_origin":  true,
+    "worktree_clean":  true
 }
