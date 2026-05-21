@@ -1,0 +1,16 @@
+﻿V430PL NO PATCH / NO DATABRIDGE / NO EV / NO FETCH / NO BUY TRADE PROOF
+project_root=C:\Users\sunpu\Desktop\pycson
+stage=V430PL_LIVE_UI_HYBRID_REPAIR_BROWSER_RECHECK_RECORD_OR_HOLD
+record_only=true
+live_ui_patched=false
+mother_ui_modified=false
+data_bridge_write=false
+active_payload_write=false
+official_ev_calculated=false
+trusted_ev_calculated=false
+steam_fetch_executed=false
+buff_fetch_executed=false
+buy_now=false
+tradeup_now=false
+trade_or_order=false
+faictory_touched=false

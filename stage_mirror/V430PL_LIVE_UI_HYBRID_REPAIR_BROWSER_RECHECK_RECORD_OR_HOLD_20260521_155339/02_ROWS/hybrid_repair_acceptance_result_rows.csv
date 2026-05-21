@@ -1,0 +1,5 @@
+﻿"acceptance_field","value","result"
+"hybrid_repair_direction","accepted","PASS"
+"wrong_direction_declutter_resolved_enough","true","PASS"
+"ui_identity_restored_or_preserved","true","PASS"
+"final_user_judgment","PASS_WITH_MINOR_VISUAL_POLISH_RECOMMENDED","PASS"

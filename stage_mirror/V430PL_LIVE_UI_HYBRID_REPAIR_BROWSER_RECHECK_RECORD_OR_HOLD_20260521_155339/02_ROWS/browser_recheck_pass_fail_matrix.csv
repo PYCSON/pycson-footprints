@@ -1,0 +1,7 @@
+﻿"check","pass","evidence"
+"browser_recheck_recorded","True","user screenshot observation recorded"
+"hybrid_repair_direction_accepted","True","PASS_WITH_MINOR_VISUAL_POLISH_RECOMMENDED"
+"steam_module_visible","True","user observed visible module"
+"steam_button_visible","True","user observed visible button"
+"no_trade_controls_observed","True","no BUY_NOW / TRADEUP_NOW / trade/order visible"
+"minor_polish_only","True","future polish recommended but no repair hold"
