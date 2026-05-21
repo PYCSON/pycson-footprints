@@ -1,6 +1,13 @@
-﻿stage=V430PJ_LIVE_UI_HYBRID_ROLLBACK_AND_TARGETED_FLOAT_ORGANIZATION_EXECUTION_OR_HOLD
-status=READY_FOR_V430PK_LIVE_UI_HYBRID_REPAIR_REVIEW_OR_HOLD
-decision=READY_FOR_V430PK_LIVE_UI_HYBRID_REPAIR_REVIEW_OR_HOLD
-git_commit_succeeded=pending
-git_push_succeeded=pending
-safety=LIVE UI hybrid repair executed; no mother UI; no DATA_BRIDGE; no EV; no fetch; no BUY/TRADE; no full UI backups in Git scope
+﻿V430PJ GIT RAW FOOTPRINT FINAL
+stage=V430PJ_LIVE_UI_HYBRID_ROLLBACK_AND_TARGETED_FLOAT_ORGANIZATION_EXECUTION_OR_HOLD
+git_repo=C:\Users\sunpu\Desktop\pycson\00_GITHUB_FOOTPRINTS\pycson-footprints
+git_add_executed=true
+git_commit_succeeded=true
+git_push_succeeded=true
+git_push_failure_note=none
+final_head=684ec8656495c251e6856467b9c65d369bf86496
+final_origin_main=684ec8656495c251e6856467b9c65d369bf86496
+head_matches_origin=True
+worktree_clean=True
+full_ui_backup_pushed=false
+safe_metadata_only=true
