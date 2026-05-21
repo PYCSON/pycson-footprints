@@ -1,0 +1,43 @@
+﻿{
+    "payload_version":  "V430PR.manual_refresh_ui_readonly_status_payload.v1",
+    "generated_at":  "2026-05-21T20:08:03",
+    "readonly":  true,
+    "patch_required":  false,
+    "source_stage":  [
+                         "V430PO_STEAM_MATURE_LOOP_MANUAL_REFRESH_EXECUTION_OR_HOLD",
+                         "V430PP_STEAM_MATURE_LOOP_MANUAL_REFRESH_SCREENING_REVIEW_OR_HOLD",
+                         "V430PQ_STEAM_MATURE_LOOP_MANUAL_REFRESH_UI_STATUS_PAYLOAD_AUTHORIZATION_OR_HOLD"
+                     ],
+    "refresh_success_count":  7,
+    "price_candidate_count":  7,
+    "blocked_count":  0,
+    "error_count":  0,
+    "screening_ready_count":  0,
+    "hold_or_review_count":  7,
+    "ui_status_label":  "REVIEW_REQUIRED / PARTIAL_SCREENING",
+    "boundary":  {
+                     "no_buy_now":  true,
+                     "no_tradeup_now":  true,
+                     "no_trade":  true,
+                     "no_databridge_write":  true,
+                     "no_active_payload_write":  true,
+                     "no_official_ev":  true,
+                     "no_trusted_ev":  true
+                 },
+    "display_text":  [
+                         "Manual refresh succeeded",
+                         "7 price candidates captured",
+                         "Screening review required",
+                         "0 rows ready for signal",
+                         "No trade action"
+                     ],
+    "user_review_required_before":  [
+                                        "official_ev",
+                                        "trusted_ev",
+                                        "signal_route",
+                                        "ui_display_write",
+                                        "databridge_write",
+                                        "active_payload_write"
+                                    ],
+    "ui_principle":  "整理，不是取消。Functionality must remain preserved and organized, not hidden or removed."
+}
