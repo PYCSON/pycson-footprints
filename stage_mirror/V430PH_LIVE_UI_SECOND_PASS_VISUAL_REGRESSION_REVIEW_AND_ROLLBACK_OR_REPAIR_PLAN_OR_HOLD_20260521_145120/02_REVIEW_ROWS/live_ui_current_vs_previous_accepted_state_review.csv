@@ -1,0 +1,7 @@
+﻿review_id,comparison_area,current_after_v430pf,previous_accepted_expectation,review_result
+CVP001,overall identity,original cockpit richness appears reduced or suppressed,retain flagship cockpit identity and visible richness,regression_confirmed
+CVP002,steam route,Steam Mature Loop module and button remain visible,keep visible and promoted,pass
+CVP003,V418 floating panel,still blocks or competes with left directory,organize without obstruction,regression_remaining
+CVP004,right-side panels,Risk and Replay still feel floating/heavy,compact or dock without hiding identity,regression_remaining
+CVP005,L2R2,collapsed but contributes to sense of content cancellation,accessible legacy module without wiping cockpit,needs_hybrid_repair
+CVP006,declutter intent,current result feels like hiding/cancellation,user wanted organization,wrong_direction_confirmed

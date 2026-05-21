@@ -1,0 +1,6 @@
+﻿row_id,element_or_identity_area,issue_type,observed_problem,recommended_response
+ID001,master cockpit identity,suppressed_too_much,original UI richness appears reduced,rollback V430PF suppression layer
+ID002,legacy cockpit modules,collapsed_incorrectly,user feels many UI elements are gone,restore previous accepted visibility model
+ID003,visual hierarchy,dimmed_or_pushed_away,Steam route visible but cockpit identity feels thinned,organize into zones without hiding
+ID004,information density,cancelled_not_organized,declutter was perceived as cancellation,hybrid rollback plus targeted float organization
+ID005,route directory,covered_by_overlay,V418 still affects left directory,move/dock V418 into nonblocking zone

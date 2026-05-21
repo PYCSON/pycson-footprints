@@ -1,0 +1,6 @@
+﻿row_id,panel,remaining_problem,severity,recommended_response
+FP001,V418 LOCAL SOURCE CANDIDATE,still visually obstructs or competes with left directory,high,dock into left rail subsection or bottom drawer without covering navigation
+FP002,Risk Monitor,still floating/heavy,medium,dock into right boundary column as compact expandable card
+FP003,Offline Replay Package,still floating/heavy,medium,dock into right boundary or records/proof drawer as compact expandable card
+FP004,L2R2 refined display,collapse feels like content loss if not placed intentionally,medium,place in legacy drawer with visible summary and expand control
+FP005,overlay stacking,multiple legacy float systems compete,medium,standardize float containment policy rather than hiding content

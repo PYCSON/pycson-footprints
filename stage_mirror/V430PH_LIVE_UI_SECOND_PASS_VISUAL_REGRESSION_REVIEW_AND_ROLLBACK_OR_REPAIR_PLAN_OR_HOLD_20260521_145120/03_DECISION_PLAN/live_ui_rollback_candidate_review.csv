@@ -1,0 +1,4 @@
+﻿candidate_id,candidate,local_artifact,available,fit_for_repair,notes
+RB001,pre-second-pass backup,V200_MASTER_UI_LIVE_before_V430PF.html,true,high,rollback restores previous accepted first-declutter state
+RB002,current V430PF state,V200_MASTER_UI_LIVE.html,true,low,current state visually regressed per user feedback
+RB003,mother UI,V200_MASTER_UI.html,true,not_applicable,mother UI protected and should not be used as replacement

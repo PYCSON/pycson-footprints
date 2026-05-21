@@ -1,0 +1,6 @@
+﻿repair_id,target,targeted_organization_action,avoid
+TFO001,V418 LOCAL SOURCE CANDIDATE,dock to nonblocking left-bottom or source drawer with visible tab,do not cover route directory
+TFO002,Risk Monitor,convert from float to right-column expandable boundary card,do not hide risk status entirely
+TFO003,Offline Replay Package,convert from float to compact records/proof expandable card,do not remove replay information
+TFO004,L2R2 refined display,move into legacy/collapsed module with visible summary,do not make it feel erased
+TFO005,original cockpit identity,restore previous accepted identity and visible richness,do not suppress broad UI areas

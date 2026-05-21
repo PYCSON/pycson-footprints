@@ -1,0 +1,8 @@
+﻿step_id,hybrid_step,reason,boundary
+HYB001,authorize rollback to pre-second-pass LIVE UI backup,restores previous accepted first-declutter state,patch later only after approval
+HYB002,preserve Steam Mature Loop module and button,accepted route must remain usable,no route removal
+HYB003,reapply only targeted float organization,V418/Risk/Replay/L2R2 should be organized not hidden,no deletion
+HYB004,dock V418 into a stable nonblocking area,prevents left directory obstruction,no data writes
+HYB005,dock Risk and Replay into right boundary/records zones,keeps information visible but contained,no active payload write
+HYB006,place L2R2 in visible legacy expandable module,avoids content-loss feeling,no EV/fetch/trade
+HYB007,review in browser before milestone closeout,user acceptance required,no blind closeout
