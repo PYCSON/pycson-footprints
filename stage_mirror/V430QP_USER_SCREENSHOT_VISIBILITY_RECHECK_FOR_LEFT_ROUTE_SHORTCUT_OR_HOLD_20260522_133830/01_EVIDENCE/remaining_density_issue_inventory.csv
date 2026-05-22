@@ -1,0 +1,4 @@
+﻿"issue","severity","rollback_required","recommended_treatment"
+"Left side remains dense","medium","False","Stabilization / acceptance plan before any further UI patch"
+"V418 card remains somewhat compressed","medium","False","Future micro-readability plan only if needed"
+"Report/proof/latest/git access more visible but still compact","low","False","Accept shortcut improvement; avoid broad declutter"

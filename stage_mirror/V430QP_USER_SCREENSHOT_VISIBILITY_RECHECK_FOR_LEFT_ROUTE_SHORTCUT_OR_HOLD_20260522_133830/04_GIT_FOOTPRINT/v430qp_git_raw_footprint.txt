@@ -1,0 +1,6 @@
+﻿V430QP git raw footprint
+Stage: V430QP_USER_SCREENSHOT_VISIBILITY_RECHECK_FOR_LEFT_ROUTE_SHORTCUT_OR_HOLD
+Status: PASS_HOLD_V430QP_SCREENSHOT_VISIBILITY_RECHECK_ACCEPTED_SAFE_FOOTPRINT_EXPORT_APPROVAL_REQUIRED
+Decision: HOLD_FOR_USER_APPROVAL_OF_V430QP_SAFE_FOOTPRINT_EXPORT_BEFORE_V430QQ
+Safe export: metadata, report, proof, text-only screenshot evidence summary, checklist, recommendation, git summaries.
+Excluded: screenshot image files, full UI source, full UI backups, private artifacts.
