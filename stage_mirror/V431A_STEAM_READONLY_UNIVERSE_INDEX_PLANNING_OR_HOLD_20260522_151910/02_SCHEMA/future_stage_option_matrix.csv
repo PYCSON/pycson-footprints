@@ -1,0 +1,5 @@
+﻿"stage","purpose","risk","requires_fetch","requires_ev","requires_databridge_write","recommended_order"
+"V431B_SCHEMA_ONLY_ARTIFACT_BUILD_OR_HOLD","Create schema artifact only","low","False","False","False","1"
+"V431C_LOCAL_SAMPLE_MOCK_UNIVERSE_FIXTURE_OR_HOLD","Create local mock fixture","low_medium","False","False","False","2"
+"V431D_BOUNDED_REFRESH_SCHEDULER_PLAN_OR_HOLD","Plan bounded refresh scheduler without execution","medium","False","False","False","3"
+"V431E_CANDIDATE_SCREENING_PLAN_OR_HOLD","Plan screening rules and review statuses","medium","False","False","False","4"

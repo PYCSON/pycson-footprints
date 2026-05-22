@@ -1,0 +1,38 @@
+﻿{
+    "schema_version":  "V431A_DRAFT_ONLY",
+    "readonly":  true,
+    "generated_stage":  "V431A_STEAM_READONLY_UNIVERSE_INDEX_PLANNING_OR_HOLD",
+    "no_fetch":  true,
+    "no_ev":  true,
+    "no_trade":  true,
+    "record":  {
+                   "universe_item_id":  "string_local_planning_id",
+                   "market_hash_name":  "string_placeholder_no_fetch",
+                   "app_id_assumption":  "string_or_null_planning_only",
+                   "context_id_assumption":  "string_or_null_planning_only",
+                   "item_display_name":  "string_placeholder",
+                   "collection_or_case_grouping":  "string_placeholder_or_unknown",
+                   "rarity":  "string_placeholder_or_unknown",
+                   "stattrak_flag":  "boolean_or_unknown_placeholder",
+                   "wear_float_range":  "string_placeholder_or_unknown",
+                   "candidate_class":  "enum_planning_taxonomy",
+                   "source_confidence":  "enum_low_medium_high_unverified",
+                   "stale_status":  "enum_current_unknown_stale",
+                   "review_status":  "enum_UNVERIFIED_REVIEW_REQUIRED_LOCAL_ONLY_MOCK_ONLY_STALE_BLOCKED_NO_TRADE",
+                   "no_trade_flag":  "boolean_required_true_until_future_approval",
+                   "notes":  "string_planning_notes_only"
+               },
+    "forbidden_fields":  [
+                             "live_price",
+                             "executable_price",
+                             "trusted_ev",
+                             "official_ev",
+                             "order_book_depth",
+                             "buy_instruction",
+                             "sell_instruction",
+                             "token",
+                             "cookie",
+                             "account",
+                             "session"
+                         ]
+}

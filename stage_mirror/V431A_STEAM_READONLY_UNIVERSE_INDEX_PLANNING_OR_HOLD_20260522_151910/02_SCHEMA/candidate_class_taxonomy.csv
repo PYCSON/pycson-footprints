@@ -1,0 +1,7 @@
+﻿"candidate_class","meaning","allowed_without_fetch","review_status","trade_allowed"
+"UNIVERSE_IDENTITY_PLACEHOLDER","Known or proposed item identity shell","True","UNVERIFIED","False"
+"LOCAL_REFERENCE_CANDIDATE","Local-only candidate from approved local planning context","True","LOCAL_ONLY","False"
+"MOCK_FIXTURE_CANDIDATE","Synthetic sample for schema testing","True","MOCK_ONLY","False"
+"STALE_REVIEW_CANDIDATE","Previously known item requiring stale review","True","STALE","False"
+"BLOCKED_BOUNDARY_CANDIDATE","Candidate blocked by missing approval or unsafe source","True","BLOCKED","False"
+"REVIEW_REQUIRED_CANDIDATE","Candidate may be discussed but needs human review before downstream use","True","REVIEW_REQUIRED","False"
