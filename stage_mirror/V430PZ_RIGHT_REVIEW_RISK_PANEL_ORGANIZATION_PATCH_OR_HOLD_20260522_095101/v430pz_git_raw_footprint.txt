@@ -1,0 +1,6 @@
+﻿V430PZ git raw footprint
+Safe export scope: metadata/report/proof/patch evidence/summary only.
+LIVE UI source exported: false
+LIVE UI backup exported: false
+Patch evidence rows: C:\Users\sunpu\Desktop\pycson\1084_V430PZ_RIGHT_REVIEW_RISK_PANEL_ORGANIZATION_PATCH_OR_HOLD\V430PZ_RIGHT_REVIEW_RISK_PANEL_ORGANIZATION_PATCH_OR_HOLD_20260522_095101\01_PATCH\right_panel_patch_rows.csv
+Preservation review rows: C:\Users\sunpu\Desktop\pycson\1084_V430PZ_RIGHT_REVIEW_RISK_PANEL_ORGANIZATION_PATCH_OR_HOLD\V430PZ_RIGHT_REVIEW_RISK_PANEL_ORGANIZATION_PATCH_OR_HOLD_20260522_095101\04_REVIEW\right_panel_preservation_review.csv

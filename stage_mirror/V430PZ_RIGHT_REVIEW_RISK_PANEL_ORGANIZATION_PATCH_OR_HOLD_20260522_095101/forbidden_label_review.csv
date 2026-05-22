@@ -1,0 +1,10 @@
+﻿label,new_changed_area_result,notes
+READY,absent_as_action_status,V430PZ does not add READY or signal-ready status
+SIGNAL_READY,absent,V430PZ does not add SIGNAL_READY
+TRUSTED_EV,absent,V430PZ does not add TRUSTED_EV
+OFFICIAL_EV,absent,V430PZ does not add OFFICIAL_EV
+PROFIT,absent,V430PZ does not add PROFIT wording
+BUY_NOW,absent,V430PZ does not add BUY_NOW and removed prior risk-card note wording
+TRADEUP_NOW,absent,V430PZ does not add TRADEUP_NOW
+TRADE_ACTION,absent,V430PZ does not add executable trade action wording
+ORDER_ACTION,absent,V430PZ does not add executable order action wording

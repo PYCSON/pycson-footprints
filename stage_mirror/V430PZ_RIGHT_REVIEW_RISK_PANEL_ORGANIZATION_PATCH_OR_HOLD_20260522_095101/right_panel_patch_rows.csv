@@ -1,0 +1,6 @@
+﻿patch_item,target,change_type,preservation_note
+risk_monitor_action_label,V200_MASTER_UI_LIVE.html text,renamed small label only,major module names preserved
+risk_monitor_note,V200_MASTER_UI_LIVE.html text,removed explicit action-token wording,readonly risk card remains visible
+right_panel_compact_index,#pycson-v430oz-right,added compact section index,existing guards preserved
+right_panel_visual_style,#pycson-v430oz-right,lightened background spacing shadow,does not hide or delete modules
+risk_slot_compact_style,#pycson-v430pj-risk-slot and risk card,compact spacing only,risk monitor remains accessible
