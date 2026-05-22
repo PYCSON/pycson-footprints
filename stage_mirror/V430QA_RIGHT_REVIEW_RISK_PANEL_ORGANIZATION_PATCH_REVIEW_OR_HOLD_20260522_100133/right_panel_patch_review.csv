@@ -1,0 +1,8 @@
+﻿review_item,result,notes
+v430pz_patch_exists,True,V430PZ marker block exists in LIVE UI
+right_panel_organization_confirmed,True,compact right panel index exists
+right_panel_visual_pressure_reduced,static_pass,style reduces background heaviness spacing and risk card density; browser visual confirmation unavailable
+live_ui_only_patched,true,review stage did not patch; V430PZ target was LIVE UI only
+backup_path_confirmed,True,backup path exists
+rollback_path_confirmed,True,rollback command path exists
+browser_visual_confirmation,false,not performed/available in this review

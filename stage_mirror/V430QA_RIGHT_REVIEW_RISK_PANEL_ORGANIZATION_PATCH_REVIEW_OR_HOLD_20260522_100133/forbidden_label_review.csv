@@ -1,0 +1,10 @@
+﻿label,result,scope,notes
+READY,pass,new_changed_area,No standalone READY action/status added; REVIEW REQUIRED is descriptive review state
+SIGNAL_READY,True,new_changed_area,V430PZ block checked
+TRUSTED_EV,True,new_changed_area,V430PZ block checked
+OFFICIAL_EV,True,new_changed_area,V430PZ block checked
+PROFIT,True,new_changed_area,V430PZ block checked
+BUY_NOW,True,new_changed_area,V430PZ block checked
+TRADEUP_NOW,True,new_changed_area,V430PZ block checked
+TRADE_ACTION,True,new_changed_area,no standalone action token in V430PZ block
+ORDER_ACTION,True,new_changed_area,no standalone action token in V430PZ block
