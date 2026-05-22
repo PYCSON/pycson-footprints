@@ -1,0 +1,9 @@
+﻿review_item,result,notes
+v430qd_patch_exists,True,V430QD marker block found
+right_dock_compact_repair_confirmed,True,compact class and state marker present
+empty_dark_block_reduced,static_pass,V430QD sets shield width 292px and height 118px
+center_right_pressure_expected_reduced,static_pass,large shield top/bottom area replaced by compact card dimensions
+live_ui_only_patched,true,review did not modify UI; V430QD target was LIVE UI only
+backup_path_confirmed,True,V430QD backup exists
+rollback_path_confirmed,True,V430QD rollback command exists
+browser_visual_confirmation,false,browser/user screenshot confirmation not performed in V430QE

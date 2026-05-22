@@ -1,0 +1,15 @@
+﻿review_item,result,notes
+mother_ui_modified,False,Mother hash matches known unchanged value
+live_ui_modified_during_review,false,V430QE is review only
+existing_right_dock_functions_preserved,true,V430QD preserves legacy shield and toggles by compact visual override
+existing_ui_functions_preserved,true,no module removal in V430QD block
+theme_controls_preserved,true,V430QD does not target theme/color controls
+mother_identity_preserved,true,V430QD only targets right dock shield visual footprint
+steam_mature_loop_button_preserved,True,button marker present
+steam_mature_loop_module_preserved,True,module marker present
+route_directory_preserved,True,Route Directory marker present
+v430pt_status_display_preserved,False,V430PT status markers present
+bottom_safety_audit_dock_preserved,True,bottom safety marker present
+risk_monitor_preserved,True,risk marker and V430QD preserved tag present
+offline_replay_preserved,True,replay marker and V430QD preserved tag present
+legacy_modules_preserved,True,legacy drawer and sealed label present
