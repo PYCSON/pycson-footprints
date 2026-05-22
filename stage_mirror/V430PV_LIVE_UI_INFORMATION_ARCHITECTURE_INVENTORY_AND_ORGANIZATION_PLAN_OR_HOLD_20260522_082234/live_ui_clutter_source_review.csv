@@ -1,0 +1,11 @@
+clutter source,evidence marker,risk,recommended handling,future patch size
+Overlapping fixed/route panels,#pycson-v430ot-route-directory fixed near bottom; later layout shell zones,Can cover or compete with left directory and center cockpit,Introduce stable zoning scaffold before visual polish; keep route directory visible,1 region: left route zoning
+Duplicated status cards,KPI strip + snapshot cards + multiple legacy cards,Repeated status density makes active route harder to read,"Group status by role: system top, route center, risk right",2 regions: top + center
+Old modules competing with active route,V251-V259 legacy cards after main cockpit,Legacy lineage useful but visually competes with Steam route,Create legacy/reference accordion without removing rows,1 region: legacy/reference group
+Right panel congestion,AI COMMAND + quick files + static EV/risk/replay style cards,Right side becomes heavy and can imply action readiness,Compact into Review Required/Risk/Proof stack,1-2 regions: right panel only
+Bottom button congestion,.bottom fixed buttons,Buttons can overlap content or feel like action controls,Group into safety/proof/log/recheck and keep readonly wording,1 region: bottom dock
+Steam module placement issue,#pycson-v430oi-steam-mature-loop-readonly plus V430PT status,Primary route needs prominence but not replacement of cockpit,Place in center active route with left pinned navigation entry,1 region: center Steam status
+Route Directory visibility issue,#pycson-v430ot-route-directory,Route directory must stay visible and not be blocked by floating legacy panels,Reserve left column before moving any floating card,1 region: left column
+Theme control preservation risk,.themeBox .dot gold/blue/pink,Past declutter could hide tiny but important controls,Treat theme controls as protected top-bar controls,No patch unless preserving top bar
+Floating/right shell black-area heaviness,V430OZ right zone and risk/replay compact shell markers,Large dark areas can feel like content removal rather than organization,Lighten/dock in future patch only after inventory review,1 region: right shell polish
+Forbidden implication risk,legacy EV/profit/trade boundary text,Old labels can confuse if promoted as active route,Keep as readonly/reference; never convert to action labels,Any future text patch must be truth-table reviewed
