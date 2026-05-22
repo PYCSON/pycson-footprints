@@ -1,0 +1,4 @@
+﻿V431D bounded scheduler plan git raw footprint placeholder before commit.
+Generated: 20260522_162432
+Stage: V431D_BOUNDED_REFRESH_SCHEDULER_PLAN_OR_HOLD
+Safe planning/report/proof artifacts only; no credentials, no live data, no proprietary mapping, no UI source backups.
