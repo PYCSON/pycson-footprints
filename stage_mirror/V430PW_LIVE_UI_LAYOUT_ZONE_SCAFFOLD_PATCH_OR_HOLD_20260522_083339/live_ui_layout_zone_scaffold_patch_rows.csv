@@ -1,0 +1,9 @@
+patch item,scope,result,notes
+backup,LIVE UI only,created,C:\Users\sunpu\Desktop\pycson\1079_V430PW_LIVE_UI_LAYOUT_ZONE_SCAFFOLD_PATCH_OR_HOLD\V430PW_LIVE_UI_LAYOUT_ZONE_SCAFFOLD_PATCH_OR_HOLD_20260522_083339\02_BACKUP\V200_MASTER_UI_LIVE_before_V430PW_20260522_083339.html
+scaffold block,V200_MASTER_UI_LIVE.html,added,PYCSON_V430PW_LIVE_UI_LAYOUT_ZONE_SCAFFOLD style/script block
+top status zone,runtime label/data attribute,formalized,labels existing crosslink nav; theme controls remain in original header
+left route/navigation zone,runtime label/data attribute,formalized,labels existing V430OZ left shell containing Route Directory
+center active route zone,runtime label/data attribute,formalized,labels existing V430OZ center shell containing Steam Mature Loop
+right review/risk zone,runtime label/data attribute,formalized,labels existing V430OZ right shell
+bottom safety/audit dock,runtime label/data attribute,formalized,labels existing safe-actions dock
+legacy/reference zone,runtime label/data attribute,formalized,labels existing legacy drawer without removing modules
