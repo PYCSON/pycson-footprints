@@ -1,0 +1,14 @@
+﻿V430PT proof
+LIVE UI backup created: true
+LIVE UI patched only: true
+Mother UI modified: false
+DATA_BRIDGE write: false
+Active payload write: false
+Official EV calculated: false
+Trusted EV calculated: false
+Steam fetch executed: false
+BUFF fetch executed: false
+BUY_NOW created: false
+TRADEUP_NOW created: false
+Trade/order action created: false
+Existing functionality hidden/removed: false

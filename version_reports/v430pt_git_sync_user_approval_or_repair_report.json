@@ -1,0 +1,34 @@
+﻿{
+    "status":  "PENDING_GIT_SYNC_REPAIR_FINALIZATION",
+    "decision":  "PENDING_GIT_SYNC_REPAIR_FINALIZATION",
+    "project_root_confirmed":  "C:\\Users\\sunpu\\Desktop\\pycson",
+    "faictory_touched":  false,
+    "git_status_before":  "A  git_summaries/v430pt_manual_refresh_ui_status_display_patch_execution_or_hold_git_summary.md\nA  raw_footprints_archive/v430pt_manual_refresh_ui_status_display_patch_execution_or_hold_git_raw_footprint.txt\nA  stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/existing_ui_function_preservation_execution_review.csv\nA  stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/live_ui_status_display_backup_manifest_metadata_only.csv\nA  stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/manual_refresh_ui_status_display_field_execution_rows.csv\nA  stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/manual_refresh_ui_status_display_patch_rows.csv\nA  stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/manual_refresh_ui_status_display_rollback_command.md\nA  stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/no_databridge_no_ev_no_fetch_no_buy_trade_proof.txt\nA  stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/v430pt_safe_ui_metadata_manifest.csv\nA  version_reports/v430pt_manual_refresh_ui_status_display_patch_execution_or_hold_report.json\nA  version_summaries/v430pt_manual_refresh_ui_status_display_patch_execution_summary.md",
+    "staged_files_before":  [
+                                "git_summaries/v430pt_manual_refresh_ui_status_display_patch_execution_or_hold_git_summary.md",
+                                "raw_footprints_archive/v430pt_manual_refresh_ui_status_display_patch_execution_or_hold_git_raw_footprint.txt",
+                                "stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/existing_ui_function_preservation_execution_review.csv",
+                                "stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/live_ui_status_display_backup_manifest_metadata_only.csv",
+                                "stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/manual_refresh_ui_status_display_field_execution_rows.csv",
+                                "stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/manual_refresh_ui_status_display_patch_rows.csv",
+                                "stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/manual_refresh_ui_status_display_rollback_command.md",
+                                "stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/no_databridge_no_ev_no_fetch_no_buy_trade_proof.txt",
+                                "stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/v430pt_safe_ui_metadata_manifest.csv",
+                                "version_reports/v430pt_manual_refresh_ui_status_display_patch_execution_or_hold_report.json",
+                                "version_summaries/v430pt_manual_refresh_ui_status_display_patch_execution_summary.md"
+                            ],
+    "unstaged_files_before":  [
+
+                              ],
+    "files_classified":  11,
+    "export_risk_trigger":  "auto_review_external_repo_data_export_risk_on_push_of_workspace_derived_V430PT_artifacts",
+    "export_risk_trigger_files":  "git_summaries/v430pt_manual_refresh_ui_status_display_patch_execution_or_hold_git_summary.md; raw_footprints_archive/v430pt_manual_refresh_ui_status_display_patch_execution_or_hold_git_raw_footprint.txt; stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/existing_ui_function_preservation_execution_review.csv; stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/live_ui_status_display_backup_manifest_metadata_only.csv; stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/manual_refresh_ui_status_display_field_execution_rows.csv; stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/manual_refresh_ui_status_display_patch_rows.csv; stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/manual_refresh_ui_status_display_rollback_command.md; stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/no_databridge_no_ev_no_fetch_no_buy_trade_proof.txt; stage_mirror/V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037/v430pt_safe_ui_metadata_manifest.csv; version_reports/v430pt_manual_refresh_ui_status_display_patch_execution_or_hold_report.json; version_summaries/v430pt_manual_refresh_ui_status_display_patch_execution_summary.md",
+    "full_live_ui_backup_staged":  false,
+    "full_live_ui_backup_preserved_locally":  true,
+    "unsafe_files_excluded":  "none_required",
+    "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\1076_V430PT_GIT_SYNC_USER_APPROVAL_OR_REPAIR_BEFORE_V430PU_REVIEW\\V430PT_GIT_SYNC_USER_APPROVAL_OR_REPAIR_BEFORE_V430PU_REVIEW_20260522_080227\\02_REPORT\\v430pt_git_sync_user_approval_or_repair_report.json",
+    "latest_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\11_SYSTEM_AUDIT_HANDOFF\\99_AI_GENERATED_SYSTEM_INDEX\\v430pt_git_sync_user_approval_or_repair_before_v430pu_review_latest.json",
+    "proof":  "C:\\Users\\sunpu\\Desktop\\pycson\\1076_V430PT_GIT_SYNC_USER_APPROVAL_OR_REPAIR_BEFORE_V430PU_REVIEW\\V430PT_GIT_SYNC_USER_APPROVAL_OR_REPAIR_BEFORE_V430PU_REVIEW_20260522_080227\\03_PROOF\\no_ui_no_databridge_no_ev_no_fetch_no_buy_trade_git_repair_proof.txt",
+    "footprint":  "C:\\Users\\sunpu\\Desktop\\pycson\\words.cossp\\V430PT_GIT_SYNC_USER_APPROVAL_OR_REPAIR_20260522_080227.md",
+    "next_safe_step":  "pending_git_sync_result"
+}

@@ -1,0 +1,11 @@
+﻿V430PT Git sync repair proof
+No UI patch performed in repair stage: true
+No Mother UI modification: true
+No DATA_BRIDGE write: true
+No active payload write: true
+No EV calculated: true
+No Steam/BUFF fetch: true
+No BUY/TRADE/ORDER: true
+No delete/reset/clean/force push: true
+Local evidence preserved: true
+Full LIVE UI backup pushed to git: false
