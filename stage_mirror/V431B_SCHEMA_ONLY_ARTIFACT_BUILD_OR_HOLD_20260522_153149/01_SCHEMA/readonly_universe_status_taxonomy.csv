@@ -1,0 +1,8 @@
+﻿"status","meaning","allows_trade","allows_fetch","allows_ev"
+"UNVERIFIED","Identity or class not verified beyond local planning","False","False","False"
+"REVIEW_REQUIRED","Human review required before downstream route","False","False","False"
+"LOCAL_ONLY","Local-only planning artifact","False","False","False"
+"MOCK_ONLY","Synthetic fixture only","False","False","False"
+"STALE","Known stale or needs freshness review","False","False","False"
+"BLOCKED","Blocked by boundary or missing approval","False","False","False"
+"NO_TRADE","No trade action permitted","False","False","False"

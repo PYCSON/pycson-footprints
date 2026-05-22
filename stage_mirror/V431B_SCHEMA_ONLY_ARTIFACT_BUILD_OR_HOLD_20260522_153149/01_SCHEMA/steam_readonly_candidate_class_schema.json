@@ -1,0 +1,57 @@
+﻿{
+    "$schema":  "https://json-schema.org/draft/2020-12/schema",
+    "title":  "PYCSON Steam Readonly Candidate Class Record",
+    "type":  "object",
+    "additionalProperties":  false,
+    "required":  [
+                     "candidate_class",
+                     "meaning",
+                     "allowed_without_fetch",
+                     "default_review_status",
+                     "trade_allowed"
+                 ],
+    "properties":  {
+                       "candidate_class":  {
+                                               "type":  "string"
+                                           },
+                       "meaning":  {
+                                       "type":  "string"
+                                   },
+                       "allowed_without_fetch":  {
+                                                     "const":  true,
+                                                     "type":  "boolean"
+                                                 },
+                       "default_review_status":  {
+                                                     "type":  "string",
+                                                     "enum":  [
+                                                                  "UNVERIFIED",
+                                                                  "REVIEW_REQUIRED",
+                                                                  "LOCAL_ONLY",
+                                                                  "MOCK_ONLY",
+                                                                  "STALE",
+                                                                  "BLOCKED",
+                                                                  "NO_TRADE"
+                                                              ]
+                                                 },
+                       "trade_allowed":  {
+                                             "const":  false,
+                                             "type":  "boolean"
+                                         },
+                       "downstream_use":  {
+                                              "type":  [
+                                                           "string",
+                                                           "null"
+                                                       ]
+                                          },
+                       "boundary_note":  {
+                                             "type":  [
+                                                          "string",
+                                                          "null"
+                                                      ]
+                                         }
+                   },
+    "schema_only":  true,
+    "no_fetch":  true,
+    "no_trade":  true,
+    "no_ev":  true
+}

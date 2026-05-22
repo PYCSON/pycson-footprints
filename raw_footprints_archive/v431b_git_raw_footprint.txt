@@ -1,0 +1,6 @@
+﻿V431B git raw footprint
+Stage: V431B_SCHEMA_ONLY_ARTIFACT_BUILD_OR_HOLD
+Status: PASS_HOLD_V431B_SCHEMA_ONLY_ARTIFACT_BUILD_READY_SAFE_FOOTPRINT_EXPORT_APPROVAL_REQUIRED
+Decision: HOLD_FOR_USER_APPROVAL_OF_V431B_SAFE_FOOTPRINT_EXPORT_BEFORE_REVIEW_OR_V431C
+Safe export: JSON schemas, CSV template/taxonomy/checklist, validation report, integration notes, proof, report, footprint, git summaries.
+Excluded: proprietary source mapping details, credentials/tokens/cookies/session/account data, full private artifacts, UI source/backups.

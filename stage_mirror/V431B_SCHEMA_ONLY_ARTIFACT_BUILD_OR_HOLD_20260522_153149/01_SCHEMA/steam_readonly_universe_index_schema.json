@@ -1,0 +1,163 @@
+﻿{
+    "$schema":  "https://json-schema.org/draft/2020-12/schema",
+    "title":  "PYCSON Steam Readonly Universe Index Record",
+    "type":  "object",
+    "additionalProperties":  false,
+    "required":  [
+                     "universe_record_id",
+                     "market_hash_name_placeholder",
+                     "display_name_placeholder",
+                     "candidate_class",
+                     "source_confidence",
+                     "review_status",
+                     "stale_status",
+                     "no_trade_flag",
+                     "no_fetch_flag"
+                 ],
+    "properties":  {
+                       "universe_record_id":  {
+                                                  "type":  "string",
+                                                  "description":  "Local schema-only planning identifier"
+                                              },
+                       "market_hash_name_placeholder":  {
+                                                            "type":  "string",
+                                                            "description":  "Placeholder only; not fetched live"
+                                                        },
+                       "display_name_placeholder":  {
+                                                        "type":  "string",
+                                                        "description":  "Display placeholder only"
+                                                    },
+                       "app_id_assumption":  {
+                                                 "type":  [
+                                                              "string",
+                                                              "null"
+                                                          ],
+                                                 "description":  "Planning assumption only"
+                                             },
+                       "context_id_assumption":  {
+                                                     "type":  [
+                                                                  "string",
+                                                                  "null"
+                                                              ],
+                                                     "description":  "Planning assumption only"
+                                                 },
+                       "item_category":  {
+                                             "type":  [
+                                                          "string",
+                                                          "null"
+                                                      ],
+                                             "description":  "Schema-only category"
+                                         },
+                       "candidate_class":  {
+                                               "type":  "string",
+                                               "enum":  [
+                                                            "UNIVERSE_IDENTITY_PLACEHOLDER",
+                                                            "LOCAL_REFERENCE_CANDIDATE",
+                                                            "MOCK_FIXTURE_CANDIDATE",
+                                                            "STALE_REVIEW_CANDIDATE",
+                                                            "BLOCKED_BOUNDARY_CANDIDATE",
+                                                            "REVIEW_REQUIRED_CANDIDATE"
+                                                        ]
+                                           },
+                       "collection_or_case_placeholder":  {
+                                                              "type":  [
+                                                                           "string",
+                                                                           "null"
+                                                                       ]
+                                                          },
+                       "rarity_placeholder":  {
+                                                  "type":  [
+                                                               "string",
+                                                               "null"
+                                                           ]
+                                              },
+                       "stattrak_flag_placeholder":  {
+                                                         "type":  [
+                                                                      "string",
+                                                                      "boolean",
+                                                                      "null"
+                                                                  ]
+                                                     },
+                       "wear_range_placeholder":  {
+                                                      "type":  [
+                                                                   "string",
+                                                                   "null"
+                                                               ]
+                                                  },
+                       "float_range_placeholder":  {
+                                                       "type":  [
+                                                                    "string",
+                                                                    "null"
+                                                                ]
+                                                   },
+                       "source_confidence":  {
+                                                 "type":  "string",
+                                                 "enum":  [
+                                                              "UNVERIFIED",
+                                                              "LOW",
+                                                              "MEDIUM",
+                                                              "HIGH_LOCAL_ONLY"
+                                                          ]
+                                             },
+                       "review_status":  {
+                                             "type":  "string",
+                                             "enum":  [
+                                                          "UNVERIFIED",
+                                                          "REVIEW_REQUIRED",
+                                                          "LOCAL_ONLY",
+                                                          "MOCK_ONLY",
+                                                          "STALE",
+                                                          "BLOCKED",
+                                                          "NO_TRADE"
+                                                      ]
+                                         },
+                       "stale_status":  {
+                                            "type":  "string",
+                                            "enum":  [
+                                                         "UNKNOWN",
+                                                         "CURRENT_BY_LOCAL_NOTE",
+                                                         "STALE",
+                                                         "REVIEW_REQUIRED"
+                                                     ]
+                                        },
+                       "no_trade_flag":  {
+                                             "const":  true,
+                                             "type":  "boolean"
+                                         },
+                       "no_fetch_flag":  {
+                                             "const":  true,
+                                             "type":  "boolean"
+                                         },
+                       "notes":  {
+                                     "type":  [
+                                                  "string",
+                                                  "null"
+                                              ],
+                                     "description":  "Non-sensitive planning notes only"
+                                 }
+                   },
+    "forbidden_fields":  [
+                             "live_price",
+                             "executable_price",
+                             "trusted_ev",
+                             "official_ev",
+                             "buy_price",
+                             "sell_price",
+                             "order_book_depth",
+                             "liquidity_score_from_live_source",
+                             "live_steam_response",
+                             "buff_response",
+                             "account",
+                             "session",
+                             "token",
+                             "cookie",
+                             "buy_now",
+                             "tradeup_now",
+                             "order_action",
+                             "executable_profit"
+                         ],
+    "schema_only":  true,
+    "no_fetch":  true,
+    "no_trade":  true,
+    "no_ev":  true
+}
