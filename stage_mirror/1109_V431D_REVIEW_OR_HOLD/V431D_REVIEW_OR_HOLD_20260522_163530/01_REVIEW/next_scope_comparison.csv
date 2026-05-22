@@ -1,0 +1,4 @@
+﻿"option","steam_ui_space_need","main_cockpit_density_effect","clutter_reduction","safety_risk","ui_risk","planning_only_safe","blocks_core_progress","recommendation"
+"V431E_CANDIDATE_SCREENING_PLAN_OR_HOLD","High soon","May increase density if planned first","Medium later","Low if plan-only","Low now, higher later if no workspace","True","No","SECOND"
+"V431E_STEAM_DEDICATED_WORKSPACE_PAGE_PLAN_OR_HOLD","Addresses space before screening","Reduces future cockpit pressure","High for future Steam work","Low if plan-only","Low because no patch","True","No","FIRST"
+"V431D_REVIEW_ONLY_AND_HOLD_FOR_USER_DIRECTION","Unresolved","No change","None","Lowest","None","True","Potentially","FALLBACK"

@@ -1,0 +1,4 @@
+﻿V431D review git raw footprint placeholder before commit.
+Generated: 20260522_163530
+Stage: V431D_REVIEW_OR_HOLD
+Safe review/report/proof artifacts only; no credentials, no live data, no proprietary mapping, no UI source backups.
