@@ -1,0 +1,10 @@
+﻿label,result,scope,notes
+READY,True,new_changed_area,V430QD block checked
+SIGNAL_READY,True,new_changed_area,V430QD block checked
+TRUSTED_EV,True,new_changed_area,V430QD block checked
+OFFICIAL_EV,True,new_changed_area,V430QD block checked
+PROFIT,True,new_changed_area,V430QD block checked
+BUY_NOW,True,new_changed_area,V430QD block checked
+TRADEUP_NOW,True,new_changed_area,V430QD block checked
+TRADE_ACTION,True,new_changed_area,no standalone action token in V430QD block
+ORDER_ACTION,True,new_changed_area,no standalone action token in V430QD block

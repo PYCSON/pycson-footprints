@@ -1,0 +1,6 @@
+﻿V430QD git raw footprint
+Safe export scope: metadata/report/proof/patch evidence/summary only.
+LIVE UI source exported: false
+LIVE UI backup exported: false
+Patch rows: C:\Users\sunpu\Desktop\pycson\1088_V430QD_RIGHT_DOCK_LEGACY_SEALED_COMPACT_REPAIR_PATCH_OR_HOLD\V430QD_RIGHT_DOCK_LEGACY_SEALED_COMPACT_REPAIR_PATCH_OR_HOLD_20260522_102952\01_PATCH\right_dock_compact_patch_rows.csv
+Preservation review: C:\Users\sunpu\Desktop\pycson\1088_V430QD_RIGHT_DOCK_LEGACY_SEALED_COMPACT_REPAIR_PATCH_OR_HOLD\V430QD_RIGHT_DOCK_LEGACY_SEALED_COMPACT_REPAIR_PATCH_OR_HOLD_20260522_102952\04_REVIEW\right_dock_preservation_review.csv

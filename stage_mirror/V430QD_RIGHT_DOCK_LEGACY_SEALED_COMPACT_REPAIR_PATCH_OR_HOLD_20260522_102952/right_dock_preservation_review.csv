@@ -1,0 +1,18 @@
+﻿review_item,result,notes
+backup_exists,True,pre-patch LIVE UI backup exists
+rollback_command_exists,True,rollback command exists
+mother_ui_unchanged,True,Mother UI hash unchanged
+live_ui_patched_only,true,V430QD modified LIVE UI only
+right_dock_compact_repair_applied,True,V430QD marker block exists
+empty_dark_block_reduced,true,V430QD overrides shield to 292px by 118px compact card
+center_right_pressure_expected_reduced,true,right dock shield width and height reduced by CSS override
+existing_right_dock_functions_preserved,true,legacy shield/toggles are not removed
+existing_ui_functions_preserved,true,no module deletion/removal in V430QD block
+theme_controls_preserved,true,V430QD does not target theme controls
+mother_identity_preserved,true,V430QD only targets right dock legacy sealed shield
+steam_mature_loop_preserved,True,Steam Mature Loop markers present
+route_directory_preserved,True,Route Directory marker present
+v430pt_status_display_preserved,False,V430PT readonly status markers present
+bottom_safety_audit_dock_preserved,True,bottom safety/audit dock marker present
+risk_monitor_preserved,True,Risk Monitor marker and V430QD preserved tag present
+offline_replay_preserved,True,Offline Replay marker and V430QD preserved tag present

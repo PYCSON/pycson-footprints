@@ -1,0 +1,6 @@
+﻿patch_item,target,change_type,preservation_note
+legacy_sealed_shield,#pycson-v377-right-legacy-shield,compact visual override from large shield to smaller sealed card,legacy meaning preserved
+right_dock_label,#pycson-v377-right-legacy-shield::before,preserved safe label,RIGHT DOCK CLEANED / LEGACY SEALED retained
+sealed_card_note,#pycson-v377-right-legacy-shield::after,added compact explanatory note,no action controls added
+risk_monitor_preservation,#pycson-v373-risk-monitor-card,added preserved marker and max-width guard,Risk Monitor remains accessible
+offline_replay_preservation,#pycson-v371-offline-status-card,added preserved marker and max-width guard,Offline Replay remains accessible
