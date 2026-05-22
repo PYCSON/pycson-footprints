@@ -1,0 +1,8 @@
+﻿"required_status","present","allows_trade","allows_fetch","allows_ev","review"
+"UNVERIFIED","True","False","False","False","PASS"
+"REVIEW_REQUIRED","True","False","False","False","PASS"
+"LOCAL_ONLY","True","False","False","False","PASS"
+"MOCK_ONLY","True","False","False","False","PASS"
+"STALE","True","False","False","False","PASS"
+"BLOCKED","True","False","False","False","PASS"
+"NO_TRADE","True","False","False","False","PASS"

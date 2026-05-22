@@ -1,0 +1,10 @@
+﻿V431B schema-only artifact review git raw footprint placeholder before commit.
+Generated: 20260522_155742
+Stage: V431B_SCHEMA_ONLY_ARTIFACT_REVIEW_OR_HOLD
+Safe artifacts only; no source, no UI backups, no credentials.
+
+Pre-commit git status:
+## main...origin/main ?? git_summaries/v431b_schema_artifact_review_git_summary.md ?? raw_footprints_archive/v431b_schema_artifact_review_git_raw_footprint.txt ?? stage_mirror/1106_V431B_SCHEMA_ONLY_ARTIFACT_REVIEW_OR_HOLD/ ?? version_reports/v431b_schema_only_artifact_review_or_hold_latest.json ?? version_reports/v431b_schema_only_artifact_review_or_hold_report.json ?? version_summaries/v431b_schema_only_artifact_review_footprint_20260522_155742.md
+
+Pre-commit diff stat:
+

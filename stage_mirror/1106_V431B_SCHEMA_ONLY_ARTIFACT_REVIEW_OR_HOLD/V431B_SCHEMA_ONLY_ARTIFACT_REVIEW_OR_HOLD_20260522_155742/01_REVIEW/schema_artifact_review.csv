@@ -1,0 +1,7 @@
+﻿"artifact","exists","parse_valid","schema_only","no_fetch","no_trade","no_ev","review"
+"steam_readonly_universe_index_schema.json","True","True","True","True","True","True","PASS"
+"steam_readonly_candidate_class_schema.json","True","True","True","True","True","True","PASS"
+"steam_readonly_universe_template.csv","True","True","True","True","True","True","PASS"
+"readonly_universe_status_taxonomy.csv","True","True","True","True","True","True","PASS"
+"schema_only_validation_report.md","True","True","True","True","True","True","PASS"
+"future_integration_notes.md","True","True","True","True","True","True","PASS"
