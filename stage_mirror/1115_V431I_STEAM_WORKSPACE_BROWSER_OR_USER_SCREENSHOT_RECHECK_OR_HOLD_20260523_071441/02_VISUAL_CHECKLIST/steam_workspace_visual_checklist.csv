@@ -1,0 +1,18 @@
+﻿check,status,notes
+browser runtime available,false,in-app browser native dependency failed; bundled Playwright missing playwright-core
+page load confirmed,false,No browser visual evidence obtained
+screenshot evidence required,true,User screenshot packet created
+#steam-workspace route visually reachable,unknown,Requires user screenshot/browser evidence
+Steam workspace section visible,unknown,Requires user screenshot/browser evidence
+top Steam button preserved,unknown,Requires user screenshot/browser evidence
+left Route Directory Steam entry preserved,unknown,Requires user screenshot/browser evidence
+Steam overview card/link preserved,unknown,Requires user screenshot/browser evidence
+main cockpit preserved,unknown,Requires user screenshot/browser evidence
+existing Steam module preserved,unknown,Requires user screenshot/browser evidence
+V430PT status display preserved,unknown,Requires user screenshot/browser evidence
+module index preserved,unknown,Requires user screenshot/browser evidence
+right dock preserved,unknown,Requires user screenshot/browser evidence
+bottom dock preserved,unknown,Requires user screenshot/browser evidence
+Risk Monitor preserved,unknown,Requires user screenshot/browser evidence
+Offline Replay preserved,unknown,Requires user screenshot/browser evidence
+forbidden labels/actions absent,unknown,Requires user screenshot/browser evidence

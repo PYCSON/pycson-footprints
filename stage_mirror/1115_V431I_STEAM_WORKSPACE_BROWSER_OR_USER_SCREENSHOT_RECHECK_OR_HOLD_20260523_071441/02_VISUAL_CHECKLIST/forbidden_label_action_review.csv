@@ -1,0 +1,15 @@
+﻿label_or_action,visual_status,notes
+BUY_NOW,unknown,Requires browser/user screenshot evidence
+TRADEUP_NOW,unknown,Requires browser/user screenshot evidence
+TRUSTED_EV,unknown,Requires browser/user screenshot evidence
+OFFICIAL_EV,unknown,Requires browser/user screenshot evidence
+executable PROFIT,unknown,Requires browser/user screenshot evidence
+executable TRADE,unknown,Requires browser/user screenshot evidence
+executable ORDER,unknown,Requires browser/user screenshot evidence
+DATA_BRIDGE write,false,No write performed in V431I
+active payload write,false,No write performed in V431I
+Steam fetch,false,No fetch performed in V431I
+BUFF fetch,false,No fetch performed in V431I
+market endpoint call,false,No market call performed in V431I
+EV calculation,false,No EV calculation performed in V431I
+BUY/TRADE/ORDER action,false,No action performed in V431I

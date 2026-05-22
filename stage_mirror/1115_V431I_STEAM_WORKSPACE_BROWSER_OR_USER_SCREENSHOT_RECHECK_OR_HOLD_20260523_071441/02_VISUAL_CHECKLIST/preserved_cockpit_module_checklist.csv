@@ -1,0 +1,13 @@
+﻿module,expected_visual_state,evidence_status
+Main cockpit,dashboard/overview remains visible,awaiting_user_screenshot
+Steam workspace,visible at #steam-workspace,awaiting_user_screenshot
+Top Steam button,preserved and routes correctly,awaiting_user_screenshot
+Route Directory Steam entry,preserved,awaiting_user_screenshot
+Steam overview card/Open Steam Workspace,preserved if visible,awaiting_user_screenshot
+Steam Mature Loop module,preserved,awaiting_user_screenshot
+V430PT status display,preserved,awaiting_user_screenshot
+Module Index,preserved,awaiting_user_screenshot
+Right dock compact repair,preserved,awaiting_user_screenshot
+Bottom safety/audit dock,preserved,awaiting_user_screenshot
+Risk Monitor,preserved,awaiting_user_screenshot
+Offline Replay,preserved,awaiting_user_screenshot
