@@ -1,0 +1,6 @@
+﻿"check","pass","evidence"
+"V430QN patch marker exists","True","begin marker"
+"module index section exists","True","section id"
+"module index title visible","True","title text"
+"shortcut strip state visible","True","state pill"
+"review-only no live modification","True","static review created artifacts only"
