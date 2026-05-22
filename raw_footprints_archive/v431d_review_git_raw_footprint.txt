@@ -3,8 +3,5 @@ Generated: 20260522_163530
 Stage: V431D_REVIEW_OR_HOLD
 Safe review/report/proof artifacts only; no credentials, no live data, no proprietary mapping, no UI source backups.
 
-Pre-commit git status:
-## main...origin/main ?? git_summaries/v431d_review_git_summary.md ?? raw_footprints_archive/v431d_review_git_raw_footprint.txt ?? stage_mirror/1109_V431D_REVIEW_OR_HOLD/ ?? version_reports/v431d_review_or_hold_latest.json ?? version_reports/v431d_review_or_hold_report.json ?? version_summaries/v431d_review_footprint_20260522_163530.md
-
-Pre-commit diff stat:
-
+Push failure: SEC_E_NO_CREDENTIALS. Escalated retry rejected by auto-review external export risk pending explicit approval. Status after failed push:
+## main...origin/main [ahead 1]
