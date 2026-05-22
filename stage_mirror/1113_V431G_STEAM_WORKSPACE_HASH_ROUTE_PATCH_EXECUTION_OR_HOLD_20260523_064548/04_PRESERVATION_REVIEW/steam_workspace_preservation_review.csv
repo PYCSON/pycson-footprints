@@ -1,0 +1,14 @@
+﻿item,required,preserved,evidence
+Mother UI unmodified,true,true,SHA256 unchanged from prepatch check
+LIVE UI patched only,true,true,V200_MASTER_UI_LIVE.html contains V431G markers
+Main cockpit dashboard preserved,true,true,Patch adds hash-route section and does not replace cockpit
+Existing Steam Mature Loop module preserved,true,true,pycson-v430oi-steam-mature-loop-readonly remains present
+Top STEAM MATURE LOOP button preserved,true,true,pycson-v430on-steam-mature-loop-entry remains present and visible
+Route Directory Steam entry preserved,true,true,button data-v430ot-route=steam remains present
+Module index preserved,true,true,pycson-v430qn-left-module-index remains present
+V430PT status display preserved,true,true,pycson-v430pt-manual-refresh-status remains present with REVIEW_REQUIRED / PARTIAL_SCREENING
+Right dock compact repair preserved,true,true,RIGHT DOCK CLEANED / LEGACY SEALED marker remains present
+Bottom safety/audit dock preserved,true,true,No bottom dock patch performed
+Risk Monitor preserved,true,true,Risk Monitor marker remains present
+Offline Replay preserved,true,true,Offline Replay Package marker remains present
+Existing accessible modules removed,false,true,No removal/hide operation performed on existing modules

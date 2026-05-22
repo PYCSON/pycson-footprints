@@ -1,0 +1,13 @@
+﻿# V431G Git Raw Footprint
+
+Before staging safe metadata mirror:
+
+
+
+HEAD before: 
+origin/main before: 
+
+Mirrored safe paths only:
+- stage_mirror/1113_V431G_STEAM_WORKSPACE_HASH_ROUTE_PATCH_EXECUTION_OR_HOLD_20260523_064548 (excluding 01_BACKUP and excluding full UI source)
+- latest_mirror/V431G_STEAM_WORKSPACE_HASH_ROUTE_PATCH_EXECUTION_OR_HOLD
+- words_mirror/V431G_STEAM_WORKSPACE_HASH_ROUTE_PATCH_EXECUTION_OR_HOLD

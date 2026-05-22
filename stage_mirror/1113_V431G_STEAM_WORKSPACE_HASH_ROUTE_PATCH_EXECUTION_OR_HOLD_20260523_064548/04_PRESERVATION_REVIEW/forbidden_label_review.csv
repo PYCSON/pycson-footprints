@@ -1,0 +1,8 @@
+﻿label,absent_from_new_v431g_executable_output,notes
+BUY_NOW,true,Absent from V431G block
+TRADEUP_NOW,true,Absent from V431G block
+TRUSTED_EV,true,Absent from V431G block
+OFFICIAL_EV,true,Absent from V431G block
+PROFIT,true,Absent from V431G block
+TRADE,true,No executable trade action label added; boundary phrase NO_TRADE_OR_ORDER is intentionally non-executable
+ORDER,true,No executable order action label added; boundary phrase NO_TRADE_OR_ORDER is intentionally non-executable

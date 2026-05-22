@@ -1,0 +1,6 @@
+﻿patch_area,change_type,detail,preservation_boundary
+Top STEAM MATURE LOOP button,onclick routing update,Button now opens pycsonV431GOpenSteamWorkspace for #steam-workspace route,Existing button preserved and still visible
+Route Directory steam route,routing update,Steam route uses V431G workspace opener with V430ON fallback,Route Directory and Steam entry preserved
+V431G Steam workspace section,additive section,New readonly #steam-workspace internal section added before body end,Main cockpit remains dashboard and existing modules remain in place
+Steam overview card link,additive runtime button,Open Steam Workspace button appended to existing Steam Mature Loop card,Existing Steam Mature Loop module preserved
+Module Index shortcut,additive runtime shortcut,Steam Workspace shortcut appended to existing module index,Existing shortcut strip preserved and extended
