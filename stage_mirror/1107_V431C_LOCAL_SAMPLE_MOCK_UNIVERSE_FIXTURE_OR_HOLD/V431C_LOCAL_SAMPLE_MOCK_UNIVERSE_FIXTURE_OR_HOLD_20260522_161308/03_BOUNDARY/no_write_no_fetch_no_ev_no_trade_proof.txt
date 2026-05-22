@@ -15,3 +15,5 @@ Official/trusted/trade-up EV calculation: false
 BUY/TRADE/ORDER: false
 FAICTORY touched: false
 Fixture fields are mock/local/schema-only and no_fetch/no_trade flagged.
+
+Git push result: failed/blocked. External export not completed. Local safe mock fixture evidence preserved.

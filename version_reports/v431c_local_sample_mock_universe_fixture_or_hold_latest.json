@@ -1,6 +1,6 @@
 ﻿{
-    "status":  "PASS_V431C_LOCAL_SAMPLE_MOCK_UNIVERSE_FIXTURE",
-    "decision":  "READY_FOR_V431C_SAFE_FOOTPRINT_EXPORT_OR_V431D_V431E_PLANNING",
+    "status":  "PASS_HOLD_V431C_LOCAL_SAMPLE_MOCK_UNIVERSE_FIXTURE_EXPORT_APPROVAL_REQUIRED",
+    "decision":  "AWAITING_USER_APPROVAL_FOR_V431C_SAFE_FOOTPRINT_EXPORT_OR_HOLD",
     "stage":  "V431C_LOCAL_SAMPLE_MOCK_UNIVERSE_FIXTURE_OR_HOLD",
     "generated_at":  "20260522_161308",
     "project_root":  "C:\\Users\\sunpu\\Desktop\\pycson",
@@ -30,5 +30,12 @@
     "footprint_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\words.cossp\\V431C_LOCAL_SAMPLE_MOCK_UNIVERSE_FIXTURE_OR_HOLD\\v431c_local_mock_universe_fixture_footprint_20260522_161308.md",
     "git_raw_footprint_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1107_V431C_LOCAL_SAMPLE_MOCK_UNIVERSE_FIXTURE_OR_HOLD\\V431C_LOCAL_SAMPLE_MOCK_UNIVERSE_FIXTURE_OR_HOLD_20260522_161308\\05_GIT_FOOTPRINT\\v431c_git_raw_footprint.txt",
     "git_summary_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1107_V431C_LOCAL_SAMPLE_MOCK_UNIVERSE_FIXTURE_OR_HOLD\\V431C_LOCAL_SAMPLE_MOCK_UNIVERSE_FIXTURE_OR_HOLD_20260522_161308\\05_GIT_FOOTPRINT\\v431c_git_summary.md",
-    "next_safe_step":  "V431D_BOUNDED_REFRESH_SCHEDULER_PLAN_OR_V431E_CANDIDATE_SCREENING_PLAN_OR_HOLD_AFTER_SAFE_EXPORT"
+    "next_safe_step":  "USER_APPROVAL_REQUIRED_FOR_V431C_SAFE_FOOTPRINT_EXPORT_ONLY_BEFORE_V431D_OR_V431E",
+    "head":  "11bb90f",
+    "origin_main":  "8fc18b8",
+    "git_push_result":  "FAILED_SEC_E_NO_CREDENTIALS_AND_ESCALATED_PUSH_REJECTED_BY_AUTO_REVIEW_EXTERNAL_EXPORT_RISK",
+    "git_push_succeeded":  false,
+    "worktree_clean":  false,
+    "head_matches_origin":  false,
+    "git_commit_succeeded":  true
 }
