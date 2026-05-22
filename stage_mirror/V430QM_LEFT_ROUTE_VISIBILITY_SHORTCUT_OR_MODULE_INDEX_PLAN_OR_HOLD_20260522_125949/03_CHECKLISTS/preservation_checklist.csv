@@ -1,0 +1,17 @@
+﻿item,must_preserve,future_patch_validation
+all route entries,true,verify every route entry remains visible/access preserved
+Route Directory,true,visible and not compressed further
+V418 local source candidate facts,true,facts remain visible; no further compression
+report/proof/latest/git access,true,add clearer shortcut/strip without hiding source entries
+Steam Mature Loop button/module,true,preservation check only
+V430PT REVIEW_REQUIRED / PARTIAL_SCREENING status,true,status and counts unchanged
+right dock compact repair,true,preservation check only
+Risk Monitor,true,preservation check only
+Offline Replay,true,preservation check only
+bottom safety dock,true,preservation check only
+theme/status controls,true,preservation check only
+mother cockpit identity,true,no replacement page/global redesign
+legacy access,true,preserve existing access
+data_bridge_closed,true,no write
+active_payload_closed,true,no write
+ev_fetch_trade_closed,true,no EV/fetch/buy/trade/order

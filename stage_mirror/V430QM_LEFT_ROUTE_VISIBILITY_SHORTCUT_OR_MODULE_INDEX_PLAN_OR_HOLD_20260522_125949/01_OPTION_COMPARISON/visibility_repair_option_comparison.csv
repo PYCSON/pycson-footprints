@@ -1,0 +1,6 @@
+﻿option,visibility_improvement,risk_of_increasing_clutter,risk_of_hiding_existing_functions,patch_size,rollback_simplicity,user_navigation_benefit,mother_identity_preserved,steam_center_preserved,right_dock_preserved,bottom_dock_preserved,avoids_broad_declutter,recommendation
+A_compact_visible_module_index,high,low,low,small,simple,high,true,true,true,true,true,recommended
+B_report_proof_latest_git_quick_strip,medium,low,low,small,simple,high,true,true,true,true,true,recommended_as_part_of_A
+C_v418_route_directory_shortcut_card,medium,medium,low,small_to_medium,simple,medium,true,true,true,true,true,defer_or_include_as_small_row_inside_A
+D_restore_prominence_without_new_content,medium,low,low,small,simple,medium,true,true,true,true,true,backup_option
+E_hold_for_another_screenshot,low,none,none,none,n/a,low,true,true,true,true,true,fallback_only

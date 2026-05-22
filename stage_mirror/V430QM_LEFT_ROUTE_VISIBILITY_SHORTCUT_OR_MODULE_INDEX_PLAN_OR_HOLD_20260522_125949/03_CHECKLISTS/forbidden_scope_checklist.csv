@@ -1,0 +1,14 @@
+﻿forbidden_scope,blocked,notes
+Mother UI modification,true,V200_MASTER_UI.html must not be modified
+Steam center module changes,true,preservation checks only
+right dock changes,true,preservation checks only
+bottom dock changes,true,preservation checks only unless separately planned
+global declutter,true,no broad cleanup
+removing route entries,true,all entries remain visible/access preserved
+hiding modules,true,no hidden functionality
+replacing cockpit,true,mother identity remains
+BUY_NOW/TRade/ORDER wording,true,no actionable trading language
+executable profit wording,true,no profit/signal implication
+DATA_BRIDGE/payload write,true,no writes
+Steam/BUFF fetch,true,no fetch
+EV calculation,true,no official/trusted EV calculation
