@@ -1,0 +1,38 @@
+﻿[
+    {
+        "candidate_class":  "MOCK_STEAM_READONLY_CASE_ITEM",
+        "meaning":  "Fake case-item shaped fixture for schema and scheduler planning only",
+        "allowed_without_fetch":  true,
+        "default_review_status":  "MOCK_ONLY",
+        "trade_allowed":  false,
+        "downstream_use":  "May seed local mock universe fixture only",
+        "boundary_note":  "NO_FETCH NO_TRADE NO_EV"
+    },
+    {
+        "candidate_class":  "MOCK_TRADEUP_INPUT_CANDIDATE",
+        "meaning":  "Fake trade-up input category name for planning, not EV or execution",
+        "allowed_without_fetch":  true,
+        "default_review_status":  "REVIEW_REQUIRED",
+        "trade_allowed":  false,
+        "downstream_use":  "May support future candidate screening dryrun plan",
+        "boundary_note":  "No trade-up EV and no execution"
+    },
+    {
+        "candidate_class":  "MOCK_OUTPUT_POOL_PLACEHOLDER",
+        "meaning":  "Fake output pool placeholder for route shape planning only",
+        "allowed_without_fetch":  true,
+        "default_review_status":  "UNVERIFIED",
+        "trade_allowed":  false,
+        "downstream_use":  "May support future schema-only output pool review",
+        "boundary_note":  "No live source and no executable value"
+    },
+    {
+        "candidate_class":  "MOCK_REVIEW_REQUIRED_ITEM",
+        "meaning":  "Fake item requiring human review before any downstream route",
+        "allowed_without_fetch":  true,
+        "default_review_status":  "REVIEW_REQUIRED",
+        "trade_allowed":  false,
+        "downstream_use":  "May support review status handling tests",
+        "boundary_note":  "Blocked from trading and EV"
+    }
+]
