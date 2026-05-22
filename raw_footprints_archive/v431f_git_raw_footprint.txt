@@ -1,0 +1,4 @@
+﻿V431F git raw footprint placeholder. Safe authorization metadata only.
+
+Pre-commit status:
+## main...origin/main ?? git_summaries/v431f_git_summary.md ?? raw_footprints_archive/v431f_git_raw_footprint.txt ?? stage_mirror/1112_V431F_STEAM_WORKSPACE_PATCH_AUTHORIZATION_PACKET_OR_HOLD/ ?? version_reports/v431f_steam_workspace_patch_authorization_packet_or_hold_latest.json ?? version_reports/v431f_steam_workspace_patch_authorization_packet_or_hold_report.json ?? version_summaries/v431f_steam_workspace_patch_authorization_footprint_20260523_061650.md
