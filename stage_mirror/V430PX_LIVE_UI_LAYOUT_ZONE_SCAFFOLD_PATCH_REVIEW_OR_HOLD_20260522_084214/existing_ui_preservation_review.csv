@@ -1,0 +1,10 @@
+area,preserved,notes
+existing_ui_functions,true,readonly structural marker check
+theme_controls,true,readonly structural marker check
+mother_identity,true,readonly structural marker check
+steam_button_module,true,readonly structural marker check
+route_directory,true,readonly structural marker check
+legacy_modules,true,readonly structural marker check
+bottom_safety_buttons,true,readonly structural marker check
+right_panel_functions,true,readonly structural marker check
+v430pt_status_display,true,REVIEW_REQUIRED / PARTIAL_SCREENING and manual refresh counts preserved

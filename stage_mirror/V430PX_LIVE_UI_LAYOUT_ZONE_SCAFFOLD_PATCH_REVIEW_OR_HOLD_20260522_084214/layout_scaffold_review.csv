@@ -1,0 +1,8 @@
+check,result,notes
+scaffold block exists,true,V430PW marker/style/script present in LIVE UI
+top status zone,true,label present in scaffold
+left route/navigation zone,true,label present in scaffold
+center active route zone,true,label present in scaffold
+right review/risk zone,true,label present in scaffold
+bottom safety/audit dock,true,label present in scaffold
+legacy/reference zone,true,additional preserved legacy zone label present

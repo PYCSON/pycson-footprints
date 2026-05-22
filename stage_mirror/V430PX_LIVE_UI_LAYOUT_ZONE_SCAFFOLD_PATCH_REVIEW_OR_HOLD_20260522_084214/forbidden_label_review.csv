@@ -1,0 +1,10 @@
+term,scope,result,notes
+READY,V430PW new scaffold block,absent,Legacy UI outside scaffold may contain historical readonly/boundary terms; review scope is new scaffold/status areas
+SIGNAL_READY,V430PW new scaffold block,absent,Legacy UI outside scaffold may contain historical readonly/boundary terms; review scope is new scaffold/status areas
+TRUSTED_EV,V430PW new scaffold block,absent,Legacy UI outside scaffold may contain historical readonly/boundary terms; review scope is new scaffold/status areas
+OFFICIAL_EV,V430PW new scaffold block,absent,Legacy UI outside scaffold may contain historical readonly/boundary terms; review scope is new scaffold/status areas
+PROFIT,V430PW new scaffold block,absent,Legacy UI outside scaffold may contain historical readonly/boundary terms; review scope is new scaffold/status areas
+BUY_NOW,V430PW new scaffold block,absent,Legacy UI outside scaffold may contain historical readonly/boundary terms; review scope is new scaffold/status areas
+TRADEUP_NOW,V430PW new scaffold block,absent,Legacy UI outside scaffold may contain historical readonly/boundary terms; review scope is new scaffold/status areas
+TRADE,V430PW new scaffold block,absent,Legacy UI outside scaffold may contain historical readonly/boundary terms; review scope is new scaffold/status areas
+ORDER,V430PW new scaffold block,absent,Legacy UI outside scaffold may contain historical readonly/boundary terms; review scope is new scaffold/status areas
