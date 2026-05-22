@@ -1,0 +1,13 @@
+﻿item,visibility_classification,notes
+Route Directory,VISIBLE_BUT_DENSE,visible but should not be compressed further
+All route entries,COMPACT_BUT_ACCESSIBLE,all route entries remain accessible in compact form
+V418 local source candidate,VISIBLE_BUT_DENSE,visible but dense; facts should not be compressed further
+Steam Mature Loop,VISIBLE_AND_CLEAR,clear in screenshot observation
+V430PT status display,VISIBLE_AND_CLEAR,REVIEW_REQUIRED / PARTIAL_SCREENING facts visible
+Risk Monitor,VISIBLE_AND_CLEAR,clear in screenshot observation
+Offline Replay,VISIBLE_AND_CLEAR,clear in screenshot observation
+Bottom safety dock,VISIBLE_AND_CLEAR,clear in screenshot observation
+Theme/status controls,VISIBLE_AND_CLEAR,clear in screenshot observation
+report/proof/latest/git access,VISIBLE_BUT_DENSE,visible but dense; needs shortcut/module-index prominence plan
+legacy access,COMPACT_BUT_ACCESSIBLE,not reported missing; preserve access
+Mother cockpit identity,VISIBLE_AND_CLEAR,preserved
