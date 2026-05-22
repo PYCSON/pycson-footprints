@@ -1,0 +1,60 @@
+﻿{
+    "status":  "HOLD_V430QJ_FUNCTION_LOSS_REGRESSION_VISUAL_EVIDENCE_REQUIRED",
+    "decision":  "HOLD_FOR_BROWSER_OR_USER_SCREENSHOT_FUNCTION_VISIBILITY_RECHECK_BEFORE_ANY_MORE_UI_PATCHES",
+    "project_root_confirmed":  "C:\\Users\\sunpu\\Desktop\\pycson",
+    "current_anchor":  "V430QI_SAFE_FOOTPRINT_EXPORT_FINALIZATION_COMPLETE",
+    "user_concern":  "visible functions may be decreasing despite static pass checks",
+    "function_loss_regression_detected":  "possible_unverified_practical_visibility_regression",
+    "visible_route_count_before_current":  "10/10",
+    "visible_module_count_before_current":  "11/11 sections; 29/29 div ids from V430QI backup to current",
+    "visible_button_count_before_current":  "35/35",
+    "removed_items":  [
+
+                      ],
+    "hidden_items":  [
+
+                     ],
+    "collapsed_but_accessible_items":  [
+                                           "Route Directory compacted by V430QI",
+                                           "V418 local source candidate compacted by V430QI"
+                                       ],
+    "hard_to_find_items":  [
+                               "Left Route Directory practical visibility unverified",
+                               "V418 candidate readability unverified",
+                               "File/Footprint report-proof access prominence unverified"
+                           ],
+    "route_directory_preserved":  "static yes; practical visibility requires screenshot review",
+    "v418_candidate_preserved":  "static yes; practical visibility requires screenshot review",
+    "steam_mature_loop_preserved":  "static yes",
+    "risk_monitor_preserved":  "static yes",
+    "offline_replay_preserved":  "static yes",
+    "bottom_safety_dock_preserved":  "static yes",
+    "theme_controls_preserved":  "static marker not negatively changed by V430QI; practical visibility requires screenshot review",
+    "v430pt_status_display_preserved":  "static yes",
+    "recommended_action":  "pause UI patching and perform browser/user screenshot function visibility recheck; if confirmed hard-to-find, add visible shortcut/index or repair compactness",
+    "rollback_needed":  false,
+    "repair_needed":  true,
+    "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\1095_V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD\\V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD_20260522_122310\\04_REPORT\\v430qj_left_route_density_regression_and_function_loss_review_or_hold_report.json",
+    "latest_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\11_SYSTEM_AUDIT_HANDOFF\\99_AI_GENERATED_SYSTEM_INDEX\\v430qj_left_route_density_regression_and_function_loss_review_or_hold_latest.json",
+    "proof":  "C:\\Users\\sunpu\\Desktop\\pycson\\1095_V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD\\V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD_20260522_122310\\03_BOUNDARY\\no_ui_patch_no_databridge_no_ev_no_fetch_no_buy_trade_proof.txt",
+    "footprint":  "C:\\Users\\sunpu\\Desktop\\pycson\\words.cossp\\V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD\\v430qj_regression_function_loss_review_footprint_20260522_122310.md",
+    "git_raw_footprint":  "C:\\Users\\sunpu\\Desktop\\pycson\\1095_V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD\\V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD_20260522_122310\\05_GIT_FOOTPRINT\\v430qj_regression_git_raw_footprint.txt",
+    "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\1095_V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD\\V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD_20260522_122310\\05_GIT_FOOTPRINT\\v430qj_regression_git_summary.md",
+    "function_loss_regression_matrix":  "C:\\Users\\sunpu\\Desktop\\pycson\\1095_V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD\\V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD_20260522_122310\\01_REGRESSION_MATRIX\\function_loss_regression_matrix.csv",
+    "visible_module_count_comparison":  "C:\\Users\\sunpu\\Desktop\\pycson\\1095_V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD\\V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD_20260522_122310\\01_REGRESSION_MATRIX\\visible_module_count_comparison.csv",
+    "removed_hidden_hard_to_find_item_list":  "C:\\Users\\sunpu\\Desktop\\pycson\\1095_V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD\\V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD_20260522_122310\\02_FUNCTION_LOSS_REVIEW\\removed_hidden_hard_to_find_item_list.csv",
+    "route_entry_preservation_comparison":  "C:\\Users\\sunpu\\Desktop\\pycson\\1095_V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD\\V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD_20260522_122310\\02_FUNCTION_LOSS_REVIEW\\route_entry_preservation_comparison.csv",
+    "v418_candidate_preservation_comparison":  "C:\\Users\\sunpu\\Desktop\\pycson\\1095_V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD\\V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD_20260522_122310\\02_FUNCTION_LOSS_REVIEW\\v418_candidate_preservation_comparison.csv",
+    "user_facing_functionality_regression_report":  "C:\\Users\\sunpu\\Desktop\\pycson\\1095_V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD\\V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD_20260522_122310\\02_FUNCTION_LOSS_REVIEW\\user_facing_functionality_regression_report.md",
+    "executed_script":  "C:\\Users\\sunpu\\Desktop\\pycson\\1095_V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD\\V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD_20260522_122310\\00_EXECUTED_SCRIPT\\RUN_V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD_20260522_122310.ps1",
+    "executed_script_sha256":  "8DEE06B7AE349AD77551A75AB7DE547E68818D820B9279CEB2DAEDF0FAE4E1C6",
+    "git_repo_used":  true,
+    "git_commit_succeeded":  false,
+    "git_push_succeeded":  false,
+    "git_push_failure_note":  "pending",
+    "head":  null,
+    "origin_main":  null,
+    "head_matches_origin":  false,
+    "worktree_clean":  false,
+    "next_safe_step":  "V430QK_FUNCTION_VISIBILITY_BROWSER_OR_USER_SCREENSHOT_RECHECK_OR_HOLD"
+}

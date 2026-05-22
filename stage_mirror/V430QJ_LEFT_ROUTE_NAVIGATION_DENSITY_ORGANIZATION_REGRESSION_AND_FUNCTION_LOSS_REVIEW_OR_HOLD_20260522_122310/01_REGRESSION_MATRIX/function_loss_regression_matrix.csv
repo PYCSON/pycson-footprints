@@ -1,0 +1,12 @@
+﻿check,result,regression_risk,notes
+route_entry_count_decreased,false,low,route count remains 10 from V430PT through current
+button_count_decreased,false,low,button count remains 35 from V430PT through current
+section_count_decreased,false,low,section count remains 11
+v418_candidate_removed,false,low,V418 markers increased because V430QI adds preservation tags
+steam_mature_loop_removed,false,low,Steam Mature Loop markers preserved
+risk_monitor_removed,false,low,Risk Monitor markers preserved
+offline_replay_removed,false,low,Offline Replay markers preserved
+v430pt_status_removed,false,low,V430PT status remains present after V430PW onward
+left_route_compacted,true,medium,compact style reduces spacing; requires visual evidence to prove practical discoverability
+v418_candidate_compacted,true,medium,V418 card width/padding/font adjusted; requires visual evidence to prove facts remain easy to find
+practical_function_loss_unverified,true,high,user concern cannot be resolved by static count checks alone

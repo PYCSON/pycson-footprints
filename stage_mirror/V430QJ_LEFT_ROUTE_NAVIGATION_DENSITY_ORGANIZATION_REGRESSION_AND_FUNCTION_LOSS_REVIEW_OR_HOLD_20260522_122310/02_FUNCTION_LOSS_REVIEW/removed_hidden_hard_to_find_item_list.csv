@@ -1,0 +1,7 @@
+﻿item,classification,evidence,recommended_action
+removed_items,none_detected_static,No route/button/section count decrease detected,No rollback solely from static counts
+hidden_items,none_detected_static,No new display:none or permanent hide action identified in V430QI block,No rollback solely from static checks
+collapsed_but_accessible_items,Route Directory and V418 candidate compacted,V430QI applies compact CSS and data preservation markers,Require browser/user screenshot evidence
+hard_to_find_items,possible_left_navigation_density_regression,User concern plus compact spacing means practical visibility is unverified,Pause further UI patching and perform full visual inventory
+hard_to_find_items,possible_V418_candidate_readability_regression,V418 card width reduced and typography compacted,Confirm by screenshot before next patch
+hard_to_find_items,report/proof/git quick entries could remain dense,File / Footprint route preserved but practical prominence not visually verified,Consider compact-but-visible module index if evidence confirms difficulty

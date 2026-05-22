@@ -1,0 +1,11 @@
+﻿route_entry,V430QI_backup_count,current_count,label_preserved,practical_visibility_status
+steam,1,1,true,requires_visual_confirmation
+tradeup,1,1,true,requires_visual_confirmation
+ev,1,1,true,requires_visual_confirmation
+risk,1,1,true,requires_visual_confirmation
+records,1,1,true,requires_visual_confirmation
+params,1,1,true,requires_visual_confirmation
+radar,1,1,true,requires_visual_confirmation
+file,1,1,true,requires_visual_confirmation
+scheduler,1,1,true,requires_visual_confirmation
+integration,1,1,true,requires_visual_confirmation

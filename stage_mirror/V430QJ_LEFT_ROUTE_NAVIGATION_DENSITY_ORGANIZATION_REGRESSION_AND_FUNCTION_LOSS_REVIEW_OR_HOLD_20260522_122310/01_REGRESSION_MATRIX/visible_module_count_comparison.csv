@@ -1,0 +1,7 @@
+﻿baseline,route_entries,buttons,sections,div_ids,panel_terms,steam_mentions,risk_mentions,offline_replay_mentions,v418_mentions,v430pt_status_present,notes
+V430PT_backup,10,35,11,28,998,5,27,28,21,false,before V430PT status display patch so V430PT status absent as expected
+V430PW_backup,10,35,11,29,998,5,27,28,21,true,layout scaffold baseline
+V430PZ_backup,10,35,11,29,1002,6,27,28,21,true,before right panel organization
+V430QD_backup,10,35,11,29,1028,6,32,28,21,true,before right dock compact repair
+V430QI_backup,10,35,11,29,1053,7,34,30,21,true,before left route density patch
+CURRENT_LIVE,10,35,11,29,1060,7,34,30,32,true,current after V430QI patch

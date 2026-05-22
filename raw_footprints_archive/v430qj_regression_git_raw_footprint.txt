@@ -1,0 +1,7 @@
+﻿V430QJ regression git raw footprint placeholder before commit
+stage=V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_REGRESSION_AND_FUNCTION_LOSS_REVIEW_OR_HOLD
+stamp=20260522_122310
+safe_export_scope=metadata/report/proof/regression-review/git-footprint only
+full_ui_source_exported=false
+backup_exported=false
+screenshot_exported=false

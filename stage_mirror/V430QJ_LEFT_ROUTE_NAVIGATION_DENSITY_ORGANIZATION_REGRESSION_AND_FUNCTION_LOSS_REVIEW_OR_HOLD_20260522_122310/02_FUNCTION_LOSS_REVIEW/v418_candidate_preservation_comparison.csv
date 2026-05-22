@@ -1,0 +1,8 @@
+﻿fact,V430QI_backup_present,current_present,practical_visibility_status
+V418 LOCAL SOURCE CANDIDATE,true,true,requires_visual_confirmation
+READ ONLY,true,true,requires_visual_confirmation
+Candidates,true,true,requires_visual_confirmation
+Cost CNY,true,true,requires_visual_confirmation
+NO_DECISION_DRYRUN_ONLY,true,true,requires_visual_confirmation
+NOT_COMPUTED_IN_SWAP_DRYRUN,true,true,requires_visual_confirmation
+NO TRADE / NO AUTO ORDER / NO MARKET FETCH,true,true,requires_visual_confirmation
