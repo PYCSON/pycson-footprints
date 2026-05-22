@@ -1,0 +1,8 @@
+﻿fact,preserved,review_result
+V418 LOCAL SOURCE CANDIDATE,true,pass
+READ ONLY,true,pass
+Candidates,true,pass
+Cost CNY,true,pass
+NO_DECISION_DRYRUN_ONLY,true,pass
+NOT_COMPUTED_IN_SWAP_DRYRUN,true,pass
+NO TRADE / NO AUTO ORDER / NO MARKET FETCH,true,pass

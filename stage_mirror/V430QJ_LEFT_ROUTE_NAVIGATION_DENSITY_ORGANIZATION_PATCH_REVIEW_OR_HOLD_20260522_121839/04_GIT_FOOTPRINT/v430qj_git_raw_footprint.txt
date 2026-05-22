@@ -1,0 +1,8 @@
+﻿V430QJ git raw footprint placeholder before commit
+stage=V430QJ_LEFT_ROUTE_NAVIGATION_DENSITY_ORGANIZATION_PATCH_REVIEW_OR_HOLD
+stamp=20260522_121839
+safe_export_scope=metadata/report/proof/static-review/git-footprint only
+live_ui_source_exported=false
+live_ui_backup_exported=false
+mother_ui_source_exported=false
+screenshot_image_exported=false

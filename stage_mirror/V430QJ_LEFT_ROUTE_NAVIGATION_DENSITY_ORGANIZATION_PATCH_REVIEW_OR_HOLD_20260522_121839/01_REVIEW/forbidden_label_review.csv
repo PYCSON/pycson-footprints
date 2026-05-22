@@ -1,0 +1,10 @@
+﻿label,forbidden_display_introduced_by_v430qi,review_result,notes
+READY,false,pass,raw substring appears only in script readyState / existing text context, not as new readiness display label
+SIGNAL_READY,false,pass,not found in V430QI display text
+TRUSTED_EV,false,pass,not introduced in V430QI display text
+OFFICIAL_EV,false,pass,not introduced in V430QI display text
+PROFIT,false,pass,not introduced in V430QI display text
+BUY_NOW,false,pass,not introduced in V430QI display text
+TRADEUP_NOW,false,pass,not introduced in V430QI display text
+TRADE,false,pass,raw substring appears in route ids / existing safety wording, not as new action label
+ORDER,false,pass,raw substring appears in ORGANIZATION/stage text and existing safety wording, not as new action label

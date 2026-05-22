@@ -1,0 +1,19 @@
+﻿review_item,result,notes
+V430QI patch exists,true,V430QI style/script block found in LIVE UI
+Mother UI modified,false,review stage did not modify Mother UI
+LIVE UI modified during review,false,review-only stage
+left route density organization confirmed,true,scoped class/style/script exists
+V418 candidate density organization confirmed,true,V418 compact selector and data state exist
+all route entries preserved,true,ten expected route entries each found once
+V418 candidate facts preserved,true,label/read-only/candidates/cost/decision/risk/safety facts found
+existing UI functions preserved,true,static markers preserved
+Steam Mature Loop preserved,true,route entry and module markers preserved
+V430PT status display preserved,true,REVIEW_REQUIRED / PARTIAL_SCREENING marker preserved
+right dock compact repair preserved,true,V430QD right dock compact marker preserved
+bottom safety/audit dock preserved,true,no bottom patch performed in V430QI or V430QJ
+Risk Monitor preserved,true,risk card marker preserved
+Offline Replay preserved,true,offline replay marker preserved
+legacy modules preserved,true,no legacy/archive move or delete performed
+backup path confirmed,true,V430QI backup exists
+rollback path confirmed,true,V430QI rollback command exists
+browser visual confirmation,false,not claimed; next step must require browser/user screenshot recheck
