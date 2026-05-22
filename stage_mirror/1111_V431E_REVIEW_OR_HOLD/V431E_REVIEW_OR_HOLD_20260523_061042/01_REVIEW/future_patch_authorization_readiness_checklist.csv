@@ -1,0 +1,6 @@
+﻿"check","pass","notes"
+"V431F authorization packet only","TRUE","No patch in review"
+"future patch scope can be limited to V200_MASTER_UI_LIVE.html after backup","TRUE","To be specified in V431F"
+"Mother UI remains forbidden","TRUE","To be specified in V431F"
+"rollback required","TRUE","To be specified in V431F"
+"browser screenshot required after future patch","TRUE","To be specified in V431F"
