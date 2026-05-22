@@ -1,0 +1,17 @@
+﻿item,must_preserve,validation_method,next_stage_requirement
+Mother UI V200_MASTER_UI.html,true,git diff/status,no modification allowed
+LIVE UI V200_MASTER_UI_LIVE.html,true,backup plus scoped diff,only left nav density patch allowed in V430QI
+Route Directory,true,static and screenshot review,no entries hidden or removed
+V418 local source candidate area,true,static and screenshot review,can compact/group but not remove function
+Steam Mature Loop,true,static and screenshot review,no patch except preservation check
+V430PT REVIEW_REQUIRED / PARTIAL_SCREENING status,true,static and screenshot review,status facts unchanged
+Right dock compact repair,true,static and screenshot review,no patch except preservation check
+Risk Monitor,true,static and screenshot review,preserve access
+Offline Replay,true,static and screenshot review,preserve access
+Bottom safety/audit dock,true,static and screenshot review,no patch except preservation check
+Theme/status controls,true,static and screenshot review,preserve access
+Mother cockpit identity,true,screenshot/user review,no replacement page or global declutter
+Forbidden labels absent,true,static review,no READY/SIGNAL_READY/TRUSTED_EV/OFFICIAL_EV/PROFIT/BUY_NOW/TRADEUP_NOW/TRADE/ORDER in new status areas
+DATA_BRIDGE closed,true,boundary proof,no write
+active payload closed,true,boundary proof,no write
+EV/fetch/buy/trade/order closed,true,boundary proof,no execution

@@ -1,0 +1,6 @@
+﻿V430QH git raw footprint placeholder before commit
+stage=V430QH_NEXT_UI_ZONE_ORGANIZATION_PLAN_OR_HOLD
+stamp=20260522_112212
+safe_export_scope=text-only metadata/report/proof/plan/git-footprint
+ui_source_exported=false
+screenshot_image_exported=false
