@@ -1,0 +1,8 @@
+﻿check,result,evidence
+V431G patch exists,true,PYCSON_V431G_STEAM_WORKSPACE_HASH_ROUTE marker present
+#steam-workspace route exists,true,#steam-workspace string and pycsonV431GOpenSteamWorkspace present
+Steam workspace section exists,true,pycson-v431g-steam-workspace section present
+Main cockpit remains dashboard,true,Patch is additive route section and does not replace cockpit shell
+LIVE UI only patched in V431G,true,V431G evidence shows LIVE patch only; review performed no UI modification
+Mother UI modified,false,Mother UI SHA256 checked during review
+Browser visual confirmation,false,Static review only; next stage requires browser/user screenshot evidence

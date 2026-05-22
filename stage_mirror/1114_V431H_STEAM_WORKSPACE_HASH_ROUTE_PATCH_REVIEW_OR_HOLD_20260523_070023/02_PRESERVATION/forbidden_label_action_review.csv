@@ -1,0 +1,15 @@
+﻿label_or_action,absent_from_new_changed_executable_area,notes
+BUY_NOW,true,Absent from V431G block
+TRADEUP_NOW,true,Absent from V431G block
+TRUSTED_EV,true,Absent from V431G block
+OFFICIAL_EV,true,Absent from V431G block
+PROFIT,true,Absent from V431G block
+TRADE,true,No executable TRADE action added; boundary text is non-executable safety language only
+ORDER,true,No executable ORDER action added; boundary text is non-executable safety language only
+DATA_BRIDGE write,true,No DATA_BRIDGE write performed
+active payload write,true,No active payload write performed
+Steam fetch,true,No Steam fetch performed
+BUFF fetch,true,No BUFF fetch performed
+market endpoint call,true,No market endpoint call performed
+EV calculation,true,No EV calculation performed
+BUY/TRADE/ORDER,true,No buy/trade/order action performed

@@ -1,0 +1,17 @@
+﻿item,required,preserved,evidence
+Existing Steam Mature Loop module,true,true,pycson-v430oi-steam-mature-loop-readonly present
+Top STEAM MATURE LOOP button,true,true,pycson-v430on-steam-mature-loop-entry present
+Route Directory / Steam entry,true,true,data-v430ot-route=steam present
+Module Index / shortcut strip,true,true,pycson-v430qn-left-module-index present
+V430PT readonly status,true,true,pycson-v430pt-manual-refresh-status present with REVIEW_REQUIRED / PARTIAL_SCREENING
+V430PT refreshed count,true,true,Structured display shows Refreshed 7/7
+V430PT candidate count,true,true,Structured display shows Candidates 7
+V430PT blocked/errors,true,true,Structured display shows Blocked 0 and Errors 0
+V430PT screening-ready,true,true,Structured display shows Screening-ready 0
+V430PT hold/review,true,true,Structured display shows Hold/review 7
+Right dock compact repair,true,true,RIGHT DOCK CLEANED / LEGACY SEALED present
+Bottom safety/audit dock,true,true,No bottom dock modification in V431G; preservation recorded in V431G evidence
+Risk Monitor,true,true,Risk Monitor present
+Offline Replay,true,true,Offline Replay Package present
+Backup path,true,true,V431G backup exists
+Rollback path,true,true,V431G rollback command exists
