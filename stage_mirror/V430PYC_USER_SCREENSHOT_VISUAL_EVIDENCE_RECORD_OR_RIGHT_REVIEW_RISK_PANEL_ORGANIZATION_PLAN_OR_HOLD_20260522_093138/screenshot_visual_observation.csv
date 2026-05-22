@@ -1,0 +1,15 @@
+﻿observation,result,evidence_source,notes
+screenshot_evidence_recorded,true,user_text_observation,screenshot image not exported
+page_load_visually_confirmed,true,user_text_observation,live UI loaded in browser
+top_zone_visible,true,user_text_observation,top status zone visible
+left_zone_visible,true,user_text_observation,left route/navigation zone visible
+center_zone_visible,true,user_text_observation,center active route zone visible
+right_zone_issue_confirmed,true,user_text_observation,right review/risk/legacy sealed panel visually heavy and pressures center-right
+bottom_dock_visible,true,user_text_observation,bottom safety/audit dock visible
+steam_mature_loop_visible,true,user_text_observation,Steam Mature Loop visible
+route_directory_visible,true,user_text_observation,Route Directory visible
+v430pt_status_display_visible,true,user_text_observation,readonly status visible/preserved
+existing_modules_preserved,true,user_text_observation,existing modules appear preserved
+mother_identity_preserved,true,user_text_observation,cockpit identity preserved
+severe_overlap_detected,false_with_pressure,user_text_observation,no critical missing modules; visual pressure remains on center-right
+forbidden_labels_absent,true,user_text_observation,no forbidden trading/EV labels reported in status area
