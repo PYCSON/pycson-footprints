@@ -1,0 +1,15 @@
+﻿baseline_item,accepted,evidence,notes
+#steam-workspace visually reachable,true,V431J screenshot evidence,First dedicated Steam workspace route accepted
+Steam workspace section visible,true,V431J screenshot evidence,Workspace content visible
+Main cockpit preserved,true,V431J screenshot evidence,Cockpit remains dashboard/overview
+Top Steam button preserved,true,V431J screenshot evidence,Top entry remains visible
+Left Route Directory Steam entry preserved,true,V431J screenshot evidence,Left access preserved
+Steam overview/Open Steam Workspace entry preserved,true,V431J screenshot evidence,Workspace link visible
+Existing Steam Mature Loop module preserved,true,V431J screenshot evidence,Center Steam module remains visible
+V430PT status display preserved,true,V431J screenshot evidence,REVIEW_REQUIRED / PARTIAL_SCREENING visible
+Module Index preserved,true,V431J screenshot evidence,Steam Workspace shortcut visible
+Right dock preserved,true,V431J screenshot evidence,Right dock remains preserved
+Bottom dock preserved,true,V431J screenshot evidence,Bottom safety/audit dock remains preserved
+Risk Monitor preserved,true,V431J screenshot evidence,Risk Monitor remains visible
+Offline Replay preserved,true,V431J screenshot evidence,Offline Replay remains visible
+Forbidden executable labels/actions absent,true,V431J screenshot evidence,No BUY_NOW / TRADEUP_NOW / executable trade/order/profit

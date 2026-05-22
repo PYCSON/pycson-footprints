@@ -1,0 +1,5 @@
+﻿option,core_system_value,dependency_readiness,safety_risk,requires_fetch,requires_DATA_BRIDGE_write,requires_EV,ui_already_sufficient,steam_workspace_supports_next_work,planning_only_enough,recommendation
+V431L_CANDIDATE_SCREENING_PLAN_OR_HOLD,high,high,low,false,false,false,true,true,true,recommended
+V431L_LOCAL_SCHEDULER_MOCK_DRYRUN_PLAN_OR_HOLD,medium_high,high,low,false,false,false,true,true,true,good_later
+V431L_STEAM_WORKSPACE_MINOR_REFINEMENT_PLAN_OR_HOLD,low,medium,medium,false,false,false,true,not_needed,true,defer_without_screenshot_issue
+HOLD_FOR_USER_DIRECTION_AFTER_STEAM_WORKSPACE_ACCEPTANCE,medium,high,low,false,false,false,true,true,true,available_if_user_prefers_pause
