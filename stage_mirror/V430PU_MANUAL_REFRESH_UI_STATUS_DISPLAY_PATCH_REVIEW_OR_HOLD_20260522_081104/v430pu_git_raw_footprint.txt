@@ -1,0 +1,7 @@
+Git raw footprint before V430PU safe metadata commit
+HEAD: 42a1633
+origin/main: 42a1633
+HEAD_MATCHES_ORIGIN: true
+WORKTREE_CLEAN_BEFORE_STAGE_ARTIFACTS: true
+status --short before stage artifacts:
+

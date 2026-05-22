@@ -1,0 +1,9 @@
+check,result,notes
+patch_marker_present,true,V430PT marker present in LIVE UI
+status_label_exact,true,REVIEW_REQUIRED / PARTIAL_SCREENING
+manual_refresh_facts,true,7/7 refreshed; 7 candidates; 0 blocked; 0 errors; 0 screening-ready; 7 hold/review
+forbidden_status_block_labels_absent,true,No forbidden affirmative action or EV labels in V430PT status display
+existing_functions_preserved,true,Structural preservation checks passed
+backup_exists,true,C:\Users\sunpu\Desktop\pycson\1075_V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD\V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037\02_BACKUP\V200_MASTER_UI_LIVE_before_V430PT_20260522_075037.html
+rollback_exists,true,C:\Users\sunpu\Desktop\pycson\1075_V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD\V430PT_MANUAL_REFRESH_UI_STATUS_DISPLAY_PATCH_EXECUTION_OR_HOLD_20260522_075037\06_ROLLBACK\manual_refresh_ui_status_display_rollback_command.md
+git_clean,true,HEAD matches origin and footprint worktree was clean before V430PU artifacts

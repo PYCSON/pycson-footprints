@@ -1,0 +1,13 @@
+boundary,result,notes
+live_ui_patched_in_this_stage,false,review only
+mother_ui_modified_in_this_stage,false,review only
+data_bridge_write,false,no DATA_BRIDGE write
+active_payload_write,false,no active payload write
+official_ev_calculated,false,no official EV
+trusted_ev_calculated,false,no trusted EV
+steam_fetch_executed,false,no Steam fetch
+buff_fetch_executed,false,no BUFF fetch
+buy_now,false,no BUY_NOW control introduced
+tradeup_now,false,no TRADEUP_NOW control introduced
+trade_or_order,false,no trade/order action introduced
+faictory_touched,false,PYCSON-only stage
