@@ -14,3 +14,5 @@ Official/trusted/trade-up EV calculation: false
 BUY/TRADE/ORDER: false
 FAICTORY touched: false
 Review-only artifacts generated under the V431B review stage folder.
+
+Git push result: failed/blocked. External export not completed. Local safe evidence preserved.
