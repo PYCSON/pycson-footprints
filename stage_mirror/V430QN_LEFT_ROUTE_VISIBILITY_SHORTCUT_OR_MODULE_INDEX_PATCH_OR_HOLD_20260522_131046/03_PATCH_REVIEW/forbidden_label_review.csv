@@ -1,0 +1,10 @@
+﻿label,forbidden_display_introduced_as_action,review_result,notes
+READY,false,pass,not introduced as readiness label
+SIGNAL_READY,false,pass,not introduced
+TRUSTED_EV,false,pass,not introduced
+OFFICIAL_EV,false,pass,not introduced
+PROFIT,false,pass,not introduced as signal/executable profit
+BUY_NOW,false,pass,not introduced
+TRADEUP_NOW,false,pass,not introduced
+TRADE,false,pass,only appears in negative safety sentence 'no trade or order action'; no trade control/action added
+ORDER,false,pass,only appears in negative safety sentence 'no trade or order action'; no order control/action added

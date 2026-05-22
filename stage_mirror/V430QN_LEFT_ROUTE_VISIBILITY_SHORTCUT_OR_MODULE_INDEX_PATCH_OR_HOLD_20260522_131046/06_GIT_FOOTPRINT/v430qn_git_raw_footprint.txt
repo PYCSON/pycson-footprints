@@ -1,0 +1,8 @@
+﻿V430QN git raw footprint placeholder before commit
+stage=V430QN_LEFT_ROUTE_VISIBILITY_SHORTCUT_OR_MODULE_INDEX_PATCH_OR_HOLD
+stamp=20260522_131046
+safe_export_scope=metadata/report/proof/patch-evidence/git-footprint only
+live_ui_source_exported=false
+live_ui_backup_exported=false
+mother_ui_source_exported=false
+screenshot_image_exported=false

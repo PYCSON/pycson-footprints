@@ -1,0 +1,14 @@
+﻿visibility_item,result,notes
+module index / shortcut strip added,true,V430QN shortcut strip present
+Route Directory visibility improved/preserved,true,explicit shortcut to Route Directory added and original retained
+V418 visibility improved/preserved,true,explicit shortcut to V418 added and facts retained
+Reports access improved,true,explicit Reports shortcut added
+Proof access improved,true,explicit Proof shortcut added
+Latest access improved,true,explicit Latest shortcut added
+Git/File access improved,true,explicit Git/File shortcut added
+V418 LOCAL SOURCE CANDIDATE fact preserved,true,text remains present
+READ ONLY fact preserved,true,text remains present
+Candidates fact preserved,true,text remains present
+Cost CNY fact preserved,true,text remains present
+NO_DECISION_DRYRUN_ONLY fact preserved,true,text remains present
+NOT_COMPUTED_IN_SWAP_DRYRUN fact preserved,true,text remains present

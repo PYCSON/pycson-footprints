@@ -1,0 +1,7 @@
+﻿patch_area,change_type,target,preservation_notes
+left_visibility_shortcut,section,#pycson-v430qn-left-module-index,adds visible shortcut/module index; does not remove existing route directory or V418 card
+left_visibility_shortcut,buttons,.v430qn-shortcut,adds six shortcut buttons for Route Directory/V418/Reports/Proof/Latest/Git File
+left_visibility_shortcut,style,#pycson-v430qn-left-module-index,small fixed strip near left navigation; does not compress existing left area further
+left_visibility_shortcut,script,focusTarget,scrolls/focuses existing targets only; no DATA_BRIDGE/payload/fetch/trade action
+route_directory,preservation,#pycson-v430ot-route-directory,existing route directory remains present
+v418_candidate,preservation,#pycson-v422d-polished-existing-card-integration,V418 facts remain present

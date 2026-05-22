@@ -1,0 +1,17 @@
+﻿item,preserved_or_added,review_result,notes
+Route Directory shortcut,added,pass,new visible shortcut added
+V418 shortcut,added,pass,new visible shortcut added
+Reports shortcut,added,pass,new visible shortcut points to File / Footprint route
+Proof shortcut,added,pass,new visible shortcut points to Records / Proof route
+Latest shortcut,added,pass,new visible shortcut points to File / Footprint route
+Git/File shortcut,added,pass,new visible shortcut points to File / Footprint route
+steam route entry,preserved,pass,original route button remains present
+tradeup route entry,preserved,pass,original route button remains present
+ev route entry,preserved,pass,original route button remains present
+risk route entry,preserved,pass,original route button remains present
+records route entry,preserved,pass,original route button remains present
+params route entry,preserved,pass,original route button remains present
+radar route entry,preserved,pass,original route button remains present
+file route entry,preserved,pass,original route button remains present
+scheduler route entry,preserved,pass,original route button remains present
+integration route entry,preserved,pass,original route button remains present
