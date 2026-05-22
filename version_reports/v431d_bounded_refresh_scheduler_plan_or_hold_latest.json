@@ -1,6 +1,6 @@
 ﻿{
-    "status":  "PASS_V431D_BOUNDED_REFRESH_SCHEDULER_PLAN",
-    "decision":  "READY_FOR_V431D_SAFE_FOOTPRINT_EXPORT_OR_V431D_REVIEW_OR_V431E_CANDIDATE_SCREENING_PLAN_OR_HOLD",
+    "status":  "PASS_HOLD_V431D_BOUNDED_REFRESH_SCHEDULER_PLAN_EXPORT_APPROVAL_REQUIRED",
+    "decision":  "AWAITING_USER_APPROVAL_FOR_V431D_SAFE_FOOTPRINT_EXPORT_OR_HOLD",
     "stage":  "V431D_BOUNDED_REFRESH_SCHEDULER_PLAN_OR_HOLD",
     "generated_at":  "20260522_162432",
     "project_root":  "C:\\Users\\sunpu\\Desktop\\pycson",
@@ -30,5 +30,12 @@
     "footprint_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\words.cossp\\V431D_BOUNDED_REFRESH_SCHEDULER_PLAN_OR_HOLD\\v431d_bounded_refresh_scheduler_plan_footprint_20260522_162432.md",
     "git_raw_footprint_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1108_V431D_BOUNDED_REFRESH_SCHEDULER_PLAN_OR_HOLD\\V431D_BOUNDED_REFRESH_SCHEDULER_PLAN_OR_HOLD_20260522_162432\\04_GIT_FOOTPRINT\\v431d_git_raw_footprint.txt",
     "git_summary_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1108_V431D_BOUNDED_REFRESH_SCHEDULER_PLAN_OR_HOLD\\V431D_BOUNDED_REFRESH_SCHEDULER_PLAN_OR_HOLD_20260522_162432\\04_GIT_FOOTPRINT\\v431d_git_summary.md",
-    "next_safe_step":  "V431D_REVIEW_OR_V431E_CANDIDATE_SCREENING_PLAN_OR_HOLD_AFTER_SAFE_EXPORT"
+    "next_safe_step":  "USER_APPROVAL_REQUIRED_FOR_V431D_SAFE_FOOTPRINT_EXPORT_ONLY_BEFORE_V431D_REVIEW_OR_V431E",
+    "head":  "938bacd",
+    "origin_main":  "0a253f6",
+    "git_push_result":  "FAILED_SEC_E_NO_CREDENTIALS_AND_ESCALATED_PUSH_REJECTED_BY_AUTO_REVIEW_EXTERNAL_EXPORT_RISK",
+    "git_push_succeeded":  false,
+    "worktree_clean":  false,
+    "head_matches_origin":  false,
+    "git_commit_succeeded":  true
 }
