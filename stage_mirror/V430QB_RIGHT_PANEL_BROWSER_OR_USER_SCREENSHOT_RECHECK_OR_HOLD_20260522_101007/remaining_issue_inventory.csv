@@ -1,0 +1,4 @@
+﻿rank,issue,status,recommendation
+1,No browser visual evidence obtained,open,collect user screenshots before accepting V430PZ visually
+2,Right panel visual pressure after V430PZ remains unverified,unknown,inspect right panel plus center-right screenshot
+3,Next UI patch cannot be safely selected without visual recheck,blocked,hold for screenshot evidence
