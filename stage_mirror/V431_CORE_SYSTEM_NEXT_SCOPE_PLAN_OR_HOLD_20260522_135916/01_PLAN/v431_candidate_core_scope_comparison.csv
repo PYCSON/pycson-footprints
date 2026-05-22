@@ -1,0 +1,8 @@
+﻿"option","candidate","engineering_value","dependency_readiness","safety_risk","data_bridge_risk","ui_dependency","requires_fetch","requires_ev_calculation","planning_only_first","recommended_next_stage_name","recommendation"
+"A","Steam readonly universe/index planning","high","medium_high","low","low","low","False","False","True","V431A_STEAM_READONLY_UNIVERSE_INDEX_PLANNING_OR_HOLD","strong candidate after UI stabilization"
+"B","bounded auto-refresh scheduler planning","high","medium","medium","medium","low","False","False","True","V431B_BOUNDED_AUTO_REFRESH_SCHEDULER_PLANNING_OR_HOLD","later after readonly universe/index plan"
+"C","candidate screening engine planning","high","medium","medium","medium","low","False","False","True","V431C_CANDIDATE_SCREENING_ENGINE_PLANNING_OR_HOLD","depends on readonly universe/index definitions"
+"D","trusted EV dryrun engine planning","high","low_medium","high","medium","low","False","True","True","V431D_TRUSTED_EV_DRYRUN_ENGINE_PLANNING_OR_HOLD","defer until pre-EV screening architecture stabilizes"
+"E","trade-up/alchemy rule + EV architecture inventory","medium_high","medium","medium_high","medium","low","False","False","True","V431E_TRADEUP_ALCHEMY_RULE_EV_ARCHITECTURE_INVENTORY_OR_HOLD","useful audit, but less immediate than readonly universe/index"
+"F","DATA_BRIDGE integration readiness plan","high","low","high","high","medium","False","False","True","V431F_DATABRIDGE_INTEGRATION_READINESS_PLAN_OR_HOLD","defer; too close to write boundary"
+"G","audit/handoff consolidation before new core work","medium","high","low","low","none","False","False","True","V431G_AUDIT_HANDOFF_CONSOLIDATION_BEFORE_CORE_WORK_OR_HOLD","safe fallback, but V430QQ already stabilized UI handoff"

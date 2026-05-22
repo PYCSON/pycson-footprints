@@ -1,0 +1,6 @@
+﻿V431 git raw footprint
+Stage: V431_CORE_SYSTEM_NEXT_SCOPE_PLAN_OR_HOLD
+Status: PASS_HOLD_V431_CORE_SYSTEM_NEXT_SCOPE_PLAN_READY_SAFE_FOOTPRINT_EXPORT_APPROVAL_REQUIRED
+Decision: HOLD_FOR_USER_APPROVAL_OF_V431_SAFE_FOOTPRINT_EXPORT_BEFORE_V431A
+Safe export: candidate scope comparison, recommended planning scope, boundary checklist, forbidden matrix, proof, report, footprint, git summaries.
+Excluded: UI source, UI backups, screenshots, private artifacts.
