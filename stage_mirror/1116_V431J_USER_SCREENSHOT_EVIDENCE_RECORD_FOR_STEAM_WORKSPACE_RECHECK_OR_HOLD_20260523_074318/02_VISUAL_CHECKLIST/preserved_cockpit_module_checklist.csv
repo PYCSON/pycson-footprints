@@ -1,0 +1,13 @@
+﻿module,preserved,visual_classification,notes
+Main cockpit,true,VISIBLE_AND_CLEAR,Dashboard/overview remains present and not replaced
+Steam Workspace,true,VISIBLE_AND_CLEAR,Workspace content visible at #steam-workspace
+Top STEAM MATURE LOOP button,true,VISIBLE_AND_CLEAR,Top button remains visible
+Left Route Directory / Steam Workspace shortcut,true,VISIBLE_AND_CLEAR,Route/shortcut access preserved
+Steam Mature Loop card,true,VISIBLE_AND_CLEAR,Center card remains visible
+Open Steam Workspace entry,true,VISIBLE_AND_CLEAR,Entry visible in Steam overview card
+V430PT status display,true,VISIBLE_AND_CLEAR,REVIEW_REQUIRED / PARTIAL_SCREENING visible
+Module Index,true,VISIBLE_AND_CLEAR,Module Index preserved with Steam Workspace access
+Right dock,true,VISIBLE_AND_CLEAR,Right dock preserved
+Bottom safety/audit dock,true,VISIBLE_AND_CLEAR,Bottom dock preserved
+Risk Monitor,true,VISIBLE_AND_CLEAR,Risk Monitor preserved
+Offline Replay,true,VISIBLE_AND_CLEAR,Offline Replay preserved

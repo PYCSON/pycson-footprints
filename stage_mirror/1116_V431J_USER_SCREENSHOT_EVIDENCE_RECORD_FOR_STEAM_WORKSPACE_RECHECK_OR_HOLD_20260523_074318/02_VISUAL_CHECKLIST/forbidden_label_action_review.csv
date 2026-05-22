@@ -1,0 +1,15 @@
+﻿label_or_action,absent,notes
+BUY_NOW,true,Not visible in user screenshot evidence
+TRADEUP_NOW,true,Not visible in user screenshot evidence
+executable TRADE,true,No executable trade action visible
+executable ORDER,true,No executable order action visible
+executable PROFIT,true,No executable profit signal visible
+TRUSTED_EV,true,Not visible in user screenshot evidence
+OFFICIAL_EV,true,Not visible in user screenshot evidence
+DATA_BRIDGE write,true,No DATA_BRIDGE write performed
+active payload write,true,No active payload write performed
+Steam fetch,true,No Steam fetch performed
+BUFF fetch,true,No BUFF fetch performed
+market endpoint call,true,No market endpoint call performed
+EV calculation,true,No EV calculation performed
+BUY/TRADE/ORDER action,true,No buy/trade/order action performed

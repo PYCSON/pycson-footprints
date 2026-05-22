@@ -1,0 +1,17 @@
+﻿check,result,evidence_source
+screenshot evidence recorded,true,user-provided screenshot observation text
+#steam-workspace route visually reachable,true,user screenshot shows Steam Workspace / #steam-workspace area
+Steam workspace section visible,true,user screenshot shows Steam Workspace section content
+main cockpit preserved,true,user screenshot shows main cockpit remains dashboard/overview
+top Steam button preserved,true,user screenshot shows STEAM MATURE LOOP button remains visible
+left Route Directory Steam entry preserved,true,user screenshot shows left Route Directory / Module Index includes Steam Workspace
+Steam overview card/link preserved,true,user screenshot shows Open Steam Workspace entry visible
+existing Steam Mature Loop module preserved,true,user screenshot shows center Steam Mature Loop card remains visible
+V430PT status display preserved,true,user screenshot shows REVIEW_REQUIRED / PARTIAL_SCREENING visible
+module index preserved,true,user screenshot shows Module Index includes Steam Workspace
+right dock preserved,true,user screenshot shows right dock preserved
+bottom dock preserved,true,user screenshot shows bottom safety/audit dock preserved
+Risk Monitor preserved,true,user screenshot shows Risk Monitor preserved
+Offline Replay preserved,true,user screenshot shows Offline Replay preserved
+forbidden labels/actions absent,true,user screenshot shows no BUY_NOW / TRADEUP_NOW / executable TRADE / executable ORDER / executable profit
+Steam workspace visually accepted,true,user screenshot evidence accepted
