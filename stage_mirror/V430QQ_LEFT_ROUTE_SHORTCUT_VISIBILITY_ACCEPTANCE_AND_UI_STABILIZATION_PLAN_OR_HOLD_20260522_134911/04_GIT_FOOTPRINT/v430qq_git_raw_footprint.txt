@@ -1,0 +1,6 @@
+﻿V430QQ git raw footprint
+Stage: V430QQ_LEFT_ROUTE_SHORTCUT_VISIBILITY_ACCEPTANCE_AND_UI_STABILIZATION_PLAN_OR_HOLD
+Status: PASS_HOLD_V430QQ_UI_STABILIZATION_ACCEPTED_SAFE_FOOTPRINT_EXPORT_APPROVAL_REQUIRED
+Decision: HOLD_FOR_USER_APPROVAL_OF_V430QQ_SAFE_FOOTPRINT_EXPORT_BEFORE_NEXT_SCOPE
+Safe export: metadata, acceptance plan, baseline CSV, gate checklist, deferred issue list, proof, report, footprint, git summaries.
+Excluded: screenshots, full UI source, full UI backups, private artifacts.
