@@ -1,0 +1,16 @@
+﻿check_item,result,evidence_source,notes
+screenshot_evidence_recorded,true,user_text_observation,screenshot image not exported
+page_load_visually_confirmed,true,user_text_observation,page loads visually
+top_zone_visible,true,user_text_observation,top status zone visible
+left_zone_visible,true,user_text_observation,left route/navigation visible
+center_zone_visible,true,user_text_observation,center Steam Mature Loop visible
+right_panel_organization_visually_confirmed,true,user_text_observation,V430PZ organization visible but still heavy
+right_panel_visual_pressure_reduced,false,user_text_observation,right panel remains visually large/heavy
+center_right_pressure_reduced,false,user_text_observation,center-right still pressured by right dock
+steam_mature_loop_visible,true,user_text_observation,Steam Mature Loop visible/preserved
+route_directory_visible,true,user_text_observation,Route Directory visible
+v430pt_status_display_visible,true,user_text_observation,V430PT readonly status visible/preserved
+bottom_dock_visible,true,user_text_observation,bottom safety/audit dock visible
+theme_controls_visible,true,user_text_observation,theme/status controls visible
+mother_identity_preserved,true,user_text_observation,mother cockpit identity preserved
+existing_modules_preserved,true,user_text_observation,existing modules appear preserved

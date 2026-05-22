@@ -1,0 +1,6 @@
+﻿rank,visual_issue,severity,next_scope_note
+1,Right review/risk/legacy sealed panel remains visually large and heavy,medium,target only right dock empty-area / legacy sealed block compact repair
+2,RIGHT DOCK CLEANED / LEGACY SEALED black block occupies too much empty space,medium,reduce empty dark area without hiding/removing modules
+3,Center-right area remains pressured by the right dock,medium,compact right dock only; do not touch Steam Mature Loop or global layout
+4,Risk Monitor clearer than before but right/center-right region remains crowded,low-medium,preserve risk monitor access while improving density
+5,Center Steam Mature Loop content correct but must remain untouched,guardrail,next patch must not touch Steam Mature Loop

@@ -1,0 +1,5 @@
+﻿V430QC git raw footprint
+Safe export scope: text-only metadata/report/proof/screenshot-evidence-summary/git-footprint files.
+Screenshot image exported: false
+Full UI source exported: false
+Full UI backup exported: false
