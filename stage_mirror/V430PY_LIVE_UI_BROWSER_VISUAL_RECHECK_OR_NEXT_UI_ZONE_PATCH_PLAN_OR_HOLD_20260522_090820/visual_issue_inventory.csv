@@ -1,0 +1,4 @@
+rank,issue,evidence source,severity,recommendation
+1,Browser visual recheck unavailable in current automation environment,Browser runtime/setup attempts,blocking,Repair browser automation runtime or use user browser screenshot/evidence stage
+2,Right review/risk area likely remains visually heavy,V430PV inventory and V430PW scaffold source,medium,Plan right review/risk panel organization after browser evidence
+3,Bottom safety/audit dock and legacy bottom buttons remain separate structures,V430PW scaffold source and legacy UI source,medium,Plan bottom dock organization only after right panel review or browser evidence
