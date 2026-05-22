@@ -1,0 +1,11 @@
+﻿route_entry,preserved,count,notes
+steam,true,1,Steam Mature Loop route button preserved
+tradeup,true,1,Trade-up route button preserved
+ev,true,1,EV / Trusted EV review-gated route button preserved
+risk,true,1,Risk boundary monitor route button preserved
+records,true,1,Records / Proof route button preserved
+params,true,1,Params / Config route button preserved
+radar,true,1,Radar / Discovery route button preserved
+file,true,1,File / Footprint route button preserved
+scheduler,true,1,Scheduler / Cadence route button preserved
+integration,true,1,DATA_BRIDGE / UI future authorization route button preserved

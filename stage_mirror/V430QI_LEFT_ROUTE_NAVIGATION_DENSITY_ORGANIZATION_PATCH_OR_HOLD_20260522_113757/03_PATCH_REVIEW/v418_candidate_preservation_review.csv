@@ -1,0 +1,9 @@
+﻿field,preserved,notes
+V418 local source candidate label,true,card remains present
+read only state,true,READ ONLY badge remains present
+candidate count,true,Candidates fact remains visible
+cost CNY,true,Cost CNY fact remains visible
+decision,true,NO_DECISION_DRYRUN_ONLY remains visible
+risk,true,NOT_COMPUTED_IN_SWAP_DRYRUN remains visible
+safety wording,true,no market action wording remains visible/access preserved
+card access,true,card compacted by CSS only; no content removed

@@ -1,0 +1,7 @@
+﻿patch_area,change_type,target,preservation_notes
+left_route_directory,style,#pycson-v430ot-route-directory,compact container and grouped visual state; all route buttons preserved
+left_route_directory,style,.v430ot-grid,two-column compact grid retained; no entries removed
+left_route_directory,style,button[data-v430ot-route],reduced padding/min-height only; onclick and data routes preserved
+left_route_directory,script,requiredRoutes preservation tags,marks steam/tradeup/ev/risk/records/params/radar/file/scheduler/integration as preserved
+v418_candidate,style,#pycson-v422d-polished-existing-card-integration,compact card width/padding; facts preserved
+v418_candidate,script,data-v430qi-state,marks V418 compact all facts preserved

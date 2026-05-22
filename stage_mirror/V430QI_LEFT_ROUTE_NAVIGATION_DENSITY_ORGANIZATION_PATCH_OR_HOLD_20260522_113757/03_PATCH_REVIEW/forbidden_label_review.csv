@@ -1,0 +1,10 @@
+﻿label,found_in_new_changed_display_area,notes
+READY,false,no new ready status displayed
+SIGNAL_READY,false,no signal-ready label displayed
+TRUSTED_EV,false,no trusted EV claim displayed
+OFFICIAL_EV,false,no official EV claim displayed
+PROFIT,false,no profit signal displayed
+BUY_NOW,false,no buy-now action displayed
+TRADEUP_NOW,false,no tradeup-now action displayed
+TRADE,false,no trade action displayed in new labels
+ORDER,false,no order action displayed in new labels
