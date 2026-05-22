@@ -1,0 +1,5 @@
+﻿"option","description","safety","ui_risk","reversible","recommended","notes"
+"A_HASH_ROUTE_STEAM_WORKSPACE","Use #steam-workspace route inside existing LIVE UI","HIGH","LOW","TRUE","TRUE","Smallest future patch surface"
+"B_INTERNAL_PAGE_SWITCH_DATA_PAGE_STEAM","Use internal page switch with data-page=steam","MEDIUM_HIGH","MEDIUM","TRUE","FUTURE_OPTION","More structure, more implementation surface"
+"C_SEPARATE_HTML_PAGE","Create separate Steam workspace HTML page","MEDIUM","MEDIUM_HIGH","TRUE","FALSE","Could split identity and navigation"
+"D_NO_DEDICATED_PAGE","Keep all Steam workflow in cockpit","LOW_FOR_FUTURE_DENSITY","LOW_NOW_HIGH_LATER","N/A","FALSE","Does not solve cockpit density"

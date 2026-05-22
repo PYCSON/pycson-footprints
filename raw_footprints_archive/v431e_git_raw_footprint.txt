@@ -1,0 +1,5 @@
+﻿V431E git raw footprint placeholder.
+Safe metadata/report/proof/planning files only.
+
+Pre-commit status:
+## main...origin/main ?? git_summaries/v431e_git_summary.md ?? raw_footprints_archive/v431e_git_raw_footprint.txt ?? stage_mirror/1110_V431E_STEAM_DEDICATED_WORKSPACE_PAGE_PLAN_OR_HOLD/ ?? version_reports/v431e_steam_dedicated_workspace_page_plan_or_hold_latest.json ?? version_reports/v431e_steam_dedicated_workspace_page_plan_or_hold_report.json ?? version_summaries/v431e_steam_workspace_page_plan_footprint_20260522_165800.md
