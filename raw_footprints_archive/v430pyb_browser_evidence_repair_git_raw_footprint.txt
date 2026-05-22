@@ -1,0 +1,4 @@
+﻿V430PYB git raw footprint placeholder before commit.
+Stage: V430PYB_BROWSER_RECHECK_EVIDENCE_REPAIR_OR_USER_SCREENSHOT_RECORD_OR_HOLD
+Status: HOLD_FOR_USER_SCREENSHOT_EVIDENCE
+Safe export contents only: metadata/report/proof/checklist/summary files. No screenshots, no full UI source, no backups.

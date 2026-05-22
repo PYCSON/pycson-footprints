@@ -1,0 +1,4 @@
+﻿rank,issue,classification,recommendation
+1,Browser visual evidence missing due local browser/runtime failure,evidence_gap,collect user screenshots before next patch
+2,Right review/risk area likely remains the safest next organization zone,planning_candidate,confirm from screenshot before patch authorization
+3,Bottom safety/audit dock and legacy bottom buttons may still compete visually,planning_candidate,review after right panel evidence
