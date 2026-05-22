@@ -1,0 +1,22 @@
+﻿field,value,notes
+screenshot_evidence_recorded,true,user-provided screenshot observation recorded as text only
+page_load_visually_confirmed,true,user screenshot shows page loaded
+top_zone_visible,true,top status zone visible
+left_zone_visible,true,left route/navigation visible
+center_zone_visible,true,center Steam Mature Loop visible
+right_dock_compact_repair_visually_confirmed,true,V430QD compact repair accepted visually
+empty_dark_block_reduced,true,large legacy sealed block reduced into compact card
+center_right_pressure_reduced,true,center-right pressure reduced
+steam_mature_loop_preserved,true,visible and not modified in this stage
+route_directory_preserved,true,visible and not modified in this stage
+v430pt_status_display_preserved,true,REVIEW_REQUIRED / PARTIAL_SCREENING facts preserved
+risk_monitor_preserved,true,preserved
+offline_replay_preserved,true,preserved
+bottom_dock_preserved,true,preserved
+theme_status_controls_preserved,true,preserved
+mother_identity_preserved,true,cockpit identity preserved
+forbidden_labels_absent,true,no forbidden labels observed in the provided screenshot summary
+ui_modified_this_stage,false,no UI patch performed
+data_bridge_write,false,no DATA_BRIDGE write
+active_payload_write,false,no active payload write
+ev_fetch_buy_trade_order,false,no EV/fetch/buy/trade/order

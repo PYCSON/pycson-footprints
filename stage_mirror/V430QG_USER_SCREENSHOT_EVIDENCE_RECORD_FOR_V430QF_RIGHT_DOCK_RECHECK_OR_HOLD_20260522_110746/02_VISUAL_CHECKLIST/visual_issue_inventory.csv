@@ -1,0 +1,5 @@
+﻿issue_id,issue,priority,recommended_handling,notes
+1,Left Route Directory / V418 local source candidate area remains dense,medium,plan left route/navigation density organization,do not remove modules
+2,Lower floating / legacy panels still compete visually,medium,plan bottom/lower floating containment,do not hide modules
+3,Risk Monitor and Offline Replay could later use consistent compact grouping,low,defer unless future evidence requires,not urgent
+4,Steam Mature Loop and right dock should not be touched next,high,preserve after accepted repair,avoid unnecessary churn

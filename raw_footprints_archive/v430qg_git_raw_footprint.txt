@@ -1,0 +1,6 @@
+﻿V430QG git raw footprint placeholder before commit
+stage=V430QG_USER_SCREENSHOT_EVIDENCE_RECORD_FOR_V430QF_RIGHT_DOCK_RECHECK_OR_HOLD
+stamp=20260522_110746
+safe_export_scope=text-only metadata/report/proof/screenshot-evidence-summary/git-footprint
+screenshot_image_exported=false
+ui_source_exported=false
