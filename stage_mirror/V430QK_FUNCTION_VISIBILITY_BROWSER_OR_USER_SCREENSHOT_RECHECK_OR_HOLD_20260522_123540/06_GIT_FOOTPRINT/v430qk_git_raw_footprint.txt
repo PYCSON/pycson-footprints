@@ -1,0 +1,7 @@
+﻿V430QK git raw footprint placeholder before commit
+stage=V430QK_FUNCTION_VISIBILITY_BROWSER_OR_USER_SCREENSHOT_RECHECK_OR_HOLD
+stamp=20260522_123540
+safe_export_scope=metadata/report/proof/screenshot-instruction/checklist/git-footprint only
+screenshot_image_exported=false
+full_ui_source_exported=false
+backup_exported=false

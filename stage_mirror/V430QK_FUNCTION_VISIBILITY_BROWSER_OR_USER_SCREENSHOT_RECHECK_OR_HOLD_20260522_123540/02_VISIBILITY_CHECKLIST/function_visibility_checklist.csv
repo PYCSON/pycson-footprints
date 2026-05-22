@@ -1,0 +1,15 @@
+﻿item,classification,evidence_status,notes
+Route Directory,HOLD_NEEDS_SCREENSHOT,not_confirmed,browser runtime unavailable; user screenshot required
+All route entries,HOLD_NEEDS_SCREENSHOT,not_confirmed,verify all 10 route buttons are visible/easy to find
+V418 local source candidate facts,HOLD_NEEDS_SCREENSHOT,not_confirmed,verify facts are visible after compact styling
+Steam Mature Loop button,HOLD_NEEDS_SCREENSHOT,not_confirmed,verify button remains visible/access preserved
+Steam Mature Loop module,HOLD_NEEDS_SCREENSHOT,not_confirmed,verify module remains visible/access preserved
+V430PT readonly status display,HOLD_NEEDS_SCREENSHOT,not_confirmed,verify REVIEW_REQUIRED/PARTIAL_SCREENING and counts remain visible
+Risk Monitor,HOLD_NEEDS_SCREENSHOT,not_confirmed,verify visible/access preserved
+Offline Replay,HOLD_NEEDS_SCREENSHOT,not_confirmed,verify visible/access preserved
+Bottom safety/audit dock buttons,HOLD_NEEDS_SCREENSHOT,not_confirmed,verify visible/easy to find
+Theme/color controls,HOLD_NEEDS_SCREENSHOT,not_confirmed,verify visible/easy to find
+Report/proof/latest/git or file-access entries,HOLD_NEEDS_SCREENSHOT,not_confirmed,verify visible/easy to find
+Legacy modules or legacy sealed access,HOLD_NEEDS_SCREENSHOT,not_confirmed,verify visible/access preserved
+Mother cockpit identity,HOLD_NEEDS_SCREENSHOT,not_confirmed,verify cockpit identity preserved
+Major prior buttons/functions,HOLD_NEEDS_SCREENSHOT,not_confirmed,verify no function appears missing or buried
