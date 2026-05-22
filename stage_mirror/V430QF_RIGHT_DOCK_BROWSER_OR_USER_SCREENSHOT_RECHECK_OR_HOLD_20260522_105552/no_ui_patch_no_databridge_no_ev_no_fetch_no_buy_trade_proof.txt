@@ -1,0 +1,18 @@
+﻿V430QF NO-WRITE PROOF
+PYCSON only: true
+FAICTORY touched: false
+UI patched: false
+Mother UI modified: false
+LIVE UI modified: false
+DATA_BRIDGE write: false
+Active payload write: false
+Official EV calculated: false
+Trusted EV calculated: false
+Steam fetch executed: false
+BUFF fetch executed: false
+BUY_NOW: false
+TRADEUP_NOW: false
+TRADE_OR_ORDER: false
+Screenshot image exported: false
+Full UI source exported: false
+Full UI backup exported: false

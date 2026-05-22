@@ -1,0 +1,4 @@
+﻿rank,issue,status,recommendation
+1,No browser visual evidence obtained,open,collect user screenshots before accepting V430QD visually
+2,V430QD right dock compact effect remains unverified,unknown,inspect right dock plus center-right screenshot
+3,Next UI patch cannot be safely selected without visual recheck,blocked,hold for screenshot evidence

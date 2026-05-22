@@ -1,0 +1,3 @@
+﻿V430QF git raw footprint
+Safe export: metadata/report/proof/checklist/screenshot-instruction/summary only.
+No screenshot images, no full UI source, no backups.
