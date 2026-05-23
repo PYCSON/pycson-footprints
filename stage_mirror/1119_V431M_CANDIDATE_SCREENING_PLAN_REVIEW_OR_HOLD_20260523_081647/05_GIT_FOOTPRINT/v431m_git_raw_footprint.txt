@@ -1,0 +1,14 @@
+﻿# V431M Git Raw Footprint
+
+Before staging safe candidate screening review mirror:
+ M root_footprint_copy_index_mirror/ROOT_FOOTPRINT_COPY_INDEX.csv  M root_footprint_copy_index_mirror/ROOT_FOOTPRINT_COPY_INDEX.md ?? latest_mirror/V431M_CANDIDATE_SCREENING_PLAN_REVIEW_OR_HOLD/ ?? stage_mirror/1119_V431M_CANDIDATE_SCREENING_PLAN_REVIEW_OR_HOLD_20260523_081647/ ?? words_flat_mirror/V431M_CANDIDATE_SCREENING_PLAN_REVIEW_OR_HOLD_20260523_081647.md ?? words_mirror/V431M_CANDIDATE_SCREENING_PLAN_REVIEW_OR_HOLD/
+
+HEAD before: 4d6642b
+origin/main before: 4d6642b
+
+Mirrored safe text-only paths:
+- stage_mirror/1119_V431M_CANDIDATE_SCREENING_PLAN_REVIEW_OR_HOLD_20260523_081647
+- latest_mirror/V431M_CANDIDATE_SCREENING_PLAN_REVIEW_OR_HOLD
+- words_mirror/V431M_CANDIDATE_SCREENING_PLAN_REVIEW_OR_HOLD
+- words_flat_mirror/V431M_CANDIDATE_SCREENING_PLAN_REVIEW_OR_HOLD_20260523_081647.md
+- root_footprint_copy_index_mirror/ROOT_FOOTPRINT_COPY_INDEX.*

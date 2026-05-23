@@ -1,0 +1,11 @@
+﻿review_item,result,notes
+candidate class matrix exists,true,V431L candidate_class_matrix.csv exists
+MOCK_REVIEW_REQUIRED safe,true,Mock review class only
+MOCK_POSSIBLE_INPUT_CANDIDATE safe,true,Partial screening only; no EV or execution implied
+MOCK_OUTPUT_POOL_PLACEHOLDER safe,true,Mock topology review only
+MOCK_STALE_OR_UNVERIFIED safe,true,Stale/unverified status blocks advancement
+MOCK_BLOCKED safe,true,Blocked class requires reason code
+LOCAL_ONLY_NO_TRADE safe,true,Local-only no-trade record
+NO_FETCH_REQUIRED_REVIEW safe,true,Prevents accidental refresh route
+all classes no_trade_flag true,true,All candidate classes carry no_trade_flag=true
+candidate classes mock/readonly oriented,true,No live or executable class present

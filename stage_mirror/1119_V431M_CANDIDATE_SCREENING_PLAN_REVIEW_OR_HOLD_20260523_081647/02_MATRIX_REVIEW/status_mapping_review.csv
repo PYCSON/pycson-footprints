@@ -1,0 +1,9 @@
+﻿status,exists,allowed_to_fetch,allowed_to_trade,allowed_to_advance_to_ev,review_result
+REVIEW_REQUIRED,true,false,false,false,pass
+PARTIAL_SCREENING,true,false,false,false,pass
+LOCAL_ONLY,true,false,false,false,pass
+MOCK_ONLY,true,false,false,false,pass
+BLOCKED,true,false,false,false,pass
+STALE,true,false,false,false,pass
+NO_TRADE,true,false,false,false,pass
+NOT_SIGNAL_READY,true,false,false,false,pass

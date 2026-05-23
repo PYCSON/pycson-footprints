@@ -1,0 +1,9 @@
+﻿forbidden_output,absent_as_executable_output,boundary_mentions_allowed,notes
+BUY_NOW,true,true,Only appears in no-output/no-display prohibition if present
+TRADEUP_NOW,true,true,Only appears in no-output/no-display prohibition if present
+ORDER,true,true,No executable order output; only boundary/prohibition context
+TRADE,true,true,No executable trade output; only boundary/prohibition context
+PROFIT signal,true,true,No executable profit signal output; only prohibition context
+TRUSTED_EV,true,true,No trusted EV output; only prohibition context
+OFFICIAL_EV,true,true,No official EV output; only prohibition context
+executable recommendation,true,true,Plan explicitly forbids executable recommendation
