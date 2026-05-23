@@ -1,0 +1,10 @@
+﻿reason_code,category,description,default_status
+MISSING_REQUIRED_SCHEMA_FIELD,schema,Record is missing required schema-only field,BLOCKED
+MOCK_ONLY_SOURCE,source,Record came from mock fixture only,MOCK_ONLY
+LOCAL_ONLY_SOURCE,source,Record came from local-only source,LOCAL_ONLY
+FETCH_NOT_AUTHORIZED,boundary,Live fetch is not authorized,REVIEW_REQUIRED
+EV_NOT_AUTHORIZED,boundary,EV calculation is not authorized,REVIEW_REQUIRED
+TRADE_NOT_AUTHORIZED,boundary,Trade/order action is forbidden,NO_TRADE
+STALE_OR_UNVERIFIED,quality,Record is stale or unverified,STALE
+CANDIDATE_CLASS_AMBIGUOUS,classification,Candidate class cannot be confidently assigned,REVIEW_REQUIRED
+WORKSPACE_DISPLAY_ONLY,display,Record is intended for readonly workspace display only,NOT_SIGNAL_READY

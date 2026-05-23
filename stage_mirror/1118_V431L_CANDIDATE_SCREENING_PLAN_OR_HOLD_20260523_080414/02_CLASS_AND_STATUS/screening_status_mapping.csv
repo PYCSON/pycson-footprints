@@ -1,0 +1,9 @@
+﻿screening_status,meaning,allowed_to_advance_to_ev,allowed_to_fetch,allowed_to_trade,display_guidance
+REVIEW_REQUIRED,Human review required before further action,false,false,false,Show as review badge only
+PARTIAL_SCREENING,Only partial local/mock screening completed,false,false,false,Show incomplete/readiness warning
+LOCAL_ONLY,Local-only record or fixture,false,false,false,Show local-only boundary
+MOCK_ONLY,Mock fixture or mock-derived classification,false,false,false,Show mock-only boundary
+BLOCKED,Blocked by missing data or safety rule,false,false,false,Show blocker reason
+STALE,Stale/unverified status,false,false,false,Show stale review warning
+NO_TRADE,Explicit no-trade boundary,false,false,false,Show no-trade boundary
+NOT_SIGNAL_READY,Not eligible as signal or executable recommendation,false,false,false,Show not-signal-ready boundary

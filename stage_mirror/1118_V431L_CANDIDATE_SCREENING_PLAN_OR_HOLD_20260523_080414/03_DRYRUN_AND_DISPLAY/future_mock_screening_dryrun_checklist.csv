@@ -1,0 +1,15 @@
+﻿check,required_for_future_dryrun,notes
+Use V431B schema artifacts,true,Validate local/mock schema conformance only
+Use V431C mock fixture,true,No live data input
+No Steam fetch,true,Do not call endpoints
+No BUFF fetch,true,Do not call endpoints
+No market endpoint call,true,No external market calls
+No DATA_BRIDGE write,true,Dryrun output stays isolated
+No active payload write,true,No runtime payload mutation
+No EV calculation,true,Only classification/status mapping
+No buy/trade/order action,true,No executable action
+Emit candidate class,true,Use approved candidate class matrix
+Emit screening status,true,Use approved status mapping
+Emit reason code,true,Use blocked/review reason taxonomy
+Emit Steam workspace display mapping,true,Readonly display mapping only
+Require review before next stage,true,V431M review before any dryrun package

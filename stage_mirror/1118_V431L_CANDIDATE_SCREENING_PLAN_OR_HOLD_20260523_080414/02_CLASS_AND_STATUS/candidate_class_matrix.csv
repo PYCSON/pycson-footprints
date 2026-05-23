@@ -1,0 +1,8 @@
+﻿candidate_class,purpose,allowed_input_basis,default_status,review_required,no_trade_flag,notes
+MOCK_REVIEW_REQUIRED,Mock record requiring human review,V431C mock fixture,REVIEW_REQUIRED,true,true,Use for incomplete or ambiguous mock records
+MOCK_POSSIBLE_INPUT_CANDIDATE,Mock input-like candidate for future dryrun,V431C mock fixture,PARTIAL_SCREENING,true,true,No EV or execution implied
+MOCK_OUTPUT_POOL_PLACEHOLDER,Mock output pool placeholder,V431C mock fixture,MOCK_ONLY,true,true,For future topology review only
+MOCK_STALE_OR_UNVERIFIED,Mock/local record with stale or unverified status,V431B/V431C fields,STALE,true,true,Must not advance without review
+MOCK_BLOCKED,Mock/local record blocked by boundary or missing field,V431B/V431C validation,BLOCKED,true,true,Requires reason code
+LOCAL_ONLY_NO_TRADE,Local-only reference record,V431B/V431C local flags,LOCAL_ONLY,true,true,Visible in workspace as readonly only
+NO_FETCH_REQUIRED_REVIEW,Record whose next step is review not fetch,V431D no-fetch state,REVIEW_REQUIRED,true,true,Prevents accidental refresh route
