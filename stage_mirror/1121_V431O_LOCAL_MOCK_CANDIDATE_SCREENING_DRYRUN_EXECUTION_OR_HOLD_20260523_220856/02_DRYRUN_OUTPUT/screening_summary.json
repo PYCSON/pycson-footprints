@@ -1,0 +1,24 @@
+﻿{
+    "dryrun_executed":  true,
+    "input_bundle_used":  true,
+    "mock_universe_fixture_used":  true,
+    "schema_validation_passed":  true,
+    "total_rows":  4,
+    "review_required_rows":  2,
+    "blocked_rows":  1,
+    "classifications_present":  [
+                                    "BLOCKED",
+                                    "LOCAL_ONLY",
+                                    "MOCK_ONLY",
+                                    "NO_TRADE",
+                                    "NOT_SIGNAL_READY",
+                                    "REVIEW_REQUIRED",
+                                    "STALE"
+                                ],
+    "no_fetch":  true,
+    "no_data_bridge_write":  true,
+    "no_active_payload_write":  true,
+    "no_ev":  true,
+    "no_trade_or_order":  true,
+    "forbidden_outputs_absent":  true
+}

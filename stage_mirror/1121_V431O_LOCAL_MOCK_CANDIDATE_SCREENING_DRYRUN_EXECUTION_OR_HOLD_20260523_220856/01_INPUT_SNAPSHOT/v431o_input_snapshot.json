@@ -1,0 +1,11 @@
+﻿{
+    "input_manifest":  "C:\\Users\\sunpu\\Desktop\\pycson\\1120_V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD\\V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD_20260523_082541\\02_MANIFESTS\\dryrun_input_bundle_manifest.json",
+    "expected_manifest":  "C:\\Users\\sunpu\\Desktop\\pycson\\1120_V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD\\V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD_20260523_082541\\02_MANIFESTS\\expected_output_manifest.json",
+    "validation_checklist":  "C:\\Users\\sunpu\\Desktop\\pycson\\1120_V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD\\V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD_20260523_082541\\02_MANIFESTS\\future_v431o_validation_checklist.csv",
+    "forbidden_checklist":  "C:\\Users\\sunpu\\Desktop\\pycson\\1120_V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD\\V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD_20260523_082541\\02_MANIFESTS\\forbidden_output_checklist.csv",
+    "mock_fixture":  "C:\\Users\\sunpu\\Desktop\\pycson\\1107_V431C_LOCAL_SAMPLE_MOCK_UNIVERSE_FIXTURE_OR_HOLD\\V431C_LOCAL_SAMPLE_MOCK_UNIVERSE_FIXTURE_OR_HOLD_20260522_161308\\01_FIXTURE\\steam_readonly_local_mock_universe_fixture.json",
+    "candidate_fixture":  "C:\\Users\\sunpu\\Desktop\\pycson\\1107_V431C_LOCAL_SAMPLE_MOCK_UNIVERSE_FIXTURE_OR_HOLD\\V431C_LOCAL_SAMPLE_MOCK_UNIVERSE_FIXTURE_OR_HOLD_20260522_161308\\01_FIXTURE\\steam_readonly_candidate_class_mock_fixture.json",
+    "class_matrix":  "C:\\Users\\sunpu\\Desktop\\pycson\\1118_V431L_CANDIDATE_SCREENING_PLAN_OR_HOLD\\V431L_CANDIDATE_SCREENING_PLAN_OR_HOLD_20260523_080414\\02_CLASS_AND_STATUS\\candidate_class_matrix.csv",
+    "status_mapping":  "C:\\Users\\sunpu\\Desktop\\pycson\\1118_V431L_CANDIDATE_SCREENING_PLAN_OR_HOLD\\V431L_CANDIDATE_SCREENING_PLAN_OR_HOLD_20260523_080414\\02_CLASS_AND_STATUS\\screening_status_mapping.csv",
+    "taxonomy":  "C:\\Users\\sunpu\\Desktop\\pycson\\1118_V431L_CANDIDATE_SCREENING_PLAN_OR_HOLD\\V431L_CANDIDATE_SCREENING_PLAN_OR_HOLD_20260523_080414\\02_CLASS_AND_STATUS\\blocked_review_reason_taxonomy.csv"
+}

@@ -1,0 +1,13 @@
+﻿{
+    "scan_created":  true,
+    "files_scanned":  5,
+    "executable_forbidden_marker_hits":  0,
+    "forbidden_outputs_absent":  true,
+    "allowed_boundary_terms":  [
+                                   "NO_TRADE",
+                                   "no_trade_or_order"
+                               ],
+    "hits":  [
+
+             ]
+}

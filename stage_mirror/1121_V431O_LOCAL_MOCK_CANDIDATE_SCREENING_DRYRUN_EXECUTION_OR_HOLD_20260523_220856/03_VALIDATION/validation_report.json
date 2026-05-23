@@ -1,0 +1,22 @@
+﻿{
+    "dryrun_executed":  true,
+    "input_bundle_used":  true,
+    "mock_universe_fixture_used":  true,
+    "schema_validation_passed":  true,
+    "result_json_created":  true,
+    "result_csv_created":  true,
+    "review_required_rows_created":  true,
+    "blocked_rows_created":  true,
+    "screening_summary_created":  true,
+    "forbidden_output_scan_created":  true,
+    "validation_report_created":  true,
+    "no_ui_patch":  true,
+    "no_data_bridge_write":  true,
+    "no_active_payload_write":  true,
+    "no_steam_fetch":  true,
+    "no_buff_fetch":  true,
+    "no_market_endpoint_call":  true,
+    "no_ev_calculation":  true,
+    "no_buy_trade_order":  true,
+    "forbidden_outputs_absent":  true
+}

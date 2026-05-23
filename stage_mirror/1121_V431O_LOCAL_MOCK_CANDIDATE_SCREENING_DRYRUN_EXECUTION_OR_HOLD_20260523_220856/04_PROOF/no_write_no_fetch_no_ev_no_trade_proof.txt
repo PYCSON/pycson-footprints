@@ -1,0 +1,13 @@
+﻿V431O boundary proof
+UI patch false
+Mother UI modified false
+LIVE UI modified false
+DATA_BRIDGE write false
+active payload write false
+Steam fetch false
+BUFF fetch false
+market endpoint call false
+EV calculation false
+BUY/TRADE/ORDER false
+FAICTORY touched false
+local mock inputs only true
