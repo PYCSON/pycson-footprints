@@ -1,0 +1,22 @@
+﻿{
+    "current_anchor":  "V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD",
+    "previous_anchor":  "V431M_SAFE_FOOTPRINT_EXPORT_FINALIZATION",
+    "status":  "PASS_HOLD_V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_EXPORT_APPROVAL_REQUIRED",
+    "decision":  "AWAITING_USER_APPROVAL_FOR_V431N_SAFE_FOOTPRINT_EXPORT_OR_HOLD",
+    "current_head_before_export":  "411acf7",
+    "dryrun_package_created":  true,
+    "no_screening_execution_performed":  true,
+    "no_ui_patch_performed":  true,
+    "data_bridge_write":  false,
+    "active_payload_write":  false,
+    "steam_fetch":  false,
+    "buff_fetch":  false,
+    "market_endpoint_call":  false,
+    "ev_calculation":  false,
+    "buy_trade_order":  false,
+    "report_json_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1120_V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD\\V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD_20260523_082541\\05_REPORT\\v431n_local_mock_candidate_screening_dryrun_package_or_hold_report.json",
+    "proof_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1120_V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD\\V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD_20260523_082541\\04_BOUNDARY\\no_write_no_fetch_no_ev_no_trade_proof.txt",
+    "footprint_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\words.cossp\\V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD\\v431n_local_mock_candidate_screening_dryrun_package_footprint_20260523_082541.md",
+    "root_level_footprint_mirror_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\words.cossp\\V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD_20260523_082541.md",
+    "next_safe_step":  "USER_APPROVAL_REQUIRED_FOR_V431N_SAFE_FOOTPRINT_EXPORT_ONLY_BEFORE_V431O_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_EXECUTION_OR_HOLD"
+}

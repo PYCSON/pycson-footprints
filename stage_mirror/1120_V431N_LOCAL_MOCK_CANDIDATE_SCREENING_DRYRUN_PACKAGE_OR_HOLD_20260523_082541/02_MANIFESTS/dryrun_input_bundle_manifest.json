@@ -1,0 +1,83 @@
+﻿{
+    "stage":  "V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD",
+    "timestamp":  "20260523_082541",
+    "package_only":  true,
+    "screening_execution_performed":  false,
+    "input_bundle_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1120_V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD\\V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD_20260523_082541\\02_MANIFESTS",
+    "input_references":  [
+                             {
+                                 "name":  "universe_schema",
+                                 "path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1105_V431B_SCHEMA_ONLY_ARTIFACT_BUILD_OR_HOLD\\V431B_SCHEMA_ONLY_ARTIFACT_BUILD_OR_HOLD_20260522_153149\\01_SCHEMA\\steam_readonly_universe_index_schema.json",
+                                 "exists":  true,
+                                 "scope":  "LOCAL_MOCK_SCHEMA_PLANNING_REFERENCE"
+                             },
+                             {
+                                 "name":  "candidate_schema",
+                                 "path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1105_V431B_SCHEMA_ONLY_ARTIFACT_BUILD_OR_HOLD\\V431B_SCHEMA_ONLY_ARTIFACT_BUILD_OR_HOLD_20260522_153149\\01_SCHEMA\\steam_readonly_candidate_class_schema.json",
+                                 "exists":  true,
+                                 "scope":  "LOCAL_MOCK_SCHEMA_PLANNING_REFERENCE"
+                             },
+                             {
+                                 "name":  "mock_universe_fixture",
+                                 "path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1107_V431C_LOCAL_SAMPLE_MOCK_UNIVERSE_FIXTURE_OR_HOLD\\V431C_LOCAL_SAMPLE_MOCK_UNIVERSE_FIXTURE_OR_HOLD_20260522_161308\\01_FIXTURE\\steam_readonly_local_mock_universe_fixture.json",
+                                 "exists":  true,
+                                 "scope":  "LOCAL_MOCK_SCHEMA_PLANNING_REFERENCE"
+                             },
+                             {
+                                 "name":  "candidate_fixture",
+                                 "path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1107_V431C_LOCAL_SAMPLE_MOCK_UNIVERSE_FIXTURE_OR_HOLD\\V431C_LOCAL_SAMPLE_MOCK_UNIVERSE_FIXTURE_OR_HOLD_20260522_161308\\01_FIXTURE\\steam_readonly_candidate_class_mock_fixture.json",
+                                 "exists":  true,
+                                 "scope":  "LOCAL_MOCK_SCHEMA_PLANNING_REFERENCE"
+                             },
+                             {
+                                 "name":  "scheduler_plan",
+                                 "path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1108_V431D_BOUNDED_REFRESH_SCHEDULER_PLAN_OR_HOLD\\V431D_BOUNDED_REFRESH_SCHEDULER_PLAN_OR_HOLD_20260522_162432\\01_PLAN\\bounded_refresh_scheduler_plan.md",
+                                 "exists":  true,
+                                 "scope":  "LOCAL_MOCK_SCHEMA_PLANNING_REFERENCE"
+                             },
+                             {
+                                 "name":  "screening_plan",
+                                 "path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1118_V431L_CANDIDATE_SCREENING_PLAN_OR_HOLD\\V431L_CANDIDATE_SCREENING_PLAN_OR_HOLD_20260523_080414\\01_PLAN\\candidate_screening_plan.md",
+                                 "exists":  true,
+                                 "scope":  "LOCAL_MOCK_SCHEMA_PLANNING_REFERENCE"
+                             },
+                             {
+                                 "name":  "candidate_class_matrix",
+                                 "path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1118_V431L_CANDIDATE_SCREENING_PLAN_OR_HOLD\\V431L_CANDIDATE_SCREENING_PLAN_OR_HOLD_20260523_080414\\02_CLASS_AND_STATUS\\candidate_class_matrix.csv",
+                                 "exists":  true,
+                                 "scope":  "LOCAL_MOCK_SCHEMA_PLANNING_REFERENCE"
+                             },
+                             {
+                                 "name":  "screening_status_mapping",
+                                 "path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1118_V431L_CANDIDATE_SCREENING_PLAN_OR_HOLD\\V431L_CANDIDATE_SCREENING_PLAN_OR_HOLD_20260523_080414\\02_CLASS_AND_STATUS\\screening_status_mapping.csv",
+                                 "exists":  true,
+                                 "scope":  "LOCAL_MOCK_SCHEMA_PLANNING_REFERENCE"
+                             },
+                             {
+                                 "name":  "blocked_review_reason_taxonomy",
+                                 "path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1118_V431L_CANDIDATE_SCREENING_PLAN_OR_HOLD\\V431L_CANDIDATE_SCREENING_PLAN_OR_HOLD_20260523_080414\\02_CLASS_AND_STATUS\\blocked_review_reason_taxonomy.csv",
+                                 "exists":  true,
+                                 "scope":  "LOCAL_MOCK_SCHEMA_PLANNING_REFERENCE"
+                             },
+                             {
+                                 "name":  "screening_review",
+                                 "path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1119_V431M_CANDIDATE_SCREENING_PLAN_REVIEW_OR_HOLD\\V431M_CANDIDATE_SCREENING_PLAN_REVIEW_OR_HOLD_20260523_081647\\01_REVIEW\\candidate_screening_plan_review.md",
+                                 "exists":  true,
+                                 "scope":  "LOCAL_MOCK_SCHEMA_PLANNING_REFERENCE"
+                             }
+                         ],
+    "missing_sources":  [
+
+                        ],
+    "source_scope":  "LOCAL_MOCK_SCHEMA_PLANNING_ONLY",
+    "pycson_only":  true,
+    "faictory_touched":  false,
+    "ui_patch_performed":  false,
+    "steam_fetch":  false,
+    "buff_fetch":  false,
+    "market_endpoint_call":  false,
+    "ev_calculation":  false,
+    "data_bridge_write":  false,
+    "active_payload_write":  false,
+    "buy_trade_order":  false
+}

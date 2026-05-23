@@ -1,0 +1,13 @@
+﻿forbidden_output,forbidden_reason,allowed_in_v431o
+BUY_NOW,Would imply execution,false
+TRADEUP_NOW,Would imply execution,false
+ORDER,Would imply executable order,false
+TRADE,Would imply trade action,false
+executable PROFIT,Would imply actionable profit signal,false
+TRUSTED_EV,EV not authorized,false
+OFFICIAL_EV,EV not authorized,false
+executable recommendation,Would imply real action,false
+live price,Fetch/live market not authorized,false
+market endpoint response,Network fetch not authorized,false
+DATA_BRIDGE write,Bridge write not authorized,false
+active payload write,Payload write not authorized,false

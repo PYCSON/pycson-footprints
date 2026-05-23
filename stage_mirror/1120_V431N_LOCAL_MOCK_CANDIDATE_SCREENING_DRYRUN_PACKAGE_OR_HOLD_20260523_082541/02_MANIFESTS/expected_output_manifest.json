@@ -1,0 +1,36 @@
+﻿{
+    "stage":  "V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD",
+    "future_stage":  "V431O_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_EXECUTION_OR_HOLD",
+    "execution_now":  false,
+    "expected_outputs_for_future_v431o":  [
+                                              "mock_screening_result.json",
+                                              "mock_screening_result.csv",
+                                              "review_required_rows.csv",
+                                              "blocked_rows.csv",
+                                              "screening_summary.json"
+                                          ],
+    "allowed_route_expectations":  [
+                                       "MOCK_ONLY",
+                                       "LOCAL_ONLY",
+                                       "REVIEW_REQUIRED",
+                                       "BLOCKED",
+                                       "STALE",
+                                       "NO_TRADE",
+                                       "NOT_SIGNAL_READY"
+                                   ],
+    "forbidden_outputs":  [
+                              "BUY_NOW",
+                              "TRADEUP_NOW",
+                              "ORDER",
+                              "TRADE",
+                              "executable PROFIT",
+                              "TRUSTED_EV",
+                              "OFFICIAL_EV",
+                              "executable recommendation"
+                          ],
+    "no_fetch":  true,
+    "no_ev":  true,
+    "no_trade":  true,
+    "no_data_bridge_write":  true,
+    "no_active_payload_write":  true
+}

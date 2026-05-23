@@ -1,0 +1,17 @@
+﻿V431N boundary proof
+stage=V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD
+package_only=true
+candidate_screening_executed=false
+ui_patch_performed=false
+Mother_UI_modified=false
+LIVE_UI_modified=false
+DATA_BRIDGE_write=false
+active_payload_write=false
+Steam_fetch=false
+BUFF_fetch=false
+market_endpoint_call=false
+EV_calculation=false
+BUY_TRADE_ORDER=false
+FAICTORY_touched=false
+force_push=false
+reset=false

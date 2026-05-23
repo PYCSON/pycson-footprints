@@ -1,0 +1,6 @@
+﻿V431N git raw footprint pending amend
+stage=V431N_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_PACKAGE_OR_HOLD
+local_commit_before_amend=411acf7
+origin_before_export=16fbe64
+package_only=true
+safe_metadata_only=true

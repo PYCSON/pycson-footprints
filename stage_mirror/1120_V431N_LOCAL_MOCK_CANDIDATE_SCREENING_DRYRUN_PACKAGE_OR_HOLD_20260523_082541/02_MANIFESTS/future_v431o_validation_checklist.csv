@@ -1,0 +1,18 @@
+﻿check_id,validation_item,required_result
+1,Explicit V431O approval phrase present,true
+2,Use only V431N input bundle manifest,true
+3,Use only V431C local mock universe fixture,true
+4,Validate V431B schema references before dryrun,true
+5,Load candidate class mapping from V431L plan,true
+6,Load screening status mapping from V431L plan,true
+7,Load blocked/review reason taxonomy from V431L plan,true
+8,Write only expected V431O dryrun output files,true
+9,Do not write DATA_BRIDGE,true
+10,Do not write active payload,true
+11,Do not fetch Steam,true
+12,Do not fetch BUFF,true
+13,Do not call market endpoint,true
+14,Do not calculate EV,true
+15,Do not produce buy/trade/order action,true
+16,Scan future outputs for forbidden labels,true
+17,Keep results MOCK_ONLY and LOCAL_ONLY,true
