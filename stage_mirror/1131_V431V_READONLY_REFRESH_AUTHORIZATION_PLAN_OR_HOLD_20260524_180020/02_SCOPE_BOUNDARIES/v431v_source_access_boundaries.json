@@ -1,0 +1,32 @@
+﻿{
+    "stage":  "V431V_READONLY_REFRESH_AUTHORIZATION_PLAN_OR_HOLD",
+    "timestamp":  "20260524_180020",
+    "readonly_refresh_executed":  false,
+    "steam_fetch":  false,
+    "buff_fetch":  false,
+    "market_endpoint_call":  false,
+    "allowed_future_access":  [
+                                  "single approved readonly dryrun window",
+                                  "explicit source allowlist only",
+                                  "no account/session dependency",
+                                  "local artifact output only"
+                              ],
+    "forbidden_access":  [
+                             "login",
+                             "cookies",
+                             "captcha",
+                             "proxy",
+                             "bypass",
+                             "multi-account",
+                             "cross-region bypass",
+                             "market order endpoints",
+                             "trade endpoints",
+                             "payment endpoints"
+                         ],
+    "cache_local_only_assumptions":  [
+                                         "future dryrun may use local cache/input manifests",
+                                         "cache must be non-sensitive",
+                                         "cache must not include credentials or cookies",
+                                         "cache refresh output remains review-only"
+                                     ]
+}

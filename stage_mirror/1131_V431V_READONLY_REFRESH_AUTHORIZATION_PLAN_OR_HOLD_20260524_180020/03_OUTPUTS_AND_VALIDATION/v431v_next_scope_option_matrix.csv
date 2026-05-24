@@ -1,0 +1,6 @@
+﻿option_id,next_scope,safety_level,pros,risks,recommendation
+A,V431W_READONLY_REFRESH_AUTHORIZATION_REVIEW_OR_HOLD,SAFE_REVIEW,Reviews authorization before any dryrun execution,No execution yet,RECOMMENDED
+B,V431W_READONLY_REFRESH_DRYRUN_PACKAGE_OR_HOLD,SAFE_PACKAGE,Prepares execution package after plan,Should follow authorization review,SECONDARY
+C,V431W_SCREENING_TO_REFRESH_OUTPUT_MAPPING_PLAN_OR_HOLD,SAFE_PLANNING,Maps screening outputs to future refresh outputs,Does not review authorization readiness,ALTERNATE
+D,V431W_EV_DRYRUN_PRECONDITION_GAP_REVIEW_OR_HOLD,PREMATURE_REVIEW,Documents EV blockers without EV,Too early before refresh authorization review,DEFER
+E,HOLD for user direction,SAFE_HOLD,Stops all action,None,HOLD_OPTION

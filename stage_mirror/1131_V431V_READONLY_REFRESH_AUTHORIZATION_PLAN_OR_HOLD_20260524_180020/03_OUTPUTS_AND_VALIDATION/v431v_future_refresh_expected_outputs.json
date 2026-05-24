@@ -1,0 +1,29 @@
+﻿{
+    "future_stage":  "V431X_READONLY_REFRESH_DRYRUN_EXECUTION_OR_HOLD",
+    "expected_outputs":  [
+                             "readonly_refresh_dryrun_result.json",
+                             "readonly_refresh_dryrun_result.csv",
+                             "refresh_checkpoint_log.csv",
+                             "refresh_summary.json",
+                             "refresh_validation_report.json",
+                             "forbidden_output_scan.json",
+                             "no_write_no_fetch_no_ev_no_trade_proof.txt",
+                             "report JSON",
+                             "latest JSON",
+                             "words.cossp footprint",
+                             "root-level words.cossp mirror",
+                             "git raw footprint",
+                             "git summary"
+                         ],
+    "forbidden_outputs":  [
+                              "BUY_NOW",
+                              "TRADEUP_NOW",
+                              "TRADE",
+                              "ORDER",
+                              "executable PROFIT",
+                              "TRUSTED_EV",
+                              "OFFICIAL_EV",
+                              "executable recommendation"
+                          ],
+    "requires_prior_review":  "V431W_READONLY_REFRESH_AUTHORIZATION_REVIEW_OR_HOLD"
+}

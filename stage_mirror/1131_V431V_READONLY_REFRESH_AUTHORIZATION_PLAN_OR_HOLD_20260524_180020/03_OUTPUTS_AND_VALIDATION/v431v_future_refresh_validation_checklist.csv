@@ -1,0 +1,20 @@
+﻿validation_id,validation_check,expected_result,required
+VAL-01,"authorization review passed before execution",true,true
+VAL-02,"explicit future approval phrase confirmed",true,true
+VAL-03,"single bounded readonly window",true,true
+VAL-04,"source allowlist loaded",true,true
+VAL-05,"no login",true,true
+VAL-06,"no cookies",true,true
+VAL-07,"no captcha",true,true
+VAL-08,"no proxy",true,true
+VAL-09,"no bypass",true,true
+VAL-10,"no Steam fetch in V431V",true,true
+VAL-11,"no BUFF fetch in V431V",true,true
+VAL-12,"no market endpoint call in V431V",true,true
+VAL-13,"no DATA_BRIDGE write",true,true
+VAL-14,"no active payload write",true,true
+VAL-15,"no UI patch",true,true
+VAL-16,"no EV calculation",true,true
+VAL-17,"no BUY/TRADE/ORDER",true,true
+VAL-18,"forbidden outputs absent",true,true
+VAL-19,"local artifact outputs only",true,true
