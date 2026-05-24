@@ -1,0 +1,20 @@
+﻿{
+    "screening_result_JSON_valid":  true,
+    "screening_result_CSV_valid":  true,
+    "review_required_rows_valid":  true,
+    "blocked_rows_valid":  true,
+    "screening_summary_valid":  true,
+    "forbidden_output_scan_passed":  true,
+    "validation_report_passed":  true,
+    "metadata_columns_absent":  true,
+    "required_columns_present":  true,
+    "row_counts_validated":  true,
+    "classifications_preserved":  true,
+    "unexpected_classifications":  [
+
+                                   ],
+    "forbidden_hits":  [
+
+                       ],
+    "repair_needed":  false
+}
