@@ -1,0 +1,36 @@
+﻿{
+    "stage":  "V431P_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_REVIEW_OR_HOLD",
+    "timestamp":  "20260524_085438",
+    "v431o_output_root_exists":  true,
+    "result_json_valid":  true,
+    "result_csv_parseable":  true,
+    "result_csv_schema_valid":  false,
+    "review_required_rows_parseable":  true,
+    "review_required_rows_schema_valid":  false,
+    "blocked_rows_parseable":  true,
+    "blocked_rows_schema_valid":  false,
+    "screening_summary_valid":  true,
+    "forbidden_output_scan_passed":  true,
+    "validation_report_passed":  true,
+    "dryrun_used_mock_local_inputs_only":  true,
+    "safe_classifications_only":  true,
+    "unexpected_statuses":  [
+
+                            ],
+    "screening_result_counts":  {
+                                    "total_rows":  4,
+                                    "review_required_rows":  2,
+                                    "blocked_rows":  1,
+                                    "classifications_present":  [
+                                                                    "BLOCKED",
+                                                                    "LOCAL_ONLY",
+                                                                    "MOCK_ONLY",
+                                                                    "NO_TRADE",
+                                                                    "NOT_SIGNAL_READY",
+                                                                    "REVIEW_REQUIRED",
+                                                                    "STALE"
+                                                                ]
+                                },
+    "repair_needed":  true,
+    "repair_reason":  "CSV exports are parseable but schema is not review-grade; they contain PowerShell object metadata columns instead of screening result columns."
+}
