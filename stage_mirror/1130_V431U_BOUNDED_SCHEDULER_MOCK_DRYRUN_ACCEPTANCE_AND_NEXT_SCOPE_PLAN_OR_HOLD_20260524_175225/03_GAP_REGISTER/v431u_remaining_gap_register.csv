@@ -1,0 +1,6 @@
+﻿gap_id,gap,impact,recommended_handling,status
+GAP-001,No readonly refresh authorization yet,Pipeline remains local/mock only,Create readonly refresh authorization plan,OPEN
+GAP-002,No live source allowlist reviewed,Steam/BUFF firewall remains closed,Plan source/path/time/window boundaries before any fetch,OPEN
+GAP-003,No DATA_BRIDGE display integration authorized,Results remain artifact-only,Use display mapping plan after refresh gate if needed,OPEN
+GAP-004,EV preconditions not mature,EV remains premature,Defer EV until readonly refresh and source-trust readiness exist,OPEN
+GAP-005,No production scheduler authorization,Only mock/manual scheduler maturity exists,Keep scheduler execution approval-gated,OPEN

@@ -1,0 +1,6 @@
+﻿option_id,next_scope,safety_level,pros,risks,recommendation
+A,V431V_READONLY_REFRESH_AUTHORIZATION_PLAN_OR_HOLD,SAFE_PLANNING,Defines future readonly refresh boundaries before any fetch,Must remain planning-only and approval-gated,RECOMMENDED
+B,V431V_SCREENING_TO_STEAM_WORKSPACE_DISPLAY_MAPPING_PLAN_OR_HOLD,SAFE_PLANNING,Maps accepted mock outputs to future workspace display without UI patch,Does not address source refresh readiness,SECONDARY
+C,V431V_EV_DRYRUN_PRECONDITION_GAP_REVIEW_OR_HOLD,PREMATURE_REVIEW,Documents EV blockers without EV calculation,Too early before refresh/source readiness,DEFER
+D,V431V_BOUNDED_SCHEDULER_ACCEPTANCE_REVIEW_AND_REFRESH_GATE_OR_HOLD,SAFE_REVIEW_GATE,Adds another refresh gate after scheduler acceptance,Potentially duplicative with readonly authorization plan,ALTERNATE
+E,HOLD for user direction,SAFE_HOLD,Stops further scope,None,HOLD_OPTION
