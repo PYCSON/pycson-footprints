@@ -1,0 +1,44 @@
+{
+  "stage": "V431O_CSV_EXPORT_REPAIR_PACKAGE_OR_HOLD",
+  "timestamp": "20260524_094803",
+  "target_csv_files": [
+    "mock_screening_result.csv",
+    "review_required_rows.csv",
+    "blocked_rows.csv"
+  ],
+  "required_columns": [
+    {"name": "universe_record_id", "type": "string", "required": true},
+    {"name": "candidate_class", "type": "string", "required": true},
+    {"name": "screening_status", "type": "string", "required": true},
+    {"name": "review_reason", "type": "string", "required": false},
+    {"name": "blocked_reason", "type": "string", "required": false},
+    {"name": "source_type", "type": "string", "required": true},
+    {"name": "is_mock", "type": "boolean", "required": true},
+    {"name": "is_local_only", "type": "boolean", "required": true},
+    {"name": "is_blocked", "type": "boolean", "required": true},
+    {"name": "is_review_required", "type": "boolean", "required": true},
+    {"name": "is_signal_ready", "type": "boolean", "required": true},
+    {"name": "forbidden_output_present", "type": "boolean", "required": true},
+    {"name": "notes", "type": "string", "required": false}
+  ],
+  "allowed_screening_statuses": [
+    "MOCK_ONLY",
+    "LOCAL_ONLY",
+    "REVIEW_REQUIRED",
+    "BLOCKED",
+    "STALE",
+    "NO_TRADE",
+    "NOT_SIGNAL_READY"
+  ],
+  "forbidden_columns": [
+    "BUY_NOW",
+    "TRADEUP_NOW",
+    "ORDER",
+    "TRADE",
+    "TRUSTED_EV",
+    "OFFICIAL_EV",
+    "executable_PROFIT",
+    "executable_recommendation"
+  ],
+  "source_of_truth": "Existing V431O mock_screening_result.json"
+}

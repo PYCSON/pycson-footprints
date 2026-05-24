@@ -1,0 +1,18 @@
+check_id,validation_check,expected_result,required
+1,Existing V431O JSON result parses,true,true
+2,CSV repair uses existing JSON result only,true,true
+3,No V431O screening rerun occurs,true,true
+4,mock_screening_result.csv has all target columns,true,true
+5,review_required_rows.csv has all target columns,true,true
+6,blocked_rows.csv has all target columns,true,true
+7,CSV row count matches JSON result count,true,true
+8,review_required_rows.csv count matches review-required JSON rows,true,true
+9,blocked_rows.csv count matches blocked JSON rows,true,true
+10,All statuses are in allowed safe status set,true,true
+11,Forbidden output scan has zero executable hits,true,true
+12,No Steam or BUFF fetch occurs,true,true
+13,No market endpoint call occurs,true,true
+14,No DATA_BRIDGE or active payload write occurs,true,true
+15,No UI patch occurs,true,true
+16,No EV calculation occurs,true,true
+17,No BUY/TRADE/ORDER output occurs,true,true

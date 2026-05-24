@@ -1,0 +1,18 @@
+V431O CSV export repair package boundary proof
+
+Repair package created: true
+Repair execution performed: false
+V431O outputs modified: false
+V431O rerun: false
+V431P rerun: false
+UI patch false
+Mother UI modified false
+LIVE UI modified false
+DATA_BRIDGE write false
+active payload write false
+Steam fetch false
+BUFF fetch false
+market endpoint call false
+EV calculation false
+BUY/TRADE/ORDER false
+FAICTORY touched false

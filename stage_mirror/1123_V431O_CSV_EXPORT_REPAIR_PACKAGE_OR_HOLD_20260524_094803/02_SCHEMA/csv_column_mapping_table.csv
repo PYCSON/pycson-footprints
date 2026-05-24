@@ -1,0 +1,14 @@
+target_column,source_field_or_rule,required,notes
+universe_record_id,universe_record_id,true,Stable mock/local record id from V431O JSON.
+candidate_class,candidate_class,true,Safe mock/readonly class from screening result.
+screening_status,screening_status,true,Must be one of the approved safe statuses.
+review_reason,review_reason,false,Use existing reason if present; otherwise blank or safe note.
+blocked_reason,blocked_reason,false,Use existing reason if present; otherwise blank.
+source_type,source_type,true,Expected local/mock readonly source descriptor.
+is_mock,is_mock,true,Boolean derived from source classification.
+is_local_only,is_local_only,true,Boolean derived from local/mock source scope.
+is_blocked,is_blocked,true,Boolean derived from candidate class/status.
+is_review_required,is_review_required,true,Boolean derived from status/review flag.
+is_signal_ready,is_signal_ready,true,Must remain false unless explicitly allowed by future scope.
+forbidden_output_present,constant false,true,Must remain false after forbidden output scan.
+notes,notes,false,Safe explanatory notes only; no execution recommendation.
