@@ -1,0 +1,8 @@
+﻿Stage: V431O_CSV_EXPORT_REPAIR_EXECUTION_OR_HOLD
+Timestamp: 20260524_100622
+Status: PASS_V431O_CSV_EXPORT_REPAIR_EXECUTION_READY_FOR_REVIEW_RETRY
+Decision: READY_FOR_V431P_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_REVIEW_RETRY_OR_HOLD
+Repair executed: true
+CSV targets repaired: mock_screening_result.csv, review_required_rows.csv, blocked_rows.csv
+No fetch/UI/DATA_BRIDGE/EV/trade: true
+

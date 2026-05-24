@@ -1,0 +1,10 @@
+﻿{
+    "repair_package_loaded":  true,
+    "repair_package_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1123_V431O_CSV_EXPORT_REPAIR_PACKAGE_OR_HOLD\\V431O_CSV_EXPORT_REPAIR_PACKAGE_OR_HOLD_20260524_094803",
+    "source_json_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1121_V431O_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_EXECUTION_OR_HOLD\\V431O_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_EXECUTION_OR_HOLD_20260523_220856\\02_DRYRUN_OUTPUT\\mock_screening_result.json",
+    "source_json_parsed":  true,
+    "summary_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1121_V431O_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_EXECUTION_OR_HOLD\\V431O_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_EXECUTION_OR_HOLD_20260523_220856\\02_DRYRUN_OUTPUT\\screening_summary.json",
+    "schema_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1123_V431O_CSV_EXPORT_REPAIR_PACKAGE_OR_HOLD\\V431O_CSV_EXPORT_REPAIR_PACKAGE_OR_HOLD_20260524_094803\\02_SCHEMA\\target_csv_schema.json",
+    "screening_logic_rerun":  false,
+    "classifications_changed":  false
+}

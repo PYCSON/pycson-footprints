@@ -1,0 +1,18 @@
+﻿# V431O CSV Export Repair Execution Git Summary
+
+Stage: V431O_CSV_EXPORT_REPAIR_EXECUTION_OR_HOLD
+
+Status: PASS_V431O_CSV_EXPORT_REPAIR_EXECUTION_READY_FOR_REVIEW_RETRY
+
+Decision: READY_FOR_V431P_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_REVIEW_RETRY_OR_HOLD
+
+Summary: Repaired the three V431O CSV exports from the existing valid JSON result, replacing PowerShell metadata columns with review-grade screening columns. No screening classifications were changed.
+
+Script: C:\Users\sunpu\Desktop\pycson\1124_V431O_CSV_EXPORT_REPAIR_EXECUTION_OR_HOLD\V431O_CSV_EXPORT_REPAIR_EXECUTION_OR_HOLD_20260524_100622\00_EXECUTED_SCRIPT\RUN_V431O_CSV_EXPORT_REPAIR_EXECUTION_OR_HOLD_20260524_100622.ps1
+
+Script SHA256: 7FC49B2A1FFE0681F165FDA28B242461B67E691F52CF76C7546EC821471BFDD3
+
+Safety: no UI patch, DATA_BRIDGE write, active payload write, Steam/BUFF/market fetch, EV, or trade/order action.
+
+Next safe step: V431P_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_REVIEW_RETRY_OR_HOLD
+

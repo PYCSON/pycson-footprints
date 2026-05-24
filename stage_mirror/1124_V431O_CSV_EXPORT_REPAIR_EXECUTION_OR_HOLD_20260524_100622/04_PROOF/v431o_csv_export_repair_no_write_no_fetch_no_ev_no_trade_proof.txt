@@ -1,0 +1,17 @@
+﻿V431O CSV export repair proof
+repair executed true
+source JSON parsed true
+V431O screening logic rerun false
+classifications changed false
+UI patch false
+Mother UI modified false
+LIVE UI modified false
+DATA_BRIDGE write false
+active payload write false
+Steam fetch false
+BUFF fetch false
+market endpoint call false
+EV calculation false
+BUY/TRADE/ORDER false
+FAICTORY touched false
+

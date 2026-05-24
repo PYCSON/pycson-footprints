@@ -1,0 +1,36 @@
+﻿{
+    "repair_package_loaded":  true,
+    "source_JSON_exists":  true,
+    "source_JSON_parsed":  true,
+    "mock_screening_result_CSV_repaired":  true,
+    "review_required_rows_CSV_repaired":  true,
+    "blocked_rows_CSV_repaired":  true,
+    "metadata_columns_absent":  true,
+    "required_columns_present":  true,
+    "row_counts_validated":  true,
+    "expected_total_rows":  4,
+    "actual_total_rows":  4,
+    "expected_review_required_rows":  2,
+    "actual_review_required_rows":  2,
+    "expected_blocked_rows":  1,
+    "actual_blocked_rows":  1,
+    "classifications_preserved":  true,
+    "unexpected_classifications":  [
+
+                                   ],
+    "forbidden_outputs_absent":  true,
+    "forbidden_hits":  [
+
+                       ],
+    "validation_passed":  true,
+    "no_UI_patch_performed":  true,
+    "Mother_UI_modified":  false,
+    "LIVE_UI_modified":  false,
+    "DATA_BRIDGE_write":  false,
+    "active_payload_write":  false,
+    "Steam_fetch":  false,
+    "BUFF_fetch":  false,
+    "market_endpoint_call":  false,
+    "EV_calculation":  false,
+    "BUY_TRADE_ORDER":  false
+}
