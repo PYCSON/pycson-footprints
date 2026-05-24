@@ -1,0 +1,14 @@
+﻿{
+    "approval_phrase_confirmed":  true,
+    "approval_phrase":  "CONFIRM_V431S_BOUNDED_SCHEDULER_MOCK_DRYRUN_EXECUTION",
+    "input_manifest_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1127_V431R_BOUNDED_SCHEDULER_MOCK_DRYRUN_PACKAGE_OR_HOLD\\V431R_BOUNDED_SCHEDULER_MOCK_DRYRUN_PACKAGE_OR_HOLD_20260524_111517\\02_MANIFESTS\\v431r_scheduler_input_manifest.json",
+    "output_manifest_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1127_V431R_BOUNDED_SCHEDULER_MOCK_DRYRUN_PACKAGE_OR_HOLD\\V431R_BOUNDED_SCHEDULER_MOCK_DRYRUN_PACKAGE_OR_HOLD_20260524_111517\\02_MANIFESTS\\v431r_scheduler_expected_output_manifest.json",
+    "checkpoint_checklist_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1127_V431R_BOUNDED_SCHEDULER_MOCK_DRYRUN_PACKAGE_OR_HOLD\\V431R_BOUNDED_SCHEDULER_MOCK_DRYRUN_PACKAGE_OR_HOLD_20260524_111517\\03_CHECKLISTS\\v431r_scheduler_checkpoint_checklist.csv",
+    "validation_checklist_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1127_V431R_BOUNDED_SCHEDULER_MOCK_DRYRUN_PACKAGE_OR_HOLD\\V431R_BOUNDED_SCHEDULER_MOCK_DRYRUN_PACKAGE_OR_HOLD_20260524_111517\\03_CHECKLISTS\\v431r_scheduler_validation_checklist.csv",
+    "forbidden_boundary_checklist_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1127_V431R_BOUNDED_SCHEDULER_MOCK_DRYRUN_PACKAGE_OR_HOLD\\V431R_BOUNDED_SCHEDULER_MOCK_DRYRUN_PACKAGE_OR_HOLD_20260524_111517\\03_CHECKLISTS\\v431r_forbidden_boundary_checklist.csv",
+    "approved_v431o_root":  "C:\\Users\\sunpu\\Desktop\\pycson\\1121_V431O_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_EXECUTION_OR_HOLD\\V431O_LOCAL_MOCK_CANDIDATE_SCREENING_DRYRUN_EXECUTION_OR_HOLD_20260523_220856",
+    "local_mock_inputs_used":  true,
+    "steam_fetch":  false,
+    "buff_fetch":  false,
+    "market_endpoint_call":  false
+}

@@ -1,0 +1,58 @@
+﻿[
+    {
+        "scheduler_window_id":  "V431S_WINDOW_001",
+        "trigger_mode":  "LOCAL_MOCK_MANUAL_APPROVED",
+        "universe_record_id":  "MOCK_LOCAL_001",
+        "candidate_class":  "MOCK_STEAM_READONLY_CASE_ITEM",
+        "screening_status":  "LOCAL_ONLY|NO_TRADE|NOT_SIGNAL_READY|MOCK_ONLY",
+        "scheduler_route":  "LOCAL_MOCK_NO_ACTION_ROUTE",
+        "review_required":  "False",
+        "blocked":  "False",
+        "signal_ready":  "False",
+        "output_action":  "NO_ACTION_REVIEW_ONLY",
+        "forbidden_output_present":  "False",
+        "notes":  "bounded scheduler mock dryrun only; no market action"
+    },
+    {
+        "scheduler_window_id":  "V431S_WINDOW_001",
+        "trigger_mode":  "LOCAL_MOCK_MANUAL_APPROVED",
+        "universe_record_id":  "MOCK_LOCAL_002",
+        "candidate_class":  "MOCK_TRADEUP_INPUT_CANDIDATE",
+        "screening_status":  "LOCAL_ONLY|NO_TRADE|NOT_SIGNAL_READY|REVIEW_REQUIRED",
+        "scheduler_route":  "REVIEW_REQUIRED_ROUTE",
+        "review_required":  "True",
+        "blocked":  "False",
+        "signal_ready":  "False",
+        "output_action":  "NO_ACTION_REVIEW_ONLY",
+        "forbidden_output_present":  "False",
+        "notes":  "bounded scheduler mock dryrun only; no market action"
+    },
+    {
+        "scheduler_window_id":  "V431S_WINDOW_001",
+        "trigger_mode":  "LOCAL_MOCK_MANUAL_APPROVED",
+        "universe_record_id":  "MOCK_LOCAL_003",
+        "candidate_class":  "MOCK_OUTPUT_POOL_PLACEHOLDER",
+        "screening_status":  "LOCAL_ONLY|NO_TRADE|NOT_SIGNAL_READY|MOCK_ONLY|REVIEW_REQUIRED",
+        "scheduler_route":  "REVIEW_REQUIRED_ROUTE",
+        "review_required":  "True",
+        "blocked":  "False",
+        "signal_ready":  "False",
+        "output_action":  "NO_ACTION_REVIEW_ONLY",
+        "forbidden_output_present":  "False",
+        "notes":  "bounded scheduler mock dryrun only; no market action"
+    },
+    {
+        "scheduler_window_id":  "V431S_WINDOW_001",
+        "trigger_mode":  "LOCAL_MOCK_MANUAL_APPROVED",
+        "universe_record_id":  "MOCK_LOCAL_004",
+        "candidate_class":  "MOCK_REVIEW_REQUIRED_ITEM",
+        "screening_status":  "LOCAL_ONLY|NO_TRADE|NOT_SIGNAL_READY|MOCK_ONLY|BLOCKED|STALE",
+        "scheduler_route":  "BLOCKED_ROUTE",
+        "review_required":  "False",
+        "blocked":  "True",
+        "signal_ready":  "False",
+        "output_action":  "NO_ACTION_REVIEW_ONLY",
+        "forbidden_output_present":  "False",
+        "notes":  "bounded scheduler mock dryrun only; no market action"
+    }
+]

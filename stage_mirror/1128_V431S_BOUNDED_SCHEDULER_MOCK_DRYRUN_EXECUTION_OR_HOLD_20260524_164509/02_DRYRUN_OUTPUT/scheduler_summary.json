@@ -1,0 +1,20 @@
+﻿{
+    "approval_phrase_confirmed":  true,
+    "scheduler_executed":  true,
+    "mock_dryrun_executed":  true,
+    "input_manifest_used":  true,
+    "scheduler_window_count":  1,
+    "input_rows":  4,
+    "review_required_rows":  2,
+    "blocked_rows":  1,
+    "checkpoint_count":  10,
+    "all_checkpoints_passed":  true,
+    "output_manifest_satisfied":  true,
+    "validation_passed":  true,
+    "forbidden_outputs_absent":  true,
+    "no_fetch":  true,
+    "no_data_bridge_write":  true,
+    "no_active_payload_write":  true,
+    "no_ev":  true,
+    "no_trade_or_order":  true
+}
