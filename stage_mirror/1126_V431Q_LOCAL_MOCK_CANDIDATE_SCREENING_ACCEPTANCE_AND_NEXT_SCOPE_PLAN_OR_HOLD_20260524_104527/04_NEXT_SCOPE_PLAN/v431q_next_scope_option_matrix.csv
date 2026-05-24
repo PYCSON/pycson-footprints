@@ -1,0 +1,6 @@
+﻿option_id,next_scope,safety_level,pros,risks,recommendation
+A,V431R_LOCAL_MOCK_SCREENING_RESULT_TO_STEAM_WORKSPACE_DISPLAY_MAPPING_PLAN_OR_HOLD,SAFE_PLANNING,Maps accepted results to display expectations without UI patch,Could drift into UI if not bounded,SECONDARY
+B,V431R_BOUNDED_SCHEDULER_MOCK_DRYRUN_PACKAGE_OR_HOLD,SAFE_PACKAGE,Builds next mock scheduler package before readonly refresh,Package only and no fetch,RECOMMENDED
+C,V431R_READONLY_REFRESH_AUTHORIZATION_PLAN_OR_HOLD,SAFE_PLANNING,Prepares future readonly fetch authorization boundaries,Closer to fetch and needs strict gate,ALTERNATE
+D,V431R_EV_DRYRUN_PRECONDITION_GAP_REVIEW_OR_HOLD,PREMATURE_REVIEW,Documents EV gaps without calculating EV,EV route not yet ready,DEFER
+E,HOLD for user direction,SAFE_HOLD,Stops all action,None,HOLD_OPTION

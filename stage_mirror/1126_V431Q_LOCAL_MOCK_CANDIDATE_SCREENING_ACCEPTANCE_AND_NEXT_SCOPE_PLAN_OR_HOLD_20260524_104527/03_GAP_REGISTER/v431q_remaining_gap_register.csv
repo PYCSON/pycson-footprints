@@ -1,0 +1,5 @@
+﻿gap_id,gap,impact,recommended_handling,status
+GAP-001,No live readonly refresh authorization yet,Candidate screening remains local/mock only,Create bounded scheduler mock dryrun package,OPEN
+GAP-002,No Steam or BUFF fetch authorized,No live market validation,Keep fetch firewall closed until explicit readonly authorization,OPEN
+GAP-003,No EV dryrun preconditions accepted,EV route remains premature,Defer EV until refresh/readiness gates are reviewed,OPEN
+GAP-004,No DATA_BRIDGE display write authorized,Workspace display remains planning-only,Use display mapping plan before any UI/data bridge action,OPEN
