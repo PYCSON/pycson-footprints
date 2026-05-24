@@ -1,0 +1,4 @@
+﻿gap_id,current_state,target_state,risk,safe_resolution
+GAP-001,System index latest points to V431V,V431W should be the operational candidate after review,Anchor ambiguity before V431X,Create separate proposed update packet or user-confirm V431W as anchor
+GAP-002,V431W committed/pushed in footprint repo but not active in system index,System index should reflect V431W before V431X execution,Latest/index mismatch,Do not overwrite index in this package; require explicit safe update step
+
