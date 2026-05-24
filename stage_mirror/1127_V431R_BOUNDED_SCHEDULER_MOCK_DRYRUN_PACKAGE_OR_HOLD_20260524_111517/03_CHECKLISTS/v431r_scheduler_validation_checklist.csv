@@ -1,0 +1,16 @@
+﻿validation_id,validation_check,expected_result,required
+VAL-01,"scheduler package loaded",true,true
+VAL-02,"approved local/mock inputs used",true,true
+VAL-03,"scheduler executed false in V431R",true,true
+VAL-04,"mock dryrun executed false in V431R",true,true
+VAL-05,"future execution requires approval phrase",true,true
+VAL-06,"max scheduler windows equals 1",true,true
+VAL-07,"no Steam fetch",true,true
+VAL-08,"no BUFF fetch",true,true
+VAL-09,"no market endpoint call",true,true
+VAL-10,"no DATA_BRIDGE write",true,true
+VAL-11,"no active payload write",true,true
+VAL-12,"no UI patch",true,true
+VAL-13,"no EV calculation",true,true
+VAL-14,"no BUY/TRADE/ORDER",true,true
+VAL-15,"forbidden outputs absent",true,true

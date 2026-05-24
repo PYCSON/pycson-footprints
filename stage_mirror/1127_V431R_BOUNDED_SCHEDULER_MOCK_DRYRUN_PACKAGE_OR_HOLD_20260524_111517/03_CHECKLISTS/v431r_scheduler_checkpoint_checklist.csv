@@ -1,0 +1,11 @@
+﻿checkpoint_id,checkpoint,required,stop_if_failed
+CP-01,"Load approved V431R package",true,true
+CP-02,"Confirm V431Q acceptance",true,true
+CP-03,"Confirm V431O repaired CSV row counts",true,true
+CP-04,"Confirm no live fetch authorization",true,true
+CP-05,"Confirm scheduler execution mode is mock only",true,true
+CP-06,"Confirm no background/scheduled service",true,true
+CP-07,"Confirm no DATA_BRIDGE or active payload write",true,true
+CP-08,"Confirm forbidden outputs absent",true,true
+CP-09,"Confirm proof/report/latest generated",true,true
+CP-10,"Stop before real refresh or trade action",true,true

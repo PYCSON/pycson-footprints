@@ -1,0 +1,30 @@
+﻿{
+    "stage":  "V431R_BOUNDED_SCHEDULER_MOCK_DRYRUN_PACKAGE_OR_HOLD",
+    "future_stage":  "V431S_BOUNDED_SCHEDULER_MOCK_DRYRUN_EXECUTION_OR_HOLD",
+    "expected_outputs":  [
+                             "scheduler_mock_dryrun_result.json",
+                             "scheduler_mock_dryrun_result.csv",
+                             "scheduler_checkpoint_log.csv",
+                             "scheduler_summary.json",
+                             "scheduler_validation_report.json",
+                             "forbidden_output_scan.json",
+                             "no_write_no_fetch_no_ev_no_trade_proof.txt",
+                             "report JSON",
+                             "latest JSON",
+                             "words.cossp footprint",
+                             "root-level words.cossp mirror",
+                             "git raw footprint",
+                             "git summary"
+                         ],
+    "forbidden_outputs":  [
+                              "BUY_NOW",
+                              "TRADEUP_NOW",
+                              "TRADE",
+                              "ORDER",
+                              "executable PROFIT",
+                              "TRUSTED_EV",
+                              "OFFICIAL_EV",
+                              "executable recommendation"
+                          ],
+    "writes_allowed_only_under_future_stage":  true
+}

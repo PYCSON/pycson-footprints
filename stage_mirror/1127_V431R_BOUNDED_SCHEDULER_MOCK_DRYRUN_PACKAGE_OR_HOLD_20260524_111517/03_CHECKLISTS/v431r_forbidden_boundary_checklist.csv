@@ -1,0 +1,20 @@
+﻿boundary,required_state,package_state
+scheduler executed,false,false
+mock dryrun executed,false,false
+UI patch,false,false
+Mother UI modified,false,false
+LIVE UI modified,false,false
+DATA_BRIDGE write,false,false
+active payload write,false,false
+Steam fetch,false,false
+BUFF fetch,false,false
+market endpoint call,false,false
+official EV calculation,false,false
+trusted EV calculation,false,false
+trade-up EV calculation,false,false
+BUY_NOW output,false,false
+TRADEUP_NOW output,false,false
+TRADE output,false,false
+ORDER output,false,false
+executable PROFIT output,false,false
+FAICTORY touched,false,false
