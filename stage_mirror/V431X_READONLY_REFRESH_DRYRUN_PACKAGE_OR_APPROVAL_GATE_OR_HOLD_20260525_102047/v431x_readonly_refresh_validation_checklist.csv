@@ -1,0 +1,12 @@
+﻿check_id,requirement,expected
+VAL-001,Approval phrase confirmed,true
+VAL-002,V431W anchor loaded,true
+VAL-003,Readonly refresh dryrun boundary loaded,true
+VAL-004,No login/cookie/captcha/proxy/bypass/account automation,true
+VAL-005,No DATA_BRIDGE write,true
+VAL-006,No active payload write,true
+VAL-007,No EV calculation,true
+VAL-008,No BUY/TRADE/ORDER,true
+VAL-009,Forbidden output scan passed,true
+VAL-010,Report/latest/proof/footprint created,true
+

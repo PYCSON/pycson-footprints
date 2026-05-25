@@ -1,0 +1,38 @@
+﻿{
+    "stage":  "V431X_READONLY_REFRESH_DRYRUN_PACKAGE_OR_APPROVAL_GATE_OR_HOLD",
+    "anchor":  "V431W_READONLY_REFRESH_AUTHORIZATION_REVIEW_OR_HOLD",
+    "allowed_inputs":  [
+                           "V431V authorization artifacts",
+                           "V431W review/report/latest/proof artifacts",
+                           "local package manifests",
+                           "future explicitly approved public unauthenticated readonly descriptors"
+                       ],
+    "forbidden_inputs":  [
+                             "credentials",
+                             "cookies",
+                             "session data",
+                             "captcha solving",
+                             "proxy bypass",
+                             "account automation",
+                             "Steam fetch in V431X",
+                             "BUFF fetch in V431X",
+                             "market endpoint call in V431X",
+                             "DATA_BRIDGE",
+                             "active payload",
+                             "UI source/backups",
+                             "EV outputs",
+                             "BUY/TRADE/ORDER payloads"
+                         ],
+    "source_access_boundary":  {
+                                   "login":  "forbidden",
+                                   "cookies":  "forbidden",
+                                   "captcha":  "forbidden",
+                                   "proxy":  "forbidden",
+                                   "bypass":  "forbidden",
+                                   "account_automation":  "forbidden"
+                               },
+    "cache_local_only_assumptions":  [
+                                         "V431X package is local-only",
+                                         "V431Y requires explicit approval before execution"
+                                     ]
+}

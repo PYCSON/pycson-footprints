@@ -1,0 +1,14 @@
+﻿boundary,required_state
+readonly_refresh_executed,false_in_V431X_package_stage
+Steam_fetch,false
+BUFF_fetch,false
+market_endpoint_call,falsescheduler_executed,false
+mock_dryrun_executed,false
+UI_patch,false
+Mother_UI_modified,false
+LIVE_UI_modified,false
+DATA_BRIDGE_write,false
+active_payload_write,false
+EV_calculation,false
+BUY_TRADE_ORDER,false
+

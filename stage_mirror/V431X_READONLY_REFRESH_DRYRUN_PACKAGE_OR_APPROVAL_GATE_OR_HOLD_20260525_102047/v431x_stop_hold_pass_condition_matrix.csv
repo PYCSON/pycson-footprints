@@ -1,0 +1,6 @@
+﻿condition,result,next_action
+STOP,Missing V431W anchor or approval gate,HOLD_FOR_REPAIR
+STOP,Any forbidden fetch/write/EV/trade/UI action,HOLD_FOR_REPAIR
+HOLD,Git push/export blocked,SAFE_EXPORT_RETRY_WITH_HELPER
+PASS,Package and approval gate created without forbidden actions,USER_APPROVAL_REQUIRED_FOR_V431Y_READONLY_REFRESH_DRYRUN_EXECUTION_OR_HOLD
+
