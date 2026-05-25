@@ -1,0 +1,11 @@
+﻿PYCSON safe git export helper setup proof
+
+Created local helper files only.
+Did not execute helper.
+Did not execute PYCSON stages.
+Did not modify UI, DATA_BRIDGE, or active payload.
+Did not fetch Steam/BUFF or call market endpoints.
+Did not calculate EV or trade/order.
+Did not touch FAICTORY, STEAMARY, or another project.
+Did not reset, git clean, force push, or delete files.
+
