@@ -1,0 +1,3 @@
+﻿record_id,source,status,network_access,login,cookies,captcha,proxy,bypass,account_automation,DATA_BRIDGE_write,active_payload_write,EV_calculation,BUY_TRADE_ORDER,notes
+V431Y-LOCAL-BOUNDARY-001,local_manifest_boundary,DRYRUN_ONLY,none,none,none,none,none,none,none,false,false,false,false,Validated V431Y readonly refresh boundary without external source access.
+

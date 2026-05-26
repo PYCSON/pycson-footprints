@@ -1,0 +1,91 @@
+﻿{
+    "validation_passed":  true,
+    "checklist_used":  "C:\\Users\\sunpu\\Desktop\\pycson\\1136_V431X_READONLY_REFRESH_DRYRUN_PACKAGE_OR_APPROVAL_GATE_OR_HOLD\\V431X_READONLY_REFRESH_DRYRUN_PACKAGE_OR_APPROVAL_GATE_OR_HOLD_20260525_102047\\03_CHECKLISTS\\v431x_readonly_refresh_validation_checklist.csv",
+    "checks":  [
+                   {
+                       "check_id":  "VAL-001",
+                       "requirement":  "Approval phrase confirmed",
+                       "expected":  "true",
+                       "actual":  true,
+                       "passed":  true
+                   },
+                   {
+                       "check_id":  "VAL-002",
+                       "requirement":  "V431W anchor loaded",
+                       "expected":  "true",
+                       "actual":  true,
+                       "passed":  true
+                   },
+                   {
+                       "check_id":  "VAL-003",
+                       "requirement":  "Readonly refresh dryrun boundary loaded",
+                       "expected":  "true",
+                       "actual":  true,
+                       "passed":  true
+                   },
+                   {
+                       "check_id":  "VAL-004",
+                       "requirement":  "No login/cookie/captcha/proxy/bypass/account automation",
+                       "expected":  "true",
+                       "actual":  true,
+                       "passed":  true
+                   },
+                   {
+                       "check_id":  "VAL-005",
+                       "requirement":  "No DATA_BRIDGE write",
+                       "expected":  "true",
+                       "actual":  true,
+                       "passed":  true
+                   },
+                   {
+                       "check_id":  "VAL-006",
+                       "requirement":  "No active payload write",
+                       "expected":  "true",
+                       "actual":  true,
+                       "passed":  true
+                   },
+                   {
+                       "check_id":  "VAL-007",
+                       "requirement":  "No EV calculation",
+                       "expected":  "true",
+                       "actual":  true,
+                       "passed":  true
+                   },
+                   {
+                       "check_id":  "VAL-008",
+                       "requirement":  "No BUY/TRADE/ORDER",
+                       "expected":  "true",
+                       "actual":  true,
+                       "passed":  true
+                   },
+                   {
+                       "check_id":  "VAL-009",
+                       "requirement":  "Forbidden output scan passed",
+                       "expected":  "true",
+                       "actual":  true,
+                       "passed":  true
+                   },
+                   {
+                       "check_id":  "VAL-010",
+                       "requirement":  "Report/latest/proof/footprint created",
+                       "expected":  "true",
+                       "actual":  true,
+                       "passed":  true
+                   }
+               ],
+    "output_manifest_satisfied":  true,
+    "expected_outputs_created":  [
+                                     "readonly_refresh_dryrun_result.json",
+                                     "readonly_refresh_dryrun_result.csv",
+                                     "source_access_audit.json",
+                                     "validation_report.json",
+                                     "forbidden_boundary_scan.json",
+                                     "no_write_no_fetch_no_ev_no_trade_proof.txt",
+                                     "report JSON",
+                                     "latest JSON",
+                                     "words.cossp footprint",
+                                     "root-level words.cossp mirror",
+                                     "git raw footprint",
+                                     "git summary"
+                                 ]
+}

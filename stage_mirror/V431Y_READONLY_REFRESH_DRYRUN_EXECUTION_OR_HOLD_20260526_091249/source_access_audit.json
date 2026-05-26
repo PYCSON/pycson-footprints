@@ -1,0 +1,18 @@
+﻿{
+    "source_access_boundary_passed":  true,
+    "no_login_cookies_captcha_proxy_bypass":  true,
+    "login":  false,
+    "cookies":  false,
+    "captcha":  false,
+    "captcha_bypass":  false,
+    "proxy":  false,
+    "region_or_account_bypass":  false,
+    "account_automation":  false,
+    "wallet_cashout_payment_order_flow":  false,
+    "private_account_or_session_data":  false,
+    "Steam_fetch":  false,
+    "BUFF_fetch":  false,
+    "market_endpoint_call":  false,
+    "source_access_attempted":  false,
+    "reason":  "No concrete source descriptors were present in the approved package; no network/source access was attempted."
+}

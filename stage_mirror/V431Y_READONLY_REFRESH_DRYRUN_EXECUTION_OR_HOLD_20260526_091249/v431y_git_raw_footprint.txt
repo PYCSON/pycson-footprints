@@ -1,0 +1,13 @@
+﻿Stage: V431Y_READONLY_REFRESH_DRYRUN_EXECUTION_OR_HOLD
+Timestamp: 20260526_091249
+Remote:
+origin	git@github.com:PYCSON/pycson-footprints.git (fetch)
+origin	git@github.com:PYCSON/pycson-footprints.git (push)
+core.sshCommand: ssh -i C:/Users/sunpu/.ssh/id_ed25519 -o IdentitiesOnly=yes -o UserKnownHostsFile=C:/Users/sunpu/.ssh/known_hosts -o StrictHostKeyChecking=accept-new
+Status before commit:
+## main...origin/main
+HEAD before commit: ebba55b
+origin/main before commit: ebba55b
+Script: C:\Users\sunpu\Desktop\pycson\1137_V431Y_READONLY_REFRESH_DRYRUN_EXECUTION_OR_HOLD\V431Y_READONLY_REFRESH_DRYRUN_EXECUTION_OR_HOLD_20260526_091249\00_EXECUTED_SCRIPT\RUN_V431Y_READONLY_REFRESH_DRYRUN_EXECUTION_OR_HOLD_20260526_091249.ps1
+Script SHA256: 2742BBEFB6460125FCCC47C1009808ADE749C65BDCB871F90C0E11F363811A97
+

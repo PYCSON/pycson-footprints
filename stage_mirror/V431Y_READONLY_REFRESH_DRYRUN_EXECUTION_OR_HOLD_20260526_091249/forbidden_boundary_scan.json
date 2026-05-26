@@ -1,0 +1,33 @@
+﻿{
+    "forbidden_boundary_passed":  true,
+    "forbidden_outputs_absent":  true,
+    "forbidden_terms_checked":  [
+                                    "BUY_NOW",
+                                    "TRADEUP_NOW",
+                                    "TRADE",
+                                    "ORDER",
+                                    "OFFICIAL_EV",
+                                    "TRUSTED_EV",
+                                    "TRADEUP_EV",
+                                    "executable PROFIT",
+                                    "executable recommendation"
+                                ],
+    "Steam_fetch":  false,
+    "BUFF_fetch":  false,
+    "market_endpoint_call":  false,
+    "UI_patch":  false,
+    "Mother_UI_modified":  false,
+    "LIVE_UI_modified":  false,
+    "DATA_BRIDGE_write":  false,
+    "active_payload_write":  false,
+    "EV_calculation":  false,
+    "BUY_TRADE_ORDER":  false,
+    "login":  false,
+    "cookies":  false,
+    "captcha":  false,
+    "captcha_bypass":  false,
+    "proxy":  false,
+    "bypass":  false,
+    "account_automation":  false,
+    "private_account_session_data":  false
+}
