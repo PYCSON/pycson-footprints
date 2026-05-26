@@ -1,0 +1,5 @@
+﻿gap_id,gap,impact,recommended_resolution
+GAP-001,No concrete readonly source descriptors were available,Real source retrieval was not proven,V432B_READONLY_REFRESH_SOURCE_DESCRIPTOR_PLAN_OR_HOLD
+GAP-002,No external source access was attempted,Freshness and source response handling remain unproven,Create source descriptor plan before any further readonly refresh execution
+GAP-003,No EV readiness established,EV remains premature,Do not recommend EV until source descriptors and mapping are accepted
+
