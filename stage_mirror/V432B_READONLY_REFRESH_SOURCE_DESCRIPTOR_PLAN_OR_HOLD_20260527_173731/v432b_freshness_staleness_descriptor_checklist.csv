@@ -1,0 +1,7 @@
+﻿field,required,notes
+freshness_policy,true,Define STATIC/CACHE_TIMESTAMP/OBSERVED_AT
+staleness_threshold_seconds,true,Must be non-executable numeric threshold
+last_observed_at,false,Only if locally known
+cache_snapshot_id,false,Local cache identifier only
+staleness_status,false,Allowed values FRESH/STALE/UNKNOWN
+

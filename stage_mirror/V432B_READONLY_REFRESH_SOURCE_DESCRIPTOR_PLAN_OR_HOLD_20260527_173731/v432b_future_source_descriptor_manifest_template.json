@@ -1,0 +1,63 @@
+﻿{
+    "manifest_stage":  "FUTURE_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE",
+    "manifest_status":  "DRAFT_TEMPLATE_ONLY",
+    "descriptors":  [
+                        {
+                            "descriptor_id":  "SRC-DESCRIPTOR-EXAMPLE-001",
+                            "source_family":  "EXAMPLE_FAMILY",
+                            "source_name":  "EXAMPLE_SOURCE_NAME",
+                            "source_description":  "Human reviewed non-secret descriptor example",
+                            "source_trust_label":  "REVIEW_REQUIRED",
+                            "access_mode_label":  "LOCAL_ONLY",
+                            "cache_policy":  "LOCAL_ONLY",
+                            "cache_key":  "",
+                            "local_fixture_path":  "",
+                            "public_readonly_url_template":  "",
+                            "freshness_policy":  "UNKNOWN",
+                            "staleness_threshold_seconds":  0,
+                            "last_observed_at":  "",
+                            "confidence_policy":  "MANUAL_REVIEW",
+                            "confidence_score_basis":  "Descriptor template only",
+                            "allowed_output_fields":  [
+                                                          "source_name",
+                                                          "observed_at",
+                                                          "raw_value",
+                                                          "normalized_value",
+                                                          "staleness_status",
+                                                          "review_required"
+                                                      ],
+                            "forbidden_fields":  [
+                                                     "username",
+                                                     "password",
+                                                     "cookie",
+                                                     "session_token",
+                                                     "api_key",
+                                                     "captcha_solution",
+                                                     "proxy_credentials",
+                                                     "bypass_instructions",
+                                                     "account_automation",
+                                                     "wallet",
+                                                     "payment",
+                                                     "order_flow",
+                                                     "DATA_BRIDGE_target",
+                                                     "active_payload_target",
+                                                     "EV_formula",
+                                                     "BUY_NOW",
+                                                     "TRADEUP_NOW",
+                                                     "TRADE",
+                                                     "ORDER"
+                                                 ],
+                            "boundary_requirements":  {
+                                                          "login":  "forbidden",
+                                                          "cookies":  "forbidden",
+                                                          "captcha":  "forbidden",
+                                                          "proxy":  "forbidden",
+                                                          "bypass":  "forbidden",
+                                                          "account_automation":  "forbidden",
+                                                          "payment_or_order_flow":  "forbidden"
+                                                      },
+                            "review_status":  "DRAFT_TEMPLATE_ONLY",
+                            "notes":  "No fetch or source access permitted by this template."
+                        }
+                    ]
+}

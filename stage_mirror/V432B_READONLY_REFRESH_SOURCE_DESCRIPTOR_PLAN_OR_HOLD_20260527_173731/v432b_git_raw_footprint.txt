@@ -1,0 +1,13 @@
+﻿Stage: V432B_READONLY_REFRESH_SOURCE_DESCRIPTOR_PLAN_OR_HOLD
+Timestamp: 20260527_173731
+Remote:
+origin	git@github.com:PYCSON/pycson-footprints.git (fetch)
+origin	git@github.com:PYCSON/pycson-footprints.git (push)
+core.sshCommand: ssh -i C:/Users/sunpu/.ssh/id_ed25519 -o IdentitiesOnly=yes -o UserKnownHostsFile=C:/Users/sunpu/.ssh/known_hosts -o StrictHostKeyChecking=accept-new
+Status before commit:
+## main...origin/main
+HEAD before commit: 537260c
+origin/main before commit: 537260c
+Script: C:\Users\sunpu\Desktop\pycson\1140_V432B_READONLY_REFRESH_SOURCE_DESCRIPTOR_PLAN_OR_HOLD\V432B_READONLY_REFRESH_SOURCE_DESCRIPTOR_PLAN_OR_HOLD_20260527_173731\00_EXECUTED_SCRIPT\RUN_V432B_READONLY_REFRESH_SOURCE_DESCRIPTOR_PLAN_OR_HOLD_20260527_173731.ps1
+Script SHA256: 6BFEE6B05D24B931F712A1F9FE9C110F84D2ECBE416D1E7B3C8FBB2CE3BE3FB3
+

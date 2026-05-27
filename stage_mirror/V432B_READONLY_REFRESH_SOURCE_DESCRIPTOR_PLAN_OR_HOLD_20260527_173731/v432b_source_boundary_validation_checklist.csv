@@ -1,0 +1,13 @@
+﻿check_id,boundary,required_state
+BND-001,no_login,true
+BND-002,no_cookies,true
+BND-003,no_captcha,true
+BND-004,no_proxy,true
+BND-005,no_bypass,true
+BND-006,no_account_automation,true
+BND-007,no_payment_order_wallet_flow,true
+BND-008,no_DATA_BRIDGE_write,true
+BND-009,no_active_payload_write,true
+BND-010,no_EV,true
+BND-011,no_BUY_TRADE_ORDER,true
+

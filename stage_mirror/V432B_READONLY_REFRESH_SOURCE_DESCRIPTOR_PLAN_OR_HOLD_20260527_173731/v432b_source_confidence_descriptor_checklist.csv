@@ -1,0 +1,6 @@
+﻿field,required,notes
+confidence_policy,true,Define MANUAL_REVIEW/MOCK/CACHE/READONLY_CANDIDATE
+confidence_score_basis,false,Descriptive basis only no EV
+source_consistency_notes,false,Non-executable review notes
+review_required,true,Boolean
+

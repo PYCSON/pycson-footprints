@@ -1,0 +1,9 @@
+﻿label,meaning,allowed_for_v432b
+MOCK_ONLY,Fixture or invented mock source,true
+LOCAL_ONLY,Local file/source descriptor only,true
+CACHE_ONLY,Existing cache read without network,true
+PUBLIC_READONLY_CANDIDATE,Unauthenticated public readonly candidate requiring later review,true
+REVIEW_REQUIRED,Needs human review before dryrun,true
+TRUSTED_SOURCE,Reserved for future accepted source,false
+OFFICIAL_SOURCE,Reserved for future official source proof,false
+

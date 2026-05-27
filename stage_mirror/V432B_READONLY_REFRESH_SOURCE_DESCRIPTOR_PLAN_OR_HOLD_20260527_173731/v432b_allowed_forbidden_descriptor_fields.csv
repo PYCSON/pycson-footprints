@@ -1,0 +1,23 @@
+﻿field,classification,notes
+descriptor_id,ALLOWED,Stable non-secret identifier
+source_family,ALLOWED,Human-readable source group
+source_name,ALLOWED,Source label without credentials
+source_trust_label,ALLOWED,Registry value required
+access_mode_label,ALLOWED,Registry value required
+cache_policy,ALLOWED,LOCAL_ONLY/CACHE_ONLY/LIVE_READONLY_CANDIDATE
+public_readonly_url_template,ALLOWED_ONLY_AFTER_REVIEW,No tokens cookies credentials or bypass hints
+username,FORBIDDEN,Credential
+password,FORBIDDEN,Credential
+cookie,FORBIDDEN,Session data
+session_token,FORBIDDEN,Session data
+api_key,FORBIDDEN,Secret
+captcha_solution,FORBIDDEN,Bypass material
+proxy_credentials,FORBIDDEN,Bypass material
+DATA_BRIDGE_target,FORBIDDEN,Write target
+active_payload_target,FORBIDDEN,Write target
+EV_formula,FORBIDDEN,EV remains blocked
+BUY_NOW,FORBIDDEN,Trade action
+TRADEUP_NOW,FORBIDDEN,Trade action
+TRADE,FORBIDDEN,Trade action
+ORDER,FORBIDDEN,Order action
+

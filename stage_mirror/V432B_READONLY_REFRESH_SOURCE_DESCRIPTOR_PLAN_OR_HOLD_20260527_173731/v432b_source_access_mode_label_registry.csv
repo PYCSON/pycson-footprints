@@ -1,0 +1,7 @@
+﻿label,meaning,network_allowed,approval_required
+LOCAL_ONLY,Local descriptor or fixture only,false,false
+CACHE_ONLY,Existing cache read only,false,false
+MOCK_ONLY,Mock source only,false,false
+LIVE_READONLY_CANDIDATE,Potential unauthenticated public readonly access,true,true
+BLOCKED,Forbidden access,false,true
+
