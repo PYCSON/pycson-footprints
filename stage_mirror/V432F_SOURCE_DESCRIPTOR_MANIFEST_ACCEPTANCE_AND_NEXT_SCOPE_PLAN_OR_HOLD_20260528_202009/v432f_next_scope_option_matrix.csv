@@ -1,0 +1,6 @@
+﻿"option","next_scope","safety","recommendation","rationale"
+"A","V432G_READONLY_REFRESH_DESCRIPTOR_TO_DRYRUN_INPUT_MAPPING_PLAN_OR_HOLD","planning_only","preferred","Maps accepted descriptors to future dryrun inputs before any refresh execution."
+"B","V432G_SOURCE_DESCRIPTOR_MANIFEST_ACCEPTANCE_REVIEW_AND_REFRESH_GATE_OR_HOLD","review_gate","acceptable","Adds review/gate before future refresh package."
+"C","V432G_READONLY_REFRESH_DRYRUN_PACKAGE_REPAIR_OR_EXPANSION_OR_HOLD","package_only","acceptable_later","Useful after mapping clarifies input needs."
+"D","V432G_EV_DRYRUN_PRECONDITION_GAP_REVIEW_OR_HOLD","review_only","not_yet","EV remains premature before descriptor-to-refresh mapping."
+"E","HOLD","manual_direction","available","Pause for user direction."

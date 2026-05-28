@@ -1,0 +1,5 @@
+﻿"gap_id","gap","status","next_action"
+"NO_REAL_SOURCE_DESCRIPTOR_ACCESS","No external source access has been attempted","intentionally_open","descriptor-to-dryrun input mapping before refresh"
+"NO_REFRESH_EXECUTION_WITH_DESCRIPTORS","Manifest descriptors have not driven a refresh dryrun","intentionally_open","future gated package/review"
+"NO_EV_READINESS","EV remains out of scope until refresh/source path is reviewed","closed_for_now","do not recommend EV yet"
+"NO_DATA_BRIDGE_APPLICATION","No DATA_BRIDGE or active payload write","closed_boundary","remain forbidden"
