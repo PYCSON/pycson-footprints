@@ -1,0 +1,11 @@
+﻿{
+    "current_anchor":  "V432E_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_REVIEW_OR_HOLD",
+    "status":  "PASS_V432E_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_REVIEW",
+    "decision":  "READY_FOR_V432F_SOURCE_DESCRIPTOR_MANIFEST_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD",
+    "next_safe_step":  "V432F_SOURCE_DESCRIPTOR_MANIFEST_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD",
+    "report_JSON_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1143_V432E_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_REVIEW_OR_HOLD\\V432E_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_REVIEW_OR_HOLD_20260528_200824\\03_REPORT\\v432e_source_descriptor_manifest_package_review_or_hold_report.json",
+    "latest_JSON_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1143_V432E_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_REVIEW_OR_HOLD\\V432E_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_REVIEW_OR_HOLD_20260528_200824\\04_LATEST\\v432e_source_descriptor_manifest_package_review_or_hold_latest.json",
+    "proof_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1143_V432E_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_REVIEW_OR_HOLD\\V432E_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_REVIEW_OR_HOLD_20260528_200824\\02_PROOF\\v432e_no_refresh_no_fetch_no_ev_no_trade_proof.txt",
+    "footprint_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\03_MEMORY_CORES\\words.cossp\\V432E_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_REVIEW_OR_HOLD\\v432e_source_descriptor_manifest_package_review_footprint_20260528_200824.md",
+    "timestamp":  "20260528_200824"
+}
