@@ -1,0 +1,4 @@
+﻿"source_trust_label","access_mode_label","allowed_for_v432d","allows_refresh_execution"
+"MOCK_PUBLIC_REFERENCE","LOCAL_MOCK_ONLY","true","false"
+"PUBLIC_READONLY_CANDIDATE","FUTURE_READONLY_PUBLIC_NO_SESSION","false","false"
+"PRIVATE_OR_SESSION_SOURCE","FORBIDDEN","false","false"

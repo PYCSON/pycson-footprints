@@ -1,0 +1,5 @@
+﻿"check_id","requirement","expected","status"
+"SCHEMA_JSON_PARSE","manifest JSON parses","true","planned"
+"LOCAL_MOCK_ONLY","sample rows are local/mock only","true","planned"
+"NO_REFRESH_ALLOWED","descriptor refresh_allowed is false in package","true","planned"
+"FORBIDDEN_BOUNDARIES_PRESENT","forbidden boundary list present","true","planned"

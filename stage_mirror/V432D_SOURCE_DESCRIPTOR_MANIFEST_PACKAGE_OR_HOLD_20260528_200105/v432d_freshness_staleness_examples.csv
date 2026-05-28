@@ -1,0 +1,3 @@
+﻿"freshness_label","meaning","allowed_for_v432d"
+"STALE_SAMPLE_ALLOWED_FOR_SCHEMA_ONLY","sample row used only to test descriptor fields","true"
+"UNKNOWN_FUTURE_READONLY","requires future review before use","example_only"

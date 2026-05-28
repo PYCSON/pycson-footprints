@@ -1,0 +1,15 @@
+﻿# V432D Source Descriptor Manifest Package
+
+Purpose: package local/mock source descriptor manifest examples using the accepted V432B/V432C descriptor plan.
+
+Scope: package/planning only. No readonly refresh, no Steam/BUFF/market fetch, no scheduler execution, no UI patch, no DATA_BRIDGE write, no active payload write, no EV calculation, and no BUY/TRADE/ORDER.
+
+Artifacts:
+- Manifest: C:\Users\sunpu\Desktop\pycson\1142_V432D_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_OR_HOLD\V432D_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_OR_HOLD_20260528_200105\01_MANIFEST_PACKAGE\v432d_source_descriptor_manifest.json
+- Sample rows: C:\Users\sunpu\Desktop\pycson\1142_V432D_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_OR_HOLD\V432D_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_OR_HOLD_20260528_200105\01_MANIFEST_PACKAGE\v432d_sample_local_mock_descriptor_rows.csv
+- Validation checklist: C:\Users\sunpu\Desktop\pycson\1142_V432D_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_OR_HOLD\V432D_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_OR_HOLD_20260528_200105\02_CHECKLISTS\v432d_descriptor_validation_checklist.csv
+- Boundary checklist: C:\Users\sunpu\Desktop\pycson\1142_V432D_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_OR_HOLD\V432D_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_OR_HOLD_20260528_200105\02_CHECKLISTS\v432d_descriptor_boundary_checklist.csv
+- Trust/access mapping: C:\Users\sunpu\Desktop\pycson\1142_V432D_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_OR_HOLD\V432D_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_OR_HOLD_20260528_200105\01_MANIFEST_PACKAGE\v432d_source_trust_access_mapping.csv
+- Freshness/staleness examples: C:\Users\sunpu\Desktop\pycson\1142_V432D_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_OR_HOLD\V432D_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_OR_HOLD_20260528_200105\03_EXAMPLES\v432d_freshness_staleness_examples.csv
+- Confidence label examples: C:\Users\sunpu\Desktop\pycson\1142_V432D_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_OR_HOLD\V432D_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_OR_HOLD_20260528_200105\03_EXAMPLES\v432d_confidence_label_examples.csv
+- Handoff notes: C:\Users\sunpu\Desktop\pycson\1142_V432D_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_OR_HOLD\V432D_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_OR_HOLD_20260528_200105\04_HANDOFF\v432d_future_readonly_refresh_handoff_notes.md

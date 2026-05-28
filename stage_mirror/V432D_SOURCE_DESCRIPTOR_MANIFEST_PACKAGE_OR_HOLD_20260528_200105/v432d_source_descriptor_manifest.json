@@ -1,0 +1,62 @@
+﻿{
+    "manifest_id":  "V432D_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_LOCAL_MOCK_ONLY",
+    "stage":  "V432D_SOURCE_DESCRIPTOR_MANIFEST_PACKAGE_OR_HOLD",
+    "created_at":  "20260528_200105",
+    "template_source":  "C:\\Users\\sunpu\\Desktop\\pycson\\1140_V432B_READONLY_REFRESH_SOURCE_DESCRIPTOR_PLAN_OR_HOLD\\V432B_READONLY_REFRESH_SOURCE_DESCRIPTOR_PLAN_OR_HOLD_20260527_173731\\05_TEMPLATE\\v432b_future_source_descriptor_manifest_template.json",
+    "execution_mode":  "PACKAGE_ONLY_NO_REFRESH",
+    "descriptors":  [
+                        {
+                            "descriptor_id":  "LOCAL_MOCK_STEAM_PUBLIC_LISTING_DESCRIPTOR_001",
+                            "source_family":  "STEAM_PUBLIC_REFERENCE",
+                            "source_trust_label":  "MOCK_PUBLIC_REFERENCE",
+                            "access_mode_label":  "LOCAL_MOCK_ONLY",
+                            "source_access_boundary":  "NO_LOGIN_NO_COOKIE_NO_CAPTCHA_NO_PROXY_NO_BYPASS_NO_ACCOUNT_AUTOMATION",
+                            "source_uri_kind":  "mock_placeholder_no_network",
+                            "source_uri":  "local-mock://steam/public/listing/example-001",
+                            "cache_policy":  "LOCAL_ONLY_SAMPLE",
+                            "freshness_label":  "STALE_SAMPLE_ALLOWED_FOR_SCHEMA_ONLY",
+                            "freshness_observed_at":  null,
+                            "staleness_reason":  "sample descriptor only; no external source accessed",
+                            "confidence_label":  "LOW_SAMPLE_ONLY",
+                            "confidence_reason":  "local mock descriptor created for manifest/package validation only",
+                            "is_mock":  true,
+                            "is_local_only":  true,
+                            "refresh_allowed":  false,
+                            "notes":  "Descriptor proves manifest shape only; it does not authorize source access."
+                        },
+                        {
+                            "descriptor_id":  "LOCAL_MOCK_BUFF_PUBLIC_REFERENCE_DESCRIPTOR_001",
+                            "source_family":  "BUFF_PUBLIC_REFERENCE",
+                            "source_trust_label":  "MOCK_PUBLIC_REFERENCE",
+                            "access_mode_label":  "LOCAL_MOCK_ONLY",
+                            "source_access_boundary":  "NO_LOGIN_NO_COOKIE_NO_CAPTCHA_NO_PROXY_NO_BYPASS_NO_ACCOUNT_AUTOMATION",
+                            "source_uri_kind":  "mock_placeholder_no_network",
+                            "source_uri":  "local-mock://buff/public/reference/example-001",
+                            "cache_policy":  "LOCAL_ONLY_SAMPLE",
+                            "freshness_label":  "STALE_SAMPLE_ALLOWED_FOR_SCHEMA_ONLY",
+                            "freshness_observed_at":  null,
+                            "staleness_reason":  "sample descriptor only; no external source accessed",
+                            "confidence_label":  "LOW_SAMPLE_ONLY",
+                            "confidence_reason":  "local mock descriptor created for manifest/package validation only",
+                            "is_mock":  true,
+                            "is_local_only":  true,
+                            "refresh_allowed":  false,
+                            "notes":  "Descriptor proves manifest shape only; it does not authorize source access."
+                        }
+                    ],
+    "forbidden_boundaries":  [
+                                 "NO_STEAM_FETCH",
+                                 "NO_BUFF_FETCH",
+                                 "NO_MARKET_ENDPOINT_CALL",
+                                 "NO_LOGIN",
+                                 "NO_COOKIES",
+                                 "NO_CAPTCHA",
+                                 "NO_PROXY",
+                                 "NO_BYPASS",
+                                 "NO_DATA_BRIDGE_WRITE",
+                                 "NO_ACTIVE_PAYLOAD_WRITE",
+                                 "NO_EV",
+                                 "NO_BUY_TRADE_ORDER"
+                             ],
+    "next_use":  "V432E review before any future manifest execution or refresh package"
+}

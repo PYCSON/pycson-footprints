@@ -1,0 +1,3 @@
+﻿"confidence_label","meaning","allowed_for_v432d"
+"LOW_SAMPLE_ONLY","local mock descriptor, no external observation","true"
+"REVIEW_REQUIRED_PUBLIC_DESCRIPTOR","future candidate requiring review","example_only"
