@@ -1,0 +1,11 @@
+﻿{
+    "current_anchor":  "V432H_DESCRIPTOR_TO_DRYRUN_INPUT_MAPPING_PLAN_REVIEW_OR_HOLD",
+    "status":  "PASS_V432H_DESCRIPTOR_TO_DRYRUN_INPUT_MAPPING_PLAN_REVIEW",
+    "decision":  "READY_FOR_V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD",
+    "next_safe_step":  "V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD",
+    "report_JSON_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1146_V432H_DESCRIPTOR_TO_DRYRUN_INPUT_MAPPING_PLAN_REVIEW_OR_HOLD\\V432H_DESCRIPTOR_TO_DRYRUN_INPUT_MAPPING_PLAN_REVIEW_OR_HOLD_20260529_195923\\03_REPORT\\v432h_descriptor_to_dryrun_input_mapping_plan_review_or_hold_report.json",
+    "latest_JSON_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1146_V432H_DESCRIPTOR_TO_DRYRUN_INPUT_MAPPING_PLAN_REVIEW_OR_HOLD\\V432H_DESCRIPTOR_TO_DRYRUN_INPUT_MAPPING_PLAN_REVIEW_OR_HOLD_20260529_195923\\04_LATEST\\v432h_descriptor_to_dryrun_input_mapping_plan_review_or_hold_latest.json",
+    "proof_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1146_V432H_DESCRIPTOR_TO_DRYRUN_INPUT_MAPPING_PLAN_REVIEW_OR_HOLD\\V432H_DESCRIPTOR_TO_DRYRUN_INPUT_MAPPING_PLAN_REVIEW_OR_HOLD_20260529_195923\\02_PROOF\\v432h_no_refresh_no_fetch_no_ev_no_trade_proof.txt",
+    "footprint_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\03_MEMORY_CORES\\words.cossp\\V432H_DESCRIPTOR_TO_DRYRUN_INPUT_MAPPING_PLAN_REVIEW_OR_HOLD\\v432h_descriptor_to_dryrun_input_mapping_plan_review_footprint_20260529_195923.md",
+    "timestamp":  "20260529_195923"
+}
