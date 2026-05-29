@@ -1,0 +1,4 @@
+﻿"access_mode","dryrun_access_mode","source_access_allowed","allowed"
+"LOCAL_MOCK_ONLY","LOCAL_MOCK_ONLY","false","true"
+"FUTURE_READONLY_PUBLIC_NO_SESSION","REVIEW_REQUIRED_READONLY_PUBLIC_NO_SESSION","false","future_gate_only"
+"LOGIN_COOKIE_CAPTCHA_PROXY_BYPASS","FORBIDDEN","false","false"

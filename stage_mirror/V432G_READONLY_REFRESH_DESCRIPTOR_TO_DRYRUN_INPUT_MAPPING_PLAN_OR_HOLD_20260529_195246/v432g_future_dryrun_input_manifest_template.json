@@ -1,0 +1,33 @@
+﻿{
+    "manifest_id":  "V432G_FUTURE_DRYRUN_INPUT_MANIFEST_TEMPLATE",
+    "stage":  "V432G_READONLY_REFRESH_DESCRIPTOR_TO_DRYRUN_INPUT_MAPPING_PLAN_OR_HOLD",
+    "created_at":  "20260529_195246",
+    "execution_mode":  "TEMPLATE_ONLY_NO_MAPPING_EXECUTION_NO_REFRESH",
+    "dryrun_inputs":  [
+                          {
+                              "dryrun_input_id":  "DRYRUN_INPUT_FROM_DESCRIPTOR_PLACEHOLDER",
+                              "descriptor_id":  "SOURCE_DESCRIPTOR_PLACEHOLDER",
+                              "dryrun_source_family":  "PLACEHOLDER",
+                              "dryrun_access_mode":  "LOCAL_MOCK_ONLY_OR_REVIEW_REQUIRED_READONLY_PUBLIC_NO_SESSION",
+                              "dryrun_source_uri_kind":  "mock_placeholder_no_network_or_future_reviewed_public_reference",
+                              "dryrun_source_uri":  "not_dereferenced_in_mapping_plan",
+                              "dryrun_cache_policy":  "LOCAL_ONLY_OR_REVIEW_REQUIRED",
+                              "dryrun_freshness_label":  "REVIEW_REQUIRED",
+                              "dryrun_confidence_label":  "REVIEW_REQUIRED",
+                              "boundary_precheck_required":  true,
+                              "source_access_allowed":  false,
+                              "expected_output_mode":  "NO_WRITE_NO_EV_NO_TRADE",
+                              "review_required":  true,
+                              "notes":  "Template only. No executable dryrun input is produced in V432G."
+                          }
+                      ],
+    "forbidden_outputs":  [
+                              "BUY_NOW",
+                              "TRADEUP_NOW",
+                              "TRADE",
+                              "ORDER",
+                              "OFFICIAL_EV",
+                              "TRUSTED_EV",
+                              "executable PROFIT"
+                          ]
+}

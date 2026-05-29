@@ -1,0 +1,4 @@
+﻿"descriptor_trust","descriptor_confidence","dryrun_review_required","signal_ready","allowed"
+"MOCK_PUBLIC_REFERENCE","LOW_SAMPLE_ONLY","true","false","true"
+"PUBLIC_READONLY_CANDIDATE","REVIEW_REQUIRED_PUBLIC_DESCRIPTOR","true","false","future_review_only"
+"PRIVATE_OR_SESSION_SOURCE","ANY","hold","false","false"

@@ -1,0 +1,4 @@
+﻿"condition","criteria"
+"PASS","Plan artifacts created, no refresh/fetch/write/EV/UI/trade, next scope review only"
+"HOLD","Any source descriptor requires live access or unclear boundary"
+"STOP","Any attempt to fetch, write DATA_BRIDGE/active payload, calculate EV, or emit trade/order"

@@ -1,0 +1,4 @@
+﻿"descriptor_value","dryrun_input_value","mapping","allowed","notes"
+"STALE_SAMPLE_ALLOWED_FOR_SCHEMA_ONLY","STALE_SAMPLE_ALLOWED_FOR_SCHEMA_ONLY","copy","true","sample remains non-signal"
+"UNKNOWN_FUTURE_READONLY","REVIEW_REQUIRED_UNKNOWN_FRESHNESS","review_label","true","requires future review"
+"FRESH_LIVE_OBSERVED","HOLD_NOT_ALLOWED_IN_THIS_PLAN","forbidden","false","live observation not produced here"

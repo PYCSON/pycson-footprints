@@ -1,0 +1,6 @@
+﻿"option","next_scope","recommendation","rationale"
+"A","V432H_DESCRIPTOR_TO_DRYRUN_INPUT_MAPPING_PLAN_REVIEW_OR_HOLD","preferred","Review the mapping plan before executable input manifests."
+"B","V432H_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD","later","Create only after mapping review."
+"C","V432H_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_OR_HOLD","later","Useful after manifest package exists."
+"D","V432H_EV_DRYRUN_PRECONDITION_GAP_REVIEW_OR_HOLD","not_yet","EV remains premature before mapping review and refresh input validation."
+"E","HOLD","available","Manual user direction."

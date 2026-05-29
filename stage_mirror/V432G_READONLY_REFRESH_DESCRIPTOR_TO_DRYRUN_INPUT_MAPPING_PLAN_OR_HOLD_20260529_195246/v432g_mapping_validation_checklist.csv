@@ -1,0 +1,6 @@
+﻿"check_id","requirement","expected"
+"FIELD_MAPPING_COMPLETE","All required descriptor fields map to dryrun input fields","true"
+"NO_URI_DEREFERENCE","Mapping does not dereference source URI","true"
+"BOUNDARY_PRECHECK_INCLUDED","Boundary precheck required for every row","true"
+"NO_SIGNAL_READY_PROMOTION","Mapping does not promote to signal-ready","true"
+"NO_EV_OR_TRADE_FIELDS","No EV or trade/order fields emitted","true"
