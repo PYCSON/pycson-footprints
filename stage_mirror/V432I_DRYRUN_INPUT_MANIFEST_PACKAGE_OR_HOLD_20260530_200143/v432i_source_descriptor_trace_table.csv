@@ -1,0 +1,3 @@
+﻿"dryrun_input_id","descriptor_id","descriptor_source","trace_status"
+"DRYRUN_INPUT_LOCAL_MOCK_STEAM_001","LOCAL_MOCK_STEAM_PUBLIC_LISTING_DESCRIPTOR_001","V432D sample descriptor","mapped_from_accepted_plan"
+"DRYRUN_INPUT_LOCAL_MOCK_BUFF_001","LOCAL_MOCK_BUFF_PUBLIC_REFERENCE_DESCRIPTOR_001","V432D sample descriptor","mapped_from_accepted_plan"

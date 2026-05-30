@@ -1,0 +1,3 @@
+﻿"dryrun_input_id","descriptor_id","dryrun_source_family","dryrun_access_mode","dryrun_source_uri_kind","dryrun_source_uri","source_access_allowed","review_required","signal_ready","expected_output_mode"
+"DRYRUN_INPUT_LOCAL_MOCK_STEAM_001","LOCAL_MOCK_STEAM_PUBLIC_LISTING_DESCRIPTOR_001","STEAM_PUBLIC_REFERENCE","LOCAL_MOCK_ONLY","mock_placeholder_no_network","local-mock://steam/public/listing/example-001","false","true","false","NO_WRITE_NO_EV_NO_TRADE"
+"DRYRUN_INPUT_LOCAL_MOCK_BUFF_001","LOCAL_MOCK_BUFF_PUBLIC_REFERENCE_DESCRIPTOR_001","BUFF_PUBLIC_REFERENCE","LOCAL_MOCK_ONLY","mock_placeholder_no_network","local-mock://buff/public/reference/example-001","false","true","false","NO_WRITE_NO_EV_NO_TRADE"

@@ -1,0 +1,14 @@
+﻿{
+    "manifest_id":  "V432I_EXPECTED_DRYRUN_INPUT_OUTPUT_MANIFEST",
+    "expected_files":  [
+                           "v432i_dryrun_input_manifest.json",
+                           "v432i_sample_local_mock_dryrun_input_rows.csv",
+                           "v432i_input_validation_checklist.csv",
+                           "v432i_input_boundary_checklist.csv"
+                       ],
+    "expected_row_count":  2,
+    "source_access_allowed":  "false_for_all_rows",
+    "expected_execution":  "none",
+    "forbidden_outputs_absent":  true,
+    "next_review":  "V432J_DRYRUN_INPUT_MANIFEST_PACKAGE_REVIEW_OR_HOLD"
+}

@@ -1,0 +1,6 @@
+﻿"check_id","requirement","expected"
+"JSON_PARSE","dryrun input manifest parses","true"
+"LOCAL_MOCK_ONLY","sample rows are local/mock only","true"
+"SOURCE_ACCESS_DISABLED","source_access_allowed false for all rows","true"
+"NO_SIGNAL_READY","signal_ready false for all rows","true"
+"NO_EV_OR_TRADE_OUTPUT","no EV/trade/order fields","true"

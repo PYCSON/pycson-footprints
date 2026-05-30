@@ -1,0 +1,5 @@
+﻿"mapping_id","source_field","target_field","transformation","allowed"
+"MAP_001","descriptor_id","dryrun_input_id","prefix_local_identifier","true"
+"MAP_002","source_family","dryrun_source_family","copy_exact","true"
+"MAP_003","source_uri","dryrun_source_uri","copy_without_fetch","true"
+"MAP_004","refresh_allowed","source_access_allowed","must_remain_false_until_future_gate","true"

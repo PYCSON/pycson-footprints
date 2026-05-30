@@ -1,0 +1,15 @@
+﻿# V432I Dryrun Input Manifest Package
+
+Purpose: package local/mock dryrun input rows from the accepted V432G/V432H mapping plan.
+
+Scope: package/planning only. No readonly refresh execution and no source access.
+
+Artifacts:
+- Dryrun input manifest: C:\Users\sunpu\Desktop\pycson\1147_V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD\V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD_20260530_200143\01_DRYRUN_INPUT_PACKAGE\v432i_dryrun_input_manifest.json
+- Sample rows: C:\Users\sunpu\Desktop\pycson\1147_V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD\V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD_20260530_200143\01_DRYRUN_INPUT_PACKAGE\v432i_sample_local_mock_dryrun_input_rows.csv
+- Input validation checklist: C:\Users\sunpu\Desktop\pycson\1147_V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD\V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD_20260530_200143\02_CHECKLISTS\v432i_input_validation_checklist.csv
+- Input boundary checklist: C:\Users\sunpu\Desktop\pycson\1147_V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD\V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD_20260530_200143\02_CHECKLISTS\v432i_input_boundary_checklist.csv
+- Source descriptor trace: C:\Users\sunpu\Desktop\pycson\1147_V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD\V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD_20260530_200143\03_TRACE\v432i_source_descriptor_trace_table.csv
+- Mapping trace: C:\Users\sunpu\Desktop\pycson\1147_V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD\V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD_20260530_200143\03_TRACE\v432i_mapping_trace_table.csv
+- Expected output manifest: C:\Users\sunpu\Desktop\pycson\1147_V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD\V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD_20260530_200143\01_DRYRUN_INPUT_PACKAGE\v432i_expected_dryrun_input_output_manifest.json
+- Handoff notes: C:\Users\sunpu\Desktop\pycson\1147_V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD\V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD_20260530_200143\04_HANDOFF\v432i_future_readonly_refresh_dryrun_handoff_notes.md
