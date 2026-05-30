@@ -1,0 +1,11 @@
+﻿{
+    "current_anchor":  "V432J_DRYRUN_INPUT_MANIFEST_PACKAGE_REVIEW_OR_HOLD",
+    "status":  "HOLD_V432J_DRYRUN_INPUT_MANIFEST_PACKAGE_REVIEW_REPAIR_REQUIRED",
+    "decision":  "REPAIR_V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD",
+    "next_safe_step":  "REPAIR_V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD",
+    "report_JSON_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1148_V432J_DRYRUN_INPUT_MANIFEST_PACKAGE_REVIEW_OR_HOLD\\V432J_DRYRUN_INPUT_MANIFEST_PACKAGE_REVIEW_OR_HOLD_20260530_210021\\03_REPORT\\v432j_dryrun_input_manifest_package_review_or_hold_report.json",
+    "latest_JSON_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1148_V432J_DRYRUN_INPUT_MANIFEST_PACKAGE_REVIEW_OR_HOLD\\V432J_DRYRUN_INPUT_MANIFEST_PACKAGE_REVIEW_OR_HOLD_20260530_210021\\04_LATEST\\v432j_dryrun_input_manifest_package_review_or_hold_latest.json",
+    "proof_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1148_V432J_DRYRUN_INPUT_MANIFEST_PACKAGE_REVIEW_OR_HOLD\\V432J_DRYRUN_INPUT_MANIFEST_PACKAGE_REVIEW_OR_HOLD_20260530_210021\\02_PROOF\\v432j_no_refresh_no_fetch_no_ev_no_trade_proof.txt",
+    "footprint_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\03_MEMORY_CORES\\words.cossp\\V432J_DRYRUN_INPUT_MANIFEST_PACKAGE_REVIEW_OR_HOLD\\v432j_dryrun_input_manifest_package_review_footprint_20260530_210021.md",
+    "timestamp":  "20260530_210021"
+}
