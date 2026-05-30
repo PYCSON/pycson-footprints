@@ -1,0 +1,20 @@
+﻿{
+    "target_handoff_notes_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1147_V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD\\V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD_20260530_200143\\04_HANDOFF\\v432i_future_readonly_refresh_dryrun_handoff_notes.md",
+    "backup_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1149_REPAIR_V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD\\REPAIR_V432I_DRYRUN_INPUT_MANIFEST_PACKAGE_OR_HOLD_20260530_211520\\00_BACKUP\\v432i_future_readonly_refresh_dryrun_handoff_notes.before_repair.md",
+    "handoff_notes_repaired":  true,
+    "checks":  {
+                   "source_descriptor_dependency_included":  true,
+                   "mapping_dependency_included":  true,
+                   "dryrun_input_manifest_dependency_included":  true,
+                   "source_access_boundaries_included":  true,
+                   "no_login_cookies_captcha_proxy_bypass_included":  true,
+                   "no_DATA_BRIDGE_write_included":  true,
+                   "no_active_payload_write_included":  true,
+                   "no_EV_calculation_included":  true,
+                   "no_BUY_TRADE_ORDER_included":  true,
+                   "validation_checklist_dependency_included":  true,
+                   "forbidden_boundary_checklist_dependency_included":  true,
+                   "STOP_HOLD_PASS_conditions_included":  true,
+                   "next_review_requirement_included":  true
+               }
+}
