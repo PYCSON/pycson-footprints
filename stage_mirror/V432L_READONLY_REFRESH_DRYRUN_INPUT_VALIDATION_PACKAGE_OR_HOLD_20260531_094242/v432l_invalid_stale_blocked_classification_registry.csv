@@ -1,0 +1,6 @@
+﻿"classification","meaning","allowed_next"
+"INVALID","schema/field/trace mismatch","repair_or_hold"
+"STALE","freshness/source context too old or unknown","review_or_rebuild_package"
+"BLOCKED","boundary, access, signal, EV, or trade risk","hold"
+"REVIEW_REQUIRED","safe but requires human review","review_package"
+"PASS_CANDIDATE","valid for future validation execution only","validation_execution_package"

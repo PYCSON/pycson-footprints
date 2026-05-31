@@ -1,0 +1,6 @@
+﻿"rule_id","field","required","classification_on_fail"
+"ROW_ID_PRESENT","dryrun_input_id","true","INVALID"
+"DESCRIPTOR_ID_PRESENT","descriptor_id","true","INVALID"
+"ACCESS_FALSE","source_access_allowed",,"BLOCKED"
+"SIGNAL_FALSE","signal_ready",,"BLOCKED"
+"NO_EV_TRADE_MODE","expected_output_mode",,"BLOCKED"

@@ -1,0 +1,28 @@
+﻿{
+    "package_id":  "V432L_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE",
+    "stage":  "V432L_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_OR_HOLD",
+    "created_at":  "20260531_094242",
+    "execution_mode":  "PACKAGE_ONLY_NO_VALIDATION_EXECUTION_NO_REFRESH",
+    "manifest_rules":  [
+                           {
+                               "rule_id":  "MANIFEST_JSON_PARSE",
+                               "requirement":  "Manifest must parse as JSON",
+                               "severity":  "stop"
+                           },
+                           {
+                               "rule_id":  "EXECUTION_MODE_NO_REFRESH",
+                               "requirement":  "Manifest execution_mode must not authorize refresh",
+                               "severity":  "stop"
+                           },
+                           {
+                               "rule_id":  "DRYRUN_INPUTS_PRESENT",
+                               "requirement":  "dryrun_inputs array must be present and non-empty",
+                               "severity":  "hold"
+                           },
+                           {
+                               "rule_id":  "FORBIDDEN_OUTPUTS_PRESENT",
+                               "requirement":  "forbidden output list must include trade/EV terms",
+                               "severity":  "hold"
+                           }
+                       ]
+}

@@ -1,0 +1,26 @@
+﻿{
+    "schema_id":  "V432L_FUTURE_VALIDATION_REPORT_SCHEMA",
+    "required_fields":  [
+                            "status",
+                            "decision",
+                            "manifest_valid",
+                            "row_count",
+                            "invalid_count",
+                            "stale_count",
+                            "blocked_count",
+                            "review_required_count",
+                            "forbidden_boundary_passed",
+                            "repair_needed",
+                            "next_safe_step"
+                        ],
+    "forbidden_fields":  [
+                             "BUY_NOW",
+                             "TRADEUP_NOW",
+                             "TRADE",
+                             "ORDER",
+                             "OFFICIAL_EV",
+                             "TRUSTED_EV",
+                             "TRADEUP_EV",
+                             "executable PROFIT"
+                         ]
+}

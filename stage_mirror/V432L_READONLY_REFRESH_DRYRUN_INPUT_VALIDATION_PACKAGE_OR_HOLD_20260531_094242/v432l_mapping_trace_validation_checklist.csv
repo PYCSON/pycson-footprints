@@ -1,0 +1,4 @@
+﻿"check_id","requirement","classification_on_fail"
+"MAPPING_ROW_PRESENT","Each relevant mapping rule is traceable","HOLD"
+"MAPPING_ALLOWED","Mapping transformation is allowed by V432G/V432H","BLOCKED"
+"NO_DEREFERENCE","Mapping does not dereference URI","STOP"

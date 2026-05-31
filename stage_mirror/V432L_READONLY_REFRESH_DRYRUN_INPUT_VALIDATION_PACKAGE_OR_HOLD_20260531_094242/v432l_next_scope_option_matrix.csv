@@ -1,0 +1,6 @@
+﻿"option","next_scope","recommendation","rationale"
+"A","V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_REVIEW_OR_HOLD","preferred","Review validation package before execution."
+"B","V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD","later","Only after validation package review."
+"C","V432M_READONLY_REFRESH_DRYRUN_EXECUTION_PACKAGE_OR_APPROVAL_GATE_OR_HOLD","not_yet","Refresh execution package waits for validation execution readiness."
+"D","V432M_EV_DRYRUN_PRECONDITION_GAP_REVIEW_OR_HOLD","not_yet","EV remains premature."
+"E","HOLD","available","Manual direction."

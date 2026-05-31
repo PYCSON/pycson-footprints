@@ -1,0 +1,4 @@
+﻿"condition","criteria"
+"PASS","Validation package complete; no refresh/fetch/write/EV/UI/trade; next step review only"
+"HOLD","Missing artifact, ambiguous field, stale source, or review-required unresolved"
+"STOP","Any refresh/fetch/scheduler/write/EV/UI/trade attempt or forbidden output"

@@ -1,0 +1,15 @@
+﻿{
+    "manifest_id":  "V432L_EXPECTED_VALIDATION_OUTPUT_MANIFEST",
+    "expected_future_outputs":  [
+                                    "validation_result.json",
+                                    "validation_result.csv",
+                                    "invalid_rows.csv",
+                                    "stale_rows.csv",
+                                    "blocked_rows.csv",
+                                    "validation_summary.json",
+                                    "forbidden_boundary_scan.json"
+                                ],
+    "execution_in_v432l":  "none",
+    "refresh_execution":  "false",
+    "next_review":  "V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_REVIEW_OR_HOLD"
+}

@@ -1,0 +1,4 @@
+﻿"check_id","requirement","classification_on_fail"
+"TRACE_ROW_PRESENT","Each dryrun input has source descriptor trace","HOLD"
+"TRACE_DESCRIPTOR_MATCH","descriptor_id matches source descriptor trace","INVALID"
+"TRACE_ACCEPTED_SOURCE","trace source references accepted descriptor milestone","HOLD"
