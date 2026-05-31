@@ -1,0 +1,6 @@
+﻿"gap_id","gap","status","next_action"
+"NO_REFRESH_EXECUTION","No readonly refresh has executed from the accepted dryrun input manifest","intentionally_open","validation package before execution package"
+"NO_SOURCE_ACCESS","No Steam/BUFF/market source access has occurred","closed_boundary","future explicit approval required"
+"NO_SCHEDULER_EXECUTION","Scheduler remains unexecuted","closed_boundary","future explicit approval required"
+"NO_EV_READINESS","EV remains premature until refresh validation/source path matures","closed_for_now","do not recommend EV"
+"NO_DATA_BRIDGE_APPLICATION","DATA_BRIDGE and active payload remain unwritten","closed_boundary","remain forbidden"

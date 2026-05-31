@@ -1,0 +1,11 @@
+﻿{
+    "current_anchor":  "V432K_DRYRUN_INPUT_MANIFEST_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD",
+    "status":  "PASS_V432K_DRYRUN_INPUT_MANIFEST_ACCEPTANCE_AND_NEXT_SCOPE_PLAN",
+    "decision":  "READY_FOR_V432L_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_OR_HOLD",
+    "next_safe_step":  "V432L_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_OR_HOLD",
+    "report_JSON_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1151_V432K_DRYRUN_INPUT_MANIFEST_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD\\V432K_DRYRUN_INPUT_MANIFEST_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD_20260531_093104\\05_REPORT\\v432k_dryrun_input_manifest_acceptance_and_next_scope_plan_or_hold_report.json",
+    "latest_JSON_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1151_V432K_DRYRUN_INPUT_MANIFEST_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD\\V432K_DRYRUN_INPUT_MANIFEST_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD_20260531_093104\\06_LATEST\\v432k_dryrun_input_manifest_acceptance_and_next_scope_plan_or_hold_latest.json",
+    "proof_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1151_V432K_DRYRUN_INPUT_MANIFEST_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD\\V432K_DRYRUN_INPUT_MANIFEST_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD_20260531_093104\\04_PROOF\\v432k_no_refresh_no_fetch_no_ev_no_trade_proof.txt",
+    "footprint_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\03_MEMORY_CORES\\words.cossp\\V432K_DRYRUN_INPUT_MANIFEST_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD\\v432k_dryrun_input_manifest_acceptance_footprint_20260531_093104.md",
+    "timestamp":  "20260531_093104"
+}
