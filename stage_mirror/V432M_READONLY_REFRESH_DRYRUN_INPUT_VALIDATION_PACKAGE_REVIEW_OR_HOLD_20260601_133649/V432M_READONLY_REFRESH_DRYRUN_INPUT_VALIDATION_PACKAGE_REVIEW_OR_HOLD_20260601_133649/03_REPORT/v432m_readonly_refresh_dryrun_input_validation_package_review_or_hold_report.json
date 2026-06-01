@@ -1,0 +1,56 @@
+﻿{
+    "stage":  "V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_REVIEW_OR_HOLD",
+    "status":  "PASS_V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_REVIEW",
+    "decision":  "READY_FOR_V432N_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD",
+    "current_anchor":  "V432L_SAFE_INPUT_VALIDATION_PACKAGE_EXPORT_FINALIZATION",
+    "current_head_expected":  "c30b195",
+    "v432l_output_root":  "C:\\Users\\sunpu\\Desktop\\pycson\\1152_V432L_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_OR_HOLD\\V432L_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_OR_HOLD_20260531_094242",
+    "v432l_accepted":  true,
+    "input_validation_package_reviewed":  true,
+    "checks":  {
+                   "manifest_level_validation_rules_valid":  true,
+                   "row_level_validation_rules_valid":  true,
+                   "source_descriptor_trace_validation_checklist_valid":  true,
+                   "mapping_trace_validation_checklist_valid":  true,
+                   "boundary_validation_checklist_valid":  true,
+                   "required_optional_field_checklist_valid":  true,
+                   "invalid_stale_blocked_classification_registry_valid":  true,
+                   "stop_hold_pass_matrix_valid":  true,
+                   "expected_validation_output_manifest_valid":  true,
+                   "future_validation_report_schema_valid":  true,
+                   "future_validation_execution_handoff_notes_valid":  true
+               },
+    "repair_needed":  false,
+    "boundaries":  {
+                       "input_validation_executed":  false,
+                       "readonly_refresh_executed":  false,
+                       "steam_fetch":  false,
+                       "buff_fetch":  false,
+                       "market_endpoint_call":  false,
+                       "scheduler_executed":  false,
+                       "no_ui_patch_performed":  true,
+                       "mother_ui_modified":  false,
+                       "live_ui_modified":  false,
+                       "data_bridge_write":  false,
+                       "active_payload_write":  false,
+                       "ev_calculation":  false,
+                       "buy_trade_order":  false,
+                       "forbidden_outputs_absent":  true
+                   },
+    "paths":  {
+                  "executed_script":  "C:\\Users\\sunpu\\Desktop\\pycson\\1153_V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_REVIEW_OR_HOLD\\V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_REVIEW_OR_HOLD_20260601_133649\\00_EXECUTED_SCRIPT\\RUN_V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_REVIEW_OR_HOLD_20260601_133649.ps1",
+                  "review":  "C:\\Users\\sunpu\\Desktop\\pycson\\1153_V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_REVIEW_OR_HOLD\\V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_REVIEW_OR_HOLD_20260601_133649\\01_REVIEW\\v432m_input_validation_package_review.md",
+                  "report":  "C:\\Users\\sunpu\\Desktop\\pycson\\1153_V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_REVIEW_OR_HOLD\\V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_REVIEW_OR_HOLD_20260601_133649\\03_REPORT\\v432m_readonly_refresh_dryrun_input_validation_package_review_or_hold_report.json",
+                  "latest":  "C:\\Users\\sunpu\\Desktop\\pycson\\1153_V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_REVIEW_OR_HOLD\\V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_REVIEW_OR_HOLD_20260601_133649\\04_LATEST\\v432m_readonly_refresh_dryrun_input_validation_package_review_or_hold_latest.json",
+                  "proof":  "C:\\Users\\sunpu\\Desktop\\pycson\\1153_V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_REVIEW_OR_HOLD\\V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_REVIEW_OR_HOLD_20260601_133649\\02_PROOF\\v432m_no_input_validation_no_refresh_no_fetch_no_ev_no_trade_proof.txt",
+                  "git_raw_footprint":  "C:\\Users\\sunpu\\Desktop\\pycson\\1153_V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_REVIEW_OR_HOLD\\V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_REVIEW_OR_HOLD_20260601_133649\\05_GIT_FOOTPRINT\\v432m_git_raw_footprint.txt",
+                  "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\1153_V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_REVIEW_OR_HOLD\\V432M_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_REVIEW_OR_HOLD_20260601_133649\\05_GIT_FOOTPRINT\\v432m_git_summary.md"
+              },
+    "executed_script_sha256":  "57C41A6A4793E97019FFAB53327DBE235DCF6F6CE5FF69F0E89F2C636CAEA58D",
+    "git":  {
+                "status_before":  "## main...origin/main",
+                "head_before":  "c30b195",
+                "origin_main_before":  "c30b195"
+            },
+    "next_safe_step":  "V432N_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD"
+}
