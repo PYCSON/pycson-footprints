@@ -1,0 +1,5 @@
+﻿"gap","status","safe_next","blocked_action"
+"Input validation not executed","OPEN","Package future input validation execution","Do not execute validation in V432N"
+"Readonly refresh not executed","OPEN","Only after input validation package/execution/review gates","Do not refresh or fetch now"
+"EV not ready","OPEN","Pre-EV review after refresh/source readiness","Do not calculate EV"
+"No production/write path","OPEN","Maintain DATA_BRIDGE and active payload write firewall","No DATA_BRIDGE or active payload write"

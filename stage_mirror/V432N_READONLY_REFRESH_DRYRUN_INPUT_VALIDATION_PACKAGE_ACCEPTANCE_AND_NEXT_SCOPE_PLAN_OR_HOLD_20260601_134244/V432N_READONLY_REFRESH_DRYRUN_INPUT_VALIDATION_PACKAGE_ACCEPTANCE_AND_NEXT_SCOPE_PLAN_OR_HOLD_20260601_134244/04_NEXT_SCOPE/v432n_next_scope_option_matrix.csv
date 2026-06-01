@@ -1,0 +1,6 @@
+﻿"option","scope","classification","reason"
+"A","V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD","PREFERRED","Packages bounded input validation execution before any refresh execution"
+"B","V432O_READONLY_REFRESH_DRYRUN_EXECUTION_PACKAGE_OR_APPROVAL_GATE_OR_HOLD","DEFER","Refresh execution package should wait until input validation execution packaging is complete"
+"C","V432O_SCREENING_TO_REFRESH_INPUT_INTEGRATION_PLAN_OR_HOLD","SAFE_ALTERNATE","Planning-only integration route remains reversible"
+"D","V432O_EV_DRYRUN_PRECONDITION_GAP_REVIEW_OR_HOLD","NOT_RECOMMENDED","EV remains premature before input validation and refresh readiness"
+"E","HOLD for user direction","AVAILABLE","Conservative hold remains available"
