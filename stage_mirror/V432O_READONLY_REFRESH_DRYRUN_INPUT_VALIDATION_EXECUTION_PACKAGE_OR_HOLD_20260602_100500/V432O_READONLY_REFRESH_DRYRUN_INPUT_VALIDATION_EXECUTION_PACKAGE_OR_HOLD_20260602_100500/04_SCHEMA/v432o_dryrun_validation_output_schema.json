@@ -1,0 +1,45 @@
+﻿{
+    "$schema":  "https://json-schema.org/draft/2020-12/schema",
+    "title":  "V432O future dryrun validation output schema",
+    "type":  "object",
+    "required":  [
+                     "stage",
+                     "status",
+                     "decision",
+                     "input_validation_executed",
+                     "readonly_refresh_executed",
+                     "summary",
+                     "rows",
+                     "forbidden_boundary_scan"
+                 ],
+    "properties":  {
+                       "stage":  {
+                                     "type":  "string"
+                                 },
+                       "status":  {
+                                      "type":  "string"
+                                  },
+                       "decision":  {
+                                        "type":  "string"
+                                    },
+                       "input_validation_executed":  {
+                                                         "type":  "boolean"
+                                                     },
+                       "readonly_refresh_executed":  {
+                                                         "const":  false,
+                                                         "type":  "boolean"
+                                                     },
+                       "summary":  {
+                                       "type":  "object"
+                                   },
+                       "rows":  {
+                                    "items":  {
+                                                  "type":  "object"
+                                              },
+                                    "type":  "array"
+                                },
+                       "forbidden_boundary_scan":  {
+                                                       "type":  "object"
+                                                   }
+                   }
+}

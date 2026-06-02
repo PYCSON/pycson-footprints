@@ -1,0 +1,36 @@
+﻿{
+    "stage":  "V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD",
+    "future_result_type":  "dryrun_input_validation_result",
+    "required_outputs":  [
+                             "validation_result_json",
+                             "validation_result_csv",
+                             "invalid_rows_csv",
+                             "stale_rows_csv",
+                             "blocked_rows_csv",
+                             "validation_summary_json",
+                             "forbidden_boundary_scan_json",
+                             "validation_report_json",
+                             "no_validation_refresh_fetch_ev_trade_proof"
+                         ],
+    "forbidden_outputs":  [
+                              "BUY_NOW",
+                              "TRADEUP_NOW",
+                              "TRADE",
+                              "ORDER",
+                              "OFFICIAL_EV",
+                              "TRUSTED_EV",
+                              "TRADEUP_EV",
+                              "executable PROFIT",
+                              "executable recommendation"
+                          ],
+    "required_final_boundaries":  {
+                                      "readonly_refresh_executed":  false,
+                                      "steam_fetch":  false,
+                                      "buff_fetch":  false,
+                                      "market_endpoint_call":  false,
+                                      "data_bridge_write":  false,
+                                      "active_payload_write":  false,
+                                      "ev_calculation":  false,
+                                      "buy_trade_order":  false
+                                  }
+}

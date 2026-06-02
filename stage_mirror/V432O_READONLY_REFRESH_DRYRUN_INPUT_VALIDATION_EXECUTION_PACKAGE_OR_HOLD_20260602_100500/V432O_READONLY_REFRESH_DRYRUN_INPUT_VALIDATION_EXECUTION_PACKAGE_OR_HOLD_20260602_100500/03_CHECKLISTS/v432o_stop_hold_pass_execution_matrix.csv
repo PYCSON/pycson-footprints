@@ -1,0 +1,4 @@
+﻿"result","condition"
+"PASS","Future package review accepts all manifests/checklists and no forbidden boundary is open"
+"HOLD","Any source/input artifact missing, unreadable, ambiguous, or boundary status cannot be proven false"
+"STOP","Any request requires refresh/fetch/scheduler/UI/DATA_BRIDGE/active payload/EV/trade action without separate explicit approval"

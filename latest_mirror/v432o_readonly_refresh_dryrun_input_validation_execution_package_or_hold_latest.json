@@ -1,0 +1,14 @@
+﻿{
+    "current_anchor":  "V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD",
+    "status":  "PASS_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_READY_FOR_REVIEW",
+    "decision":  "READY_FOR_V432P_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_REVIEW_OR_HOLD",
+    "latest_report":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\08_REPORT\\v432o_readonly_refresh_dryrun_input_validation_execution_package_or_hold_report.json",
+    "latest_proof":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\07_PROOF\\v432o_no_validation_no_refresh_no_fetch_no_ev_no_trade_proof.txt",
+    "v432n_accepted":  true,
+    "input_validation_execution_package_created":  true,
+    "input_validation_executed":  false,
+    "readonly_refresh_executed":  false,
+    "recommended_next_scope":  "V432P_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_REVIEW_OR_HOLD",
+    "next_safe_step":  "V432P_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_REVIEW_OR_HOLD",
+    "generated_at":  "20260602_100500"
+}

@@ -1,0 +1,33 @@
+﻿{
+    "stage":  "V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD",
+    "purpose":  "Future dryrun input validation execution input manifest; package only.",
+    "source_package":  "V432L_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_OR_HOLD",
+    "source_package_root":  "C:\\Users\\sunpu\\Desktop\\pycson\\1152_V432L_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_OR_HOLD\\V432L_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_OR_HOLD_20260531_094242",
+    "accepted_by":  "V432N_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD",
+    "future_execution_requires_approval":  true,
+    "approval_phrase":  "CONFIRM_V432P_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION",
+    "allowed_inputs":  [
+                           "V432L manifest-level validation rules",
+                           "V432L row-level validation rules",
+                           "V432L source descriptor trace validation checklist",
+                           "V432L mapping trace validation checklist",
+                           "V432L boundary validation checklist",
+                           "V432L required/optional field checklist",
+                           "V432L invalid/stale/blocked classification registry",
+                           "V432L expected validation output manifest",
+                           "V432L future validation report schema"
+                       ],
+    "forbidden_inputs":  [
+                             "live Steam fetch",
+                             "live BUFF fetch",
+                             "market endpoint calls",
+                             "cookies",
+                             "login sessions",
+                             "captcha or bypass data",
+                             "DATA_BRIDGE payloads",
+                             "active payloads",
+                             "UI source patches",
+                             "EV/trade/order signals"
+                         ],
+    "execution_performed_in_this_stage":  false
+}

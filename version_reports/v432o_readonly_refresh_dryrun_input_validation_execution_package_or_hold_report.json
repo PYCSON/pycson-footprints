@@ -1,0 +1,53 @@
+﻿{
+    "stage":  "V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD",
+    "status":  "PASS_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_READY_FOR_REVIEW",
+    "decision":  "READY_FOR_V432P_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_REVIEW_OR_HOLD",
+    "current_anchor":  "V432N_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_PACKAGE_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD",
+    "current_head_expected":  "dea72e8",
+    "v432n_accepted":  true,
+    "input_validation_execution_package_created":  true,
+    "next_scope_options_created":  true,
+    "recommended_next_scope":  "V432P_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_REVIEW_OR_HOLD",
+    "boundaries":  {
+                       "input_validation_executed":  false,
+                       "readonly_refresh_executed":  false,
+                       "steam_fetch":  false,
+                       "buff_fetch":  false,
+                       "market_endpoint_call":  false,
+                       "scheduler_executed":  false,
+                       "no_ui_patch_performed":  true,
+                       "mother_ui_modified":  false,
+                       "live_ui_modified":  false,
+                       "data_bridge_write":  false,
+                       "active_payload_write":  false,
+                       "ev_calculation":  false,
+                       "buy_trade_order":  false,
+                       "forbidden_outputs_absent":  true
+                   },
+    "paths":  {
+                  "executed_script":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\00_EXECUTED_SCRIPT\\RUN_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500.ps1",
+                  "package":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\01_EXECUTION_PACKAGE\\v432o_input_validation_execution_package.md",
+                  "validation_execution_input_manifest":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\02_MANIFESTS\\v432o_validation_execution_input_manifest.json",
+                  "expected_validation_result_manifest":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\02_MANIFESTS\\v432o_expected_validation_result_manifest.json",
+                  "validation_execution_checklist":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\03_CHECKLISTS\\v432o_validation_execution_checklist.csv",
+                  "forbidden_boundary_checklist":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\03_CHECKLISTS\\v432o_forbidden_boundary_checklist.csv",
+                  "stop_hold_pass_execution_matrix":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\03_CHECKLISTS\\v432o_stop_hold_pass_execution_matrix.csv",
+                  "dryrun_validation_output_schema":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\04_SCHEMA\\v432o_dryrun_validation_output_schema.json",
+                  "draft_approval_phrase":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\05_APPROVAL_GATE\\v432o_future_v432p_validation_execution_approval_phrase.txt",
+                  "next_scope_option_matrix":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\06_NEXT_SCOPE\\v432o_next_scope_option_matrix.csv",
+                  "proof":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\07_PROOF\\v432o_no_validation_no_refresh_no_fetch_no_ev_no_trade_proof.txt",
+                  "report":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\08_REPORT\\v432o_readonly_refresh_dryrun_input_validation_execution_package_or_hold_report.json",
+                  "latest":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\09_LATEST\\v432o_readonly_refresh_dryrun_input_validation_execution_package_or_hold_latest.json",
+                  "footprint":  "C:\\Users\\sunpu\\Desktop\\pycson\\03_MEMORY_CORES\\words.cossp\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500.md",
+                  "root_level_footprint_mirror":  "C:\\Users\\sunpu\\Desktop\\pycson\\03_MEMORY_CORES\\words.cossp\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500.md",
+                  "git_raw_footprint":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\10_GIT_FOOTPRINT\\v432o_git_raw_footprint.txt",
+                  "git_summary":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\10_GIT_FOOTPRINT\\v432o_git_summary.md"
+              },
+    "executed_script_sha256":  "69DE0C96DFC9166169FAC4CCDFF43C3FA01863E8912710B7F1F12D1787E014F5",
+    "git":  {
+                "status_before":  "## main...origin/main",
+                "head_before":  "dea72e8",
+                "origin_main_before":  "dea72e8"
+            },
+    "next_safe_step":  "V432P_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_REVIEW_OR_HOLD"
+}

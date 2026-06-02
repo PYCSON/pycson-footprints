@@ -1,0 +1,6 @@
+﻿"option","scope","classification","reason"
+"A","V432P_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_REVIEW_OR_HOLD","PREFERRED","Reviews package and approval gate before any validation execution"
+"B","V432P_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_OR_APPROVAL_GATE_OR_HOLD","DEFER","Execution should wait until package review accepts this V432O packet"
+"C","V432P_READONLY_REFRESH_DRYRUN_EXECUTION_PACKAGE_OR_APPROVAL_GATE_OR_HOLD","DEFER","Readonly refresh execution package is premature before validation execution package review"
+"D","V432P_EV_DRYRUN_PRECONDITION_GAP_REVIEW_OR_HOLD","NOT_RECOMMENDED","EV remains premature"
+"E","HOLD for user direction","AVAILABLE","Conservative hold remains available"
