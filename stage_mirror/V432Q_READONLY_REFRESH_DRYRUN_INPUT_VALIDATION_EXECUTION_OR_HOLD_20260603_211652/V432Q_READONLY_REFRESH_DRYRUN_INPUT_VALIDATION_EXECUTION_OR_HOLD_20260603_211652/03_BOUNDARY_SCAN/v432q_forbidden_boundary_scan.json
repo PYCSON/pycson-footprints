@@ -1,0 +1,85 @@
+﻿{
+    "stage":  "V432Q_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_OR_HOLD",
+    "passed":  true,
+    "readonly_refresh_executed":  false,
+    "steam_fetch":  false,
+    "buff_fetch":  false,
+    "market_endpoint_call":  false,
+    "scheduler_executed":  false,
+    "ui_patch_performed":  false,
+    "mother_ui_modified":  false,
+    "live_ui_modified":  false,
+    "data_bridge_write":  false,
+    "active_payload_write":  false,
+    "ev_calculation":  false,
+    "buy_trade_order":  false,
+    "forbidden_outputs_absent":  true,
+    "rows":  [
+                 {
+                     "boundary":  "input validation execution in V432O",
+                     "required_state":  "false",
+                     "actual_state":  "false",
+                     "passed":  true
+                 },
+                 {
+                     "boundary":  "readonly refresh execution",
+                     "required_state":  "false",
+                     "actual_state":  "false",
+                     "passed":  true
+                 },
+                 {
+                     "boundary":  "Steam fetch",
+                     "required_state":  "false",
+                     "actual_state":  "false",
+                     "passed":  true
+                 },
+                 {
+                     "boundary":  "BUFF fetch",
+                     "required_state":  "false",
+                     "actual_state":  "false",
+                     "passed":  true
+                 },
+                 {
+                     "boundary":  "market endpoint call",
+                     "required_state":  "false",
+                     "actual_state":  "false",
+                     "passed":  true
+                 },
+                 {
+                     "boundary":  "scheduler execution",
+                     "required_state":  "false",
+                     "actual_state":  "false",
+                     "passed":  true
+                 },
+                 {
+                     "boundary":  "UI patch",
+                     "required_state":  "false",
+                     "actual_state":  "false",
+                     "passed":  true
+                 },
+                 {
+                     "boundary":  "DATA_BRIDGE write",
+                     "required_state":  "false",
+                     "actual_state":  "false",
+                     "passed":  true
+                 },
+                 {
+                     "boundary":  "active payload write",
+                     "required_state":  "false",
+                     "actual_state":  "false",
+                     "passed":  true
+                 },
+                 {
+                     "boundary":  "EV calculation",
+                     "required_state":  "false",
+                     "actual_state":  "false",
+                     "passed":  true
+                 },
+                 {
+                     "boundary":  "BUY/TRADE/ORDER",
+                     "required_state":  "false",
+                     "actual_state":  "false",
+                     "passed":  true
+                 }
+             ]
+}

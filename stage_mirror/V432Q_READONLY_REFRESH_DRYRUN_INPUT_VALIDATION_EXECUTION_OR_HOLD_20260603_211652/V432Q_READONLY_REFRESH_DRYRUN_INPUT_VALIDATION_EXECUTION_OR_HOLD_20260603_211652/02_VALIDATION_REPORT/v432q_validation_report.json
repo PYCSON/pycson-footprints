@@ -1,0 +1,29 @@
+﻿{
+    "stage":  "V432Q_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_OR_HOLD",
+    "validation_passed":  true,
+    "expected_output_manifest_used":  true,
+    "validation_execution_input_manifest_used":  true,
+    "validation_execution_checklist_used":  true,
+    "forbidden_boundary_checklist_used":  true,
+    "stop_hold_pass_matrix_used":  true,
+    "dryrun_validation_output_schema_used":  true,
+    "package_artifacts_validated":  [
+                                        "input_manifest",
+                                        "expected_result",
+                                        "execution_checklist",
+                                        "forbidden_checklist",
+                                        "stop_hold_pass",
+                                        "output_schema",
+                                        "v432o_report",
+                                        "v432p_report"
+                                    ],
+    "summary":  {
+                    "validation_item_count":  16,
+                    "validation_passed":  true,
+                    "boundary_item_count":  11,
+                    "forbidden_boundary_passed":  true,
+                    "input_validation_executed":  true,
+                    "readonly_refresh_executed":  false,
+                    "validation_mode":  "local_package_input_validation_dryrun_only"
+                }
+}

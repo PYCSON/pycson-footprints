@@ -1,0 +1,218 @@
+﻿{
+    "stage":  "V432Q_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_OR_HOLD",
+    "status":  "PASS_V432Q_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION",
+    "decision":  "READY_FOR_V432R_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_REVIEW_OR_HOLD",
+    "approval_phrase_confirmed":  true,
+    "input_validation_executed":  true,
+    "readonly_refresh_executed":  false,
+    "summary":  {
+                    "validation_item_count":  16,
+                    "validation_passed":  true,
+                    "boundary_item_count":  11,
+                    "forbidden_boundary_passed":  true,
+                    "input_validation_executed":  true,
+                    "readonly_refresh_executed":  false,
+                    "validation_mode":  "local_package_input_validation_dryrun_only"
+                },
+    "rows":  [
+                 {
+                     "validation_item":  "input_manifest",
+                     "source_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\02_MANIFESTS\\v432o_validation_execution_input_manifest.json",
+                     "exists":  true,
+                     "parse_status":  "parsed",
+                     "validation_status":  "PASS",
+                     "notes":  "local package artifact validation only"
+                 },
+                 {
+                     "validation_item":  "expected_result",
+                     "source_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\02_MANIFESTS\\v432o_expected_validation_result_manifest.json",
+                     "exists":  true,
+                     "parse_status":  "parsed",
+                     "validation_status":  "PASS",
+                     "notes":  "local package artifact validation only"
+                 },
+                 {
+                     "validation_item":  "execution_checklist",
+                     "source_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\03_CHECKLISTS\\v432o_validation_execution_checklist.csv",
+                     "exists":  true,
+                     "parse_status":  "parsed",
+                     "validation_status":  "PASS",
+                     "notes":  "local package artifact validation only"
+                 },
+                 {
+                     "validation_item":  "forbidden_checklist",
+                     "source_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\03_CHECKLISTS\\v432o_forbidden_boundary_checklist.csv",
+                     "exists":  true,
+                     "parse_status":  "parsed",
+                     "validation_status":  "PASS",
+                     "notes":  "local package artifact validation only"
+                 },
+                 {
+                     "validation_item":  "stop_hold_pass",
+                     "source_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\03_CHECKLISTS\\v432o_stop_hold_pass_execution_matrix.csv",
+                     "exists":  true,
+                     "parse_status":  "parsed",
+                     "validation_status":  "PASS",
+                     "notes":  "local package artifact validation only"
+                 },
+                 {
+                     "validation_item":  "output_schema",
+                     "source_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\04_SCHEMA\\v432o_dryrun_validation_output_schema.json",
+                     "exists":  true,
+                     "parse_status":  "parsed",
+                     "validation_status":  "PASS",
+                     "notes":  "local package artifact validation only"
+                 },
+                 {
+                     "validation_item":  "v432o_report",
+                     "source_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\08_REPORT\\v432o_readonly_refresh_dryrun_input_validation_execution_package_or_hold_report.json",
+                     "exists":  true,
+                     "parse_status":  "parsed",
+                     "validation_status":  "PASS",
+                     "notes":  "local package artifact validation only"
+                 },
+                 {
+                     "validation_item":  "v432p_report",
+                     "source_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1156_V432P_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_REVIEW_OR_HOLD\\V432P_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_REVIEW_OR_HOLD_20260602_101537\\03_REPORT\\v432p_readonly_refresh_dryrun_input_validation_execution_package_review_or_hold_report.json",
+                     "exists":  true,
+                     "parse_status":  "parsed",
+                     "validation_status":  "PASS",
+                     "notes":  "local package artifact validation only"
+                 },
+                 {
+                     "validation_item":  "execution_checklist:load accepted V432L validation rules",
+                     "source_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\03_CHECKLISTS\\v432o_validation_execution_checklist.csv",
+                     "exists":  true,
+                     "parse_status":  "parsed",
+                     "validation_status":  "PASS",
+                     "notes":  "all referenced artifacts exist and parse"
+                 },
+                 {
+                     "validation_item":  "execution_checklist:load future dryrun input manifest",
+                     "source_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\03_CHECKLISTS\\v432o_validation_execution_checklist.csv",
+                     "exists":  true,
+                     "parse_status":  "parsed",
+                     "validation_status":  "PASS",
+                     "notes":  "manifest parses and contains local/package inputs only"
+                 },
+                 {
+                     "validation_item":  "execution_checklist:validate manifest-level fields",
+                     "source_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\03_CHECKLISTS\\v432o_validation_execution_checklist.csv",
+                     "exists":  true,
+                     "parse_status":  "parsed",
+                     "validation_status":  "PASS",
+                     "notes":  "required manifest fields present"
+                 },
+                 {
+                     "validation_item":  "execution_checklist:validate row-level fields",
+                     "source_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\03_CHECKLISTS\\v432o_validation_execution_checklist.csv",
+                     "exists":  true,
+                     "parse_status":  "parsed",
+                     "validation_status":  "PASS",
+                     "notes":  "required row fields present and safe classifications only"
+                 },
+                 {
+                     "validation_item":  "execution_checklist:validate source descriptor trace",
+                     "source_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\03_CHECKLISTS\\v432o_validation_execution_checklist.csv",
+                     "exists":  true,
+                     "parse_status":  "parsed",
+                     "validation_status":  "PASS",
+                     "notes":  "source trace present or HOLD if absent"
+                 },
+                 {
+                     "validation_item":  "execution_checklist:validate mapping trace",
+                     "source_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\03_CHECKLISTS\\v432o_validation_execution_checklist.csv",
+                     "exists":  true,
+                     "parse_status":  "parsed",
+                     "validation_status":  "PASS",
+                     "notes":  "mapping trace present or HOLD if absent"
+                 },
+                 {
+                     "validation_item":  "execution_checklist:run forbidden boundary scan",
+                     "source_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\03_CHECKLISTS\\v432o_validation_execution_checklist.csv",
+                     "exists":  true,
+                     "parse_status":  "parsed",
+                     "validation_status":  "PASS",
+                     "notes":  "forbidden outputs and actions absent"
+                 },
+                 {
+                     "validation_item":  "execution_checklist:write dryrun validation result artifacts",
+                     "source_path":  "C:\\Users\\sunpu\\Desktop\\pycson\\1155_V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD\\V432O_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_PACKAGE_OR_HOLD_20260602_100500\\03_CHECKLISTS\\v432o_validation_execution_checklist.csv",
+                     "exists":  true,
+                     "parse_status":  "parsed",
+                     "validation_status":  "PASS",
+                     "notes":  "safe local report/proof outputs only"
+                 }
+             ],
+    "forbidden_boundary_scan":  {
+                                    "passed":  true,
+                                    "rows":  [
+                                                 {
+                                                     "boundary":  "input validation execution in V432O",
+                                                     "required_state":  "false",
+                                                     "actual_state":  "false",
+                                                     "passed":  true
+                                                 },
+                                                 {
+                                                     "boundary":  "readonly refresh execution",
+                                                     "required_state":  "false",
+                                                     "actual_state":  "false",
+                                                     "passed":  true
+                                                 },
+                                                 {
+                                                     "boundary":  "Steam fetch",
+                                                     "required_state":  "false",
+                                                     "actual_state":  "false",
+                                                     "passed":  true
+                                                 },
+                                                 {
+                                                     "boundary":  "BUFF fetch",
+                                                     "required_state":  "false",
+                                                     "actual_state":  "false",
+                                                     "passed":  true
+                                                 },
+                                                 {
+                                                     "boundary":  "market endpoint call",
+                                                     "required_state":  "false",
+                                                     "actual_state":  "false",
+                                                     "passed":  true
+                                                 },
+                                                 {
+                                                     "boundary":  "scheduler execution",
+                                                     "required_state":  "false",
+                                                     "actual_state":  "false",
+                                                     "passed":  true
+                                                 },
+                                                 {
+                                                     "boundary":  "UI patch",
+                                                     "required_state":  "false",
+                                                     "actual_state":  "false",
+                                                     "passed":  true
+                                                 },
+                                                 {
+                                                     "boundary":  "DATA_BRIDGE write",
+                                                     "required_state":  "false",
+                                                     "actual_state":  "false",
+                                                     "passed":  true
+                                                 },
+                                                 {
+                                                     "boundary":  "active payload write",
+                                                     "required_state":  "false",
+                                                     "actual_state":  "false",
+                                                     "passed":  true
+                                                 },
+                                                 {
+                                                     "boundary":  "EV calculation",
+                                                     "required_state":  "false",
+                                                     "actual_state":  "false",
+                                                     "passed":  true
+                                                 },
+                                                 {
+                                                     "boundary":  "BUY/TRADE/ORDER",
+                                                     "required_state":  "false",
+                                                     "actual_state":  "false",
+                                                     "passed":  true
+                                                 }
+                                             ]
+                                }
+}
