@@ -1,0 +1,30 @@
+﻿{
+    "stage":  "V432T_READONLY_REFRESH_DRYRUN_EXECUTION_PACKAGE_OR_APPROVAL_GATE_OR_HOLD",
+    "future_result_type":  "readonly_refresh_dryrun_result",
+    "required_outputs":  [
+                             "readonly_refresh_dryrun_result_json",
+                             "readonly_refresh_dryrun_result_csv",
+                             "refresh_summary_json",
+                             "validation_report_json",
+                             "forbidden_boundary_scan_json",
+                             "source_access_boundary_scan_json",
+                             "no_refresh_no_fetch_no_ev_no_trade_proof"
+                         ],
+    "forbidden_outputs":  [
+                              "BUY_NOW",
+                              "TRADEUP_NOW",
+                              "TRADE",
+                              "ORDER",
+                              "OFFICIAL_EV",
+                              "TRUSTED_EV",
+                              "TRADEUP_EV",
+                              "executable PROFIT",
+                              "executable recommendation"
+                          ],
+    "required_final_boundaries":  {
+                                      "data_bridge_write":  false,
+                                      "active_payload_write":  false,
+                                      "ev_calculation":  false,
+                                      "buy_trade_order":  false
+                                  }
+}

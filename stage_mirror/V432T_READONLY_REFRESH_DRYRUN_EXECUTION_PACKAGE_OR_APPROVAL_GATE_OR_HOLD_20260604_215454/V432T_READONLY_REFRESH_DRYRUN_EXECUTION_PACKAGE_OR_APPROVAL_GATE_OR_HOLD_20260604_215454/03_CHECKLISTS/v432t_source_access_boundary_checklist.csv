@@ -1,0 +1,7 @@
+﻿"boundary","required","notes"
+"public readonly source only","true","No private or account-backed access"
+"no login","true","Do not authenticate"
+"no cookies","true","Do not use session cookies"
+"no captcha or bypass","true","HOLD if captcha appears"
+"no proxy or region/account bypass","true","No bypass behavior"
+"no wallet/payment/order flow","true","Readonly dryrun only"

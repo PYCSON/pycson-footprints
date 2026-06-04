@@ -1,0 +1,44 @@
+﻿{
+    "$schema":  "https://json-schema.org/draft/2020-12/schema",
+    "title":  "V432T future readonly refresh dryrun output schema",
+    "type":  "object",
+    "required":  [
+                     "stage",
+                     "status",
+                     "decision",
+                     "readonly_refresh_executed",
+                     "source_access_boundary_passed",
+                     "summary",
+                     "rows",
+                     "forbidden_boundary_scan"
+                 ],
+    "properties":  {
+                       "stage":  {
+                                     "type":  "string"
+                                 },
+                       "status":  {
+                                      "type":  "string"
+                                  },
+                       "decision":  {
+                                        "type":  "string"
+                                    },
+                       "readonly_refresh_executed":  {
+                                                         "type":  "boolean"
+                                                     },
+                       "source_access_boundary_passed":  {
+                                                             "type":  "boolean"
+                                                         },
+                       "summary":  {
+                                       "type":  "object"
+                                   },
+                       "rows":  {
+                                    "items":  {
+                                                  "type":  "object"
+                                              },
+                                    "type":  "array"
+                                },
+                       "forbidden_boundary_scan":  {
+                                                       "type":  "object"
+                                                   }
+                   }
+}

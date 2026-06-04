@@ -1,0 +1,29 @@
+﻿{
+    "stage":  "V432T_READONLY_REFRESH_DRYRUN_EXECUTION_PACKAGE_OR_APPROVAL_GATE_OR_HOLD",
+    "purpose":  "Future readonly refresh dryrun execution input manifest; package only.",
+    "accepted_anchor":  "V432S_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD",
+    "accepted_report":  "C:\\Users\\sunpu\\Desktop\\pycson\\1159_V432S_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD\\V432S_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD_20260604_214423\\06_REPORT\\v432s_readonly_refresh_dryrun_input_validation_execution_acceptance_and_next_scope_plan_or_hold_report.json",
+    "future_execution_requires_approval":  true,
+    "approval_phrase":  "CONFIRM_V432U_READONLY_REFRESH_DRYRUN_EXECUTION",
+    "allowed_inputs":  [
+                           "validated dryrun input package outputs",
+                           "accepted source descriptor manifests",
+                           "accepted descriptor-to-dryrun mappings",
+                           "local boundary/output rows where no external source access is required",
+                           "future explicitly approved readonly public source descriptors only"
+                       ],
+    "forbidden_inputs":  [
+                             "login credentials",
+                             "cookies",
+                             "captcha tokens",
+                             "proxy/bypass settings",
+                             "account automation",
+                             "private session data",
+                             "wallet/payment/order data",
+                             "DATA_BRIDGE payloads",
+                             "active payloads",
+                             "UI source patches",
+                             "EV/trade/order signals"
+                         ],
+    "execution_performed_in_this_stage":  false
+}

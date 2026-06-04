@@ -1,0 +1,4 @@
+﻿"result","condition"
+"PASS","Future package review accepts all manifests/checklists/schemas and no forbidden boundary is open"
+"HOLD","Any source descriptor/input artifact missing, unreadable, or boundary status cannot be proven false"
+"STOP","Any requested action needs login/cookies/captcha/proxy/bypass/account automation/private data/write/EV/trade without separate explicit approval"

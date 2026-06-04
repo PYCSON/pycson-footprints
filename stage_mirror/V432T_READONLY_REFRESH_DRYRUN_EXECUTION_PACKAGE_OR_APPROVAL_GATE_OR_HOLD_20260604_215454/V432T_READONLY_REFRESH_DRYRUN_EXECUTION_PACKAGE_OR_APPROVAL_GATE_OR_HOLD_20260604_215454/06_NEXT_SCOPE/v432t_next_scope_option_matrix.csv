@@ -1,0 +1,6 @@
+﻿"option","scope","classification","reason"
+"A","V432U_READONLY_REFRESH_DRYRUN_EXECUTION_PACKAGE_REVIEW_OR_HOLD","PREFERRED","Review package and approval gate before any readonly refresh execution"
+"B","V432U_READONLY_REFRESH_DRYRUN_EXECUTION_OR_APPROVAL_GATE_OR_HOLD","DEFER","Execution should wait until V432T package review accepts this packet"
+"C","V432U_SCREENING_TO_REFRESH_OUTPUT_INTEGRATION_PLAN_OR_HOLD","SAFE_ALTERNATE","Planning-only integration remains reversible"
+"D","V432U_EV_DRYRUN_PRECONDITION_GAP_REVIEW_OR_HOLD","NOT_RECOMMENDED","EV remains premature"
+"E","HOLD for user direction","AVAILABLE","Conservative hold remains available"

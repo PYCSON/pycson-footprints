@@ -1,0 +1,7 @@
+﻿"step","required","pass_condition"
+"confirm explicit approval phrase","true","phrase matches approval gate exactly"
+"load readonly refresh input manifest","true","manifest parses and contains permitted inputs only"
+"load expected output manifest","true","manifest parses and defines safe outputs"
+"run source access boundary precheck","true","no login/cookie/captcha/proxy/bypass/account automation required"
+"execute bounded readonly refresh dryrun only if source boundary passes","true","HOLD if any boundary would be violated"
+"create output bundle and validation scans","true","safe local outputs only"
