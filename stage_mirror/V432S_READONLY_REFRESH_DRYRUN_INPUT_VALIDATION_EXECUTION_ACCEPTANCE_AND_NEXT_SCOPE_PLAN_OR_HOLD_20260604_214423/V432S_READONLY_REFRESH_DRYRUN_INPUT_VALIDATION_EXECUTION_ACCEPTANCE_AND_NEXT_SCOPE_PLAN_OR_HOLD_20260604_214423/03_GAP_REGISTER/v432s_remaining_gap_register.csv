@@ -1,0 +1,5 @@
+﻿"gap","status","safe_next","blocked_action"
+"Readonly refresh not executed","OPEN","Package/approval gate for readonly refresh dryrun execution","Do not execute refresh in V432S"
+"No external source access attempted","OPEN","Future refresh package must preserve source access boundaries","No Steam/BUFF/market fetch now"
+"EV not ready","OPEN","Pre-EV review only after refresh readiness","Do not calculate EV"
+"No write path authorized","OPEN","Maintain DATA_BRIDGE and active payload write firewall","No DATA_BRIDGE or active payload write"

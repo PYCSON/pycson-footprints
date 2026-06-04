@@ -1,0 +1,15 @@
+﻿{
+    "current_anchor":  "V432S_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD",
+    "status":  "PASS_V432S_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_ACCEPTANCE_AND_NEXT_SCOPE_PLAN",
+    "decision":  "READY_FOR_V432T_READONLY_REFRESH_DRYRUN_EXECUTION_PACKAGE_OR_APPROVAL_GATE_OR_HOLD",
+    "latest_report":  "C:\\Users\\sunpu\\Desktop\\pycson\\1159_V432S_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD\\V432S_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD_20260604_214423\\06_REPORT\\v432s_readonly_refresh_dryrun_input_validation_execution_acceptance_and_next_scope_plan_or_hold_report.json",
+    "latest_proof":  "C:\\Users\\sunpu\\Desktop\\pycson\\1159_V432S_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD\\V432S_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_EXECUTION_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD_20260604_214423\\05_PROOF\\v432s_no_rerun_no_refresh_no_fetch_no_ev_no_trade_proof.txt",
+    "v432q_accepted":  true,
+    "v432r_accepted":  true,
+    "input_validation_execution_milestone_accepted":  true,
+    "input_validation_rerun":  false,
+    "readonly_refresh_executed":  false,
+    "recommended_next_scope":  "V432T_READONLY_REFRESH_DRYRUN_EXECUTION_PACKAGE_OR_APPROVAL_GATE_OR_HOLD",
+    "next_safe_step":  "V432T_READONLY_REFRESH_DRYRUN_EXECUTION_PACKAGE_OR_APPROVAL_GATE_OR_HOLD",
+    "generated_at":  "20260604_214423"
+}

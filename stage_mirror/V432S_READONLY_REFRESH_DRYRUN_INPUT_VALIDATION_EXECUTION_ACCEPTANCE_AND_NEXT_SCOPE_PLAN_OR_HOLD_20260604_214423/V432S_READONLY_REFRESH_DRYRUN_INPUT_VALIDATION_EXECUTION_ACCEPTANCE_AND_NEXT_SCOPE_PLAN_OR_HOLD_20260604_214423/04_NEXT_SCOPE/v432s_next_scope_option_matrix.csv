@@ -1,0 +1,6 @@
+﻿"option","scope","classification","reason"
+"A","V432T_READONLY_REFRESH_DRYRUN_EXECUTION_PACKAGE_OR_APPROVAL_GATE_OR_HOLD","PREFERRED","Package/approval gate only before any readonly refresh execution"
+"B","V432T_READONLY_REFRESH_DRYRUN_INPUT_VALIDATION_ACCEPTANCE_REVIEW_OR_HOLD","SAFE_ALTERNATE","Additional acceptance review remains reversible"
+"C","V432T_SCREENING_TO_REFRESH_INPUT_INTEGRATION_PLAN_OR_HOLD","SAFE_ALTERNATE","Planning-only integration route remains safe"
+"D","V432T_EV_DRYRUN_PRECONDITION_GAP_REVIEW_OR_HOLD","NOT_RECOMMENDED","EV remains premature"
+"E","HOLD for user direction","AVAILABLE","Conservative hold remains available"
