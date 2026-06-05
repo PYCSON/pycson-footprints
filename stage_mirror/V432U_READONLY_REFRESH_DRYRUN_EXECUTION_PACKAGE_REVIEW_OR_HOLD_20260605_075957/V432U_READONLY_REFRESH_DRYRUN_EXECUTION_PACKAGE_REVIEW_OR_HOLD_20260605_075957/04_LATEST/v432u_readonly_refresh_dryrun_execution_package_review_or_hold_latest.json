@@ -1,0 +1,13 @@
+﻿{
+    "current_anchor":  "V432U_READONLY_REFRESH_DRYRUN_EXECUTION_PACKAGE_REVIEW_OR_HOLD",
+    "status":  "PASS_V432U_READONLY_REFRESH_DRYRUN_EXECUTION_PACKAGE_REVIEW",
+    "decision":  "USER_APPROVAL_REQUIRED_FOR_V432V_READONLY_REFRESH_DRYRUN_EXECUTION_OR_HOLD",
+    "latest_report":  "C:\\Users\\sunpu\\Desktop\\pycson\\1161_V432U_READONLY_REFRESH_DRYRUN_EXECUTION_PACKAGE_REVIEW_OR_HOLD\\V432U_READONLY_REFRESH_DRYRUN_EXECUTION_PACKAGE_REVIEW_OR_HOLD_20260605_075957\\03_REPORT\\v432u_readonly_refresh_dryrun_execution_package_review_or_hold_report.json",
+    "latest_proof":  "C:\\Users\\sunpu\\Desktop\\pycson\\1161_V432U_READONLY_REFRESH_DRYRUN_EXECUTION_PACKAGE_REVIEW_OR_HOLD\\V432U_READONLY_REFRESH_DRYRUN_EXECUTION_PACKAGE_REVIEW_OR_HOLD_20260605_075957\\02_PROOF\\v432u_no_refresh_no_fetch_no_ev_no_trade_proof.txt",
+    "v432t_accepted":  true,
+    "repair_needed":  false,
+    "readonly_refresh_execution_package_reviewed":  true,
+    "readonly_refresh_executed":  false,
+    "next_safe_step":  "USER_APPROVAL_REQUIRED_FOR_V432V_READONLY_REFRESH_DRYRUN_EXECUTION_OR_HOLD",
+    "generated_at":  "20260605_075957"
+}
