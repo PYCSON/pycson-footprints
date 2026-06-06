@@ -1,0 +1,22 @@
+﻿{
+    "stage":  "V432V_READONLY_REFRESH_DRYRUN_EXECUTION_OR_HOLD",
+    "validation_passed":  true,
+    "readonly_refresh_execution_input_manifest_used":  true,
+    "expected_readonly_refresh_output_manifest_used":  true,
+    "readonly_refresh_execution_checklist_used":  true,
+    "forbidden_boundary_checklist_used":  true,
+    "stop_hold_pass_matrix_used":  true,
+    "readonly_refresh_output_schema_used":  true,
+    "source_access_boundary_checklist_used":  true,
+    "no_login_no_cookie_no_captcha_no_proxy_no_bypass_checklist_used":  true,
+    "output_bundle_created":  true,
+    "summary":  {
+                    "row_count":  1,
+                    "pass_rows":  1,
+                    "hold_rows":  0,
+                    "source_access_boundary_passed":  true,
+                    "no_login_cookies_captcha_proxy_bypass":  true,
+                    "external_fetch_attempted":  false,
+                    "readonly_refresh_dryrun_mode":  "LOCAL_PACKAGE_BOUNDARY_OUTPUT_ONLY"
+                }
+}

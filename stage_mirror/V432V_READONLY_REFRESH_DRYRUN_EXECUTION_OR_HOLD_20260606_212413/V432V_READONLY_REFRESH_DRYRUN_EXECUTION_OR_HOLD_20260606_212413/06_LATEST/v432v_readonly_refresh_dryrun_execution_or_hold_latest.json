@@ -1,0 +1,13 @@
+﻿{
+    "current_anchor":  "V432V_READONLY_REFRESH_DRYRUN_EXECUTION_OR_HOLD",
+    "status":  "PASS_V432V_READONLY_REFRESH_DRYRUN_EXECUTION",
+    "decision":  "READY_FOR_V432W_READONLY_REFRESH_DRYRUN_EXECUTION_REVIEW_OR_HOLD",
+    "latest_report":  "C:\\Users\\sunpu\\Desktop\\pycson\\1162_V432V_READONLY_REFRESH_DRYRUN_EXECUTION_OR_HOLD\\V432V_READONLY_REFRESH_DRYRUN_EXECUTION_OR_HOLD_20260606_212413\\05_REPORT\\v432v_readonly_refresh_dryrun_execution_or_hold_report.json",
+    "latest_proof":  "C:\\Users\\sunpu\\Desktop\\pycson\\1162_V432V_READONLY_REFRESH_DRYRUN_EXECUTION_OR_HOLD\\V432V_READONLY_REFRESH_DRYRUN_EXECUTION_OR_HOLD_20260606_212413\\04_PROOF\\v432v_no_fetch_no_ev_no_trade_proof.txt",
+    "approval_phrase_confirmed":  true,
+    "readonly_refresh_dryrun_executed":  true,
+    "source_access_boundary_passed":  true,
+    "no_login_cookies_captcha_proxy_bypass":  true,
+    "next_safe_step":  "V432W_READONLY_REFRESH_DRYRUN_EXECUTION_REVIEW_OR_HOLD",
+    "generated_at":  "20260606_212413"
+}

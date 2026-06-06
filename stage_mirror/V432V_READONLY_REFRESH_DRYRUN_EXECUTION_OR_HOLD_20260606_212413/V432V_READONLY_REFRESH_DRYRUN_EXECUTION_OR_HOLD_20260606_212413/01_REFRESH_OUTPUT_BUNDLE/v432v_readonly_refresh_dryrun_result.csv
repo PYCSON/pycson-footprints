@@ -1,0 +1,2 @@
+﻿"refresh_row_id","source_descriptor_id","source_access_mode","refresh_status","source_access_boundary_passed","no_login","no_cookies","no_captcha","no_proxy","no_bypass","data_bridge_write","active_payload_write","ev_calculation","buy_trade_order","notes"
+"V432V_LOCAL_BOUNDARY_ROW_001","LOCAL_PACKAGE_BOUNDARY_ONLY","LOCAL_ONLY_NO_EXTERNAL_FETCH","PASS","True","True","True","True","True","True","False","False","False","False","Readonly refresh dryrun executed as local package boundary/output row; no external source access attempted."

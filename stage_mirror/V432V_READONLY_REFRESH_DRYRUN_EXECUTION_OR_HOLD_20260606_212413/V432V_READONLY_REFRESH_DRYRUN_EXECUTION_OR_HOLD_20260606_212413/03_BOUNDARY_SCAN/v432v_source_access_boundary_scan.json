@@ -1,0 +1,16 @@
+﻿{
+    "stage":  "V432V_READONLY_REFRESH_DRYRUN_EXECUTION_OR_HOLD",
+    "passed":  true,
+    "source_access_boundary_passed":  true,
+    "no_login":  true,
+    "no_cookies":  true,
+    "no_captcha":  true,
+    "no_captcha_bypass":  true,
+    "no_proxy":  true,
+    "no_region_account_bypass":  true,
+    "no_account_automation":  true,
+    "no_wallet_cashout_payment_order_flow":  true,
+    "no_private_account_session_data":  true,
+    "external_fetch_attempted":  false,
+    "source_mode":  "LOCAL_PACKAGE_BOUNDARY_OUTPUT_ONLY"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "stage":  "V432V_READONLY_REFRESH_DRYRUN_EXECUTION_OR_HOLD",
+    "passed":  true,
+    "ui_patch_performed":  false,
+    "mother_ui_modified":  false,
+    "live_ui_modified":  false,
+    "data_bridge_write":  false,
+    "active_payload_write":  false,
+    "ev_calculation":  false,
+    "buy_trade_order":  false,
+    "forbidden_outputs_absent":  true,
+    "steam_fetch":  false,
+    "buff_fetch":  false,
+    "market_endpoint_call":  false,
+    "scheduler_executed":  false
+}
