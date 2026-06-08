@@ -1,0 +1,6 @@
+﻿option_id,scope,recommended,rationale,risk_boundary
+A,V432Z_REFRESH_OUTPUT_TO_CANDIDATE_SCREENING_MAPPING_PLAN_REVIEW_OR_HOLD,true,Review the mapping plan before creating manifests,Review only
+B,V432Z_CANDIDATE_SCREENING_UPDATE_MANIFEST_PACKAGE_OR_HOLD,false,Useful but should follow review,Package only
+C,V432Z_SCREENING_TO_REFRESH_OUTPUT_INTEGRATION_REVIEW_OR_HOLD,false,Related but less direct than reviewing this plan,Review only
+D,V432Z_EV_DRYRUN_PRECONDITION_GAP_REVIEW_OR_HOLD,false,EV remains premature,No EV
+E,HOLD for user direction,false,Safe pause route,No action

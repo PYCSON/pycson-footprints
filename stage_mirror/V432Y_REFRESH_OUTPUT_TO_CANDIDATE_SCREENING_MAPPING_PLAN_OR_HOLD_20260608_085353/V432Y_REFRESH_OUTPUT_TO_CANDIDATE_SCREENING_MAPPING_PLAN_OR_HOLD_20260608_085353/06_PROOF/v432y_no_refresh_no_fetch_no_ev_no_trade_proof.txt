@@ -1,0 +1,20 @@
+﻿V432Y proof
+
+Stage scope: planning only.
+Readonly refresh executed: false
+V432V rerun: false
+Steam fetch: false
+BUFF fetch: false
+Market endpoint call: false
+Scheduler executed: false
+UI patch performed: false
+Mother UI modified: false
+LIVE UI modified: false
+DATA_BRIDGE write: false
+Active payload write: false
+EV calculation: false
+BUY/TRADE/ORDER: false
+Forbidden outputs absent: true
+
+Executed script: C:\Users\sunpu\Desktop\pycson\1165_V432Y_REFRESH_OUTPUT_TO_CANDIDATE_SCREENING_MAPPING_PLAN_OR_HOLD\V432Y_REFRESH_OUTPUT_TO_CANDIDATE_SCREENING_MAPPING_PLAN_OR_HOLD_20260608_085353\00_EXECUTED_SCRIPT\RUN_V432Y_REFRESH_OUTPUT_TO_CANDIDATE_SCREENING_MAPPING_PLAN_OR_HOLD_20260608_085353.ps1
+Executed script SHA256: C9B4C026B0B208500756C7DED1CEEF4E842EDA8BB9B30256C095E5B3F1FDD52A

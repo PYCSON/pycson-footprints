@@ -1,0 +1,5 @@
+﻿refresh_freshness_label,candidate_status,review_required,notes
+FRESH,REVIEW_REQUIRED,true,Fresh alone does not create signal readiness
+STALE,STALE,true,Stale refresh output remains non-executable
+UNKNOWN,REVIEW_REQUIRED,true,Unknown freshness requires review
+BOUNDARY_ONLY,REVIEW_REQUIRED,true,Local/package-boundary rows cannot become live evidence

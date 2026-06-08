@@ -1,0 +1,14 @@
+﻿refresh_output_field,candidate_screening_field,mapping_rule,notes
+refresh_record_id,notes,append_reference,Keep as trace only; not a signal
+source_descriptor_id,notes,append_source_descriptor_trace,Descriptor trace is required before future execution
+source_type,source_type,copy_allowed_label,Only allowed source labels may propagate
+source_access_mode,is_local_only,map_local_or_mock_to_true,Future readonly mode remains review-gated
+observed_availability_state,screening_status,map_unavailable_to_REVIEW_REQUIRED_or_BLOCKED,Never output buy/trade/action
+observed_price_state,review_reason,map_price_state_to_review_reason,No EV calculation permitted
+freshness_label,screening_status,map_STALE_to_STALE,Freshness affects review status only
+staleness_reason,review_reason,copy_safe_text,No source secrets or private session data
+source_trust_label,candidate_class,map_low_trust_to_REVIEW_REQUIRED,Trust labels are non-executable
+source_confidence_label,is_review_required,map_low_confidence_to_true,Confidence cannot create signal readiness
+boundary_status,is_blocked,map_boundary_fail_to_true,Boundary failure blocks mapping
+validation_status,forbidden_output_present,map_validation_fail_to_review_flag,Validation failure prevents acceptance
+notes,notes,copy_sanitized,Public-safe notes only

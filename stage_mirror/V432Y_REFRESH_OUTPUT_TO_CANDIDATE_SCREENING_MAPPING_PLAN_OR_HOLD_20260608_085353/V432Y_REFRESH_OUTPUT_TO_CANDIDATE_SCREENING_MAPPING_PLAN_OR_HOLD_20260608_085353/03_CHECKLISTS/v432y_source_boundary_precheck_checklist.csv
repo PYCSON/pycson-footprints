@@ -1,0 +1,12 @@
+﻿check_id,check,required_pass
+B001,no readonly refresh execution in mapping plan,true
+B002,no Steam fetch,true
+B003,no BUFF fetch,true
+B004,no market endpoint call,true
+B005,no login/cookies/captcha/proxy/bypass,true
+B006,no account automation,true
+B007,no private account/session data,true
+B008,no DATA_BRIDGE write,true
+B009,no active payload write,true
+B010,no EV calculation,true
+B011,no BUY/TRADE/ORDER,true

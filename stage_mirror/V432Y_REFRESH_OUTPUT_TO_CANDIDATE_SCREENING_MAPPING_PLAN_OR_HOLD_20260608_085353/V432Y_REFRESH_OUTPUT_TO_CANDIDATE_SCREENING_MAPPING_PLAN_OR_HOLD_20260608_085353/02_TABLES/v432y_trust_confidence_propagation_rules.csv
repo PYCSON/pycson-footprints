@@ -1,0 +1,5 @@
+﻿source_trust_label,source_confidence_label,candidate_effect,notes
+MOCK,LOW,REVIEW_REQUIRED,Mock/local rows remain non-signal
+LOCAL_ONLY,LOW,REVIEW_REQUIRED,Local-only rows need future review before integration
+READONLY_APPROVED,MEDIUM,REVIEW_REQUIRED,Readonly approval still does not permit trading output
+UNKNOWN,UNKNOWN,BLOCKED,Unknown trust/confidence blocks mapping acceptance

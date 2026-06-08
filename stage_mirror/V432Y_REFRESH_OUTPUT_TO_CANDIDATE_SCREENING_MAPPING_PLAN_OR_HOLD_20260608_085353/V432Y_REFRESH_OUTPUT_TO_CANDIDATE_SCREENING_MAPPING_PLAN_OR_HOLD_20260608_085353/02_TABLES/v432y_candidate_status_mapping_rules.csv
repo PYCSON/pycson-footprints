@@ -1,0 +1,6 @@
+﻿condition,candidate_screening_status,is_blocked,is_review_required,is_signal_ready,notes
+boundary_status_failed,BLOCKED,true,true,false,Protective block
+freshness_label_STALE,STALE,false,true,false,Requires review
+source_confidence_low,REVIEW_REQUIRED,false,true,false,Non-executable review status
+local_package_boundary_row,REVIEW_REQUIRED,false,true,false,Not live evidence
+forbidden_output_detected,BLOCKED,true,true,false,Stop/HOLD required

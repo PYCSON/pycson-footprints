@@ -1,0 +1,7 @@
+﻿condition,result,required_action
+all planning artifacts created and boundaries preserved,PASS,Proceed to mapping plan review
+source boundary unclear,HOLD,Create boundary review packet
+forbidden output appears,STOP,Do not proceed
+DATA_BRIDGE or active payload write needed,STOP,Require explicit future approval
+EV or trade/order requested,STOP,Pre-EV or approval-gated route only
+external fetch required,STOP,Future explicit source access approval required

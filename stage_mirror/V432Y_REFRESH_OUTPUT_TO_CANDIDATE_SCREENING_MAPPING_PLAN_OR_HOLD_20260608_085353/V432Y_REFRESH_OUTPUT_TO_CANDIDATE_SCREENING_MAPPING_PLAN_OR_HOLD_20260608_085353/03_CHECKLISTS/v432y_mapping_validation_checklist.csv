@@ -1,0 +1,11 @@
+﻿check_id,validation_check,required
+V001,field mapping table parses,true
+V002,allowed and forbidden transformations parse,true
+V003,boundary precheck passes before mapping,true
+V004,freshness/staleness propagation rules parse,true
+V005,trust/confidence propagation rules parse,true
+V006,candidate status mapping rules parse,true
+V007,future manifest template parses,true
+V008,no forbidden outputs present,true
+V009,no EV calculation,true
+V010,no DATA_BRIDGE or active payload write,true

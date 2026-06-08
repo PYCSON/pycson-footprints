@@ -1,0 +1,11 @@
+﻿transformation_type,transformation,allowed,reason
+copy,copy allowed source_type labels,true,Needed for traceability
+derive,derive REVIEW_REQUIRED from stale or low confidence,true,Safe non-executable status
+derive,derive BLOCKED from boundary failure,true,Safe protective status
+append,append sanitized trace notes,true,Review support only
+calculate,official EV,false,Forbidden
+calculate,trusted EV,false,Forbidden
+recommend,BUY_NOW or TRADEUP_NOW,false,Forbidden output
+write,DATA_BRIDGE or active payload,false,Forbidden write
+fetch,Steam BUFF or market endpoint,false,Forbidden in this stage
+promote,signal-ready trading instruction,false,Forbidden executable recommendation

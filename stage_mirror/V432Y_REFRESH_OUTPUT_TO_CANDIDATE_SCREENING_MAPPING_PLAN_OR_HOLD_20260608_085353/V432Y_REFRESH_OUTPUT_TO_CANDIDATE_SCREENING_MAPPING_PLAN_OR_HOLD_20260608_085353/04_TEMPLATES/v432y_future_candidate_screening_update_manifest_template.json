@@ -1,0 +1,34 @@
+﻿{
+    "manifest_type":  "future_candidate_screening_update_manifest_template",
+    "stage":  "V432Y_REFRESH_OUTPUT_TO_CANDIDATE_SCREENING_MAPPING_PLAN_OR_HOLD",
+    "execution_allowed":  false,
+    "rows":  [
+                 {
+                     "review_reason":  "Mapped from readonly refresh output under future approved boundary",
+                     "blocked_reason":  null,
+                     "is_blocked":  false,
+                     "is_mock":  true,
+                     "source_type":  "LOCAL_ONLY",
+                     "screening_status":  "REVIEW_REQUIRED",
+                     "candidate_class":  "REVIEW_REQUIRED",
+                     "is_signal_ready":  false,
+                     "forbidden_output_present":  false,
+                     "is_local_only":  true,
+                     "notes":  "Template only; no DATA_BRIDGE or active payload write",
+                     "update_record_id":  "LOCAL_TEMPLATE_ONLY",
+                     "universe_record_id":  "MOCK_OR_LOCAL_ID",
+                     "refresh_record_id":  "TRACE_ONLY",
+                     "is_review_required":  true
+                 }
+             ],
+    "forbidden_outputs":  [
+                              "BUY_NOW",
+                              "TRADEUP_NOW",
+                              "TRADE",
+                              "ORDER",
+                              "OFFICIAL_EV",
+                              "TRUSTED_EV",
+                              "executable PROFIT",
+                              "executable recommendation"
+                          ]
+}
