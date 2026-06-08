@@ -1,0 +1,19 @@
+﻿V432X proof
+
+Stage scope: acceptance and next-scope planning only.
+Readonly refresh rerun: false
+Steam fetch: false
+BUFF fetch: false
+Market endpoint call: false
+Scheduler executed: false
+UI patch performed: false
+Mother UI modified: false
+LIVE UI modified: false
+DATA_BRIDGE write: false
+Active payload write: false
+EV calculation: false
+BUY/TRADE/ORDER: false
+Forbidden outputs absent: true
+
+Executed script: C:\Users\sunpu\Desktop\pycson\1164_V432X_READONLY_REFRESH_DRYRUN_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD\V432X_READONLY_REFRESH_DRYRUN_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD_20260608_081442\00_EXECUTED_SCRIPT\RUN_V432X_READONLY_REFRESH_DRYRUN_ACCEPTANCE_AND_NEXT_SCOPE_PLAN_OR_HOLD_20260608_081442.ps1
+Executed script SHA256: C452EFA24DD34F969AD46362F9EB1E6B0C5C8AE41D250532004742C9733FDD8A

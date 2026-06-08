@@ -1,0 +1,5 @@
+﻿gap_id,gap,status,next_handling
+GAP_REFRESH_TO_SCREENING_MAPPING,Refresh outputs are not yet mapped to candidate screening inputs,OPEN,V432Y_REFRESH_OUTPUT_TO_CANDIDATE_SCREENING_MAPPING_PLAN_OR_HOLD
+GAP_INTEGRATION_APPLY,No DATA_BRIDGE or active payload write has been approved,OPEN,Future approval-gated package only
+GAP_EV,EV remains out of scope and not ready,OPEN,Pre-EV review only after mapping and refresh readiness mature
+GAP_EXTERNAL_SOURCE,No broader external source access expansion approved,OPEN,Explicit future approval required

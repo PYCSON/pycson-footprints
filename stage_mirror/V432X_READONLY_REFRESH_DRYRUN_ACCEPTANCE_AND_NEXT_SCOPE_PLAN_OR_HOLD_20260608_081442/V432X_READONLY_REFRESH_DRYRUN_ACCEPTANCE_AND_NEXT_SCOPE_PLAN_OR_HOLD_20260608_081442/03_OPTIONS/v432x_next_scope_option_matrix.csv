@@ -1,0 +1,6 @@
+﻿option_id,scope,recommended,rationale,risk_boundary
+A,V432Y_READONLY_REFRESH_DRYRUN_ACCEPTANCE_REVIEW_OR_HOLD,false,Additional review is safe but less directly useful after V432W acceptance,Review only
+B,V432Y_SCREENING_TO_REFRESH_OUTPUT_INTEGRATION_PLAN_OR_HOLD,false,Useful planning route but broader than mapping refresh output back into screening,Planning only
+C,V432Y_REFRESH_OUTPUT_TO_CANDIDATE_SCREENING_MAPPING_PLAN_OR_HOLD,true,Most direct next safe step after accepted refresh dryrun output,Planning only
+D,V432Y_EV_DRYRUN_PRECONDITION_GAP_REVIEW_OR_HOLD,false,EV remains premature before mapping maturity,Review only no EV
+E,HOLD for user direction,false,Safe fallback if user wants to pause,No action

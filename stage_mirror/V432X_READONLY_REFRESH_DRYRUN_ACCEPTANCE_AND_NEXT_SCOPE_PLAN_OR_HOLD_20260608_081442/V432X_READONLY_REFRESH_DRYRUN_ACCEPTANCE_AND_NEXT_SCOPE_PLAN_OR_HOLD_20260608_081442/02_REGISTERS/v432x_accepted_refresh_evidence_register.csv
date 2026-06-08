@@ -1,0 +1,8 @@
+﻿evidence_id,artifact,accepted,notes
+V432V_OUTPUT_BUNDLE,readonly refresh output bundle,true,One local/package-boundary output row reviewed
+V432V_RESULT_JSON,readonly refresh result JSON,true,Parsed and accepted by V432W
+V432V_RESULT_CSV,readonly refresh result CSV,true,Parsed and accepted by V432W
+V432V_VALIDATION_REPORT,validation report,true,Accepted by V432W
+V432V_FORBIDDEN_SCAN,forbidden boundary scan,true,Forbidden outputs absent
+V432V_SOURCE_BOUNDARY,source access boundary scan,true,No login/cookies/captcha/proxy/bypass accepted
+V432W_REVIEW,V432W review,true,Accepted V432V without repair
