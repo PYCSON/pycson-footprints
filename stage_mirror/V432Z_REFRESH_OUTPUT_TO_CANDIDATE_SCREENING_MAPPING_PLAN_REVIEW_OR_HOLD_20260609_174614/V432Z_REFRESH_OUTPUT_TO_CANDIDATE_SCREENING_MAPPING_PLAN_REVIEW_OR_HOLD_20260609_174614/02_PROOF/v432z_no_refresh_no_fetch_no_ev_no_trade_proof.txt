@@ -1,0 +1,20 @@
+﻿V432Z proof
+
+Stage scope: review only.
+Readonly refresh executed: false
+V432V rerun: false
+Steam fetch: false
+BUFF fetch: false
+Market endpoint call: false
+Scheduler executed: false
+UI patch performed: false
+Mother UI modified: false
+LIVE UI modified: false
+DATA_BRIDGE write: false
+Active payload write: false
+EV calculation: false
+BUY/TRADE/ORDER: false
+Forbidden outputs absent: true
+
+Executed script: C:\Users\sunpu\Desktop\pycson\1166_V432Z_REFRESH_OUTPUT_TO_CANDIDATE_SCREENING_MAPPING_PLAN_REVIEW_OR_HOLD\V432Z_REFRESH_OUTPUT_TO_CANDIDATE_SCREENING_MAPPING_PLAN_REVIEW_OR_HOLD_20260609_174614\00_EXECUTED_SCRIPT\RUN_V432Z_REFRESH_OUTPUT_TO_CANDIDATE_SCREENING_MAPPING_PLAN_REVIEW_OR_HOLD_20260609_174614.ps1
+Executed script SHA256: 80DDED4403807D2B40348FE985F3A0593A152DD905225371E5756E66FE448104
