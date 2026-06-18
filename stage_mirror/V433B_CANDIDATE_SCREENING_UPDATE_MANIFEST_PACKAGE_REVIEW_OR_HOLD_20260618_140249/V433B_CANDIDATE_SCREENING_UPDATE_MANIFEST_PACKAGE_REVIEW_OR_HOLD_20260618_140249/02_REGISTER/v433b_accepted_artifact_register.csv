@@ -1,0 +1,12 @@
+﻿artifact_id,path,accepted,notes
+SCHEMA,02_SCHEMA\v433a_candidate_screening_update_manifest_schema.json,true,JSON parses
+TEMPLATE,03_MANIFESTS\v433a_candidate_screening_update_manifest_template.json,true,execution_allowed false
+EXAMPLE,03_MANIFESTS\v433a_candidate_screening_update_manifest_example_local_boundary_only.json,true,local/package-boundary placeholder only
+DICTIONARY,04_DICTIONARY\v433a_manifest_field_dictionary.csv,true,CSV parses
+SOURCE_BOUNDARY,05_CHECKLISTS\v433a_manifest_source_boundary_checklist.csv,true,CSV parses
+FRESHNESS,05_CHECKLISTS\v433a_manifest_freshness_staleness_checklist.csv,true,CSV parses
+TRUST,05_CHECKLISTS\v433a_manifest_trust_confidence_checklist.csv,true,CSV parses
+CANDIDATE_STATUS,05_CHECKLISTS\v433a_manifest_candidate_status_checklist.csv,true,CSV parses
+VALIDATION,05_CHECKLISTS\v433a_manifest_validation_checklist.csv,true,CSV parses
+MATRIX,06_MATRIX\v433a_stop_hold_pass_manifest_package_matrix.csv,true,CSV parses
+PROOFS,07_PROOF,true,Boundary proofs accepted

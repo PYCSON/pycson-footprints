@@ -1,0 +1,17 @@
+﻿check_id,check,result
+R001,V433A artifact root exists,PASS
+R002,all required V433A artifacts exist,PASS
+R003,manifest schema valid,PASS
+R004,manifest template valid,PASS
+R005,manifest example local-boundary only,PASS
+R006,field dictionary valid,PASS
+R007,source boundary checklist valid,PASS
+R008,freshness/staleness checklist valid,PASS
+R009,trust/confidence checklist valid,PASS
+R010,candidate status checklist valid,PASS
+R011,manifest validation checklist valid,PASS
+R012,STOP/HOLD/PASS matrix valid,PASS
+R013,local-boundary-only proof valid,PASS
+R014,no-refresh/no-fetch/no-EV/no-trade proof valid,PASS
+R015,V433A created from accepted V432Y/V432Z,PASS
+R016,repair needed false,PASS

@@ -1,0 +1,6 @@
+﻿option_id,scope,recommended,rationale,risk_boundary
+A,V433C_CANDIDATE_SCREENING_UPDATE_MANIFEST_DRYRUN_INPUT_PACKAGE_OR_HOLD,true,Next safe package-only step after accepted manifest package review,Package only
+B,V433C_MAPPING_TO_SCREENING_UPDATE_DRYRUN_PLAN_OR_HOLD,false,Useful but less concrete than input package,Planning only
+C,V433C_READONLY_SOURCE_BOUNDARY_PREFLIGHT_PLAN_OR_HOLD,false,Safe later if source boundary expansion is considered,Planning only
+D,V433C_EV_DRYRUN_PRECONDITION_GAP_REVIEW_OR_HOLD,false,EV remains premature,No EV
+E,HOLD_FOR_USER_DIRECTION,false,Safe pause,No action
