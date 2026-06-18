@@ -1,0 +1,6 @@
+﻿artifact_id,path,role
+DRYRUN_INPUT_MANIFEST,02_MANIFESTS\v433c_dryrun_input_manifest_local_boundary_only.json,Primary local-boundary input
+SCHEMA_ALIGNMENT,03_VALIDATION\v433c_dryrun_input_validation_schema_alignment_report.md,Validation source
+FIELD_COVERAGE,04_TABLES\v433c_dryrun_input_field_coverage.csv,Field coverage source
+SOURCE_BOUNDARY,04_TABLES\v433c_dryrun_input_source_boundary.csv,Boundary source
+V433D_REVIEW,01_REVIEW\v433d_candidate_screening_update_manifest_dryrun_input_package_review.md,Accepted review source

@@ -1,0 +1,7 @@
+﻿row_field,planned_behavior,boundary
+universe_record_id,copy from local-boundary input,trace only
+screening_status,preserve REVIEW_REQUIRED,non-executable
+is_review_required,preserve true,review only
+is_signal_ready,preserve false,no signal promotion
+forbidden_output_present,preserve false and rescan,stop if true
+notes,append dryrun trace,no private data

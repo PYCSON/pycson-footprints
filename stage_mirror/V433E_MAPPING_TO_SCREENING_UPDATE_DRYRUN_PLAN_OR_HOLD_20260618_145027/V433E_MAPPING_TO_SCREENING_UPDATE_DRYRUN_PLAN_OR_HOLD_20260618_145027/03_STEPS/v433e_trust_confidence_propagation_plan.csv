@@ -1,0 +1,4 @@
+﻿rule,planned_behavior
+LOCAL_ONLY,non-signal review-only
+low confidence,review-required
+unknown trust,hold or blocked in future execution

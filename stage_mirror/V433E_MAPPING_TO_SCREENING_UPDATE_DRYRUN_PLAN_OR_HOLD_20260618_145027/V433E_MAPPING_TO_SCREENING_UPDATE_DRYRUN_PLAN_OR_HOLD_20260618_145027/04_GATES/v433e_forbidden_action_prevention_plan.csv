@@ -1,0 +1,13 @@
+﻿forbidden_action,prevented
+candidate screening dryrun execution,true
+mapping-to-screening dryrun execution in this stage,true
+readonly refresh,true
+Steam fetch,true
+BUFF fetch,true
+market endpoint call,true
+scheduler execution,true
+UI patch,true
+DATA_BRIDGE write,true
+active payload write,true
+EV calculation,true
+BUY/TRADE/ORDER,true

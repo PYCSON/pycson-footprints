@@ -1,0 +1,7 @@
+﻿boundary,enforced
+no Steam fetch,true
+no BUFF fetch,true
+no market endpoint call,true
+no readonly refresh,true
+local/package-boundary inputs only,true
+no private/session data,true

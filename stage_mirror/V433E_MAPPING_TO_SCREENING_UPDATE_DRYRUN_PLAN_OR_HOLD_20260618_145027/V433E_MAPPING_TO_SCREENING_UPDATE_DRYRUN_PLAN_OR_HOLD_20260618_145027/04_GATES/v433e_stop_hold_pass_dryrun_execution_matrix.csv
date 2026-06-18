@@ -1,0 +1,5 @@
+﻿condition,result,required_action
+plan complete and boundaries preserved,PASS,Proceed to V433F review
+missing planned output artifact,HOLD,Repair plan
+execution requested in plan stage,STOP,Do not execute
+fetch/write/EV/trade requested,STOP,User review

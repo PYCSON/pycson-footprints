@@ -1,0 +1,5 @@
+﻿input_status,output_status,notes
+REVIEW_REQUIRED,REVIEW_REQUIRED,Preserve review-only status
+BLOCKED,BLOCKED,Preserve block
+STALE,STALE,Preserve stale
+any signal-ready request,HOLD,No signal promotion

@@ -1,0 +1,4 @@
+﻿rule,planned_behavior
+local-boundary rows,do not claim live freshness
+unknown freshness,review-required
+stale,review-required or stale only

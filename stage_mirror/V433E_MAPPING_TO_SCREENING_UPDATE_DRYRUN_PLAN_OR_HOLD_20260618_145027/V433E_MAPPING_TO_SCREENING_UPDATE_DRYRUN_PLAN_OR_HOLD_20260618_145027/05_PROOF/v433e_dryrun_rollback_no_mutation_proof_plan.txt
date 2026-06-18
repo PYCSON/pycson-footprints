@@ -1,0 +1,21 @@
+﻿V433E proof
+
+Scope: dryrun plan creation only.
+Candidate screening dryrun executed: false
+Mapping-to-screening dryrun executed: false
+Readonly refresh executed: false
+Steam fetch: false
+BUFF fetch: false
+Market endpoint call: false
+Scheduler executed: false
+UI patch: false
+Mother UI modified: false
+LIVE UI modified: false
+DATA_BRIDGE write: false
+Active payload write: false
+EV calculation: false
+BUY/TRADE/ORDER: false
+Forbidden outputs absent: true
+
+Executed script: C:\Users\sunpu\Desktop\pycson\1171_V433E_MAPPING_TO_SCREENING_UPDATE_DRYRUN_PLAN_OR_HOLD\V433E_MAPPING_TO_SCREENING_UPDATE_DRYRUN_PLAN_OR_HOLD_20260618_145027\00_EXECUTED_SCRIPT\RUN_V433E_MAPPING_TO_SCREENING_UPDATE_DRYRUN_PLAN_OR_HOLD_20260618_145027.ps1
+Executed script SHA256: A3B5001C703879246C8D576658595B235A597942B03C97FED610FD94B60B566C

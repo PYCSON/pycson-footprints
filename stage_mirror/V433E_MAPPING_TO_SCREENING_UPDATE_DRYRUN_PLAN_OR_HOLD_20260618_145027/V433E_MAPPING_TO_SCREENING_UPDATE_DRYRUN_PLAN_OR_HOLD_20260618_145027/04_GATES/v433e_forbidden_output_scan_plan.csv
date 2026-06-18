@@ -1,0 +1,10 @@
+﻿forbidden_output,scan_required
+BUY_NOW,true
+TRADEUP_NOW,true
+TRADE,true
+ORDER,true
+OFFICIAL_EV,true
+TRUSTED_EV,true
+TRADEUP_EV,true
+executable PROFIT,true
+executable recommendation,true

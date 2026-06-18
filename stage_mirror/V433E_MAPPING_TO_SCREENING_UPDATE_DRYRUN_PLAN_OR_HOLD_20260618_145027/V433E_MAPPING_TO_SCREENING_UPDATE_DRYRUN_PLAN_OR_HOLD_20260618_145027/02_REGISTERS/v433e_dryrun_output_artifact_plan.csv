@@ -1,0 +1,6 @@
+﻿output_artifact,required,notes
+mapping_dryrun_result.json,true,Future planned output only
+mapping_dryrun_result.csv,true,Future planned output only
+validation_report.json,true,Future planned output only
+forbidden_output_scan.csv,true,Future planned output only
+no_mutation_proof.txt,true,Future planned proof only

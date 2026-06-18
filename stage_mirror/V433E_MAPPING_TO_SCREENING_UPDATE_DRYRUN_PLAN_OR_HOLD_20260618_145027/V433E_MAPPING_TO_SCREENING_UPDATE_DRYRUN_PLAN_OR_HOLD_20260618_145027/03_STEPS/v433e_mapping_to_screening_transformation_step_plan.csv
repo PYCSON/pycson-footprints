@@ -1,0 +1,9 @@
+﻿step_id,step,allowed
+T001,load local-boundary dryrun input manifest,true
+T002,validate source boundary flags,true
+T003,map update row to review-only screening update row,true
+T004,preserve is_signal_ready=false,true
+T005,scan forbidden outputs,true
+T006,write DATA_BRIDGE,false
+T007,calculate EV,false
+T008,emit BUY/TRADE/ORDER,false

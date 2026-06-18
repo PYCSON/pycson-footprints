@@ -1,0 +1,7 @@
+﻿gate,required_pass
+manifest parses,true
+local_boundary_only true,true
+candidate_screening_dryrun_not_executed,true
+mapping_dryrun_not_executed_in_plan_stage,true
+forbidden_outputs_absent,true
+no_fetch_write_ev_trade,true
