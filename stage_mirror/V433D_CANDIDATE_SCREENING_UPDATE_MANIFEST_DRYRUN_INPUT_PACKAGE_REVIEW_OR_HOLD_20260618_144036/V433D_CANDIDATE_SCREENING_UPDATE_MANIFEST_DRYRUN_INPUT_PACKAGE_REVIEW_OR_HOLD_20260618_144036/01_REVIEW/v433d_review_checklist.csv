@@ -1,0 +1,16 @@
+﻿check_id,check,result
+R001,V433C artifact root exists,PASS
+R002,all required V433C artifacts exist,PASS
+R003,dryrun input manifest valid,PASS
+R004,dryrun input manifest local-boundary only,PASS
+R005,schema alignment valid,PASS
+R006,field coverage complete,PASS
+R007,source boundary valid,PASS
+R008,freshness/staleness propagation valid,PASS
+R009,trust/confidence propagation valid,PASS
+R010,candidate status propagation valid,PASS
+R011,forbidden-output scan valid,PASS
+R012,STOP/HOLD/PASS matrix valid,PASS
+R013,local-boundary-only proof valid,PASS
+R014,no-refresh/no-fetch/no-EV/no-trade proof valid,PASS
+R015,repair needed false,PASS

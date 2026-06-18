@@ -1,0 +1,11 @@
+﻿artifact_id,path,accepted,notes
+MANIFEST,02_MANIFESTS\v433c_dryrun_input_manifest_local_boundary_only.json,true,Local boundary only and non-executable
+ALIGNMENT,03_VALIDATION\v433c_dryrun_input_validation_schema_alignment_report.md,true,Schema alignment passes
+FIELD_COVERAGE,04_TABLES\v433c_dryrun_input_field_coverage.csv,true,Complete
+SOURCE_BOUNDARY,04_TABLES\v433c_dryrun_input_source_boundary.csv,true,Boundary valid
+FRESHNESS,04_TABLES\v433c_dryrun_input_freshness_staleness_propagation.csv,true,Propagation safe
+TRUST,04_TABLES\v433c_dryrun_input_trust_confidence_propagation.csv,true,Propagation safe
+STATUS,04_TABLES\v433c_dryrun_input_candidate_status_propagation.csv,true,No signal promotion
+FORBIDDEN_SCAN,04_TABLES\v433c_dryrun_input_forbidden_output_scan.csv,true,Forbidden outputs absent
+MATRIX,05_MATRIX\v433c_dryrun_input_stop_hold_pass_matrix.csv,true,Matrix valid
+PROOFS,06_PROOF,true,Boundary proofs accepted

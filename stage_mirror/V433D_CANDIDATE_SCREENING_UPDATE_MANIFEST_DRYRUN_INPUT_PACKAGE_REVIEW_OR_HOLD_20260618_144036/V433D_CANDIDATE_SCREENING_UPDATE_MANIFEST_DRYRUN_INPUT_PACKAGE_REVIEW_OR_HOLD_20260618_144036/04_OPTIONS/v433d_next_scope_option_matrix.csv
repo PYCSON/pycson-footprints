@@ -1,0 +1,6 @@
+﻿option_id,scope,recommended,rationale,risk_boundary
+A,V433E_MAPPING_TO_SCREENING_UPDATE_DRYRUN_PLAN_OR_HOLD,true,Plan execution path before any dryrun execution,Planning only
+B,V433E_CANDIDATE_SCREENING_DRYRUN_EXECUTION_PLAN_OR_HOLD,false,Execution planning can follow mapping dryrun plan,Planning only
+C,V433E_READONLY_SOURCE_BOUNDARY_PREFLIGHT_PLAN_OR_HOLD,false,Safe source-boundary prep but not next most direct,Planning only
+D,V433E_STEAM_BUFF_READONLY_SOURCE_PREFLIGHT_PLAN_OR_HOLD,false,Too early for source-specific preflight,No fetch
+E,HOLD_FOR_USER_DIRECTION,false,Safe pause,No action
