@@ -1,0 +1,1 @@
+﻿V433M reviewed local V433L planning artifacts only. No readonly source preflight, Steam/BUFF preflight, fetch, refresh, external URL access, login/cookies/captcha/proxy/bypass, scheduler, UI, DATA_BRIDGE, active payload, EV, or trade/order occurred.
