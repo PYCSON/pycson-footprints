@@ -1,0 +1,7 @@
+﻿option_id,next_scope,recommendation,rationale
+A,V433Q_STEAM_BUFF_READONLY_SOURCE_PREFLIGHT_DRYRUN_INPUT_PACKAGE_REVIEW_OR_HOLD,preferred,review input package before any execution precheck
+B,V433Q_STEAM_BUFF_READONLY_SOURCE_PREFLIGHT_DRYRUN_EXECUTION_PRECHECK_OR_HOLD,available_after_review,precheck comes after package review
+C,V433Q_READONLY_SOURCE_PREFLIGHT_DRYRUN_EXECUTION_OR_HOLD,not_now,execution premature
+D,V433Q_READONLY_REFRESH_AUTHORIZATION_PRECHECK_OR_HOLD,not_now,refresh remains downstream
+E,HOLD_FOR_USER_DIRECTION,available,manual pause
+

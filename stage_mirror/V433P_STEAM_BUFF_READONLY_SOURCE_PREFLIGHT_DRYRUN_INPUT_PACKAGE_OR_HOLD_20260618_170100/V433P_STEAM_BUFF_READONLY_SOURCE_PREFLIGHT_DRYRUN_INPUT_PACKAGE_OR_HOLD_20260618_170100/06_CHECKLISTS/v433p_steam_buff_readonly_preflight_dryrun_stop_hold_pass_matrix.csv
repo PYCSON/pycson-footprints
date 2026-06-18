@@ -1,0 +1,5 @@
+﻿condition_id,condition,result
+PASS-001,manifest is local placeholder only and boundaries are closed,PASS
+HOLD-001,missing V433N or V433O dependency,HOLD
+STOP-001,any fetch URL access auth refresh write EV or trade action occurs,STOP
+

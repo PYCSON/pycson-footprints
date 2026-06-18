@@ -1,0 +1,10 @@
+﻿{
+    "source":  "BUFF",
+    "mode":  "LOCAL_PACKAGE_BOUNDARY_PLACEHOLDER_ONLY",
+    "candidate_id":  "buff_placeholder_preflight_candidate_001",
+    "external_url_access":  false,
+    "fetch_allowed":  false,
+    "auth_allowed":  false,
+    "market_endpoint_allowed":  false
+}
+

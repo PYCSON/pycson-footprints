@@ -1,0 +1,1 @@
+﻿V433P uses local/package-boundary placeholder data only. No Steam/BUFF fetch, market endpoint call, external URL access, auth, session, proxy, captcha, or bypass occurred.

@@ -1,0 +1,6 @@
+﻿source,boundary,covered,status
+STEAM,no_fetch,true,closed
+BUFF,no_fetch,true,closed
+STEAM,no_external_url_access,true,closed
+BUFF,no_external_url_access,true,closed
+

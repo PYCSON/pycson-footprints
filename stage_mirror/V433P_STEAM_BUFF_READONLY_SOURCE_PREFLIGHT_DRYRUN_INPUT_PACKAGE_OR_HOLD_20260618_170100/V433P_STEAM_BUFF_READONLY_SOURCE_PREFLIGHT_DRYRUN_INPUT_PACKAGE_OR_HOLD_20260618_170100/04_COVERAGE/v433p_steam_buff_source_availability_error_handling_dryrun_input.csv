@@ -1,0 +1,6 @@
+﻿source,availability_case,required_behavior
+STEAM,auth_required,HOLD
+STEAM,captcha_or_bypass_pressure,HOLD
+BUFF,auth_required,HOLD
+BUFF,captcha_or_bypass_pressure,HOLD
+

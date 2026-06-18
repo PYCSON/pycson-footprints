@@ -1,0 +1,46 @@
+﻿{
+    "stage":  "V433P_STEAM_BUFF_READONLY_SOURCE_PREFLIGHT_DRYRUN_INPUT_PACKAGE_OR_HOLD",
+    "mode":  "DRYRUN_INPUT_PACKAGE_ONLY_NO_EXECUTION",
+    "data_policy":  "LOCAL_PACKAGE_BOUNDARY_PLACEHOLDER_DATA_ONLY",
+    "steam_section":  "C:\\Users\\sunpu\\Desktop\\pycson\\1182_V433P_STEAM_BUFF_READONLY_SOURCE_PREFLIGHT_DRYRUN_INPUT_PACKAGE_OR_HOLD\\V433P_STEAM_BUFF_READONLY_SOURCE_PREFLIGHT_DRYRUN_INPUT_PACKAGE_OR_HOLD_20260618_170100\\03_SECTIONS\\v433p_steam_readonly_source_dryrun_input_section.json",
+    "buff_section":  "C:\\Users\\sunpu\\Desktop\\pycson\\1182_V433P_STEAM_BUFF_READONLY_SOURCE_PREFLIGHT_DRYRUN_INPUT_PACKAGE_OR_HOLD\\V433P_STEAM_BUFF_READONLY_SOURCE_PREFLIGHT_DRYRUN_INPUT_PACKAGE_OR_HOLD_20260618_170100\\03_SECTIONS\\v433p_buff_readonly_source_dryrun_input_section.json",
+    "forbidden":  [
+                      "steam_fetch",
+                      "buff_fetch",
+                      "external_url_access",
+                      "market_endpoint_call",
+                      "login",
+                      "cookies",
+                      "captcha",
+                      "proxy",
+                      "bypass",
+                      "browser_session",
+                      "authenticated_access",
+                      "readonly_refresh",
+                      "data_bridge_write",
+                      "active_payload_write",
+                      "ev_calculation",
+                      "trade_order"
+                  ],
+    "rows":  [
+                 {
+                     "source":  "STEAM",
+                     "mode":  "LOCAL_PACKAGE_BOUNDARY_PLACEHOLDER_ONLY",
+                     "candidate_id":  "steam_placeholder_preflight_candidate_001",
+                     "external_url_access":  false,
+                     "fetch_allowed":  false,
+                     "auth_allowed":  false,
+                     "market_endpoint_allowed":  false
+                 },
+                 {
+                     "source":  "BUFF",
+                     "mode":  "LOCAL_PACKAGE_BOUNDARY_PLACEHOLDER_ONLY",
+                     "candidate_id":  "buff_placeholder_preflight_candidate_001",
+                     "external_url_access":  false,
+                     "fetch_allowed":  false,
+                     "auth_allowed":  false,
+                     "market_endpoint_allowed":  false
+                 }
+             ]
+}
+
