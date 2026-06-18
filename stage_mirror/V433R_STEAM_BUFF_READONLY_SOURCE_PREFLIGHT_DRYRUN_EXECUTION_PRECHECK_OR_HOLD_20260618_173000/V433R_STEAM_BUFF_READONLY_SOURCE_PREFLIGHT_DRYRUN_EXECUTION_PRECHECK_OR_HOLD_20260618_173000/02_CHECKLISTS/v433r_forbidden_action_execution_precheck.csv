@@ -1,0 +1,11 @@
+﻿action,expected
+steam_fetch,false
+buff_fetch,false
+external_url_access,false
+market_endpoint_call,false
+readonly_refresh,false
+data_bridge_write,false
+active_payload_write,false
+ev_calculation,false
+buy_trade_order,false
+

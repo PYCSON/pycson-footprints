@@ -1,0 +1,1 @@
+﻿V433R is a local precheck package only. No Steam/BUFF dryrun execution, fetch, market endpoint call, external URL access, auth, session, proxy, captcha, or bypass occurred.

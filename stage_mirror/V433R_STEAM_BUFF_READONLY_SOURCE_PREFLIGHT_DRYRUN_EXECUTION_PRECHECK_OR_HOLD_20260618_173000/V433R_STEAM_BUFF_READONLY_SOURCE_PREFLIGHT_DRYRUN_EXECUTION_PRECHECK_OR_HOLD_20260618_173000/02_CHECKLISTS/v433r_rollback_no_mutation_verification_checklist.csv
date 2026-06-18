@@ -1,0 +1,5 @@
+﻿check,required
+pre_execution_git_status_clean,true
+post_execution_no_mutation_check,true
+no_delete_reset_clean_force_push,true
+

@@ -1,0 +1,9 @@
+﻿boundary,expected
+login,false
+cookies,false
+captcha,false
+proxy,false
+bypass,false
+browser_session,false
+authenticated_access,false
+

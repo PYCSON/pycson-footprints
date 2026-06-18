@@ -1,0 +1,6 @@
+﻿boundary,expected
+steam_fetch,false
+steam_external_url_access,false
+steam_auth_access,false
+steam_market_endpoint_call,false
+

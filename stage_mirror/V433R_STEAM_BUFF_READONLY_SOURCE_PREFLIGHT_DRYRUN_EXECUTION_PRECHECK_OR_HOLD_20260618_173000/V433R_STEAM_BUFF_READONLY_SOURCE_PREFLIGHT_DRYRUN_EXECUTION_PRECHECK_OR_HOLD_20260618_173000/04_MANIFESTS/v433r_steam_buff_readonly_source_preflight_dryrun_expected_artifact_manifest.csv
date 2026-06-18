@@ -1,0 +1,6 @@
+﻿artifact,expected,notes
+validation_report.json,true,future execution only
+forbidden_action_scan.csv,true,future execution only
+forbidden_output_scan.csv,true,future execution only
+source_preflight_result.json,true,future execution only
+

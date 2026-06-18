@@ -1,0 +1,8 @@
+﻿output,expected_absent
+BUY_NOW,true
+TRADEUP_NOW,true
+ORDER,true
+OFFICIAL_EV,true
+TRUSTED_EV,true
+executable_recommendation,true
+

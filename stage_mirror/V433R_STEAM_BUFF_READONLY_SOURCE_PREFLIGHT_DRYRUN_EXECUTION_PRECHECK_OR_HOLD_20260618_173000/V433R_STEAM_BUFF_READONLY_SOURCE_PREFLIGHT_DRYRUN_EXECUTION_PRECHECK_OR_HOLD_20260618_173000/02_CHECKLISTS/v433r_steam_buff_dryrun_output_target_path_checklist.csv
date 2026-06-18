@@ -1,0 +1,6 @@
+﻿target,allowed,status
+validation_report,true,planned_only
+forbidden_action_scan,true,planned_only
+forbidden_output_scan,true,planned_only
+source_preflight_result,true,planned_only
+

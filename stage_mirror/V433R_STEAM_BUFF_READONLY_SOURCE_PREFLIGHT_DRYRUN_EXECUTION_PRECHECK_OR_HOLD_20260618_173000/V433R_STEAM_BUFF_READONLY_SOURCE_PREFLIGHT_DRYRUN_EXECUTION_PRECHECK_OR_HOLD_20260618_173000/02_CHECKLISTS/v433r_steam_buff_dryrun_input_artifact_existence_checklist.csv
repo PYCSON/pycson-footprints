@@ -1,0 +1,7 @@
+﻿artifact,exists
+manifest,true
+steam_section,true
+buff_section,true
+forbidden_action_template,true
+forbidden_output_template,true
+
