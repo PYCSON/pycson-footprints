@@ -1,0 +1,9 @@
+﻿artifact_id,path,accepted,notes
+PLAN,01_PLAN\v433e_mapping_to_screening_update_dryrun_plan.md,true,Plan-only
+CONTRACT,01_PLAN\v433e_dryrun_execution_contract.md,true,Future execution constraints valid
+INPUT_REGISTER,02_REGISTERS\v433e_dryrun_input_artifact_register.csv,true,CSV parses
+OUTPUT_PLAN,02_REGISTERS\v433e_dryrun_output_artifact_plan.csv,true,CSV parses
+TRANSFORM,03_STEPS\v433e_mapping_to_screening_transformation_step_plan.csv,true,CSV parses
+ROW_UPDATE,03_STEPS\v433e_candidate_screening_row_update_plan.csv,true,CSV parses
+GATES,04_GATES,true,Validation and boundary plans accepted
+PROOFS,05_PROOF,true,No-mutation and boundary proofs accepted

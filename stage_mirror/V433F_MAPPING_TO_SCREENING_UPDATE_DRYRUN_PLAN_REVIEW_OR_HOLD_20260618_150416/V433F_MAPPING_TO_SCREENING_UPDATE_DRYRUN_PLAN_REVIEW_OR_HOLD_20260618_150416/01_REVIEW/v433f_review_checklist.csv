@@ -1,0 +1,22 @@
+﻿check_id,check,result
+R001,V433E artifact root exists,PASS
+R002,all required V433E artifacts exist,PASS
+R003,dryrun plan valid,PASS
+R004,dryrun execution contract valid,PASS
+R005,input artifact register valid,PASS
+R006,output artifact plan valid,PASS
+R007,transformation step plan valid,PASS
+R008,candidate screening row update plan valid,PASS
+R009,validation gate plan valid,PASS
+R010,source boundary enforcement plan valid,PASS
+R011,freshness/staleness propagation valid,PASS
+R012,trust/confidence propagation valid,PASS
+R013,candidate status propagation valid,PASS
+R014,forbidden action prevention valid,PASS
+R015,forbidden output scan plan valid,PASS
+R016,STOP/HOLD/PASS matrix valid,PASS
+R017,rollback/no-mutation proof plan valid,PASS
+R018,local-boundary-only proof valid,PASS
+R019,no-refresh/no-fetch/no-EV/no-trade proof valid,PASS
+R020,plan only confirmed,PASS
+R021,repair needed false,PASS

@@ -1,0 +1,9 @@
+﻿Stage: V433F_MAPPING_TO_SCREENING_UPDATE_DRYRUN_PLAN_REVIEW_OR_HOLD
+Created: 20260618_150416
+HEAD before export: 8d6a6d5
+origin/main before export: 8d6a6d5
+Status before export:
+## main...origin/main
+Executed script: C:\Users\sunpu\Desktop\pycson\1172_V433F_MAPPING_TO_SCREENING_UPDATE_DRYRUN_PLAN_REVIEW_OR_HOLD\V433F_MAPPING_TO_SCREENING_UPDATE_DRYRUN_PLAN_REVIEW_OR_HOLD_20260618_150416\00_EXECUTED_SCRIPT\RUN_V433F_MAPPING_TO_SCREENING_UPDATE_DRYRUN_PLAN_REVIEW_OR_HOLD_20260618_150416.ps1
+Executed script SHA256: 7775FC77DFEFA9C972C163CD5D4170EB9B0EBCA243444941800A70A05A8044E8
+Safety: review only; no candidate screening dryrun, no mapping dryrun, no refresh, no fetch, no scheduler, no UI, no DATA_BRIDGE, no active payload, no EV, no trade/order.
