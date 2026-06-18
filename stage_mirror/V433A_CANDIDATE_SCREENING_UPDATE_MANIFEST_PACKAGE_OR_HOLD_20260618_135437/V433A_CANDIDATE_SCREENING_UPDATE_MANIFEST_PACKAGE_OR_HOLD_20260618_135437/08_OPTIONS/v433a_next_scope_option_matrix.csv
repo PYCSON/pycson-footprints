@@ -1,0 +1,6 @@
+﻿option_id,scope,recommended,rationale,risk_boundary
+A,V433B_CANDIDATE_SCREENING_UPDATE_MANIFEST_PACKAGE_REVIEW_OR_HOLD,true,Review package before any dryrun input package,Review only
+B,V433B_CANDIDATE_SCREENING_UPDATE_MANIFEST_DRYRUN_INPUT_PACKAGE_OR_HOLD,false,Should follow review,Package only
+C,V433B_MAPPING_TO_SCREENING_UPDATE_DRYRUN_PLAN_OR_HOLD,false,Useful later after package review,Planning only
+D,V433B_EV_DRYRUN_PRECONDITION_GAP_REVIEW_OR_HOLD,false,EV remains premature,No EV
+E,HOLD_FOR_USER_DIRECTION,false,Safe pause,No action

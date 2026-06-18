@@ -1,0 +1,47 @@
+﻿{
+    "manifest_type":  "candidate_screening_update_manifest",
+    "stage":  "V433A_CANDIDATE_SCREENING_UPDATE_MANIFEST_PACKAGE_OR_HOLD",
+    "execution_allowed":  false,
+    "source_boundary":  {
+                            "local_boundary_only":  true,
+                            "readonly_refresh_executed":  false,
+                            "steam_fetch":  false,
+                            "buff_fetch":  false,
+                            "market_endpoint_call":  false,
+                            "no_login_cookies_captcha_proxy_bypass":  true,
+                            "data_bridge_write":  false,
+                            "active_payload_write":  false,
+                            "ev_calculation":  false,
+                            "buy_trade_order":  false
+                        },
+    "rows":  [
+                 {
+                     "update_record_id":  "V433A_LOCAL_BOUNDARY_PLACEHOLDER_001",
+                     "refresh_record_id":  "V432V_LOCAL_PACKAGE_BOUNDARY_ROW_PLACEHOLDER",
+                     "universe_record_id":  "LOCAL_PLACEHOLDER_UNIVERSE_RECORD",
+                     "candidate_class":  "REVIEW_REQUIRED",
+                     "screening_status":  "REVIEW_REQUIRED",
+                     "review_reason":  "Local/package-boundary placeholder derived from accepted mapping plan; not live evidence",
+                     "blocked_reason":  null,
+                     "source_type":  "LOCAL_ONLY",
+                     "is_mock":  true,
+                     "is_local_only":  true,
+                     "is_blocked":  false,
+                     "is_review_required":  true,
+                     "is_signal_ready":  false,
+                     "forbidden_output_present":  false,
+                     "notes":  "Template/example only; no DATA_BRIDGE write, active payload write, EV, or trade/order action"
+                 }
+             ],
+    "forbidden_outputs":  [
+                              "BUY_NOW",
+                              "TRADEUP_NOW",
+                              "TRADE",
+                              "ORDER",
+                              "OFFICIAL_EV",
+                              "TRUSTED_EV",
+                              "TRADEUP_EV",
+                              "executable PROFIT",
+                              "executable recommendation"
+                          ]
+}

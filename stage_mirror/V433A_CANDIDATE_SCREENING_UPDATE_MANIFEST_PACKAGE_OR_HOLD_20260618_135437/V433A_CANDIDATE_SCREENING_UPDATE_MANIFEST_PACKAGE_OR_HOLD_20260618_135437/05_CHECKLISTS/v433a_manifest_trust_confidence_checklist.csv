@@ -1,0 +1,5 @@
+﻿check_id,check,required_pass
+TC001,local/mock trust remains non-signal,true
+TC002,low confidence maps to review-required,true
+TC003,unknown trust blocks or requires review,true
+TC004,no trust label can authorize EV or trade,true

@@ -1,0 +1,13 @@
+﻿field,required,description,boundary
+manifest_type,true,Manifest type identifier,Must remain candidate_screening_update_manifest
+stage,true,Package stage name,Trace only
+execution_allowed,true,Execution permission flag,Must be false in V433A
+source_boundary,true,Boundary object,Must prove no fetch/write/EV/trade
+rows,true,Future candidate update rows,Local placeholder only in example
+update_record_id,true,Update row trace id,Non-executable
+refresh_record_id,true,Refresh row trace id,Trace only not live evidence
+universe_record_id,true,Candidate universe trace id,Local placeholder only
+candidate_class,true,Candidate classification,Safe statuses only
+screening_status,true,Screening status,REVIEW_REQUIRED/BLOCKED/STALE only for non-signal rows
+is_signal_ready,true,Signal readiness flag,Must remain false for local placeholder rows
+forbidden_output_present,true,Forbidden output detector,Must be false for PASS

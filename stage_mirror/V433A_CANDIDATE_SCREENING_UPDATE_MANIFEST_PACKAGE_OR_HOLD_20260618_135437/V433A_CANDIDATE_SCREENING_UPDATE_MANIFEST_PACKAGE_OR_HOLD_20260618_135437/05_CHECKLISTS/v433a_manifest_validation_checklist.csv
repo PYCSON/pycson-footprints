@@ -1,0 +1,9 @@
+﻿check_id,check,required_pass
+MV001,schema JSON parses,true
+MV002,template JSON parses,true
+MV003,example JSON parses,true
+MV004,example uses local/package-boundary placeholder data,true
+MV005,execution_allowed false,true
+MV006,forbidden outputs absent,true
+MV007,no DATA_BRIDGE or active payload write,true
+MV008,no EV or BUY/TRADE/ORDER,true

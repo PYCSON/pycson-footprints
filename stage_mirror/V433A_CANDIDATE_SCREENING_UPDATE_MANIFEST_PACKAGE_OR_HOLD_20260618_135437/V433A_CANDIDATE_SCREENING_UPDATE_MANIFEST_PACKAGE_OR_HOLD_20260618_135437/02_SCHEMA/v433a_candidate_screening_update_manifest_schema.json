@@ -1,0 +1,42 @@
+﻿{
+    "$schema":  "https://json-schema.org/draft/2020-12/schema",
+    "title":  "V433A Candidate Screening Update Manifest Schema",
+    "type":  "object",
+    "additionalProperties":  false,
+    "required":  [
+                     "manifest_type",
+                     "stage",
+                     "execution_allowed",
+                     "source_boundary",
+                     "rows",
+                     "forbidden_outputs"
+                 ],
+    "properties":  {
+                       "manifest_type":  {
+                                             "const":  "candidate_screening_update_manifest",
+                                             "type":  "string"
+                                         },
+                       "stage":  {
+                                     "type":  "string"
+                                 },
+                       "execution_allowed":  {
+                                                 "const":  false,
+                                                 "type":  "boolean"
+                                             },
+                       "source_boundary":  {
+                                               "type":  "object"
+                                           },
+                       "rows":  {
+                                    "items":  {
+                                                  "type":  "object"
+                                              },
+                                    "type":  "array"
+                                },
+                       "forbidden_outputs":  {
+                                                 "items":  {
+                                                               "type":  "string"
+                                                           },
+                                                 "type":  "array"
+                                             }
+                   }
+}

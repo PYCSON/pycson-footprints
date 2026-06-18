@@ -1,0 +1,31 @@
+﻿{
+    "manifest_type":  "candidate_screening_update_manifest",
+    "stage":  "V433A_CANDIDATE_SCREENING_UPDATE_MANIFEST_PACKAGE_OR_HOLD",
+    "execution_allowed":  false,
+    "source_boundary":  {
+                            "local_boundary_only":  true,
+                            "readonly_refresh_executed":  false,
+                            "steam_fetch":  false,
+                            "buff_fetch":  false,
+                            "market_endpoint_call":  false,
+                            "no_login_cookies_captcha_proxy_bypass":  true,
+                            "data_bridge_write":  false,
+                            "active_payload_write":  false,
+                            "ev_calculation":  false,
+                            "buy_trade_order":  false
+                        },
+    "rows":  [
+
+             ],
+    "forbidden_outputs":  [
+                              "BUY_NOW",
+                              "TRADEUP_NOW",
+                              "TRADE",
+                              "ORDER",
+                              "OFFICIAL_EV",
+                              "TRUSTED_EV",
+                              "TRADEUP_EV",
+                              "executable PROFIT",
+                              "executable recommendation"
+                          ]
+}

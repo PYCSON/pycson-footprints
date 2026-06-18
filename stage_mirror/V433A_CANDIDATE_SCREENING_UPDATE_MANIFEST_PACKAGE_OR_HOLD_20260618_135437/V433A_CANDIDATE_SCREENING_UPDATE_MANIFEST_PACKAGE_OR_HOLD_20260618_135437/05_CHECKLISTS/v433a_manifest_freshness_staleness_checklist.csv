@@ -1,0 +1,5 @@
+﻿check_id,check,required_pass
+FS001,freshness labels do not create signal readiness,true
+FS002,stale rows remain review-required,true
+FS003,unknown freshness remains review-required,true
+FS004,local-boundary rows are not live evidence,true

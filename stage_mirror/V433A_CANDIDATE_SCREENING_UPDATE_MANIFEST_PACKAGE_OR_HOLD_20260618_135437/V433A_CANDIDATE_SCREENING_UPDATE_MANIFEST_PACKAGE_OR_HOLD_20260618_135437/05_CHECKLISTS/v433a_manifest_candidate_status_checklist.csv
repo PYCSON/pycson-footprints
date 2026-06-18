@@ -1,0 +1,5 @@
+﻿check_id,check,required_pass
+CS001,allowed safe statuses only,true
+CS002,is_signal_ready false for placeholder rows,true
+CS003,boundary failure maps to blocked,true
+CS004,forbidden output present maps to hold/stop,true

@@ -1,0 +1,23 @@
+﻿V433A proof
+
+Scope: candidate screening update manifest package creation only.
+Manifest example uses local/package-boundary placeholder data only.
+Readonly refresh executed: false
+V432V rerun: false
+V432Y rerun: false
+V432Z rerun: false
+Steam fetch: false
+BUFF fetch: false
+Market endpoint call: false
+Scheduler executed: false
+UI patch: false
+Mother UI modified: false
+LIVE UI modified: false
+DATA_BRIDGE write: false
+Active payload write: false
+EV calculation: false
+BUY/TRADE/ORDER: false
+Forbidden outputs absent: true
+
+Executed script: C:\Users\sunpu\Desktop\pycson\1167_V433A_CANDIDATE_SCREENING_UPDATE_MANIFEST_PACKAGE_OR_HOLD\V433A_CANDIDATE_SCREENING_UPDATE_MANIFEST_PACKAGE_OR_HOLD_20260618_135437\00_EXECUTED_SCRIPT\RUN_V433A_CANDIDATE_SCREENING_UPDATE_MANIFEST_PACKAGE_OR_HOLD_20260618_135437.ps1
+Executed script SHA256: 80AF60967B116D3037E0276233D106EC9AE6C5D6F07C955B3BA088E43D7FAEB0

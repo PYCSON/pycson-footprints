@@ -1,0 +1,8 @@
+﻿check_id,check,required_pass
+SB001,no readonly refresh executed,true
+SB002,no Steam fetch,true
+SB003,no BUFF fetch,true
+SB004,no market endpoint call,true
+SB005,no login/cookies/captcha/proxy/bypass,true
+SB006,local/package-boundary placeholder data only,true
+SB007,no private account/session data,true
