@@ -1,0 +1,1 @@
+﻿V433J review confirms no readonly refresh, Steam fetch, BUFF fetch, market endpoint call, external URL access, login/cookies/captcha/proxy/bypass, scheduler, UI patch, DATA_BRIDGE write, active payload write, EV calculation, or trade/order occurred.
