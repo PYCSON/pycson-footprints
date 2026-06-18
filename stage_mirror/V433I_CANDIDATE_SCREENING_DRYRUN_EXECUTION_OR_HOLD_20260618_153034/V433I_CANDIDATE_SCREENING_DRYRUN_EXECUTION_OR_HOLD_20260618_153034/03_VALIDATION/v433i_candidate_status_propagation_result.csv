@@ -1,0 +1,4 @@
+﻿"candidate_id","screening_status","candidate_status","propagated","result"
+"V433I_LOCAL_001","REVIEW_REQUIRED","NOT_SIGNAL_READY","true","PASS"
+"V433I_LOCAL_002","BLOCKED","NO_TRADE","true","PASS"
+"V433I_LOCAL_003","REVIEW_REQUIRED","NOT_SIGNAL_READY","true","PASS"

@@ -1,0 +1,7 @@
+﻿"check","required","observed","result"
+"v433h_accepted","true","true","PASS"
+"command_plan_loaded","true","true","PASS"
+"candidate_result_json_created","true","True","PASS"
+"candidate_result_csv_created","true","True","PASS"
+"forbidden_outputs_absent","true","true","PASS"
+"no_mutation_boundaries_closed","true","true","PASS"

@@ -1,0 +1,1 @@
+﻿Readonly refresh: false. Steam fetch: false. BUFF fetch: false. Market endpoint call: false. EV/trade/order: false.

@@ -1,0 +1,4 @@
+﻿"candidate_id","trust_label","confidence_label","propagated","result"
+"V433I_LOCAL_001","MOCK_LOCAL","LOW","true","PASS"
+"V433I_LOCAL_002","MOCK_LOCAL","LOW","true","PASS"
+"V433I_LOCAL_003","MOCK_LOCAL","LOW","true","PASS"

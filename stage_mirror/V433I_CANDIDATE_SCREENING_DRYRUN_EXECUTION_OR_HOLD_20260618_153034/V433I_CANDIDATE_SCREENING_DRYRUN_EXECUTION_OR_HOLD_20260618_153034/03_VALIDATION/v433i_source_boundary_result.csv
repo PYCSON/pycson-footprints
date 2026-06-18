@@ -1,0 +1,7 @@
+﻿"boundary","executed","result"
+"external_url_access","false","PASS"
+"steam_fetch","false","PASS"
+"buff_fetch","false","PASS"
+"market_endpoint_call","false","PASS"
+"login_cookies_captcha_proxy_bypass","false","PASS"
+"local_package_artifacts_only","true","PASS"

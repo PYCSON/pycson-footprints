@@ -1,0 +1,68 @@
+﻿{
+    "stage":  "V433I_CANDIDATE_SCREENING_DRYRUN_EXECUTION_OR_HOLD",
+    "executed_at":  "20260618_153034",
+    "input_mode":  "LOCAL_PACKAGE_BOUNDARY_PLACEHOLDER_ONLY",
+    "candidate_screening_dryrun_executed":  true,
+    "mapping_to_screening_dryrun_executed":  false,
+    "mapping_to_screening_not_required_reason":  "Accepted V433G command plan did not require mapping-to-screening dryrun execution in V433I",
+    "rows":  [
+                 {
+                     "candidate_id":  "V433I_LOCAL_001",
+                     "source_record_id":  "V433I_PLACEHOLDER_A",
+                     "source_type":  "LOCAL_PACKAGE_PLACEHOLDER",
+                     "is_local_only":  true,
+                     "is_package_boundary":  true,
+                     "screening_status":  "REVIEW_REQUIRED",
+                     "candidate_status":  "NOT_SIGNAL_READY",
+                     "review_reason":  "placeholder_candidate_requires_human_review",
+                     "blocked_reason":  "",
+                     "freshness_label":  "STALE",
+                     "trust_label":  "MOCK_LOCAL",
+                     "confidence_label":  "LOW",
+                     "source_access_mode":  "LOCAL_ONLY",
+                     "forbidden_output_present":  false,
+                     "notes":  "local boundary dryrun row only"
+                 },
+                 {
+                     "candidate_id":  "V433I_LOCAL_002",
+                     "source_record_id":  "V433I_PLACEHOLDER_B",
+                     "source_type":  "LOCAL_PACKAGE_PLACEHOLDER",
+                     "is_local_only":  true,
+                     "is_package_boundary":  true,
+                     "screening_status":  "BLOCKED",
+                     "candidate_status":  "NO_TRADE",
+                     "review_reason":  "",
+                     "blocked_reason":  "missing_concrete_source_descriptor",
+                     "freshness_label":  "STALE",
+                     "trust_label":  "MOCK_LOCAL",
+                     "confidence_label":  "LOW",
+                     "source_access_mode":  "LOCAL_ONLY",
+                     "forbidden_output_present":  false,
+                     "notes":  "blocked because no external source access allowed"
+                 },
+                 {
+                     "candidate_id":  "V433I_LOCAL_003",
+                     "source_record_id":  "V433I_PLACEHOLDER_C",
+                     "source_type":  "LOCAL_PACKAGE_PLACEHOLDER",
+                     "is_local_only":  true,
+                     "is_package_boundary":  true,
+                     "screening_status":  "REVIEW_REQUIRED",
+                     "candidate_status":  "NOT_SIGNAL_READY",
+                     "review_reason":  "freshness_and_trust_need_future_review",
+                     "blocked_reason":  "",
+                     "freshness_label":  "STALE",
+                     "trust_label":  "MOCK_LOCAL",
+                     "confidence_label":  "LOW",
+                     "source_access_mode":  "LOCAL_ONLY",
+                     "forbidden_output_present":  false,
+                     "notes":  "no signal, no trade action"
+                 }
+             ],
+    "summary":  {
+                    "total_rows":  3,
+                    "review_required_rows":  2,
+                    "blocked_rows":  null,
+                    "not_signal_ready_rows":  2,
+                    "forbidden_output_present":  false
+                }
+}

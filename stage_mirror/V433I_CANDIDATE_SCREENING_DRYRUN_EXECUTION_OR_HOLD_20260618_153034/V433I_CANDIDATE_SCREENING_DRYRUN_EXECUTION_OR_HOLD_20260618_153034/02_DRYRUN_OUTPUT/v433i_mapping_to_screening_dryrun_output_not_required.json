@@ -1,0 +1,5 @@
+﻿{
+    "mapping_to_screening_dryrun_executed":  false,
+    "required_by_command_plan":  false,
+    "reason":  "V433I executed candidate screening dryrun only; no mapping-to-screening execution was required by accepted command plan."
+}

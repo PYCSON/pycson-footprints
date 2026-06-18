@@ -1,0 +1,1 @@
+﻿V433I used only local/package-boundary placeholder input rows and accepted V433G/V433H artifacts. No external source access occurred.
