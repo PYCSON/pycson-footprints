@@ -1,0 +1,4 @@
+﻿"target","write_allowed","write_executed","prevention"
+"DATA_BRIDGE","false","false","do_not_open_or_modify_bridge_outputs"
+"active_payload","false","false","do_not_replace_or_generate_active_payload"
+"business_core","false","false","precheck_artifacts_only"

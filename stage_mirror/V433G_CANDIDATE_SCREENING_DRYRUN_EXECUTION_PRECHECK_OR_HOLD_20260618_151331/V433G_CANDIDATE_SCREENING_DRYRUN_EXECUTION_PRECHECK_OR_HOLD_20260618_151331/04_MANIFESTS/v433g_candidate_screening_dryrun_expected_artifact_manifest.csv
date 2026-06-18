@@ -1,0 +1,7 @@
+﻿"artifact","required_in_future","created_now","validation"
+"candidate_screening_update_result_json","true","false","parse_json_and_schema_check"
+"candidate_screening_update_result_csv","true","false","parse_csv_review_columns"
+"review_required_rows_csv","true","false","review_required_subset"
+"blocked_rows_csv","true","false","blocked_subset"
+"validation_report_json","true","false","pass_required"
+"forbidden_output_scan_json","true","false","forbidden_absent"

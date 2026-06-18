@@ -1,0 +1,6 @@
+﻿"boundary","allowed","status","evidence"
+"project_files_mutation","false","closed","precheck package only"
+"data_bridge_write","false","closed","no writes performed"
+"active_payload_write","false","closed","no writes performed"
+"ui_patch","false","closed","no UI touched"
+"candidate_screening_dryrun_execution","false","closed","command plan only"

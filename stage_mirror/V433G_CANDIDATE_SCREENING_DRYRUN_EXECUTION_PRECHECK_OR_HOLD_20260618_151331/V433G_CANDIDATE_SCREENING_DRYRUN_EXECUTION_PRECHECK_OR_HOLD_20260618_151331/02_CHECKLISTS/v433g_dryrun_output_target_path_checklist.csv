@@ -1,0 +1,6 @@
+﻿"target","planned_path","created_now","notes"
+"future_dryrun_output_bundle","future V433H/V433I execution artifact root","false","execution not allowed in V433G"
+"future_result_json","future dryrun output folder","false","expected artifact only"
+"future_result_csv","future dryrun output folder","false","expected artifact only"
+"future_validation_report","future validation folder","false","expected artifact only"
+"future_forbidden_output_scan","future validation folder","false","expected artifact only"

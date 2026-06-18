@@ -1,0 +1,1 @@
+﻿V433G created a local-only candidate screening dryrun execution precheck package. It read only V433E/V433F local artifacts and did not execute candidate screening, mapping-to-screening dryrun, readonly refresh, scheduler, source fetch, UI patch, DATA_BRIDGE write, active payload write, EV calculation, or trade/order.

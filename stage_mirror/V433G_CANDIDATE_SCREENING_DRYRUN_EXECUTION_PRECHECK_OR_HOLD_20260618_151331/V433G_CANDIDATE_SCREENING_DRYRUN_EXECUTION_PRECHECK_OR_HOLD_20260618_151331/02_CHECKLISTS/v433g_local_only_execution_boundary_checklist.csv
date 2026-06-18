@@ -1,0 +1,5 @@
+﻿"rule","status","observed"
+"use_existing_local_artifacts_only","required","true"
+"no_external_source_access","required","true"
+"no_network_fetch","required","true"
+"no_non_pycson_project_touch","required","true"

@@ -1,0 +1,6 @@
+﻿"check","required","observed","notes"
+"git_head_matches_expected","true","true","8763258210ef23fb7d046c0772c7d01707f1750c"
+"v433e_plan_available","true","true","C:\Users\sunpu\Desktop\pycson\1171_V433E_MAPPING_TO_SCREENING_UPDATE_DRYRUN_PLAN_OR_HOLD\V433E_MAPPING_TO_SCREENING_UPDATE_DRYRUN_PLAN_OR_HOLD_20260618_145027"
+"v433f_review_accepted","true","true","repair_needed_false"
+"dryrun_command_plan_created_not_executed","true","true","plan_only"
+"all_forbidden_boundaries_closed","true","true","no_fetch_no_write_no_ev_no_trade"

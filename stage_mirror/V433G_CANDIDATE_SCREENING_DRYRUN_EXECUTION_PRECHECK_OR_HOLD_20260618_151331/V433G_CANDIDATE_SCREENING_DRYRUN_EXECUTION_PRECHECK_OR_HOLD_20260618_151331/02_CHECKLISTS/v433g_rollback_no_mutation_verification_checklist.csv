@@ -1,0 +1,5 @@
+﻿"check","required","observed"
+"no_execution_outputs_created","true","true"
+"command_plan_not_run","true","true"
+"only_v433g_artifacts_created","true","true"
+"future_execution_must_validate_clean_baseline","true","true"
