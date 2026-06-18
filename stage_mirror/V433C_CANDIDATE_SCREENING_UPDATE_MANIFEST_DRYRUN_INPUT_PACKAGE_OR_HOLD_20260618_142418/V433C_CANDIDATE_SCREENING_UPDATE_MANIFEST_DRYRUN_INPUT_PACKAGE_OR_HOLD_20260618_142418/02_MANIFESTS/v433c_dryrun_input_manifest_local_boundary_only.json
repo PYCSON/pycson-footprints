@@ -1,0 +1,46 @@
+﻿{
+    "manifest_type":  "candidate_screening_update_manifest_dryrun_input",
+    "stage":  "V433C_CANDIDATE_SCREENING_UPDATE_MANIFEST_DRYRUN_INPUT_PACKAGE_OR_HOLD",
+    "execution_allowed":  false,
+    "source":  "V433A local-boundary example only",
+    "accepted_review":  "V433B_CANDIDATE_SCREENING_UPDATE_MANIFEST_PACKAGE_REVIEW_OR_HOLD",
+    "source_boundary":  {
+                            "local_boundary_only":  true,
+                            "candidate_screening_dryrun_executed":  false,
+                            "readonly_refresh_executed":  false,
+                            "steam_fetch":  false,
+                            "buff_fetch":  false,
+                            "market_endpoint_call":  false,
+                            "scheduler_executed":  false,
+                            "data_bridge_write":  false,
+                            "active_payload_write":  false,
+                            "ev_calculation":  false,
+                            "buy_trade_order":  false
+                        },
+    "rows":  [
+                 {
+                     "dryrun_input_id":  "V433C_LOCAL_BOUNDARY_DRYRUN_INPUT_001",
+                     "update_record_id":  "V433A_LOCAL_BOUNDARY_PLACEHOLDER_001",
+                     "universe_record_id":  "LOCAL_PLACEHOLDER_UNIVERSE_RECORD",
+                     "candidate_class":  "REVIEW_REQUIRED",
+                     "screening_status":  "REVIEW_REQUIRED",
+                     "source_type":  "LOCAL_ONLY",
+                     "is_mock":  true,
+                     "is_local_only":  true,
+                     "is_signal_ready":  false,
+                     "forbidden_output_present":  false,
+                     "notes":  "Dryrun input package placeholder only; not executable"
+                 }
+             ],
+    "forbidden_outputs":  [
+                              "BUY_NOW",
+                              "TRADEUP_NOW",
+                              "TRADE",
+                              "ORDER",
+                              "OFFICIAL_EV",
+                              "TRUSTED_EV",
+                              "TRADEUP_EV",
+                              "executable PROFIT",
+                              "executable recommendation"
+                          ]
+}

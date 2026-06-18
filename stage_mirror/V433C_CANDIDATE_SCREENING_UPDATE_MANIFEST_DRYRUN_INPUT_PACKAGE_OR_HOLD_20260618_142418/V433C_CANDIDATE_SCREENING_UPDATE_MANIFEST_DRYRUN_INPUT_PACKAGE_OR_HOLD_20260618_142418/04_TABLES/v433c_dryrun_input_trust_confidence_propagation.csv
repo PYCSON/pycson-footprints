@@ -1,0 +1,4 @@
+﻿rule,applied,notes
+local_only_trust_non_signal,true,Placeholder source_type LOCAL_ONLY
+low_or_unknown_confidence_review_required,true,No signal promotion
+trust_does_not_authorize_ev_or_trade,true,EV/trade forbidden

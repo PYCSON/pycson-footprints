@@ -1,0 +1,12 @@
+﻿boundary,passed
+local_boundary_only,true
+candidate_screening_dryrun_executed,false
+readonly_refresh_executed,false
+steam_fetch,false
+buff_fetch,false
+market_endpoint_call,false
+scheduler_executed,false
+data_bridge_write,false
+active_payload_write,false
+ev_calculation,false
+buy_trade_order,false

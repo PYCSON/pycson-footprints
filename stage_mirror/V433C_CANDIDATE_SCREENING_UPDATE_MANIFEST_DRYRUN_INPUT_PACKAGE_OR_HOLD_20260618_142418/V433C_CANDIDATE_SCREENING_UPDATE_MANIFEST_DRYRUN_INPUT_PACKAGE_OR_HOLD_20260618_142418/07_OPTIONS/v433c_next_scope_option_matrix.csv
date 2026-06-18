@@ -1,0 +1,6 @@
+﻿option_id,scope,recommended,rationale,risk_boundary
+A,V433D_CANDIDATE_SCREENING_UPDATE_MANIFEST_DRYRUN_INPUT_PACKAGE_REVIEW_OR_HOLD,true,Review package before any dryrun execution,Review only
+B,V433D_MAPPING_TO_SCREENING_UPDATE_DRYRUN_PLAN_OR_HOLD,false,Useful later but less direct,Planning only
+C,V433D_READONLY_SOURCE_BOUNDARY_PREFLIGHT_PLAN_OR_HOLD,false,Safe later if source access considered,Planning only
+D,V433D_CANDIDATE_SCREENING_DRYRUN_EXECUTION_OR_HOLD,false,Execution should follow review/approval,Execution gated
+E,HOLD_FOR_USER_DIRECTION,false,Safe pause,No action

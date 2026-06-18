@@ -1,0 +1,10 @@
+﻿forbidden_output,present
+BUY_NOW,false
+TRADEUP_NOW,false
+TRADE,false
+ORDER,false
+OFFICIAL_EV,false
+TRUSTED_EV,false
+TRADEUP_EV,false
+executable PROFIT,false
+executable recommendation,false

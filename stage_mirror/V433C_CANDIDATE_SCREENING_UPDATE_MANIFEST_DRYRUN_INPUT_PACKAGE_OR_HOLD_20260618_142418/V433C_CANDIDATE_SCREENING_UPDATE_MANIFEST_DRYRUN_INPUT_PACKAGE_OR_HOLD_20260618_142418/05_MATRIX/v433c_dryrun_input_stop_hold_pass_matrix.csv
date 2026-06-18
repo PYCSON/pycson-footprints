@@ -1,0 +1,6 @@
+﻿condition,result,required_action
+all dryrun input artifacts created and boundaries preserved,PASS,Proceed to V433D review
+missing manifest or alignment report,HOLD,Repair package
+live evidence present,HOLD,Replace with local-boundary placeholder
+forbidden output present,STOP,User review
+fetch/write/EV/trade required,STOP,Do not proceed

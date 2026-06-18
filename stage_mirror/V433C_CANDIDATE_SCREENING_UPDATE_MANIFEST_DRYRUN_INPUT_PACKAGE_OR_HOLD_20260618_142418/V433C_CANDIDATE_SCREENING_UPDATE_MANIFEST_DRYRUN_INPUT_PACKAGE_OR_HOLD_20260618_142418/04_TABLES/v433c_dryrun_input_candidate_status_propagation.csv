@@ -1,0 +1,4 @@
+﻿status_rule,applied,notes
+REVIEW_REQUIRED_preserved,true,Example remains review required
+is_signal_ready_false,true,No executable signal
+forbidden_output_present_false,true,Required for PASS

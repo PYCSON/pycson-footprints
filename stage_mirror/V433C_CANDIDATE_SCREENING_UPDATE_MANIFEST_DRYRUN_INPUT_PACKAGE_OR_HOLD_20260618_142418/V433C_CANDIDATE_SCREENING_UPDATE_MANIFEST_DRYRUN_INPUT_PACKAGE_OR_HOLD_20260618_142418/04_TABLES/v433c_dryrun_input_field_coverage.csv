@@ -1,0 +1,13 @@
+﻿field,covered,source
+manifest_type,true,V433C package
+stage,true,V433C package
+execution_allowed,true,V433A template/V433C package
+source_boundary,true,V433A example/V433C package
+rows,true,V433A example
+update_record_id,true,V433A example row
+universe_record_id,true,V433A example row
+candidate_class,true,V433A example row
+screening_status,true,V433A example row
+source_type,true,V433A example row
+is_signal_ready,true,V433A example row
+forbidden_output_present,true,V433A example row

@@ -1,0 +1,4 @@
+﻿rule,applied,notes
+local_boundary_rows_not_live_evidence,true,No freshness claim promoted
+stale_or_unknown_requires_review,true,Safe default
+freshness_does_not_create_signal_ready,true,is_signal_ready remains false
