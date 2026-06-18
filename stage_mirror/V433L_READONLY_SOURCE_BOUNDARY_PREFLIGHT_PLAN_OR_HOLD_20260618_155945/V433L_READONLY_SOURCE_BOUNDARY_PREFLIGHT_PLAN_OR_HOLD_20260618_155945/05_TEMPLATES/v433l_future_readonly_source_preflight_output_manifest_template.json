@@ -1,0 +1,10 @@
+﻿{
+    "expected_outputs":  [
+                             "source_boundary_preflight_result_json",
+                             "source_boundary_preflight_result_csv",
+                             "validation_report",
+                             "forbidden_boundary_scan",
+                             "no_fetch_no_ev_no_trade_proof"
+                         ],
+    "execution_allowed_now":  false
+}

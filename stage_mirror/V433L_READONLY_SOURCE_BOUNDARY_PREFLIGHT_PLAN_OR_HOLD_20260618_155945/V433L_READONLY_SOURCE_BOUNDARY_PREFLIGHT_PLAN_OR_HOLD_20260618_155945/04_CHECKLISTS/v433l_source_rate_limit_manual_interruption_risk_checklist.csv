@@ -1,0 +1,4 @@
+﻿"risk","handling","notes"
+"rate_limit","STOP_OR_HOLD","no bypass"
+"manual_interruption_required","HOLD","do not automate account/session"
+"captcha_presented","STOP","no captcha bypass"

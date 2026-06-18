@@ -1,0 +1,5 @@
+﻿"condition","result","action"
+"any_auth_or_bypass_needed","STOP","do_not_execute"
+"external_url_access_needed_without_approval","STOP","create_approval_packet"
+"local_templates_only","PASS","eligible_for_plan_review"
+"source_terms_unclear","HOLD","user_review_required"

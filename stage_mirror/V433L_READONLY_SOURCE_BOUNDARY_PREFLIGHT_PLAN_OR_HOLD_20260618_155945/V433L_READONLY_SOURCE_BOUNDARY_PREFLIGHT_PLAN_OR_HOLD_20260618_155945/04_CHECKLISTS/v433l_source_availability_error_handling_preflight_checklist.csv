@@ -1,0 +1,4 @@
+﻿"check","required","stop_hold_pass"
+"source_unavailable_handling","future","HOLD"
+"parse_error_handling","future","HOLD"
+"unexpected_redirect_or_auth_prompt","future","STOP"

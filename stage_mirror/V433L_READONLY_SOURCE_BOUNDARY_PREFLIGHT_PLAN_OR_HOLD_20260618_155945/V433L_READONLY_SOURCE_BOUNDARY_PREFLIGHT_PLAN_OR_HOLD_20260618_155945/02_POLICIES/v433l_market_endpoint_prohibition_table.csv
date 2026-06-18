@@ -1,0 +1,4 @@
+﻿"endpoint_class","allowed_now","reason"
+"market_price_endpoint","false","no market endpoint calls in boundary plan"
+"order_trade_endpoint","false","trade/order forbidden"
+"wallet_payment_endpoint","false","payment/cashout forbidden"

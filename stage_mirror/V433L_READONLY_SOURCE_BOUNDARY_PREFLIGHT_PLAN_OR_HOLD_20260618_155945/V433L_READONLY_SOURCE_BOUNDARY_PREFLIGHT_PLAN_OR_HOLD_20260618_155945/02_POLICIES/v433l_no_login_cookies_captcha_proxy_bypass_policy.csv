@@ -1,0 +1,6 @@
+﻿"rule","required","allowed"
+"no_login","true","false"
+"no_cookies","true","false"
+"no_captcha","true","false"
+"no_proxy","true","false"
+"no_bypass","true","false"

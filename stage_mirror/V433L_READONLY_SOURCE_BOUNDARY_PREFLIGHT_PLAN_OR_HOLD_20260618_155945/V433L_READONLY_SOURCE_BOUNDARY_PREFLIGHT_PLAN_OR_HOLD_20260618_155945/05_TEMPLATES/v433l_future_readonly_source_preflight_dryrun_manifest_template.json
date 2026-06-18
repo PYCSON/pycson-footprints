@@ -1,0 +1,19 @@
+﻿{
+    "stage":  "future_readonly_source_preflight_dryrun",
+    "execution_allowed_now":  false,
+    "allowed_inputs":  [
+                           "local_source_descriptor_manifest",
+                           "reviewed_boundary_policy"
+                       ],
+    "forbidden":  [
+                      "login",
+                      "cookies",
+                      "captcha",
+                      "proxy",
+                      "bypass",
+                      "market_endpoint",
+                      "trade_order",
+                      "DATA_BRIDGE_write",
+                      "active_payload_write"
+                  ]
+}

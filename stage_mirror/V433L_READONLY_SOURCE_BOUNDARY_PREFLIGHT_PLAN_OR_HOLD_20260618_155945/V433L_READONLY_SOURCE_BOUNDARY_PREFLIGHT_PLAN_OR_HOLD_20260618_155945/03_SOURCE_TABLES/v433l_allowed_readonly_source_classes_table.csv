@@ -1,0 +1,5 @@
+﻿"class","allowed_now","access_mode","notes"
+"local_descriptor_fixture","true","local_only","existing local package artifacts only"
+"documented_public_readonly_source_class","planning_only","no_fetch","may be described but not accessed"
+"steam_readonly_candidate","planning_only","no_fetch","future approval required"
+"buff_readonly_candidate","planning_only","no_fetch","future approval required"

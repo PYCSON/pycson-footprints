@@ -1,0 +1,4 @@
+﻿"policy","allowed_now","future_requirement"
+"external_url_access","false","explicit approval and reviewed source boundary execution package"
+"http_request","false","separate dryrun execution approval"
+"browser_session","false","not allowed without explicit user approval"

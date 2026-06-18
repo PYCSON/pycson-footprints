@@ -1,0 +1,3 @@
+﻿"action","allowed_now","future_gate"
+"readonly_refresh_execution","false","separate approval after preflight review"
+"source_fetch_refresh","false","separate approval after source boundary package"

@@ -1,0 +1,4 @@
+﻿"check","required","status"
+"source_timestamp_defined","future","not_executed"
+"staleness_threshold_defined","future","not_executed"
+"source_clock_timezone_recorded","future","not_executed"
