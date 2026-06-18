@@ -1,0 +1,4 @@
+﻿check_id,field,rule,status
+TRUST-001,source_trust_label,must distinguish LOCAL_DESCRIPTOR_ONLY from FUTURE_READONLY_SOURCE,planned
+TRUST-002,confidence_label,must avoid executable recommendation semantics,planned
+

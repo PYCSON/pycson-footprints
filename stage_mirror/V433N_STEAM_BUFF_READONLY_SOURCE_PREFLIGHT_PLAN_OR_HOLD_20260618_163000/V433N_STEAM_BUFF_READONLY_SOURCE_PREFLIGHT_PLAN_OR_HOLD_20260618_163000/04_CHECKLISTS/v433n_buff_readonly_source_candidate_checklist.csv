@@ -1,0 +1,5 @@
+﻿check_id,source,requirement,status
+BUFF-001,BUFF,source candidate must be local descriptor only,planned
+BUFF-002,BUFF,no fetch or external URL access in V433N,confirmed_false
+BUFF-003,BUFF,future access requires explicit approval phrase,required
+

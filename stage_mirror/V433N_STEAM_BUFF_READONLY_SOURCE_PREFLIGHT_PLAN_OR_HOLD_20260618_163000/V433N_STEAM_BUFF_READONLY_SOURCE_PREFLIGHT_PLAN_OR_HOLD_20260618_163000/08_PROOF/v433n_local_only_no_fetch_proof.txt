@@ -1,0 +1,1 @@
+﻿V433N is local planning only. No Steam/BUFF preflight, fetch, external URL access, login/cookies/captcha/proxy/bypass, market endpoint, refresh, UI, DATA_BRIDGE, active payload, EV, or trade/order action occurred.

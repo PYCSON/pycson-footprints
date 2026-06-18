@@ -1,0 +1,26 @@
+﻿{
+    "stage":  "V433N_STEAM_BUFF_READONLY_SOURCE_PREFLIGHT_PLAN_OR_HOLD",
+    "mode":  "TEMPLATE_ONLY_NO_EXECUTION",
+    "allowed_sources":  [
+                            "steam_local_descriptor_candidate",
+                            "buff_local_descriptor_candidate"
+                        ],
+    "forbidden_access":  [
+                             "external_url_access",
+                             "login",
+                             "cookies",
+                             "captcha",
+                             "proxy",
+                             "bypass",
+                             "browser_session",
+                             "authenticated_access",
+                             "market_endpoint_call",
+                             "readonly_refresh",
+                             "trade_order"
+                         ],
+    "requires_future_approval":  true,
+    "source_rows":  [
+
+                    ]
+}
+

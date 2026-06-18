@@ -1,0 +1,4 @@
+﻿check_id,policy,status
+URL-001,V433N performs no external URL access,confirmed_false
+URL-002,future URL access requires explicit source preflight authorization,required
+

@@ -1,0 +1,5 @@
+﻿check_id,source,requirement,status
+STEAM-001,Steam,source candidate must be local descriptor only,planned
+STEAM-002,Steam,no fetch or external URL access in V433N,confirmed_false
+STEAM-003,Steam,future access requires explicit approval phrase,required
+

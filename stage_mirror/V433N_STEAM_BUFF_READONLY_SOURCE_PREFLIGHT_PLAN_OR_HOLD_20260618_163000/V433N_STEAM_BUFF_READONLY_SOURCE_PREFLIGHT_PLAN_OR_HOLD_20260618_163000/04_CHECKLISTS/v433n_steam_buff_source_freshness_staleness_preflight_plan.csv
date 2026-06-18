@@ -1,0 +1,4 @@
+﻿check_id,field,rule,status
+FRESH-001,observed_at,must be absent or local/mock until future source preflight,planned
+FRESH-002,staleness_label,must support STALE/UNKNOWN/FRESH_WITH_PROOF without fetch,planned
+

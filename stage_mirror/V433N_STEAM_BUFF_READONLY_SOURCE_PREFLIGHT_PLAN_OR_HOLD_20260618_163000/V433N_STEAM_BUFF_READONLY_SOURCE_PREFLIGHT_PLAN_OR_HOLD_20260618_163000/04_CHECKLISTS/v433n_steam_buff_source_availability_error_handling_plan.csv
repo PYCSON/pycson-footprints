@@ -1,0 +1,6 @@
+﻿check_id,case,required_behavior,status
+AVAIL-001,source unavailable,STOP_OR_HOLD,planned
+AVAIL-002,auth required,STOP_OR_HOLD,planned
+AVAIL-003,captcha or bypass pressure,STOP_OR_HOLD,planned
+AVAIL-004,rate limit or legal uncertainty,STOP_OR_HOLD,planned
+

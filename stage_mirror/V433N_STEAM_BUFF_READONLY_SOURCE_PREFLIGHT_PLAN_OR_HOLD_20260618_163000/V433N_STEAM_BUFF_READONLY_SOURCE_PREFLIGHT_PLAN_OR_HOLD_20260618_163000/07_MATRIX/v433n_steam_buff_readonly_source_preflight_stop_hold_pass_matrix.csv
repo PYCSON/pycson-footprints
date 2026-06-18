@@ -1,0 +1,6 @@
+﻿condition_id,condition,result
+PASS-001,all local descriptors validate and boundaries remain closed,PASS
+HOLD-001,required descriptor missing,HOLD
+HOLD-002,source requires login cookies captcha proxy or bypass,HOLD
+STOP-001,any fetch URL access market call refresh write EV or trade action occurs,STOP
+

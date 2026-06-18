@@ -1,0 +1,4 @@
+﻿check_id,policy,status
+REFRESH-001,no readonly refresh in V433N,confirmed_false
+REFRESH-002,future readonly refresh requires separate approval gate,required
+

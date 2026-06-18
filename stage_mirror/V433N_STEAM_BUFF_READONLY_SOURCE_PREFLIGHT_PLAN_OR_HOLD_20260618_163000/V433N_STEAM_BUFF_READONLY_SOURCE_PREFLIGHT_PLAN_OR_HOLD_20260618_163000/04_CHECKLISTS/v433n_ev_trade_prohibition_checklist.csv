@@ -1,0 +1,6 @@
+﻿check_id,boundary,status
+EV-001,official EV calculated,false
+EV-002,trusted EV calculated,false
+EV-003,trade-up EV calculated,false
+TRD-001,buy trade or order action,false
+

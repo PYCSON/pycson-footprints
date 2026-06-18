@@ -1,0 +1,5 @@
+﻿check_id,boundary,status
+DB-001,DATA_BRIDGE write,false
+DB-002,active payload write,false
+DB-003,only planning artifacts written,true
+

@@ -1,0 +1,7 @@
+﻿check_id,requirement,status
+VAL-001,load Steam candidate descriptors from approved local plan,planned
+VAL-002,load BUFF candidate descriptors from approved local plan,planned
+VAL-003,confirm no auth or bypass pressure,planned
+VAL-004,confirm no fetch or URL access,planned
+VAL-005,confirm no refresh EV or trade output,planned
+

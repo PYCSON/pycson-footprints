@@ -1,0 +1,8 @@
+﻿check_id,boundary,status
+AUTH-001,no login,required
+AUTH-002,no cookies,required
+AUTH-003,no captcha,required
+AUTH-004,no proxy,required
+AUTH-005,no bypass,required
+AUTH-006,no browser session or authenticated source access,required
+

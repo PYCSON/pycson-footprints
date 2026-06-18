@@ -1,0 +1,4 @@
+﻿check_id,policy,status
+MARKET-001,no market endpoint calls in V433N,confirmed_false
+MARKET-002,future market endpoint use remains prohibited unless explicitly authorized in a future package,required
+

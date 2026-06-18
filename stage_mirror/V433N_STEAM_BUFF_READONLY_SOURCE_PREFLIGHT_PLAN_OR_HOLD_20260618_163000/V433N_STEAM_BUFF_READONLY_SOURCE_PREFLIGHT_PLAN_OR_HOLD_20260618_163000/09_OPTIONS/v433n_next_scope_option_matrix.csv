@@ -1,0 +1,7 @@
+﻿option_id,next_scope,recommendation,rationale
+A,V433O_STEAM_BUFF_READONLY_SOURCE_PREFLIGHT_PLAN_REVIEW_OR_HOLD,preferred,review plan before any executable package
+B,V433O_READONLY_SOURCE_PREFLIGHT_DRYRUN_INPUT_PACKAGE_OR_HOLD,not_preferred_yet,broader than Steam/BUFF review
+C,V433O_STEAM_BUFF_READONLY_SOURCE_PREFLIGHT_DRYRUN_INPUT_PACKAGE_OR_HOLD,available_after_review,package only after review
+D,V433O_READONLY_REFRESH_AUTHORIZATION_PRECHECK_OR_HOLD,not_now,refresh remains premature
+E,HOLD_FOR_USER_DIRECTION,available,manual pause
+
