@@ -1,0 +1,7 @@
+﻿check_id,item,valid
+S-001,V433R artifact root exists,true
+S-002,all required V433R artifacts exist,true
+S-003,command plan valid,true
+S-004,command plan executed,false
+S-005,repair needed,false
+

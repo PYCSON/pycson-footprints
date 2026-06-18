@@ -1,0 +1,7 @@
+﻿option_id,next_scope,recommendation,rationale
+A,V433T_STEAM_BUFF_READONLY_SOURCE_PREFLIGHT_DRYRUN_EXECUTION_OR_HOLD,preferred,precheck accepted; execution remains bounded dryrun only
+B,V433T_READONLY_REFRESH_AUTHORIZATION_PRECHECK_OR_HOLD,not_now,refresh downstream
+C,V433T_EV_DRYRUN_PRECONDITION_GAP_REVIEW_OR_HOLD,not_now,EV premature
+D,V433T_STEAM_BUFF_READONLY_SOURCE_PREFLIGHT_DRYRUN_INPUT_REPAIR_OR_HOLD,not_needed,repair false
+E,HOLD_FOR_USER_DIRECTION,available,manual pause
+
