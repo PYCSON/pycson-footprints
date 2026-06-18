@@ -1,0 +1,7 @@
+﻿check_id,item,valid
+Q-001,V433P artifact root exists,true
+Q-002,all required V433P artifacts exist,true
+Q-003,manifest parses,true
+Q-004,manifest local boundary placeholder only,true
+Q-005,repair needed,false
+
