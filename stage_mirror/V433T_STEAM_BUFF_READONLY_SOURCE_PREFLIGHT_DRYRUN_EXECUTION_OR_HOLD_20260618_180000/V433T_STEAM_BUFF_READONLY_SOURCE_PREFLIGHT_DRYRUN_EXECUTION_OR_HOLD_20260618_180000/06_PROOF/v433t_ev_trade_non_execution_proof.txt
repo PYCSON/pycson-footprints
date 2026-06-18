@@ -1,0 +1,1 @@
+﻿EV calculation false. BUY/TRADE/ORDER false.

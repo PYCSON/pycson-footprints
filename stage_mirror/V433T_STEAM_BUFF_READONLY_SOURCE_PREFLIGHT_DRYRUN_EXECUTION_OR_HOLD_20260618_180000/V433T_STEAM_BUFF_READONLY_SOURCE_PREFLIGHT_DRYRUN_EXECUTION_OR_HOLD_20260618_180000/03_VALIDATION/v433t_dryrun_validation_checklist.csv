@@ -1,0 +1,6 @@
+﻿check_id,requirement,passed
+VAL-001,steam local dryrun result created,true
+VAL-002,buff local dryrun result created,true
+VAL-003,no external access,true
+VAL-004,no forbidden outputs,true
+

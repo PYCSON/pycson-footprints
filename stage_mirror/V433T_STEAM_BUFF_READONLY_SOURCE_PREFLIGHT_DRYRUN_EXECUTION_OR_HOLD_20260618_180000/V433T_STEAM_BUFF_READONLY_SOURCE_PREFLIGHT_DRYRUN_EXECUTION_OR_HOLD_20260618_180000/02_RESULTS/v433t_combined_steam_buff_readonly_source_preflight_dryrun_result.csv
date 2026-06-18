@@ -1,0 +1,4 @@
+﻿source,candidate_id,dryrun_executed,real_source_access,validation_status
+STEAM,steam_placeholder_preflight_candidate_001,true,false,PASS_LOCAL_BOUNDARY_DRYRUN
+BUFF,buff_placeholder_preflight_candidate_001,true,false,PASS_LOCAL_BOUNDARY_DRYRUN
+

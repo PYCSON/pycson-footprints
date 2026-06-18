@@ -1,0 +1,36 @@
+﻿{
+    "stage":  "V433T_STEAM_BUFF_READONLY_SOURCE_PREFLIGHT_DRYRUN_EXECUTION_OR_HOLD",
+    "mode":  "LOCAL_PACKAGE_BOUNDARY_DRYRUN_ONLY",
+    "results":  [
+                    {
+                        "source":  "STEAM",
+                        "candidate_id":  "steam_placeholder_preflight_candidate_001",
+                        "dryrun_executed":  true,
+                        "real_source_access":  false,
+                        "fetch":  false,
+                        "external_url_access":  false,
+                        "market_endpoint_call":  false,
+                        "auth_access":  false,
+                        "validation_status":  "PASS_LOCAL_BOUNDARY_DRYRUN",
+                        "freshness_label":  "UNKNOWN_PLACEHOLDER",
+                        "trust_label":  "LOCAL_PLACEHOLDER_ONLY",
+                        "signal_status":  "NOT_SIGNAL_READY"
+                    },
+                    {
+                        "source":  "BUFF",
+                        "candidate_id":  "buff_placeholder_preflight_candidate_001",
+                        "dryrun_executed":  true,
+                        "real_source_access":  false,
+                        "fetch":  false,
+                        "external_url_access":  false,
+                        "market_endpoint_call":  false,
+                        "auth_access":  false,
+                        "validation_status":  "PASS_LOCAL_BOUNDARY_DRYRUN",
+                        "freshness_label":  "UNKNOWN_PLACEHOLDER",
+                        "trust_label":  "LOCAL_PLACEHOLDER_ONLY",
+                        "signal_status":  "NOT_SIGNAL_READY"
+                    }
+                ],
+    "validation_passed":  true
+}
+

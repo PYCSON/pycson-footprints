@@ -1,0 +1,3 @@
+﻿source,candidate_id,dryrun_executed,real_source_access,fetch,external_url_access,market_endpoint_call,auth_access,validation_status
+STEAM,steam_placeholder_preflight_candidate_001,true,false,false,false,false,false,PASS_LOCAL_BOUNDARY_DRYRUN
+

@@ -1,0 +1,15 @@
+﻿{
+    "source":  "BUFF",
+    "candidate_id":  "buff_placeholder_preflight_candidate_001",
+    "dryrun_executed":  true,
+    "real_source_access":  false,
+    "fetch":  false,
+    "external_url_access":  false,
+    "market_endpoint_call":  false,
+    "auth_access":  false,
+    "validation_status":  "PASS_LOCAL_BOUNDARY_DRYRUN",
+    "freshness_label":  "UNKNOWN_PLACEHOLDER",
+    "trust_label":  "LOCAL_PLACEHOLDER_ONLY",
+    "signal_status":  "NOT_SIGNAL_READY"
+}
+
