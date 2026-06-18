@@ -1,0 +1,7 @@
+﻿option_id,next_scope,recommendation,rationale
+A,V433P_STEAM_BUFF_READONLY_SOURCE_PREFLIGHT_DRYRUN_INPUT_PACKAGE_OR_HOLD,preferred,build a dryrun input package before any source preflight execution
+B,V433P_READONLY_SOURCE_PREFLIGHT_DRYRUN_INPUT_PACKAGE_OR_HOLD,available_broader,less focused than Steam/BUFF-specific package
+C,V433P_READONLY_REFRESH_AUTHORIZATION_PRECHECK_OR_HOLD,not_now,refresh remains downstream of source preflight
+D,V433P_EV_DRYRUN_PRECONDITION_GAP_REVIEW_OR_HOLD,not_now,EV remains premature
+E,HOLD_FOR_USER_DIRECTION,available,manual pause
+

@@ -1,0 +1,8 @@
+﻿check_id,item,valid
+REV-001,V433N artifact root exists,true
+REV-002,all required V433N artifacts exist,true
+REV-003,Steam boundary plan valid,true
+REV-004,BUFF boundary plan valid,true
+REV-005,no fetch refresh EV trade boundaries closed,true
+REV-006,repair needed,false
+
