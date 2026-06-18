@@ -1,0 +1,1 @@
+﻿V433K performed acceptance/planning only. Readonly refresh, Steam fetch, BUFF fetch, market endpoint call, external URL access, EV calculation, BUY/TRADE/ORDER were all false.

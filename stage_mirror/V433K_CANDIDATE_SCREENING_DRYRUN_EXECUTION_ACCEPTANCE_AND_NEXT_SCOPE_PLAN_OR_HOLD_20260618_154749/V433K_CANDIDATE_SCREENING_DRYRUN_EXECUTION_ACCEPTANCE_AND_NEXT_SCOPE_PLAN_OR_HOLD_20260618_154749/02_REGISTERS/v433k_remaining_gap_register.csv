@@ -1,0 +1,6 @@
+﻿"gap","status","recommended_next"
+"readonly_source_boundary_preflight_not_done","OPEN","V433L_READONLY_SOURCE_BOUNDARY_PREFLIGHT_PLAN_OR_HOLD"
+"steam_buff_readonly_source_preflight_not_done","OPEN","defer_until_boundary_plan"
+"no_real_source_descriptors_or_fetch","OPEN","source_boundary_plan_first"
+"ev_preconditions_not_met","OPEN","do_not_recommend_ev_yet"
+"ui_data_bridge_active_payload_not_integrated","OPEN","keep_closed"

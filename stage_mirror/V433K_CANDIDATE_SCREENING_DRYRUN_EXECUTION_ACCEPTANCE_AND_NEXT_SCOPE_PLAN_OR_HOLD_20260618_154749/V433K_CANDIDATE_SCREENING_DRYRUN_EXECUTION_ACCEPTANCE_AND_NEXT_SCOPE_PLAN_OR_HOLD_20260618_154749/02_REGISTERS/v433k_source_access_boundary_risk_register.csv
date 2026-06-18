@@ -1,0 +1,5 @@
+﻿"risk","severity","status","mitigation"
+"unapproved_external_source_access","HIGH","CLOSED_FOR_NOW","plan_only_next_scope"
+"login_cookie_session_dependency","HIGH","FORBIDDEN","no_auth_boundary"
+"market_endpoint_call","HIGH","FORBIDDEN","preflight_before_any_access"
+"premature_ev_or_trade_signal","HIGH","FORBIDDEN","no_ev_no_trade"

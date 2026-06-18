@@ -1,0 +1,7 @@
+﻿"metric","value"
+"candidate_screening_dryrun_executed","true"
+"validation_passed","true"
+"repair_needed","false"
+"mapping_to_screening_dryrun_executed","false"
+"mapping_to_screening_reason","not_required_by_accepted_command_plan"
+"forbidden_outputs_absent","true"
