@@ -1,0 +1,10 @@
+﻿{
+    "current_anchor":  "V434A_STEAM_BUFF_READONLY_REFRESH_INPUT_PACKAGE_OR_HOLD",
+    "status":  "PASS_V434A_STEAM_BUFF_READONLY_REFRESH_INPUT_PACKAGE_OR_HOLD",
+    "decision":  "READY_FOR_V434B_STEAM_BUFF_READONLY_REFRESH_INPUT_PACKAGE_REVIEW_OR_HOLD",
+    "head":  "ef571b4f92625d9a8fb242d0e59a3b691e182f7b",
+    "origin_main":  "ef571b4f92625d9a8fb242d0e59a3b691e182f7b",
+    "report_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\1193_V434A_STEAM_BUFF_READONLY_REFRESH_INPUT_PACKAGE_OR_HOLD\\V434A_STEAM_BUFF_READONLY_REFRESH_INPUT_PACKAGE_OR_HOLD_20260622_120000\\07_REPORT\\v434a_steam_buff_readonly_refresh_input_package_or_hold_report.json",
+    "latest_json":  "C:\\Users\\sunpu\\Desktop\\pycson\\1193_V434A_STEAM_BUFF_READONLY_REFRESH_INPUT_PACKAGE_OR_HOLD\\V434A_STEAM_BUFF_READONLY_REFRESH_INPUT_PACKAGE_OR_HOLD_20260622_120000\\08_LATEST\\v434a_steam_buff_readonly_refresh_input_package_or_hold_latest.json",
+    "next_safe_step":  "V434B_STEAM_BUFF_READONLY_REFRESH_INPUT_PACKAGE_REVIEW_OR_HOLD"
+}
