@@ -1,0 +1,12 @@
+status_before:
+## main...origin/main
+
+head_before:
+183aacfb2be55657abfb673a727927211ea61919
+
+origin_before:
+183aacfb2be55657abfb673a727927211ea61919
+
+remote:
+origin	git@github.com:PYCSON/pycson-footprints.git (fetch)
+origin	git@github.com:PYCSON/pycson-footprints.git (push)
