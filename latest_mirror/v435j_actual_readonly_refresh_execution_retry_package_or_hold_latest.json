@@ -1,0 +1,11 @@
+﻿{
+    "current_anchor":  "V435J_ACTUAL_READONLY_REFRESH_EXECUTION_RETRY_PACKAGE_OR_HOLD",
+    "status":  "PASS_V435J_RETRY_PACKAGE_CREATED_BUT_CONCRETE_INPUTS_MISSING_OR_HOLD",
+    "decision":  "CONSTRUCT_LOCAL_READONLY_REFRESH_COMMAND_AND_SOURCE_INPUTS_BEFORE_EXECUTION_RETRY",
+    "next_safe_step":  "V435K_LOCAL_READONLY_REFRESH_COMMAND_AND_SOURCE_INPUT_CONSTRUCTION_OR_HOLD",
+    "latest_report":  "C:\\Users\\sunpu\\Desktop\\pycson\\1228_V435J_ACTUAL_READONLY_REFRESH_EXECUTION_RETRY_PACKAGE_OR_HOLD\\V435J_ACTUAL_READONLY_REFRESH_EXECUTION_RETRY_PACKAGE_OR_HOLD_20260705_173000\\11_REPORT\\v435j_actual_readonly_refresh_execution_retry_package_or_hold_report.json",
+    "current_head":  "8f6ab4b537235dff710f037f9b44da25f53f327c",
+    "origin_main":  "8f6ab4b537235dff710f037f9b44da25f53f327c",
+    "head_matches_origin":  true,
+    "worktree_clean":  true
+}

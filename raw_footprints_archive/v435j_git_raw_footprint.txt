@@ -1,0 +1,14 @@
+﻿git_status_before:
+## main...origin/main
+
+head_before:
+8f6ab4b537235dff710f037f9b44da25f53f327c
+
+origin_before:
+8f6ab4b537235dff710f037f9b44da25f53f327c
+
+stage_status:
+PASS_V435J_RETRY_PACKAGE_CREATED_BUT_CONCRETE_INPUTS_MISSING_OR_HOLD
+
+inspection_summary:
+local-only targeted inspection completed; no concrete executable readonly refresh command and no concrete approved source inputs found.
